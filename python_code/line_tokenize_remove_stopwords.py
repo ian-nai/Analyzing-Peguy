@@ -2,6 +2,7 @@ import codecs
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import LineTokenizer
+from nltk.tokenize import word_tokenize
 import re
 import string
 
@@ -11,6 +12,7 @@ index_num = 0
 # NLTK's default French stopwords
 default_stopwords = set(nltk.corpus.stopwords.words('french'))
 
+compiled_pattern = re.compile(r"([a-zA-ZÀ-Ÿ]+['’])([a-zA-ZÀ-Ÿ]*)")
 
 input_files = ['la_tapisserie_de_sainte_genevieve.txt']
 '''
@@ -30,7 +32,24 @@ for f in input_files:
 
     for line in lines:
 # Replace the target string
-        words = nltk.word_tokenize(line)
+        words_list = []
+        final_words = []
+
+        tokens = word_tokenize(line)
+        new_tokens = []
+        for token in tokens:
+            search_results = re.findall(r"['’]",token)
+            if search_results and len(search_results) == 1:
+                new_tokens.extend(re.split(compiled_pattern,token)[1:3])
+            else:
+                new_tokens.append(token)
+
+
+        words_list.append(new_tokens)
+        print(words_list)
+
+        for words in words_list:
+
 
     # remove punctuation
       #   from nltk.tokenize import RegexpTokenizer
@@ -39,30 +58,31 @@ for f in input_files:
 #             tokenizer2.tokenize(word)
 
     # Remove single-character tokens (mostly punctuation)
-        words = [word for word in words if len(word) > 1]
+
+            words = [word for word in words if len(word) > 1]
 
     # Remove numbers
-        words = [word for word in words if not word.isnumeric()]
+            words = [word for word in words if not word.isnumeric()]
 
     # Lowercase all words (default_stopwords are lowercase too)
-        words = [word.lower() for word in words]
+            words = [word.lower() for word in words]
 
 
     # Remove stopwords
-        words = [word for word in words if word not in default_stopwords]
+            words = [word for word in words if word not in default_stopwords]
 
-        for word in words:
-            word = word.replace("_", "")
-        for word in words:
-            word = "".join(l for l in word if l not in string.punctuation)
+            for word in words:
+                word = word.replace('_', '')
+            for word in words:
+                word = "".join(l for l in word if l not in string.punctuation)
 
-        line = ' '.join(words)
-        final_lines.append(line)
+            line = ' '.join(words)
+            final_lines.append(line)
 
     #print(final_lines)
-        print(words)
+        #print(words)
 # Write the file out again
-    with open(('stopform_' + input_files[index_num]), 'w') as f:
+    with open(('line2_' + input_files[index_num]), 'w') as f:
             #f.write("%s\n" % item)
         f.write('\n'.join(final_lines))
 
