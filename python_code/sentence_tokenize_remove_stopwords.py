@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import LineTokenizer
 from nltk.tokenize import word_tokenize
 import re
+import string
 
 index_num = 0
 
@@ -56,7 +57,7 @@ for f in input_files:
 
     for line in lines_split:
 
-        words = []
+        words_list = []
         final_words = []
 
         tokens = word_tokenize(line)
@@ -69,27 +70,31 @@ for f in input_files:
                 new_tokens.append(token)
 
 
-        words.append(new_tokens)
-        print(words)
+        words_list.append(new_tokens)
+        print(words_list)
 
-        for x in words:
-            for y in x:
-                y.lower()
+        for words in words_list:
+            words = [word for word in words if len(word) > 1]
 
-        # Remove single character words/punctuation
-                if len(y) <= 1:
-                    x.remove(y)
+    # Remove numbers
+            words = [word for word in words if not word.isnumeric()]
 
-        # Remove numbers
-                if  y.isnumeric():
-                    pass
-                else:
-                    final_words.append(y)
+    # Lowercase all words (default_stopwords are lowercase too)
+            words = [word.lower() for word in words]
 
 
-        # Remove stopwords
-                if y not in default_stopwords:
-                    final_words.append(y)
+    # Remove stopwords
+            words = [word for word in words if word not in default_stopwords]
+
+            for word in words:
+                word = word.replace('_', '')
+            for word in words:
+                word = "".join(l for l in word if l not in string.punctuation)
+
+            line = ' '.join(words)
+            final_words.append(line)
+
+
 
         for word in final_words:
             word = [item.replace("_", "") for item in word]
