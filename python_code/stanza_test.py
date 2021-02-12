@@ -106,8 +106,8 @@ for f in files:
             print(list_nums_unique)
         #list_nums.append(total_num)
 
-        print(len(word_list))
-        print(len(pos_list))
+        print(len(sent_word))
+        print(len(final_pos))
 
         print(len(list_nums))
         print(len(list_nums_unique))
@@ -123,7 +123,7 @@ for f in files:
         #
         # print(len(final_sents))
         # print(len(final_pos))
-'''
+
 
 
     #     perm_pos.append(actual_pos)
@@ -158,4 +158,3 @@ with open('stanza_GITHUB.csv', 'w') as csvfile:
     for d in testing_list:
         writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
         x += 1
-'''
