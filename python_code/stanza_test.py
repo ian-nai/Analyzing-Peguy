@@ -30,8 +30,8 @@ list_nums_unique = []
 text_bits = []
 perm_pos = []
 
-#nlp = stanza.Pipeline('fr') # initialize English neural pipeline
-nlp = stanza.Pipeline(lang='fr', processors='tokenize', tokenize_pretokenized=True)
+nlp = stanza.Pipeline('fr') # initialize English neural pipeline
+#nlp = stanza.Pipeline(lang='fr', processors='tokenize', tokenize_pretokenized=True)
 
 
 for f in files:
@@ -75,8 +75,11 @@ for f in files:
 
             sent_word.append(word_list)
             final_pos.append(pos_list)
-            pos_keys = Counter(pos_list).keys()
 
+            print(sent_word)
+            print(final_pos)
+
+'''
             pos_nums = Counter(pos_list).values() # counts the elements' frequency
                # print(pos_nums)
                # print(pos_keys)
@@ -86,7 +89,7 @@ for f in files:
             list_nums.append(total_num)
 
 
-
+            pos_keys = Counter(pos_list).keys()
             q = str(len(pos_keys))
         #q = len(Counter(actual_pos).most_common())
         #print(q)
@@ -134,6 +137,8 @@ for f in files:
         # for word in sent.words:
         #     print(word.text, word.upos)
         #     writer.writerow({'text': word.text, 'pos': word.upos})
+
+
     with open('stanza_GITHUB.csv', 'w') as csvfile:
         fieldnames = ['text', 'pos', 'total', 'pos_unique']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -141,5 +146,6 @@ for f in files:
         writer.writeheader()
         x = 0
         for d in testing_list:
-            writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
+            writer.writerow({'text': final_sents[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
             x += 1
+'''
