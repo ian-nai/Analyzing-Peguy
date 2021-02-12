@@ -30,7 +30,8 @@ list_nums_unique = []
 text_bits = []
 perm_pos = []
 
-nlp = stanza.Pipeline('fr') # initialize English neural pipeline
+#nlp = stanza.Pipeline('fr') # initialize English neural pipeline
+nlp = stanza.Pipeline(lang='fr', processors='tokenize', tokenize_pretokenized=True)
 
 
 for f in files:
@@ -47,46 +48,68 @@ for f in files:
         index_num += 1
     '''
     #print(testing_list)
-    doc = nlp(text_data)
+
     #print(doc)
 
     word_list = []
     pos_list = []
+
+    final_sents = []
+    final_pos = []
+
+    sent_word = []
     #num_list = []
-    for sent in doc.sentences:
+
+    for x in testing_list:
+
+        doc = nlp(x)
+
+        for sent in doc.sentences:
         #text_bits.append(sent)
-        for word in sent.words:
-            print(word.text, word.upos)
-            word_list.append(word.text)
-            pos_list.append(word.upos)
+
+            for word in sent.words:
+                print(word.text, word.upos)
+                word_list.append(word.text)
+                pos_list.append(word.upos)
 
 
-        pos_keys = Counter(pos_list).keys()
+            sent_word.append(word_list)
+            final_pos.append(pos_list)
+            pos_keys = Counter(pos_list).keys()
 
-        pos_nums = Counter(pos_list).values() # counts the elements' frequency
-        print(pos_nums)
-
-
-
-        total_num = str(len(pos_nums))
-        #list_nums.append(total_num)
+            pos_nums = Counter(pos_list).values() # counts the elements' frequency
+               # print(pos_nums)
+               # print(pos_keys)
 
 
+            total_num = str(len(pos_nums))
+            list_nums.append(total_num)
 
-        q = str(len(pos_keys))
+
+
+            q = str(len(pos_keys))
         #q = len(Counter(actual_pos).most_common())
         #print(q)
 
         #if q != 0:
-        list_nums_unique.append(q)
+            list_nums_unique.append(q)
 
-        list_nums.append(total_num)
+        #list_nums.append(total_num)
 
-    print(len(word_list))
-    print(len(pos_list))
-    print(len(list_nums))
-    print(len(list_nums_unique))
+        print(len(word_list))
+        print(len(pos_list))
 
+    #print(len(list_nums))
+        print(len(list_nums_unique))
+
+    #print(list_nums)
+        print(list_nums_unique)
+
+        for x in sent_word:
+            final_sents.append(x)
+
+        for x in final_pos:
+            final_pos.append(x)
 
 
 
@@ -111,12 +134,12 @@ for f in files:
         # for word in sent.words:
         #     print(word.text, word.upos)
         #     writer.writerow({'text': word.text, 'pos': word.upos})
-    # with open('stanza_GITHUB.csv', 'w') as csvfile:
-    #     fieldnames = ['text', 'pos', 'total', 'pos_unique']
-    #     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    #
-    #     writer.writeheader()
-    #     x = 0
-    #     for d in testing_list:
-    #         writer.writerow({'text': word_list[x], 'pos': pos_list[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
-    #         x += 1
+    with open('stanza_GITHUB.csv', 'w') as csvfile:
+        fieldnames = ['text', 'pos', 'total', 'pos_unique']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        x = 0
+        for d in testing_list:
+            writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
+            x += 1
