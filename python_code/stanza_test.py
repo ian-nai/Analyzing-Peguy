@@ -20,6 +20,7 @@ with open('stanza.txt', 'w') as f:
 import stanza
 from collections import Counter
 import csv
+from nltk.tokenize import LineTokenizer
 
 files = ["la_tap_test.txt"] #, "nostop_le_mystere_des_saints_innocents.txt", "nostop_le_porche_du_mystere_de_la_deuxieme_vertu.txt", "nostop_peguy_eve.txt"]
 
@@ -39,7 +40,8 @@ for f in files:
     with open(f) as file:
         text_data = file.read()
 
-    testing_list = text_data.splitlines()
+    #testing_list = text_data.splitlines()
+        testing_list = LineTokenizer(blanklines='discard').tokenize(text_data)
     '''
     with open( "splitlines_" + (files[index_num]), "w" ) as q:
         for line in testing:
@@ -61,12 +63,14 @@ for f in files:
     #num_list = []
 
     for x in testing_list:
+        print(x)
 
         doc = nlp(x)
 
-        for sent in doc.sentences:
+
         #text_bits.append(sent)
 
+        for sent in doc.sentences:
             for word in sent.words:
                 print(word.text, word.upos)
                 word_list.append(word.text)
@@ -76,10 +80,9 @@ for f in files:
             sent_word.append(word_list)
             final_pos.append(pos_list)
 
-            print(sent_word)
-            print(final_pos)
 
-'''
+
+
             pos_nums = Counter(pos_list).values() # counts the elements' frequency
                # print(pos_nums)
                # print(pos_keys)
@@ -97,23 +100,30 @@ for f in files:
         #if q != 0:
             list_nums_unique.append(q)
 
+            print(sent_word)
+            print(final_pos)
+            print(list_nums)
+            print(list_nums_unique)
         #list_nums.append(total_num)
 
         print(len(word_list))
         print(len(pos_list))
 
-    #print(len(list_nums))
+        print(len(list_nums))
         print(len(list_nums_unique))
+    #
+    # #print(list_nums)
+    #     print(list_nums_unique)
 
-    #print(list_nums)
-        print(list_nums_unique)
-
-        for x in sent_word:
-            final_sents.append(x)
-
-        for x in final_pos:
-            final_pos.append(x)
-
+        # for x in sent_word:
+        #     final_sents.append(x)
+        #
+        # for x in final_pos:
+        #     final_pos.append(x)
+        #
+        # print(len(final_sents))
+        # print(len(final_pos))
+'''
 
 
     #     perm_pos.append(actual_pos)
@@ -139,13 +149,13 @@ for f in files:
         #     writer.writerow({'text': word.text, 'pos': word.upos})
 
 
-    with open('stanza_GITHUB.csv', 'w') as csvfile:
-        fieldnames = ['text', 'pos', 'total', 'pos_unique']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+with open('stanza_GITHUB.csv', 'w') as csvfile:
+    fieldnames = ['text', 'pos', 'total', 'pos_unique']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        writer.writeheader()
-        x = 0
-        for d in testing_list:
-            writer.writerow({'text': final_sents[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
-            x += 1
+    writer.writeheader()
+    x = 0
+    for d in testing_list:
+        writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
+        x += 1
 '''
