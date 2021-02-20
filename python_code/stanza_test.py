@@ -104,8 +104,9 @@ for f in files:
 
     print(len(list_nums))
     for x in final_pos:
-        pos_keys = Counter(pos_list).keys()
-        q = str(len(pos_keys))
+        print(x)
+        pos_keys = Counter(x).keys()
+        q = str(len(x))
      #q = len(Counter(actual_pos).most_common())
      #print(q)
 
@@ -162,5 +163,5 @@ for f in files:
             writer.writeheader()
             x = 0
             for d in testing_list:
-                writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
+                writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
