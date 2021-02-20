@@ -54,9 +54,9 @@ for f in files:
     #print(doc)
 
 
-    pos_list = []
 
-    final_sents = []
+
+
     final_pos = []
 
     sent_word = []
@@ -72,10 +72,22 @@ for f in files:
 
         for sent in doc.sentences:
             word_list = []
+            pos_list = []
             for word in sent.words:
                 print(word.text, word.upos)
                 word_list.append(word.text)
                 pos_list.append(word.upos)
+
+
+
+
+        pos_nums = Counter(pos_list).values() # counts the elements' frequency
+                   # print(pos_nums)
+                   # print(pos_keys)
+
+
+        total_num = str(len(pos_nums))
+        list_nums.append(total_num)
 
 
         sent_word.append(str(word_list))
@@ -84,28 +96,21 @@ for f in files:
 
 
 
-        pos_nums = Counter(pos_list).values() # counts the elements' frequency
-               # print(pos_nums)
-               # print(pos_keys)
 
-
-        total_num = str(len(pos_nums))
-        list_nums.append(total_num)
-
-
-        pos_keys = Counter(pos_list).keys()
-        q = str(len(pos_keys))
-        #q = len(Counter(actual_pos).most_common())
-        #print(q)
-
-        #if q != 0:
-        list_nums_unique.append(q)
         #list_nums.append(total_num)
 
     print(len(sent_word))
     print(len(final_pos))
 
     print(len(list_nums))
+    for x in final_pos:
+        pos_keys = Counter(pos_list).keys()
+        q = str(len(pos_keys))
+     #q = len(Counter(actual_pos).most_common())
+     #print(q)
+
+     #if q != 0:
+        list_nums_unique.append(q)
     print(len(list_nums_unique))
 
 
