@@ -1,28 +1,14 @@
-'''
-import stanza
-
-nlp = stanza.Pipeline('fr') # initialize English neural pipeline
-doc = nlp("Ce jeu, c'est tres bien.")
-
-#print(doc)
-
-dicts = doc.to_dict() # dicts is List[List[Dict]], representing each token / word in each sentence in the document
-
-for sent in doc.sentences:
-    for word in sent.words:
-        print(word.text + ':::' + word.upos)
-
-with open('stanza.txt', 'w') as f:
-            #f.write("%s\n" % item)
-        f.write(str(doc))
-'''
-
 import stanza
 from collections import Counter
 import csv
 from nltk.tokenize import LineTokenizer
 
-files = ["la_tap_test.txt"] #, "nostop_le_mystere_des_saints_innocents.txt", "nostop_le_porche_du_mystere_de_la_deuxieme_vertu.txt", "nostop_peguy_eve.txt"]
+files = ['la_tapisserie_de_sainte_genevieve.txt',
+'la_tapisserie_notre_dame.txt',
+'le_mystere_de_la_charite_de_jeanne_darc.txt',
+'le_mystere_des_saints_innocents.txt',
+'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
+'eve.txt']
 
 
 list_keys = []
@@ -32,8 +18,6 @@ text_bits = []
 perm_pos = []
 
 nlp = stanza.Pipeline('fr') # initialize English neural pipeline
-#nlp = stanza.Pipeline(lang='fr', processors='tokenize', tokenize_pretokenized=True)
-
 
 for f in files:
     # Open our file
@@ -42,20 +26,6 @@ for f in files:
 
     #testing_list = text_data.splitlines()
         testing_list = LineTokenizer(blanklines='discard').tokenize(text_data)
-    '''
-    with open( "splitlines_" + (files[index_num]), "w" ) as q:
-        for line in testing:
-            q.write(line + '\n')
-
-        index_num += 1
-    '''
-    #print(testing_list)
-
-    #print(doc)
-
-
-
-
 
     final_pos = []
 
@@ -66,9 +36,6 @@ for f in files:
         print(x)
 
         doc = nlp(x)
-
-
-        #text_bits.append(sent)
 
         for sent in doc.sentences:
             word_list = []
@@ -82,9 +49,6 @@ for f in files:
 
 
         pos_nums = Counter(pos_list).values() # counts the elements' frequency
-                   # print(pos_nums)
-                   # print(pos_keys)
-
 
         total_num = str(len(pos_nums))
         list_nums.append(total_num)
@@ -94,66 +58,18 @@ for f in files:
         final_pos.append(pos_list)
 
 
-
-
-
-        #list_nums.append(total_num)
-
     print(len(sent_word))
     print(len(final_pos))
-
     print(len(list_nums))
+
     for x in final_pos:
         print(x)
         pos_keys = Counter(x).keys()
         q = str(len(x))
-     #q = len(Counter(actual_pos).most_common())
-     #print(q)
-
-     #if q != 0:
         list_nums_unique.append(q)
+
     print(len(list_nums_unique))
 
-
-
-
-
-    #
-    # #print(list_nums)
-    #     print(list_nums_unique)
-
-        # for x in sent_word:
-        #     final_sents.append(x)
-        #
-        # for x in final_pos:
-        #     final_pos.append(x)
-        #
-        # print(len(final_sents))
-        # print(len(final_pos))
-
-
-
-    #     perm_pos.append(actual_pos)
-    #
-    # print(len(perm_pos)) # 1707
-    # print(len(text_bits)) #1707 - total nums
-    # print(len(list_nums)) #1707 - how many pos
-    # print(len(list_nums_unique)) #1707 -
-    #doc_data = pickle.dumps(doc)
-
-    # pickle.dump(doc, open( "nlp_" + (files[index_num]) + ".p", "wb" ))
-#     index_num += 1
-
-
-# Output our tagged data into a CSV
-# with open('stanza_text_testing.csv', 'w') as csvfile:
-#         fieldnames = ['text', 'pos', ]
-#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        # writer.writeheader()
-        # for word in sent.words:
-        #     print(word.text, word.upos)
-        #     writer.writerow({'text': word.text, 'pos': word.upos})
 
 
     with open('stanza_GITHUB.csv', 'w') as csvfile:
