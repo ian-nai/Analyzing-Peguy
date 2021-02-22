@@ -1,6 +1,5 @@
 import spacy
 from spacy_lefff import LefffLemmatizer, POSTagger
-#import pickle
 import re
 from compress_pickle import dump, load
 
