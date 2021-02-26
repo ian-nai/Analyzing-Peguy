@@ -3,12 +3,12 @@ from collections import Counter
 import csv
 from nltk.tokenize import LineTokenizer
 
-files = ['la_tapisserie_de_sainte_genevieve.txt',
-'la_tapisserie_notre_dame.txt',
-'le_mystere_de_la_charite_de_jeanne_darc.txt',
-'le_mystere_des_saints_innocents.txt',
-'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
-'eve.txt']
+files = ['lines_la_tapisserie_de_sainte_genevieve.txt',
+'lines_la_tapisserie_notre_dame.txt',
+'lines_le_mystere_de_la_charite_de_jeanne_darc.txt',
+'lines_le_mystere_des_saints_innocents.txt',
+'lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt',
+'lines_eve.txt']
 
 
 list_keys = []
@@ -72,7 +72,7 @@ for f in files:
 
 
 
-    with open('stanza_GITHUB.csv', 'w') as csvfile:
+    with open('stanza_tags.csv', 'w') as csvfile:
             fieldnames = ['text', 'pos', 'total', 'pos_unique']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
