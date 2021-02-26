@@ -1,614 +1,609 @@
-['porche', 'mystère']
-['deuxième', 'vertu']
-['madame', 'gervaise', 'rentre']
-['madame', 'gervaise']
-['foi', 'aime', 'mieux', 'dit', 'dieu', 'espérance']
-['foi', 'ça', 'étonne']
-['ça', 'étonnant']
-['éclate', 'tellement', 'création']
-['soleil', 'lune', 'étoiles']
-['toutes', 'créatures']
-['astres', 'firmament', 'poissons']
-['mer']
-['univers', 'créatures']
-['face', 'mer', 'face', 'eaux']
-['mouvement']
-['astres', 'ciel']
-['vent', 'souffle', 'mer', 'vent']
-['souffle', 'vallée']
-['calme', 'vallée']
-['recoite', 'vallée']
-['plantes', 'bêtes', 'bêtes', 'forêts']
-['homme']
-['créature']
-['peuples', 'hommes']
-['rois', 'peuples']
-['homme', 'femme', 'compagne']
-['surtout', 'enfants']
-['créatures']
-['regard', 'voix', 'enfants']
-['car', 'enfants', 'plus', 'créatures']
-['hommes']
-['encore', 'défaits', 'vie']
-['terre']
-['entre', 'tous', 'serviteurs']
-['avant', 'tous']
-['voix', 'enfants', 'plus', 'pure', 'voix']
-['vent', 'calme', 'vallée']
-['vallée', 'recoite']
-['regard', 'enfants', 'plus', 'pur', 'bleu']
-['ciel', 'laiteux', 'ciel', 'rayon', 'étoile']
-['calme', 'nuit']
-['or', 'éclate', 'tellement', 'création']
-['face', 'montagnes', 'face', 'plaine']
-['pain', 'vin', 'homme']
-['laboure', 'homme', 'sème']
-['moisson', 'vendange']
-['lumière', 'ténèbres']
-['cœur', 'homme']
-['plus', 'profond', 'monde']
-['créé']
-['si', 'profond', 'impénétrable', 'tout', 'regard']
-['excepté', 'regard']
-['tempête', 'fait', 'bondir', 'vagues']
-['tempête', 'fait', 'bondir', 'feuilles']
-['arbres', 'forêt']
-['contraire', 'calme', 'beau', 'soir']
-['sables', 'mer', 'étoiles']
-['sable', 'ciel']
-['pierre', 'seuil', 'pierre', 'foyer']
-['pierre', 'autel']
-['prière', 'sacrements']
-['maisons', 'hommes', 'église']
-['maison', 'terre']
-['aigle', 'créature', 'vole', 'sommets']
-['aigle', 'royal', 'moins', 'deux', 'mètres', 'enver-']
-['—gure', 'peut-être', 'trois', 'mètres']
-['fourmi', 'créature', 'rampe']
-['amasse', 'petitement']
-['terre']
-['fourmi', 'serviteur']
-['jusque', 'serpent']
-['fourmi', 'servante', 'infime', 'servante']
-['amasse', 'péniblement', 'parcimonieuse']
-['travaille', 'comme', 'malheureuse']
-['point', 'cesse', 'point', 'repos']
-['mort', 'long', 'sommeil', 'hiver']
-['haussant', 'épaules', 'tant', 'évidence']
-['devant', 'tant', 'évide']
-['nce']
-['éclate', 'tellement', 'toute', 'création']
-['infime', 'créature', 'infime', 'ser-']
-['—vante', 'infime', 'fourmi', 'infime']
-['thésaurise', 'petitement', 'comme', 'homme']
-['comme', 'homme', 'infime']
-['creuse', 'galeries', 'terre']
-['sous-sols', 'terre']
-['amasser', 'mesquinement', 'trésors']
-['temporels']
-['pauvrement']
-['jusque', 'serpent']
-['trompé', 'femme', 'rampe', 'cela']
-['ventre']
-['créature', 'serviteur']
-['serpent', 'trompé', 'femme']
-['servante']
-['trompé', 'homme', 'serviteur']
-['éclate', 'tellement', 'création']
-['tout', 'arrive', 'hommes', 'peuples']
-['pauvres']
-['riches']
-['veulent', 'être', 'créatures']
-['mettent', 'abri']
-['être', 'serviteurs']
-['tout', 'homme', 'fait', 'défait', 'mal']
-['bien']
-['passe', 'dessus', 'parce']
-['maître', 'fais', 'défait', 'défais']
-['fait']
-['jusque', 'tentation', 'péché']
-[]
-['arrivé']
-['fils']
-['cause', 'homme']
-['créature']
-['créé']
-['incorporation', 'renaissance']
-['vie', 'mort', 'fils']
-['saint', 'sacrifice', 'messe']
-['toute', 'naissance', 'toute', 'vie']
-['toute', 'mort']
-['vie', 'éternelle', 'finira', 'point']
-['vaincra', 'toute', 'mort']
-['éclate', 'tellement', 'création']
-['voir', 'vraiment', 'faudrait']
-['pauvres', 'gens', 'aveugles']
-['charité', 'dit', 'dieu', 'ça', 'étonne']
-['ça', 'étonnant']
-['pauvres', 'créatures', 'si', 'malheureuses']
-['moins', 'avoir', 'cœur', 'pierre', 'comment', 'au-']
-['—raient-elles', 'point', 'charité', 'unes', 'autres']
-['comment', 'auraient-ils', 'point', 'charité', 'frères']
-['comment', 'retireraient-ils', 'point', 'pain']
-['bouche', 'pain', 'chaque', 'jour', 'donner']
-['malheureux', 'enfants', 'passent']
-['fils', 'telle', 'charité']
-['fils', 'frère']
-['si', 'grande', 'charité']
-['espérance', 'dit', 'dieu', 'voilà', 'étonne']
-['moi-même']
-['ça', 'étonnant']
-['pauvres', 'enfants', 'voient', 'comme', 'tout', 'ça']
-['passe', 'croient', 'demain', 'ça', 'ira', 'mieux']
-['voient', 'comme', 'ça', 'passe', 'aujourd', 'hui']
-['croient', 'ça', 'ira', 'mieux', 'demain', 'matin']
-['ça', 'étonnant', 'bien', 'plus', 'grande', 'mer-']
-['—veille', 'grâce']
-['étonné', 'moi-même']
-['faut', 'grâce', 'effet', 'force']
-['incroyable']
-['coule', 'source', 'comme', 'fleuve']
-['inépuisable']
-['depuis', 'première', 'fois', 'coula', 'depuis']
-['toujours', 'coule']
-['création', 'naturelle', 'surnaturelle']
-['création', 'spirituelle', 'charnelle', 'encore']
-['spirituelle']
-['création', 'éternelle', 'temporelle', 'encore']
-['éternelle']
-['mortelle', 'immortelle']
-['cette', 'fois', 'oh', 'cette', 'fois', 'depuis', 'cette']
-['fois']
-['coula', 'comme', 'fleuve', 'sang', 'flanc', 'percé']
-['fils']
-['quelle', 'faut-il', 'grâce', 'force']
-['grâce', 'cette', 'petite', 'espérance']
-['vacillante', 'souffle', 'péché', 'tremblante', 'tous']
-['vents', 'anxieuse', 'moindre', 'souffle']
-['aussi', 'invariable', 'tienne', 'aussi', 'fidèle', 'aussi']
-['droite', 'aussi', 'pure', 'aussi', 'invincible', 'immortelle']
-['impossible', 'éteindre', 'cette', 'petite', 'flamme']
-['sanctuaire']
-['brûle', 'éternellement', 'lampe', 'fidèle']
-['flamme', 'tremblotante', 'traversé', 'épaisseur']
-['mondes']
-['flamme', 'vacillante', 'traversé', 'épaisseur']
-['temps']
-['flamme', 'anxieuse', 'traversé', 'épaisseur']
-['nuits']
-['depuis', 'cette', 'première', 'fois', 'grâce', 'coulé']
-['création', 'monde']
-['depuis', 'toujours', 'grâce', 'coule', 'conser-']
-['—vation', 'monde']
-['depuis', 'cette', 'fois', 'sang', 'fils', 'coulé']
-['salut', 'monde']
-['flamme', 'impossible', 'atteindre', 'impossible', 'éteindre', 'souffle', 'mort']
-['étonne', 'dit', 'dieu', 'espérance']
-['reviens']
-['cette', 'petite', 'espérance', 'air', 'rien', 'tout']
-['cette', 'petite', 'fille', 'espérance']
-['immortelle']
-['car', 'trois', 'vertus', 'dit', 'dieu']
-['trois', 'vertus', 'créatures']
-['filles', 'enfants']
-['elles-mêmes', 'comme', 'autres', 'créatures']
-['race', 'hommes']
-['foi', 'épouse', 'fidèle']
-['charité', 'mère']
-['mère', 'ardente', 'pleine', 'cœur']
-['sœur', 'aînée', 'comme', 'mère']
-['espérance', 'petite', 'fille', 'rien', 'tout']
-['venue', 'monde', 'jour', 'noël', 'année', 'dernière']
-['joue', 'encore', 'bonhomme', 'janvier']
-['petits', 'sapins', 'bois', 'allemagne', 'couverts', 'givre', 'peint']
-['bœuf', 'âne', 'bois', 'allemagne']
-['peints']
-['crèche', 'pleine', 'paille', 'bêtes']
-['mangent']
-['puisqu', 'elles', 'bois']
-['cette', 'petite', 'fille', 'pourtant', 'traversera']
-['mondes']
-['cette', 'petite', 'fille', 'rien', 'tout']
-['seule', 'portant', 'autres', 'traversera']
-['mondes', 'révolus']
-['comme', 'étoile', 'conduit', 'trois', 'rois', 'fin', 'fond']
-['orient']
-['vers', 'berceau', 'mo']
-['fils']
-['ainsi', 'flamme', 'tremblante']
-['seule', 'conduira', 'vertus', 'mondes']
-['flamme', 'percera', 'ténèbres', 'éternelles']
-['prêtre', 'dit']
-['ministre', 'dieu', 'prêtre', 'dit']
-['quelles', 'trois', 'vertus', 'théologales']
-['enfant', 'répond']
-['trois', 'vertus', 'théologales', 'foi', 'espérance']
-['charité']
-['pourquoi', 'foi', 'espérance', 'charité', 'sont-']
-['elles', 'appelées', 'vertus', 'théologales']
-['foi', 'espérance', 'charité', 'appelées']
-['vertus', 'théologales', 'parce', 'elles', 'rapportent']
-['immédiatement', 'dieu']
-['est-ce', 'espérance']
-['espérance', 'vertu', 'surnaturelle', 'laquelle']
-['attendons', 'dieu', 'confiance', 'grâce']
-['monde', 'gloire', 'éternelle', 'autre']
-['faites', 'acte', 'espérance']
-['foi', 'va', 'soi', 'foi', 'marche', 'toute', 'seule']
-['croire', 'laisser', 'aller']
-['regarder', 'croire', 'faudrait', 'vio-']
-['—lenter', 'torturer']
-['tourmenter', 'contrarier']
-['raidir', 'prendre', 'envers', 'mettre', 'en-']
-['—vers', 'remonter', 'foi', 'toute', 'naturelle', 'toute']
-['allante', 'toute', 'simple', 'toute', 'venante', 'toute', 'bonne']
-['venante', 'toute', 'belle', 'allante', 'bonne']
-['femme', 'connaît', 'vieille', 'bonne']
-['femme', 'bonne', 'vieille', 'paroissienne']
-['bonne', 'femme', 'paroisse', 'vieille', 'grand-']
-['—mère', 'bonne', 'paroissienne', 'raconte']
-['histoires', 'ancien', 'temps', 'arrivées']
-['ancien', 'temps']
-['croire', 'enfant', 'faudrait']
-['boucher', 'yeux', 'oreilles', 'voir']
-['croire']
-['charité', 'va', 'malheureusement', 'soi', 'charité']
-['marche', 'toute', 'seule', 'aimer', 'prochain']
-['laisser', 'aller', 'regarder']
-['tant', 'détresse', 'aimer', 'prochain']
-['faudrait', 'violenter', 'torturer']
-['tourmenter', 'contrarier', 'raidir', 'faire']
-['mal', 'dénaturer', 'prendre', 'envers']
-['mettre', 'envers', 'remonter', 'charité']
-['toute', 'naturelle', 'toute', 'jaillissante', 'toute', 'simple']
-['toute', 'bonne', 'venante', 'premier', 'mouve-']
-['—ment', 'cœur', 'premier', 'mouvement']
-['bon', 'charité', 'mère', 'sœur']
-['aimer', 'prochain', 'enfant']
-['faudrait', 'boucher', 'yeux', 'oreilles']
-['tant', 'cris', 'détresse']
-['espérance', 'va', 'soi', 'espérance']
-['va', 'toute', 'seule', 'espérer', 'enfant']
-['faut', 'être', 'bien', 'heureux', 'faut', 'avoir', 'obtenu']
-['reçu', 'grande', 'grâce']
-['foi', 'facile', 'croire', 'se-']
-['rait', 'impossible', 'charité', 'facile']
-['aimer', 'impossible']
-['espérer', 'difficile']
-['voix', 'basse', 'honteusement']
-['facile', 'pente', 'désespérer']
-['grande', 'tentation']
-['petite', 'espérance', 'avance', 'entre', 'deux', 'gran-']
-['sœurs', 'prend', 'seulement', 'garde']
-[]
-['chemin', 'salut', 'chemin', 'charnel']
-['chemin', 'raboteux', 'salut', 'route', 'inter-']
-['minable', 'route', 'entre', 'deux', 'sœurs']
-['petite', 'espérance']
-['avance']
-['entre', 'deux', 'grandes', 'sœurs']
-['celle', 'mariée']
-['celle', 'mère']
-['attention', 'peuple', 'chrétien', 'attention', 'deux', 'grandes']
-['œurs']
-['première', 'dernière']
-['vont', 'plus', 'pressé']
-['temps', 'présent']
-['instant', 'momentané', 'passe']
-['peuple', 'chrétien', 'voit', 'deux', 'grandes', 'sœurs', 'regard', 'deux', 'grandes', 'sœurs']
-['celle', 'droite', 'celle', 'gauche']
-['voit', 'quasiment', 'celle', 'milieu']
-['petite', 'celle', 'va', 'encore', 'école']
-['marche']
-['perdue', 'entre', 'jupes', 'sœurs']
-['croit', 'volontiers', 'deux', 'grandes', 'traînent', 'petite', 'main']
-['milieu']
-['entre', 'deux']
-['faire', 'faire', 'chemin', 'raboteux', 'salut']
-['aveugles', 'voient', 'contraire']
-['milieu', 'entraîne', 'grandes', 'sœurs']
-['sans', 'elles', 'rien']
-['deux', 'femmes', 'déjà', 'âgées']
-['deux', 'femmes', 'certain', 'âge']
-['fripées', 'vie']
-['cette', 'petite', 'entraîne', 'tout']
-['car', 'foi', 'voit']
-['voit']
-['charité', 'aime']
-['aime']
-['foi', 'voit']
-['temps', 'éternité']
-['espérance', 'voit']
-['temps', 'éternité']
-['ainsi', 'dire', 'futur', 'éternité']
-['charité', 'aime']
-['temps', 'éternité']
-['dieu', 'prochain']
-['comme', 'foi', 'voit']
-['dieu', 'création']
-['espérance', 'aime']
-['temps', 'éternité']
-['ainsi', 'dire', 'futur', 'éternité']
-['espérance', 'voit', 'encore']
-['aime', 'encore']
-['futur', 'temps', 'éternité']
-['chemin', 'montant', 'sablonneux', 'malaisé']
-['route', 'montante']
-['traînée', 'pendue', 'bras', 'deux', 'grandes', 'sœurs']
-['tiennent', 'main']
-['petite', 'espérance']
-['avance']
-['milieu', 'entre', 'deux', 'grandes', 'sœurs', 'air', 'laisser', 'traîner']
-['comme', 'enfant', 'force', 'marcher']
-['traînerait', 'cette', 'route', 'malgré']
-['réalité', 'fait', 'marcher', 'deux', 'autres']
-['traîne']
-['fait', 'marcher', 'tout', 'monde']
-['traîne']
-['car', 'travaille', 'jamais', 'enfants']
-['deux', 'grandes', 'marchent', 'petite']
-['trois', 'vertus', 'dit', 'dieu']
-['maître', 'trois', 'vertus']
-['trois', 'vertus', 'point', 'autrement']
-['hommes', 'femmes', 'maison']
-['hommes']
-['point', 'enfants', 'travaillent']
-['travaille', 'jamais', 'enfants']
-['point', 'enfant', 'va', 'champs']
-['laboure', 'sème', 'moissonne']
-['vendange', 'taille', 'vigne', 'abat']
-['arbres', 'scie', 'bois']
-['hiver']
-['chauffer', 'maison', 'hiver']
-['est-ce', 'père', 'cœur', 'travailler']
-[]
-['nfants']
-['si', 'ça', 'enfants']
-['hiver', 'quand', 'travaille', 'dur']
-['forêt']
-['quand', 'travaille', 'plus', 'dur']
-['serpe', 'scie', 'cognée']
-['hache']
-['forêt', 'glacée']
-['hiver', 'quand', 'vipères', 'dorment', 'bois']
-['parce', 'elles', 'gelées']
-['quand', 'souffle', 'bise', 'aigre']
-['transperce', 'os']
-['passe', 'travers', 'tous', 'membres']
-['tout', 'transi', 'claquerait', 'dents']
-['givre', 'fait', 'glaçons', 'barbe']
-['tout', 'coup', 'pense', 'femme', 'restée']
-['maison']
-['femme', 'si', 'bonne', 'ménagère']
-['dont', 'homme', 'devant', 'dieu']
-['enfants', 'bien', 'tranquilles', 'mai-']
-[]
-['jouent', 'amusent', 'heure', 'coin']
-['feu']
-['peut-être', 'battent']
-['ensemble']
-['amuser']
-['passent', 'devant', 'yeux', 'éclair', 'devant', 'yeux', 'mémoire', 'devant', 'yeux', 'âme']
-['habitent', 'mémoire', 'cœur', 'âme', 'yeux', 'âme']
-['habitent', 'regard']
-['éclair', 'voit', 'trois', 'enfants', 'jouent', 'rient', 'coin', 'feu']
-['trois', 'enfants', 'deux', 'garçons', 'fille']
-['dont', 'père', 'devant', 'dieu']
-['aîné', 'garçon', 'douze', 'ans', 'mois']
-['eptembre']
-['fille', 'neuf', 'ans', 'mois', 'septembre']
-['cadet', 'sept', 'ans', 'mois', 'juin']
-['ainsi', 'fille', 'milieu']
-['comme', 'convient']
-['afin', 'défendue', 'deux', 'frères']
-['existence']
-['avant', 'autre', 'après']
-['trois', 'enfants', 'succéderont', 'survivront']
-['terre']
-['maison', 'terres']
-['point', 'maison', 'terres', 'moins', 'outils']
-['point', 'maison', 'terres', 'aurontpoint', 'non', 'plus']
-['voilà', 'tout']
-['bien', 'passé', 'vivre']
-['feront', 'comme', 'travailleront']
-['hache', 'cognée', 'serpe', 'scie']
-['marteau', 'lime']
-['pelle', 'pioche']
-['bêche', 'bêcher', 'terre']
-['maison', 'terre']
-['héritent', 'maison', 'terre']
-['moins', 'hériteront', 'outils']
-['bons', 'outils']
-['servi', 'tant', 'fois']
-['faits', 'main']
-['tant', 'fois', 'bêché', 'terre']
-['outils', 'force', 'servir', 'rendu']
-['main', 'toute', 'calleuse', 'luisante']
-['force', 'aussi', 'servir', 'rendu', 'poli']
-['luisant', 'manche', 'outils']
-['force', 'travailler', 'peau', 'aussi', 'dure']
-['aussi', 'tannée', 'manche', 'outils']
-['manche', 'outils', 'fils', 'retrouveront']
-['fils', 'hériteront', 'dureté', 'mains']
-['aussi', 'habileté', 'grande', 'habileté']
-['car', 'bon', 'laboureur', 'bon', 'bûcheron']
-['bon', 'vigneron']
-['outils', 'fils', 'hériteront', 'enfants']
-['hériteront']
-['donné', 'nul', 'pourrait']
-['ôter']
-['presque', 'dieu']
-['tant', 'dieu', 'donné', 'homme']
-['force', 'race', 'force', 'sang']
-['français', 'lorrains']
-['fils', 'bonne', 'race', 'bonne', 'maison']
-['or', 'bonne', 'race', 'peut', 'mentir']
-['fils', 'bonne', 'mère']
-['dessus', 'tout', 'dessus', 'tout']
-['outils', 'race', 'sang']
-['enfants', 'hériteront']
-['vaut', 'mieux', 'maison', 'morceau']
-['terre', 'laisser', 'enfants']
-['car', 'maison', 'terre', 'périssables', 'périront']
-['maison', 'terre', 'exposées', 'vent']
-['hiver']
-['cette', 'bise', 'aigre', 'souffle', 'cette', 'forêt']
-['bénédiction', 'dieu', 'soufflée', 'aucun']
-['vent']
-['vaut', 'mieux', 'outils', 'plus']
-['laborieux', 'plus', 'ouvrier', 'outils']
-['fait', 'plus', 'travail']
-['tils']
-['outils', 'finissent', 'tout', 'user']
-['comme', 'homme']
-['vaut', 'mieux', 'plus', 'durable']
-['race', 'sang']
-[]
-['car', 'race', 'sang', 'périssables', 'péri-']
-['ront']
-['excepté', 'sang', 'jésus']
-['versé', 'siècles', 'siècles']
-['race', 'sang', 'exposés', 'vent', 'hiver']
-['peut', 'avoir', 'hiver', 'races']
-['maison', 'peut-être', 'terre']
-['outils', 'sûrement', 'race', 'sang', 'enfants', 'hériteront']
-['dessus', 'tout']
-['bénédiction', 'dieu', 'maison', 'race']
-['grâce', 'dieu', 'vaut', 'plus', 'tout']
-['sait', 'bien']
-['pauvre', 'celui', 'travaille']
-['élève', 'bien', 'enfants']
-['sait', 'bien']
-['parce', 'promis']
-['souverainement', 'fidèle', 'promesses']
-['trois', 'enfants', 'grandissent', 'tellement']
-['pourvu', 'malades']
-['certainement', 'plus', 'grands']
-['comme', 'fier', 'cœur']
-['deux', 'gars', 'rudement', 'forts']
-['deux', 'gars', 'remplaceront', 'enfants', 'tiendront', 'place']
-['erre']
-['quand', 'plus']
-['place', 'paroisse', 'place', 'forêt']
-['place', 'église', 'place', 'maison']
-['place', 'bourg', 'place', 'vigne']
-['plaine', 'coteau', 'vallée']
-['place', 'chrétienté', 'enfin', 'quoi']
-['place', 'homme', 'chrétien']
-['place', 'paroissien', 'place', 'laboureur']
-['place', 'paysan']
-['place', 'père']
-['place', 'lorrain', 'français']
-['car', 'places', 'grand', 'dieu', 'faut', 'tenues']
-['faut', 'tout', 'cela', 'continue']
-['quand', 'plus', 'comme', 'présent']
-['sinon', 'mieux']
-['faut', 'paysannerie', 'continue']
-['vigne', 'blé', 'moisson', 'vendange']
-['labour', 'terre']
-['pâtour', 'bêtes']
-['quand', 'plus', 'comme', 'présent']
-['sinon', 'mieux']
-['faut', 'chrétienté', 'continue']
-['église', 'militante']
-['cela', 'faut', 'chrétiens']
-['toujours']
-['faut', 'paroisse', 'continue']
-['faut', 'france', 'lorraine', 'continue']
-['longtemps', 'après', 'plus']
-['aussi', 'bien', 'comme', 'présent']
-['sinon', 'mieux']
-['pense', 'tendresse', 'temps', 'où', 'plus']
-['où', 'enfants', 'tiendront', 'place']
-['terre']
-['devant', 'dieu']
-['temps', 'où', 'plus', 'où', 'enfants']
-[]
-['quand', 'dira', 'nom', 'bourg', 'quand']
-['parlera', 'quand', 'nom', 'sortira', 'hasard']
-['propos', 'plus', 'parlera']
-['fils']
-['ensemble']
-['puisque', 'fils']
-['nom', 'plus', 'nom', 'puisque', 'devenu', 'nom', 'fils']
-['fier', 'cœur', 'comme', 'pense', 'tendresse']
-['lui-même', 'plus', 'lui-même', 'fils']
-['nom', 'plus', 'nom', 'nom']
-['fils']
-['nom', 'plus', 'service', 'service', 'fils']
-['porteront', 'nom', 'honnêtement', 'devant', 'dieu']
-['hautement', 'fièrement']
-['comme']
-['mieux']
-['quand', 'dira', 'nom', 'fils', 'appellera', 'fils', 'parlera']
-['depuis', 'longtemps', 'cimetière']
-['entour', 'église']
-['est-à-dire', 'corps']
-['côte', 'côte', 'pères', 'pères', 'pères']
-['aligné']
-['père', 'grand', 'père', 'connus']
-['tous', 'autres', 'tous', 'ceux']
-['connus']
-['tous', 'hommes', 'toutes', 'femmes', 'race']
-['tous', 'anciens', 'hommes', 'toutes', 'anciennes', 'femmes']
-['ancêtres', 'aïeux']
-['aïeules']
-['tant', 'depuis', 'paroisse', 'fondée']
-['quelque', 'saint', 'fondateur']
-['venu', 'jésus']
-['corps', 'car', 'âme', 'longtemps']
-['recommandée', 'dieu']
-['mettant', 'sous', 'protection', 'saints', 'patrons']
-['dormira', 'corps', 'ainsi', 'reposera']
-['parmi', 'siens', 'attendant', 'siens']
-['attendant', 'résurrection', 'corps']
-['jusqu', 'résurrection', 'corps', 'corps', 'ainsi', 'reposera']
-['pense', 'tendresse', 'temps', 'où', 'besoin']
-['où', 'ça', 'ira', 'tout']
-['parce', 'autres']
-['porteront', 'charge']
-['peut-être', 'sans', 'doute', 'porteront', 'mieux']
-['pense', 'tendresse', 'temps', 'où', 'plus']
-['parce', 'est-ce', 'peut', 'être', 'toujours']
-['peut', 'être', 'avoir']
-['où', 'tout', 'marchera', 'tout']
-['où', 'tout', 'marchera', 'plus', 'mal']
-['contraire']
-['où', 'tout', 'marchera', 'mieux']
-['contraire']
-['parce', 'enfants', 'là', 'coup']
-['enfants', 'feront', 'mieux', 'bien', 'sûr']
-['monde', 'marchera', 'mieux']
-['plus', 'tard']
-['jaloux']
-['contraire']
-['ni', 'être', 'venu', 'monde', 'temps', 'ingrat']
-['avoir', 'préparé', 'sans', 'doute', 'fils', 'peut-être', 'temps', 'moins', 'ingrat']
-['quel', 'insensé', 'jaloux', 'fils', 'fils', 'fils']
-['est-ce', 'travaille', 'uniquement', 'enfants']
-['pense', 'tendresse', 'temps', 'où', 'pensera', 'plus', 'guère', 'cause', 'enfants']
-['si', 'seulement', 'pense', 'quelquefois', 'rarement']
-['quand', 'nom', 'retentira', 'cordialement', 'bourg']
-['quelqu', 'appellera', 'fils', 'marcel', 'fils', 'pierre']
-['quelqu', 'besoin', 'fils', 'marcel', 'fils', 'pierre']
-['appelera', 'heureux', 'voir', 'cherchera']
-['car', 'régneront', 'alors', 'porteront', 'nom']
-['régneront', 'face', 'terre']
-['peut-être', 'quelque', 'temps', 'encore', 'vieux', 'rappellera']
-['dira']
-['deux', 'gars', 'sévin', 'braves', 'gars']
-['ça', 'étonnant']
-['tenir']
-['père', 'si', 'brave', 'homme']
-['quelque', 'temps', 'jeunes', 'rediront', 'confiance']
-['vieux', 'si', 'brave', 'homme']
-['déjà', 'sauront', 'rien']
-['puis', 'sauront', 'plus', 'cela', 'propos', 'taira']
-['pense', 'tendresse', 'temps', 'où', 'plus', 'propos']
-['cela', 'cela', 'travaille', 'car', 'est-ce', 'enfants', 'travaille']
-['plus', 'corps', 'six', 'pieds', 'terre', 'sous', 'six', 'pieds', 'terre', 'sous', 'croix']
-['enfants']
-['salue', 'tendresse', 'temps', 'nouveau', 'où', 'plus']
-['où']
-['où', 'enfants']
-['règne', 'enfants']
+
+porche mystère
+deuxième vertu
+madame gervaise rentre
+madame gervaise
+foi aime mieux dit dieu espérance
+foi ça étonne
+ça étonnant
+éclate tellement création
+soleil lune étoiles
+toutes créatures
+astres firmament poissons
+mer
+univers créatures
+face mer face eaux
+mouvement
+astres ciel
+vent souffle mer vent
+souffle vallée
+calme vallée
+recoite vallée
+plantes bêtes bêtes forêts
+homme
+créature
+peuples hommes
+rois peuples
+homme femme compagne
+surtout enfants
+créatures
+regard voix enfants
+car enfants plus créatures
+hommes
+encore défaits vie
+terre
+entre tous serviteurs
+avant tous
+voix enfants plus pure voix
+vent calme vallée
+vallée recoite
+regard enfants plus pur bleu
+ciel laiteux ciel rayon étoile
+calme nuit
+or éclate tellement création
+face montagnes face plaine
+pain vin homme
+laboure homme sème
+moisson vendange
+lumière ténèbres
+cœur homme
+plus profond monde
+créé
+si profond impénétrable tout regard
+excepté regard
+tempête fait bondir vagues
+tempête fait bondir feuilles
+arbres forêt
+contraire calme beau soir
+sables mer étoiles
+sable ciel
+pierre seuil pierre foyer
+pierre autel
+prière sacrements
+maisons hommes église
+maison terre
+aigle créature vole sommets
+aigle royal moins deux mètres enver-
+—gure peut-être trois mètres
+fourmi créature rampe
+amasse petitement
+terre
+fourmi serviteur
+jusque serpent
+fourmi servante infime servante
+amasse péniblement parcimonieuse
+travaille comme malheureuse
+point cesse point repos
+mort long sommeil hiver
+haussant épaules tant évidence
+devant tant évide
+nce
+éclate tellement toute création
+infime créature infime ser-
+—vante infime fourmi infime
+thésaurise petitement comme homme
+comme homme infime
+creuse galeries terre
+sous-sols terre
+amasser mesquinement trésors
+temporels
+pauvrement
+jusque serpent
+trompé femme rampe cela
+ventre
+créature serviteur
+serpent trompé femme
+servante
+trompé homme serviteur
+éclate tellement création
+tout arrive hommes peuples
+pauvres
+riches
+veulent être créatures
+mettent abri
+être serviteurs
+tout homme fait défait mal
+bien
+passe dessus parce
+maître fais défait défais
+fait
+jusque tentation péché
+arrivé
+fils
+cause homme
+créature
+créé
+incorporation renaissance
+vie mort fils
+saint sacrifice messe
+toute naissance toute vie
+toute mort
+vie éternelle finira point
+vaincra toute mort
+éclate tellement création
+voir vraiment faudrait
+pauvres gens aveugles
+charité dit dieu ça étonne
+ça étonnant
+pauvres créatures si malheureuses
+moins avoir cœur pierre comment au-
+—raient-elles point charité unes autres
+comment auraient-ils point charité frères
+comment retireraient-ils point pain
+bouche pain chaque jour donner
+malheureux enfants passent
+fils telle charité
+fils frère
+si grande charité
+espérance dit dieu voilà étonne
+moi-même
+ça étonnant
+pauvres enfants voient comme tout ça
+passe croient demain ça ira mieux
+voient comme ça passe aujourd hui
+croient ça ira mieux demain matin
+ça étonnant bien plus grande mer-
+—veille grâce
+étonné moi-même
+faut grâce effet force
+incroyable
+coule source comme fleuve
+inépuisable
+depuis première fois coula depuis
+toujours coule
+création naturelle surnaturelle
+création spirituelle charnelle encore
+spirituelle
+création éternelle temporelle encore
+éternelle
+mortelle immortelle
+cette fois oh cette fois depuis cette
+fois
+coula comme fleuve sang flanc percé
+fils
+quelle faut-il grâce force
+grâce cette petite espérance
+vacillante souffle péché tremblante tous
+vents anxieuse moindre souffle
+aussi invariable tienne aussi fidèle aussi
+droite aussi pure aussi invincible immortelle
+impossible éteindre cette petite flamme
+sanctuaire
+brûle éternellement lampe fidèle
+flamme tremblotante traversé épaisseur
+mondes
+flamme vacillante traversé épaisseur
+temps
+flamme anxieuse traversé épaisseur
+nuits
+depuis cette première fois grâce coulé
+création monde
+depuis toujours grâce coule conser-
+—vation monde
+depuis cette fois sang fils coulé
+salut monde
+flamme impossible atteindre impossible éteindre souffle mort
+étonne dit dieu espérance
+reviens
+cette petite espérance air rien tout
+cette petite fille espérance
+immortelle
+car trois vertus dit dieu
+trois vertus créatures
+filles enfants
+elles-mêmes comme autres créatures
+race hommes
+foi épouse fidèle
+charité mère
+mère ardente pleine cœur
+sœur aînée comme mère
+espérance petite fille rien tout
+venue monde jour noël année dernière
+joue encore bonhomme janvier
+petits sapins bois allemagne couverts givre peint
+bœuf âne bois allemagne
+peints
+crèche pleine paille bêtes
+mangent
+puisqu elles bois
+cette petite fille pourtant traversera
+mondes
+cette petite fille rien tout
+seule portant autres traversera
+mondes révolus
+comme étoile conduit trois rois fin fond
+orient
+vers berceau mo
+fils
+ainsi flamme tremblante
+seule conduira vertus mondes
+flamme percera ténèbres éternelles
+prêtre dit
+ministre dieu prêtre dit
+quelles trois vertus théologales
+enfant répond
+trois vertus théologales foi espérance
+charité
+pourquoi foi espérance charité sont-
+elles appelées vertus théologales
+foi espérance charité appelées
+vertus théologales parce elles rapportent
+immédiatement dieu
+est-ce espérance
+espérance vertu surnaturelle laquelle
+attendons dieu confiance grâce
+monde gloire éternelle autre
+faites acte espérance
+foi va soi foi marche toute seule
+croire laisser aller
+regarder croire faudrait vio-
+—lenter torturer
+tourmenter contrarier
+raidir prendre envers mettre en-
+—vers remonter foi toute naturelle toute
+allante toute simple toute venante toute bonne
+venante toute belle allante bonne
+femme connaît vieille bonne
+femme bonne vieille paroissienne
+bonne femme paroisse vieille grand-
+—mère bonne paroissienne raconte
+histoires ancien temps arrivées
+ancien temps
+croire enfant faudrait
+boucher yeux oreilles voir
+croire
+charité va malheureusement soi charité
+marche toute seule aimer prochain
+laisser aller regarder
+tant détresse aimer prochain
+faudrait violenter torturer
+tourmenter contrarier raidir faire
+mal dénaturer prendre envers
+mettre envers remonter charité
+toute naturelle toute jaillissante toute simple
+toute bonne venante premier mouve-
+—ment cœur premier mouvement
+bon charité mère sœur
+aimer prochain enfant
+faudrait boucher yeux oreilles
+tant cris détresse
+espérance va soi espérance
+va toute seule espérer enfant
+faut être bien heureux faut avoir obtenu
+reçu grande grâce
+foi facile croire se-
+rait impossible charité facile
+aimer impossible
+espérer difficile
+voix basse honteusement
+facile pente désespérer
+grande tentation
+petite espérance avance entre deux gran-
+sœurs prend seulement garde
+chemin salut chemin charnel
+chemin raboteux salut route inter-
+minable route entre deux sœurs
+petite espérance
+avance
+entre deux grandes sœurs
+celle mariée
+celle mère
+attention peuple chrétien attention deux grandes
+œurs
+première dernière
+vont plus pressé
+temps présent
+instant momentané passe
+peuple chrétien voit deux grandes sœurs regard deux grandes sœurs
+celle droite celle gauche
+voit quasiment celle milieu
+petite celle va encore école
+marche
+perdue entre jupes sœurs
+croit volontiers deux grandes traînent petite main
+milieu
+entre deux
+faire faire chemin raboteux salut
+aveugles voient contraire
+milieu entraîne grandes sœurs
+sans elles rien
+deux femmes déjà âgées
+deux femmes certain âge
+fripées vie
+cette petite entraîne tout
+car foi voit
+voit
+charité aime
+aime
+foi voit
+temps éternité
+espérance voit
+temps éternité
+ainsi dire futur éternité
+charité aime
+temps éternité
+dieu prochain
+comme foi voit
+dieu création
+espérance aime
+temps éternité
+ainsi dire futur éternité
+espérance voit encore
+aime encore
+futur temps éternité
+chemin montant sablonneux malaisé
+route montante
+traînée pendue bras deux grandes sœurs
+tiennent main
+petite espérance
+avance
+milieu entre deux grandes sœurs air laisser traîner
+comme enfant force marcher
+traînerait cette route malgré
+réalité fait marcher deux autres
+traîne
+fait marcher tout monde
+traîne
+car travaille jamais enfants
+deux grandes marchent petite
+trois vertus dit dieu
+maître trois vertus
+trois vertus point autrement
+hommes femmes maison
+hommes
+point enfants travaillent
+travaille jamais enfants
+point enfant va champs
+laboure sème moissonne
+vendange taille vigne abat
+arbres scie bois
+hiver
+chauffer maison hiver
+est-ce père cœur travailler
+nfants
+si ça enfants
+hiver quand travaille dur
+forêt
+quand travaille plus dur
+serpe scie cognée
+hache
+forêt glacée
+hiver quand vipères dorment bois
+parce elles gelées
+quand souffle bise aigre
+transperce os
+passe travers tous membres
+tout transi claquerait dents
+givre fait glaçons barbe
+tout coup pense femme restée
+maison
+femme si bonne ménagère
+dont homme devant dieu
+enfants bien tranquilles mai-
+jouent amusent heure coin
+feu
+peut-être battent
+ensemble
+amuser
+passent devant yeux éclair devant yeux mémoire devant yeux âme
+habitent mémoire cœur âme yeux âme
+habitent regard
+éclair voit trois enfants jouent rient coin feu
+trois enfants deux garçons fille
+dont père devant dieu
+aîné garçon douze ans mois
+eptembre
+fille neuf ans mois septembre
+cadet sept ans mois juin
+ainsi fille milieu
+comme convient
+afin défendue deux frères
+existence
+avant autre après
+trois enfants succéderont survivront
+terre
+maison terres
+point maison terres moins outils
+point maison terres aurontpoint non plus
+voilà tout
+bien passé vivre
+feront comme travailleront
+hache cognée serpe scie
+marteau lime
+pelle pioche
+bêche bêcher terre
+maison terre
+héritent maison terre
+moins hériteront outils
+bons outils
+servi tant fois
+faits main
+tant fois bêché terre
+outils force servir rendu
+main toute calleuse luisante
+force aussi servir rendu poli
+luisant manche outils
+force travailler peau aussi dure
+aussi tannée manche outils
+manche outils fils retrouveront
+fils hériteront dureté mains
+aussi habileté grande habileté
+car bon laboureur bon bûcheron
+bon vigneron
+outils fils hériteront enfants
+hériteront
+donné nul pourrait
+ôter
+presque dieu
+tant dieu donné homme
+force race force sang
+français lorrains
+fils bonne race bonne maison
+or bonne race peut mentir
+fils bonne mère
+dessus tout dessus tout
+outils race sang
+enfants hériteront
+vaut mieux maison morceau
+terre laisser enfants
+car maison terre périssables périront
+maison terre exposées vent
+hiver
+cette bise aigre souffle cette forêt
+bénédiction dieu soufflée aucun
+vent
+vaut mieux outils plus
+laborieux plus ouvrier outils
+fait plus travail
+tils
+outils finissent tout user
+comme homme
+vaut mieux plus durable
+race sang
+car race sang périssables péri-
+ront
+excepté sang jésus
+versé siècles siècles
+race sang exposés vent hiver
+peut avoir hiver races
+maison peut-être terre
+outils sûrement race sang enfants hériteront
+dessus tout
+bénédiction dieu maison race
+grâce dieu vaut plus tout
+sait bien
+pauvre celui travaille
+élève bien enfants
+sait bien
+parce promis
+souverainement fidèle promesses
+trois enfants grandissent tellement
+pourvu malades
+certainement plus grands
+comme fier cœur
+deux gars rudement forts
+deux gars remplaceront enfants tiendront place
+erre
+quand plus
+place paroisse place forêt
+place église place maison
+place bourg place vigne
+plaine coteau vallée
+place chrétienté enfin quoi
+place homme chrétien
+place paroissien place laboureur
+place paysan
+place père
+place lorrain français
+car places grand dieu faut tenues
+faut tout cela continue
+quand plus comme présent
+sinon mieux
+faut paysannerie continue
+vigne blé moisson vendange
+labour terre
+pâtour bêtes
+quand plus comme présent
+sinon mieux
+faut chrétienté continue
+église militante
+cela faut chrétiens
+toujours
+faut paroisse continue
+faut france lorraine continue
+longtemps après plus
+aussi bien comme présent
+sinon mieux
+pense tendresse temps où plus
+où enfants tiendront place
+terre
+devant dieu
+temps où plus où enfants
+quand dira nom bourg quand
+parlera quand nom sortira hasard
+propos plus parlera
+fils
+ensemble
+puisque fils
+nom plus nom puisque devenu nom fils
+fier cœur comme pense tendresse
+lui-même plus lui-même fils
+nom plus nom nom
+fils
+nom plus service service fils
+porteront nom honnêtement devant dieu
+hautement fièrement
+comme
+mieux
+quand dira nom fils appellera fils parlera
+depuis longtemps cimetière
+entour église
+est-à-dire corps
+côte côte pères pères pères
+aligné
+père grand père connus
+tous autres tous ceux
+connus
+tous hommes toutes femmes race
+tous anciens hommes toutes anciennes femmes
+ancêtres aïeux
+aïeules
+tant depuis paroisse fondée
+quelque saint fondateur
+venu jésus
+corps car âme longtemps
+recommandée dieu
+mettant sous protection saints patrons
+dormira corps ainsi reposera
+parmi siens attendant siens
+attendant résurrection corps
+jusqu résurrection corps corps ainsi reposera
+pense tendresse temps où besoin
+où ça ira tout
+parce autres
+porteront charge
+peut-être sans doute porteront mieux
+pense tendresse temps où plus
+parce est-ce peut être toujours
+peut être avoir
+où tout marchera tout
+où tout marchera plus mal
+contraire
+où tout marchera mieux
+contraire
+parce enfants là coup
+enfants feront mieux bien sûr
+monde marchera mieux
+plus tard
+jaloux
+contraire
+ni être venu monde temps ingrat
+avoir préparé sans doute fils peut-être temps moins ingrat
+quel insensé jaloux fils fils fils
+est-ce travaille uniquement enfants
+pense tendresse temps où pensera plus guère cause enfants
+si seulement pense quelquefois rarement
+quand nom retentira cordialement bourg
+quelqu appellera fils marcel fils pierre
+quelqu besoin fils marcel fils pierre
+appelera heureux voir cherchera
+car régneront alors porteront nom
+régneront face terre
+peut-être quelque temps encore vieux rappellera
+dira
+deux gars sévin braves gars
+ça étonnant
+tenir
+père si brave homme
+quelque temps jeunes rediront confiance
+vieux si brave homme
+déjà sauront rien
+puis sauront plus cela propos taira
+pense tendresse temps où plus propos
+cela cela travaille car est-ce enfants travaille
+plus corps six pieds terre sous six pieds terre sous croix
+enfants
+salue tendresse temps nouveau où plus
+où
+où enfants
+règne enfants
