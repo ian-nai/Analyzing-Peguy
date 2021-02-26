@@ -49,16 +49,21 @@ for f in input_files:
             pattern = '[0-9]'
             word = [re.sub(pattern, '', i) for i in word]
 
+        str_words = " ".join(words)
+        new_lines.append(str_words)
 
-        new_lines.append(str(words))
+
         for line in new_lines:
             if not line:
                 new_lines.remove(line)
 
-        print(new_lines)
+
+            print(line)
 
     # Save our new file as 'cleaned_text.txt'
     with open(('lines_' + input_files[index_num]), 'w') as f:
-                f.write('\n'.join(new_lines))
+                #f.write('\n'.join(final_lines))
+            for item in new_lines:
+                    f.write("\n" + (str(item)))
 
     index_num += 1
