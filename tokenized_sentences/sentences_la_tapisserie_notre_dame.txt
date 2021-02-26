@@ -1,301 +1,601 @@
-['tapisserie', 'Notre', 'Dame_', '_cahier', 'dimanche', 'Pentecôte', 'mois', 'mai', 'quatorzième', 'série_', 'fidèle', 'Lotte', '_Bulletin', 'Professeurs', 'catholiques', "l'", 'Université', 'Présentation', 'Paris', 'Dame', 'Étoile', 'mer', 'voici', 'lourde', 'nef', 'Où', 'ramons', 'tout', 'nuds', 'sous', 'commandements', 'Voici', 'détresse', 'désarmements', ';', 'quai', 'Louvre', ',', "l'", 'écluse', ',', 'bief', '.']
-['Voici', 'appareil', 'voici', 'chef', '.']
-["C'", 'gars', 'chez', 'siffle', 'moments', '.']
-['Il', 'pareil', 'gouvernements', '.']
-['Il', 'a', 'tête', 'dure', 'geste', 'peu', 'bref', '.']
-['Reine', 'levez', 'tous', 'océans', ',', 'penserez', 'quand', 'large', '.']
-["Aujourd'", 'hui', "c'", 'jour', "d'", 'embarquer', 'charge', '.']
-['Voici', "l'", 'énorme', 'grue', 'longs', 'meuglements', '.']
-["S'", 'fallait', 'charger', 'pauvres', 'vertus', ',', 'vaisseau', "s'", 'irait', 'vers', 'auguste', 'seuil', 'Plus', 'creux', 'noisette', 'après', "l'", 'écureuil', 'L', 'laissé', 'retomber', 'ongles', 'pointus', '.']
-['Nuls', 'ballots', "n'", 'entreraient', 'panneaux', 'béants', ',', 'arriverions', 'mer', 'sargasse', 'Traînant', 'cette', 'inutile', 'grotesque', 'carcasse', 'Et', 'Anglais', 'diraient', ':', "n'", 'rien', 'mis', 'dedans', '.']
-['Mais', 'saurons', "l'", 'emplir', 'jurons', ',', 'plus', 'beau', 'cet', 'illustre', 'port', '.']
-['La', 'cargaison', 'ira', 'jusque', 'plat-bord', '.']
-['Et', 'quand', 'plein', 'couronnerons', '.']
-['Nous', 'chargerons', 'pauvre', 'maïs', ',', "l'", 'or', 'blé', 'emporterons', '.']
-['Et', 'tiendra', 'mer', ':', 'chargerons', 'Du', 'poids', 'péchés', 'payés', 'fils', '.']
-['Paris', 'vaisseau', 'charge', 'Double', 'vaisseau', 'charge', 'deux', 'rives', 'Seine', ',', 'pourpre', "d'", 'or', ',', 'myrrhe', 'cinname', ',', 'blé', ',', 'seigle', ',', 'justesse', "d'", 'âme', ',', 'humilité', ',', 'orgueil', ',', 'simple', 'verveine', ';', 'pères', "t'", 'comblé', "d'", 'si', 'longue', 'peine', ',', 'mille', 'mille', 'ans', 'viens', 'lame', ',', 'nulle', 'cargaison', "n'", 'si', 'lourde', 'rame', ',', 'nul', 'bâtiment', 'panse', 'aussi', 'pleine', '.']
-['Mais', 'apporterons', 'regret', 'si', 'sévère', ',', 'si', 'nourri', "d'", 'honneur', ',', 'si', 'creusé', 'flamme', ',', 'chef', 'prendra', 'sac', 'prière', ',', 'fera', 'hisser', 'jusque', 'sous', "l'", 'oriflamme', ',', 'appareillé', 'sous', 'Septime', 'Sévère', ',', 'vaisseau', 'charge', 'pieds', 'Notre', 'Dame', '.']
-['Paris', 'double', 'galère', 'Depuis', 'Point', 'Jour', "jusqu'", 'cèdres', 'bibliques', 'Double', 'galère', 'assise', 'long', 'grand', 'bazar', ',', 'grand', 'ministère', ',', 'morne', 'alcazar', ',', 'deuils', 'privés', 'vertus', 'publiques', ';', 'quatre-vingts', 'rois', 'trois', 'Républiques', ',', 'sous', 'Napoléon', ',', 'César', ',', 'pères', 'tenté', 'centuple', 'hasard', ',', 'courbés', 'rames', 'obliques', '.']
-['Et', 'prenant', 'place', 'banc', 'chêne', ',', 'ramerons', 'reins', ',', 'nuque', ',', "l'", 'âme', ',', ',', ',', ',', 'sous', 'chaîne', ';', 'tiendrons', 'coup', ',', 'rame', ',', 'fils', 'forçats', 'deux', 'rives', 'Seine', ',', 'couchés', 'pieds', 'Notre', 'Dame', '.']
-['Paris', 'vaisseau', 'guerre', 'Double', 'vaisseau', 'ligne', 'long', 'colonnades', 'Autrefois', 'bâtiment', 'centuple', 'sabord', ',', 'hui', 'lourde', 'usine', ',', 'coffre-fort', 'Fermé', 'secret', 'sourdes', 'canonnades', '.']
-['Nos', 'pères', "t'", 'dansé', 'chaudes', 'sérénades', '.']
-['Ils', "t'", 'fleuri', 'sang', 'plus', 'belle', 'mort', ',', 'gaillard', "d'", 'avant', 'vers', "l'", "l'", 'autre', 'bord', 'Bondissait', 'troupeau', 'graves', 'caronnades', '.']
-['Mais', 'apporterons', 'destins', 'géants', 'Un', 'coeur', 'si', 'sérieux', 'si', 'brûlé', 'flamme', ',', 'coeur', 'si', 'curieux', 'tous', 'océans', ',', 'fils', 'soldats', 'sous', 'oriflamme', ',', 'mettra', 'valets', 'canons', 'béants', ',', 'verts', 'accroupis', 'pieds', 'Notre-Dame', '.']
-['Présentation', 'Beauce', 'Dame', 'Chartres', 'Étoile', 'mer', 'voici', 'lourde', 'nappe', 'Et', 'profonde', 'houle', "l'", 'océan', 'blés', 'Et', 'mouvante', 'écume', 'greniers', 'comblés', ',', 'regard', 'cette', 'immense', 'chape', 'Et', 'voici', 'voix', 'cette', 'lourde', 'plaine', 'Et', 'amis', 'absents', 'coeurs', 'dépeuplés', ',', 'long', 'poings', 'désassemblés', 'Et', 'lassitude', 'force', 'pleine', '.']
-['Étoile', 'matin', ',', 'reine', ',', 'marchons', 'vers', 'illustre', 'cour', ',', 'voici', 'plateau', 'pauvre', 'amour', ',', 'voici', "l'", 'océan', 'immense', 'peine', '.']
-['Un', 'sanglot', 'rôde', 'court', 'delà', "l'", 'horizon', '.']
-['A', 'quelques', 'toits', 'font', 'comme', 'archipel', '.']
-['Du', 'vieux', 'clocher', 'retombe', 'sorte', "d'", 'appel', '.']
-["L'", 'épaisse', 'église', 'semble', 'basse', 'maison', '.']
-['Ainsi', 'naviguons', 'vers', 'cathédrale', '.']
-['De', 'loin', 'loin', 'surnage', 'chapelet', 'meules', ',', 'comme', 'tours', ',', 'seules', 'Comme', 'rang', 'châteaux', 'barque', 'amirale', '.']
-['Deux', 'mille', 'ans', 'labeur', 'fait', 'cette', 'terre', 'Un', 'réservoir', 'sans', 'fin', 'âges', 'nouveaux', '.']
-['Mille', 'ans', 'grâce', 'fait', 'travaux', 'Un', 'reposoir', 'sans', 'fin', "l'", 'âme', 'solitaire', '.']
-['Vous', 'voyez', 'marcher', 'cette', 'route', 'droite', ',', 'poudreux', ',', 'crottés', ',', 'pluie', 'entre', 'dents', '.']
-['Sur', 'large', 'éventail', 'ouvert', 'vents', 'La', 'route', 'nationale', 'porte', 'étroite', '.']
-['Nous', 'allons', 'devant', ',', 'mains', 'long', 'poches', ',', 'aucun', 'appareil', ',', 'fatras', ',', 'discours', ',', 'toujours', 'égal', ',', 'hâte', 'ni', 'recours', ',', 'champs', 'plus', 'présents', 'vers', 'champs', 'plus', 'proches', '.']
-['Vous', 'voyez', 'marcher', ',', 'piétaille', '.']
-['Nous', "n'", 'avançons', 'jamais', "d'", 'fois', '.']
-['Mais', 'vingt', 'siècles', 'peuple', 'vingt', 'siècles', 'rois', ',', 'toute', 'séquelle', 'toute', 'volaille', 'Et', 'leurs', 'chapeaux', 'valetaille', 'Ont', 'appris', "c'", "d'", 'être', 'familiers', ',', 'comme', 'peut', 'marcher', ',', 'pieds', 'souliers', ',', 'dernier', 'carré', 'soir', "d'", 'bataille', '.']
-['Nous', 'nés', 'bord', 'plateau', ',', 'recourbement', 'blonde', 'Loire', ',', 'fleuve', 'sable', 'fleuve', 'gloire', "N'", 'là', 'baiser', 'auguste', 'manteau', '.']
-['Nous', 'nés', 'bord', 'vaste', 'plateau', ',', "l'", 'antique', 'Orléans', 'sévère', 'sérieuse', ',', 'Loire', 'coulante', 'souvent', 'limoneuse', "N'", 'là', 'laver', 'pieds', 'coteau', '.']
-['Nous', 'nés', 'bord', 'plate', 'Beauce', 'Et', 'connu', 'dès', 'plus', 'jeunes', 'ans', 'Le', 'portail', 'ferme', 'durs', 'paysans', 'Et', "l'", 'enclos', 'bourg', 'bêche', 'fosse', '.']
-['Nous', 'nés', 'bord', 'Beauce', 'plate', 'Et', 'connu', 'dès', 'premiers', 'regrets', 'Ce', 'peut', 'receler', 'désespoirs', 'secrets', 'Un', 'soleil', 'descend', 'ciel', 'écarlate', 'Et', 'couche', 'ras', "d'", 'sol', 'inévitable', 'Dur', 'comme', 'justice', ',', 'comme', 'barre', ',', 'comme', 'loi', ',', 'comme', 'mare', ',', 'comme', 'beau', 'socle', 'plan', 'comme', 'table', '.']
-['Un', 'homme', 'chez', ',', 'glèbe', 'féconde', 'A', 'jaillir', 'ici', "d'", 'seul', 'enlèvement', ',', "d'", 'seule', 'source', "d'", 'seul', 'portement', ',', 'assomption', 'flèche', 'unique', 'monde', '.']
-['Tour', 'David', 'voici', 'tour', 'beauceronne', '.']
-["C'", "l'", 'épi', 'plus', 'dur', 'jamais', 'monté', 'Vers', 'ciel', 'clémence', 'sérénité', ',', 'plus', 'beau', 'fleuron', 'dedans', 'couronne', '.']
-['Un', 'homme', 'chez', 'a', 'ici', 'jaillir', ',', 'ras', 'sol', "jusqu'", 'pied', 'croix', ',', 'haut', 'tous', 'saints', ',', 'haut', 'tous', 'rois', ',', 'flèche', 'irréprochable', 'peut', 'faillir', '.']
-["C'", 'gerbe', 'blé', 'périra', 'point', ',', 'fanera', 'point', 'soleil', 'septembre', ',', 'gèlera', 'point', 'rigueurs', 'décembre', ',', 'serviteur', "c'", 'témoin', '.']
-["C'", 'tige', 'blé', 'pourrira', ',', 'flétrira', 'point', 'ardeurs', "l'", '.']
-['Qui', 'moisira', 'point', 'hiver', 'gâté', ',', 'transira', 'point', 'commun', 'trépas', '.']
-["C'", 'pierre', 'sans', 'tache', 'pierre', 'sans', 'faute', ',', 'plus', 'haute', 'oraison', "qu'", 'jamais', 'portée', ',', 'plus', 'droite', 'raison', "qu'", 'jamais', 'jetée', ',', 'vers', 'ciel', 'sans', 'bord', 'ligne', 'plus', 'haute', '.']
-['Celle', 'mourra', 'jour', "d'", 'aucunes', 'morts', ',', 'gage', 'portrait', 'arrachements', ',', 'image', 'tracé', 'redressements', ',', 'laine', 'fuseau', 'plus', 'modestes', 'sorts', '.']
-['Nous', 'arrivons', 'vers', 'lointain', 'Parisis', '.']
-['Nous', 'trois', 'jours', 'quitté', 'boutique', ',', "l'", 'archéologie', 'sémantique', ',', 'maigre', 'Sorbonne', 'pauvres', 'petits', '.']
-["D'", 'autres', 'viendront', 'vers', 'lointain', 'Beauvaisis', '.']
-['Nous', 'trois', 'jours', 'laissé', 'négoce', ',', 'rumeur', 'géante', 'ville', 'colosse', ',', 'autres', 'viendront', 'vers', 'lointain', 'Cambrésis', '.']
-['Nous', 'arrivons', 'vers', 'Paris', 'capitale', '.']
-["C'", 'là', 'gouvernement', ',', 'temps', 'perdu', 'lanternement', ',', 'liberté', 'décevante', 'totale', '.']
-['Nous', 'arrivons', 'vers', "l'", 'autre', 'Notre', 'Dame', ',', 'celle', "s'", 'élève', 'coeur', 'cité', ',', 'royale', 'robe', 'majesté', ',', 'magnificence', 'justesse', "d'", 'âme', '.']
-['Comme', 'commandez', 'océan', "d'", 'épis', ',', 'commandez', 'océan', 'têtes', ',', 'moisson', 'deuils', 'moisson', 'fêtes', 'Se', 'couche', 'chaque', 'soir', 'devant', 'parvis', '.']
-['Nous', 'arrivons', 'vers', 'noble', 'Hurepoix', '.']
-["C'", 'commencement', 'Beauce', 'usage', ',', 'fermes', 'champs', 'taillés', 'image', ',', 'coupés', 'plus', 'souvent', 'rideaux', 'bois', ',', 'coupés', 'plus', 'souvent', 'creuses', 'vallées', 'Pour', "l'", 'Yvette', 'Bièvre', 'leurs', 'accroissements', ',', 'leurs', 'savants', 'détours', 'leurs', 'dégagements', ',', 'beaux', 'châteaux', 'longues', 'allées', '.']
-["D'", 'autres', 'viendront', 'vers', 'noble', 'Vermandois', ',', 'vallonnements', 'bouleaux', 'saules', '.']
-["D'", 'autres', 'viendront', 'vers', 'palais', 'geôles', '.']
-['Et', 'pays', 'picard', 'vert', 'Vendômois', '.']
-['Mais', "c'", 'toujours', 'France', ',', 'petite', 'plus', 'grande', ',', 'pays', 'beaux', 'blés', 'encadrements', ',', 'pays', 'grappe', 'ruissellements', ',', 'pays', 'genêts', ',', 'bruyère', ',', 'lande', '.']
-['Nous', 'arrivons', 'vers', 'lointain', 'Palaiseau', 'Et', 'faubourgs', "d'", 'Orsay', 'Gometz-le-Châtel', ',', 'dit', 'Saint-Clair', ';', "n'", 'castel', ';', 'village', 'bord', "d'", 'route', 'biseau', '.']
-['Nous', 'débouché', ',', 'coteau', ',', 'ras', 'plaine', 'Gometz-la-Ville', 'Au-dessus', 'Saint-Clair', ';', "n'", 'ville', ';', 'village', 'bord', "d'", 'route', 'plateau', '.']
-['Nous', 'descendu', 'côte', 'Limours', '.']
-['Nous', 'rencontré', 'trois', 'quatre', 'gendarmes', '.']
-['Ils', 'regardé', ',', 'sans', 'quelques', 'alarmes', ',', 'poteaux', 'coins', 'carrefours', '.']
-['Nous', 'pu', 'coucher', 'calme', 'Dourdan', '.']
-["C'", 'gros', 'bourg', 'très', 'riche', 'sent', 'province', '.']
-['Fiers', 'longé', ',', 'comme', 'prince', ',', 'fossés', 'château', 'coupés', 'comme', 'redan', '.']
-['Dans', 'maison', 'amie', ',', 'fraternelle', 'On', 'a', 'coucher', 'lit', 'garçon', '.']
-['Vingt', 'ans', 'souvenirs', 'échanson', '.']
-['Le', 'pain', 'coupé', "d'", 'main', 'maternelle', '.']
-['Toute', 'jeunesse', 'là', 'sollennelle', '.']
-['On', 'prononça', 'Bénédicité', '.']
-['Quatre', 'siècles', "d'", 'honneur', 'fidélité', 'Faisaient', 'draps', 'lit', 'couche', 'éternelle', '.']
-['Nous', 'fait', 'semblant', "d'", 'être', 'gai', 'pèlerin', 'Et', 'bon', 'vivant', "d'", 'aimer', 'voyages', ',', "d'", 'avoir', 'parcouru', 'cent', 'trente-et-un', 'bailliages', ',', "d'", 'être', 'accoutumés', "d'", 'être', 'chemin', '.']
-['La', 'clarté', 'lampe', 'éblouissait', 'nappe', '.']
-['On', 'fit', 'visiter', 'jardin', 'potager', '.']
-['Il', 'donnait', 'treille', 'beau', 'verger', '.']
-['Tel', 'premier', 'gîte', 'tête', "d'", 'étape', '.']
-['Le', 'jardin', 'clos', 'coude', "l'", 'Orge', '.']
-['Vers', 'droite', 'donnait', 'mur', 'bocager', 'Surmonté', 'rameaux', "d'", 'arceau', 'léger', '.']
-['En', 'face', 'maréchal', ',', "l'", 'enclume', ',', 'forge', '.']
-['Nous', 'levés', 'matin', 'devant', "l'", 'aube', '.']
-['Nous', 'quittés', 'après', 'beaux', 'adieux', '.']
-['Le', 'temps', "s'", 'annonçait', 'bien', '.']
-['On', 'a', 'tant', 'mieux', '.']
-['On', 'a', 'goûter', 'quelque', 'boeuf', 'daube', ',', 'entendu', 'bon', 'pèlerin', 'Est', 'celui', 'boit', 'ferme', 'tient', 'place', ',', "qu'", 'besoin', 'faire', 'comptable', ',', "c'", 'bien', 'assez', 'lever', 'matin', '.']
-['Le', 'jour', 'route', 'soleil', 'montait', 'Quand', 'passé', 'Sainte-Mesme', 'autres', '.']
-['Nous', 'avancions', 'déjà', 'comme', 'deux', 'bons', 'apôtres', '.']
-['Et', 'gauche', 'droite', 'comptait', '.']
-['Nous', 'remontés', 'Gué', 'Longroy', ',', 'fait', 'désormais', 'atermoiements', ',', "l'", 'iniquité', 'dénivellements', ':', 'juste', 'plaine', 'secret', 'effroi', 'De', 'trouver', 'tout', 'seuls', 'voici', 'charroi', 'Et', 'roue', 'boeufs', 'joug', 'grange', ',', 'poussière', 'égale', "l'", 'équitable', 'fange', 'Et', 'détresse', 'égale', "l'", 'égal', 'désarroi', '.']
-['Nous', 'voici', 'parvenus', 'haute', 'terrasse', 'Où', 'rien', 'cache', 'plus', "l'", 'homme', 'devant', 'Dieu', ',', 'nul', 'déguisement', 'ni', 'temps', 'ni', 'lieu', 'Ne', 'pourra', 'sauver', 'Seigneur', ',', 'chasse', '.']
-['Voici', 'gerbe', 'immense', "l'", 'immense', 'liasse', ',', 'grain', 'sous', 'meule', 'écrasements', ',', 'grêle', 'javelle', 'renoncements', ',', "l'", 'immense', 'horizon', 'regard', 'embrasse', '.']
-['Et', 'indignité', 'cette', 'immuable', 'masse', ',', 'basse', 'peur', 'pareil', 'moment', ',', 'juste', 'terreur', 'secret', 'tourment', 'De', 'trouver', 'tout', 'seuls', 'devant', 'face', '.']
-['Mais', 'voici', "c'", ',', 'majesté', '.']
-['Comment', 'avons-nous', 'pu', 'laisser', 'décevoir', ',', 'marcher', 'devant', 'sans', 'apercevoir', '.']
-['Nous', 'donc', 'toujours', 'peuple', 'inconcerté', '.']
-['Ce', 'pays', 'plus', 'ras', 'plus', 'rase', 'table', '.']
-['A', 'creux', 'sol', ',', 'peine', 'léger', 'pli', '.']
-["C'", 'table', 'juge', 'fait', 'accompli', ',', "l'", 'arrêt', 'sans', 'appel', "l'", 'ordre', 'inéluctable', '.']
-['Et', "c'", 'prononcé', 'texte', 'insurmontable', ',', 'mesure', 'comble', "c'", 'sort', 'empli', ',', "c'", 'vie', 'étale', "l'", 'homme', 'enseveli', ',', "c'", 'héraut', "d'", 'arme', 'sceau', 'redoutable', '.']
-['Mais', 'apparaissez', ',', 'mystérieuse', '.']
-['Cette', 'pointe', 'là-bas', 'moutonnement', 'Des', 'moissons', 'bois', 'flottement', 'De', "l'", 'extrême', 'horizon', "n'", 'point', 'yeuse', ',', 'profil', 'connu', "d'", 'arbre', 'interchangeable', '.']
-["C'", 'déjà', 'plus', 'distante', ',', 'plus', 'basse', ',', 'plus', 'haute', ',', 'comme', 'espoir', 'dernière', 'côte', ',', 'dernier', 'coteau', 'flèche', 'inimitable', '.']
-["D'", 'ici', 'vers', ',', 'reine', ',', "n'", 'plus', 'route', '.']
-['Celle-ci', 'regarde', ',', 'a', 'fait', "d'", 'autres', '.']
-['Vous', 'gloire', 'nôtres', '.']
-['Nous', "l'", 'entamée', ',', 'mangera', 'toute', '.']
-['Nous', 'savons', "c'", "qu'", 'tronçon', "s'", 'ajoute', 'Au', 'tronçon', 'déjà', 'fait', "qu'", 'kilomètre', 'Demande', 'jarret', "qu'", 'faut', 'mettre', ':', 'passerons', 'soir', 'pont', 'voûte', 'Et', 'fossé', 'profond', 'cerne', 'rempart', '.']
-['Nous', 'marchons', 'vent', 'coupés', 'autos', '.']
-["C'", 'ici', 'contrée', 'imprenable', 'photos', ',', 'route', 'nue', 'grave', 'allant', 'part', 'part', '.']
-['Nous', 'bon', 'vent', 'partir', 'dès', 'jour', '.']
-['Nous', 'coucherons', 'soir', 'chez', ',', 'cette', 'vieille', 'auberge', 'où', 'quarante', 'sous', 'Nous', 'dormirons', 'tout', 'près', 'illustre', 'tour', '.']
-['Nous', 'si', 'fourbus', 'regarderons', ',', 'chaise', 'auprès', 'fenêtre', 'Dans', 'écrasement', 'corps', 'tout', "l'", 'être', ',', 'yeux', 'battus', ',', 'yeux', 'ronds', ',', 'sourcils', 'haussés', 'jusque', 'dedans', 'fronts', ',', 'angle', 'fois', 'trouvé', 'seul', 'homme', 'monde', ',', "l'", 'unique', 'montée', 'ascendante', 'profonde', ',', 'recrus', 'contemplerons', '.']
-['Voici', "l'", 'axe', 'ligne', 'géante', 'fleur', '.']
-['Voici', 'dure', 'pente', 'contentement', '.']
-['Voici', "l'", 'exactitude', 'consentement', '.']
-['Et', 'sévère', 'larme', ',', 'reine', 'douleur', '.']
-['Voici', 'nudité', ',', 'reste', 'vêtement', '.']
-['Voici', 'vêtement', ',', 'reste', 'parure', '.']
-['Voici', 'pureté', ',', 'reste', 'souillure', '.']
-['Voici', 'pauvreté', ',', 'reste', 'ornement', '.']
-['Voici', 'seule', 'force', 'reste', 'faiblesse', '.']
-['Voici', "l'", 'arête', 'unique', 'reste', 'bavure', '.']
-['Et', 'seule', 'noblesse', 'reste', 'ordure', '.']
-['Et', 'seule', 'grandeur', 'reste', 'bassesse', '.']
-['Voici', 'seule', 'foi', 'point', 'parjure', '.']
-['Voici', 'seul', 'élan', 'sache', 'peu', 'monter', '.']
-['Voici', 'seul', 'instant', 'vaille', 'compter', '.']
-['Voici', 'seul', 'propos', "s'", 'achève', 'dure', '.']
-['Voici', 'monument', ',', 'reste', 'doublure', '.']
-['Et', 'voici', 'amour', 'entendement', '.']
-['Et', 'port', 'tête', 'apaisement', '.']
-['Et', 'rien', 'dentelle', "l'", 'exacte', 'moulure', '.']
-['Voici', 'beau', 'serment', ',', 'reste', 'forfaiture', '.']
-['Voici', "l'", 'unique', 'prix', 'arrachements', ',', 'salaire', 'payé', 'retranchements', '.']
-['Voici', 'vérité', ',', 'reste', 'imposture', '.']
-['Voici', 'firmament', ',', 'reste', 'procédure', '.']
-['Et', 'vers', 'tribunal', 'voici', "l'", 'ajustement', '.']
-['Et', 'vers', 'paradis', 'voici', "l'", 'achèvement', '.']
-['Et', 'feuille', 'pierre', "l'", 'exacte', 'nervure', '.']
-['Nous', 'resterons', 'cloués', 'chaise', 'paille', '.']
-['Et', "n'", 'entendrons', 'verrons', 'Le', 'tumulte', 'voix', ',', 'tumulte', ',', 'salle', 'bas', "l'", 'innocente', 'ripaille', '.']
-['Ni', 'rouliers', 'venus', 'jour', 'marché', '.']
-['Ni', 'feinte', 'colère', "l'", 'éclat', 'jurons', ':', 'contemplerons', 'méditerons', "D'", 'seul', 'embrassement', 'flèche', 'sans', 'péché', '.']
-['Nous', 'sentirons', 'ni', 'faces', 'raidies', ',', 'faim', 'ni', 'soif', 'ni', 'renoncements', ',', 'raides', 'genoux', 'ni', 'raisonnements', ',', 'pantalons', 'jambes', 'engourdies', '.']
-['Perdus', 'cette', 'chambre', 'parmi', 'tant', "d'", 'hôtels', ',', 'descendrons', 'heure', 'repas', ',', "n'", 'entendrons', 'verrons', 'La', 'ville', 'prosternée', 'pieds', 'autels', '.']
-['Et', 'quand', 'lèvera', 'soleil', 'demain', ',', 'réveillerons', 'aube', 'lustrale', ',', "l'", 'ombre', 'deux', 'bras', 'cathédrale', ',', 'malheureux', 'perclus', 'chemin', '.']
-['Nous', 'venons', 'prier', 'pauvre', 'garçon', 'Qui', 'mourut', 'comme', 'sot', 'cours', 'cette', 'année', ',', 'semaine', 'devers', 'journée', 'Où', 'fils', 'naquit', 'paille', '.']
-['ô', "n'", 'pire', 'troupeau', '.']
-['Il', "n'", "qu'", 'défaut', 'jeune', 'cuirasse', '.']
-['Mais', 'mort', 'piste', 'suit', 'trace', 'A', 'trou', "qu'", "s'", 'fait', 'peau', '.']
-['Il', 'né', 'vers', 'Gâtinais', '.']
-['Il', 'commençait', 'route', 'où', 'redescendons', '.']
-['Il', 'gagnait', 'tous', 'jours', 'tout', 'perdons', '.']
-['Et', 'pourtant', "c'", 'destinais', ',', 'mort', 'vaincue', 'premier', 'caveau', '.']
-['Il', 'mis', 'mêmes', 'empreintes', '.']
-['Mais', 'seul', 'manquement', "d'", 'seule', 'craintes', 'Laissa', 'passer', 'mort', 'chemin', 'nouveau', '.']
-['Le', 'voici', 'maintenant', 'dedans', 'régence', '.']
-['Vous', 'reine', 'mère', 'saurez', 'montrer', '.']
-["C'", 'être', 'pur', '.']
-['Vous', 'ferez', 'rentrer', 'Dans', 'patronage', 'indulgence', '.']
-['ô', 'lisez', 'secret', 'coeur', ',', 'savez', "c'", 'vie', 'mort', ',', 'savez', 'ainsi', 'quel', 'secret', 'sort', 'Se', 'coud', 'découd', 'ruse', 'traqueur', '.']
-['Et', 'savez', 'ainsi', 'quel', 'accent', 'choeur', 'Se', 'noue', 'dénoue', 'accompagnement', ',', "qu'", 'faut', "d'", 'espace', 'déboisement', 'Pour', 'laisser', 'débouler', 'meute', 'piqueur', '.']
-['Et', 'savez', 'ainsi', 'quel', 'recreux', 'port', 'Se', 'prépare', "s'", 'achève', 'noble', 'enlèvement', ',', 'quel', 'jeu', "d'", 'adresse', 'gouvernement', 'Se', 'dérobe', 'fige', 'illustre', 'support', '.']
-['Et', 'savez', 'ainsi', 'quel', 'tranchant', 'glaive', 'Se', 'joue', 'déjoue', 'épouvantement', ',', 'quel', 'coup', 'pouce', 'quel', 'balancement', "L'", 'plateaux', 'descend', "l'", 'autre', "s'", 'élève', '.']
-['Et', 'peut', 'coûter', 'lèvre', 'moqueur', ',', "qu'", 'faut', 'force', 'recroisement', 'Pour', 'faire', 'coup', "d'", 'seul', 'retournement', "D'", 'vaincu', 'malheureux', 'malheureux', 'vainqueur', '.']
-['Mère', 'voici', 'donc', ',', 'race', ',', 'vingt', 'ans', 'après', 'redoublement', '.']
-['Reine', 'recevez-le', 'amendement', '.']
-['Où', 'mort', 'a', ',', 'bien', 'grâce', '.']
-['Nous', ',', 'retournerons', 'chemin', '.']
-['Ce', 'nouveau', 'terre', 'sans', 'cachette', ',', 'château', 'sans', 'coin', 'sans', 'oubliette', ',', 'sol', 'mieux', 'gravé', "qu'", 'parfait', 'parchemin', '.']
-['_Et', 'nunc', 'in', 'hora_', ',', 'prions', 'Qui', 'plus', 'grands', 'sots', 'pauvre', 'gamin', ',', 'sans', 'doute', 'moins', 'purs', 'moins', 'main', ',', 'moins', 'acheminés', 'vers', 'sacrés', 'genoux', '.']
-['Quand', 'joué', 'derniers', 'personnages', ',', 'posé', 'cape', 'manteau', ',', 'jeté', 'masque', 'couteau', ',', 'rappeler', 'longs', 'pèlerinages', '.']
-['Quand', 'retournerons', 'cette', 'froide', 'terre', ',', "qu'", 'prescrit', 'premier', 'Adam', ',', 'Saint-Chéron', ',', 'Dourdan', ',', 'rappeler', 'chemin', 'solitaire', '.']
-['Quand', 'mis', 'étroite', 'fosse', ',', 'dit', "l'", 'absoute', 'messe', ',', 'rappeler', ',', 'promesse', ',', 'long', 'cheminement', 'faisons', 'Beauce', '.']
-['Quand', 'quitté', 'sac', 'cette', 'corde', ',', 'tremblé', 'derniers', 'tremblements', ',', 'râlé', 'derniers', 'râclements', ',', 'rappeler', 'miséricorde', '.']
-['Nous', 'demandons', 'rien', ',', 'pécheur', ',', 'dernière', 'place', 'Purgatoire', ',', 'pleurer', 'longuement', 'tragique', 'histoire', ',', 'contempler', 'loin', 'jeune', 'splendeur', '.']
-['_les', 'quatre', 'prières', 'cathédrale', 'Chartres_', '1.', '--', 'prière', 'résidence', 'O', 'voici', 'donc', 'après', 'longue', 'route', ',', 'repartir', 'chemin', ',', 'seul', 'asile', 'ouvert', 'creux', 'main', ',', 'jardin', 'secret', 'où', "l'", 'âme', "s'", 'ouvre', 'toute', '.']
-['Voici', 'lourd', 'pilier', 'montante', 'voûte', ';', "l'", 'oubli', 'hier', ',', "l'", 'oubli', 'demain', ';', "l'", 'inutilité', 'tout', 'calcul', 'humain', ';', 'plus', 'péché', ',', 'sagesse', 'déroute', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'devient', 'facile', ',', 'regret', ',', 'départ', ',', "l'", 'événement', ',', "l'", 'adieu', 'temporaire', 'détournement', ',', 'seul', 'coin', 'terre', 'où', 'tout', 'devient', 'docile', ',', 'vieux', 'coeur', 'faisait', 'rebelle', ';', 'cette', 'vieille', 'tête', 'raisonnements', ';', 'deux', 'bras', 'raidis', 'casernements', ';', 'cette', 'jeune', 'enfant', 'faisait', 'trop', 'belle', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'reconnu', ',', 'cette', 'vieille', 'tête', 'source', 'larmes', ';', 'deux', 'bras', 'raidis', 'métier', 'armes', ';', 'seul', 'coin', 'terre', 'où', 'tout', 'contenu', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'revenu', 'Après', 'tant', 'départs', ',', 'tant', "d'", 'arrivées', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'pauvre', 'nu', 'Après', 'tant', 'hasards', ',', 'tant', 'corvées', '.']
-['Voici', 'lieu', 'monde', 'seule', 'retraite', ',', "l'", 'unique', 'retour', 'recueillement', ',', 'feuille', 'fruit', 'défeuillement', ',', 'rameaux', 'cueillis', 'cette', 'unique', 'fête', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'rentre', 'tait', ',', 'silence', "l'", 'ombre', 'charnelle', 'absence', ',', 'commencement', "d'", 'éternelle', 'présence', ',', 'seul', 'réduit', 'où', "l'", 'âme', 'tout', "qu'", '.']
-['Voici', 'lieu', 'monde', 'où', 'tentation', 'Se', 'retourne', 'elle-même', 'met', 'envers', '.']
-['Car', 'tente', 'ici', "c'", 'soumission', ';', "c'", "l'", 'aveuglement', "l'", 'immense', 'univers', '.']
-['Et', 'déposement', 'ici', 'tente', ',', 'vient', 'tout', 'seul', "l'", 'abdication', ',', 'vient', 'soi-même', 'présente', "N'", 'ici', 'grandesse', 'présentation', '.']
-["C'", 'révolte', 'ici', 'devient', 'impossible', ',', 'présente', 'démission', '.']
-['Et', "c'", "l'", 'effacement', 'devient', 'invincible', ',', 'tout', "n'", 'bonjour', 'salutation', '.']
-['Ce', 'partout', 'ailleurs', 'accession', "N'", 'ici', "qu'", 'total', 'sourd', 'abrasement', '.']
-['Ce', 'partout', 'ailleurs', 'entassement', "N'", 'ici', 'bassesse', 'dépression', '.']
-['Ce', 'partout', 'ailleurs', 'oppression', "N'", 'ici', "l'", 'effet', "d'", 'noble', 'écrasement', '.']
-['Ce', 'partout', 'ailleurs', 'empressement', "N'", 'ici', "qu'", 'héritage', 'succession', '.']
-['Ce', 'partout', 'ailleurs', 'rude', 'guerre', "N'", 'ici', 'paix', "d'", 'long', 'délaissement', '.']
-['Ce', 'partout', 'ailleurs', 'affaissement', 'Est', 'ici', 'loi', 'norme', 'vulgaire', '.']
-['Ce', 'partout', 'ailleurs', 'âpre', 'bataille', 'Et', 'cou', 'tendu', 'couteau', 'boucher', ',', 'partout', 'ailleurs', 'greffe', 'taille', "N'", 'ici', 'fleur', 'fruit', 'pêcher', '.']
-['Ce', 'partout', 'ailleurs', 'rude', 'montée', "N'", 'ici', 'descente', "qu'", 'aboutissement', '.']
-['Ce', 'partout', 'ailleurs', 'mer', 'démontée', "N'", 'ici', 'bonace', "qu'", 'établissement', '.']
-['Ce', 'partout', 'ailleurs', 'dure', 'loi', "N'", 'ici', "qu'", 'beau', 'pli', 'sous', 'commandements', ',', 'liberté', 'amendements', 'Une', 'fidélité', 'plus', 'tendre', 'foi', '.']
-['Ce', 'partout', 'ailleurs', 'obsession', "N'", 'ici', 'sous', 'lois', "qu'", 'place', 'rendue', '.']
-['Ce', 'partout', 'ailleurs', 'âme', 'vendue', "N'", 'ici', 'prière', "qu'", 'intercession', '.']
-['Ce', 'partout', 'ailleurs', 'lassitude', "N'", 'ici', 'clefs', 'humble', 'plateau', '.']
-['Ce', 'partout', 'ailleurs', 'vicissitude', "N'", 'ici', "qu'", 'vigne', 'coteau', '.']
-['Ce', 'partout', 'ailleurs', 'longue', 'habitude', 'Assise', 'coin', 'feu', 'poings', 'sous', 'menton', ',', 'partout', 'ailleurs', 'solitude', "N'", 'ici', "qu'", 'vivace', 'ferme', 'rejeton', '.']
-['Ce', 'partout', 'ailleurs', 'décrépitude', 'Assise', 'coin', 'feu', 'poings', 'genoux', "N'", 'ici', 'tendresse', 'sollicitude', 'Et', 'deux', 'bras', 'maternels', 'tournent', 'vers', '.']
-['Nous', 'lavés', "d'", 'telle', 'amertume', 'Étoile', 'mer', 'récifs', 'salés', ',', 'lavés', "d'", 'si', 'basse', 'écume', ',', 'barque', 'souples', 'filets', '.']
-['Nous', 'délavé', 'malheureuses', 'têtes', "D'", 'tel', 'fatras', "d'", 'ordure', 'raisonnement', ',', 'voici', 'désormais', ',', 'reine', 'prophètes', ',', 'clairs', "l'", 'eau', 'puits', "l'", 'ancien', 'testament', '.']
-['Nous', 'gouverné', 'si', 'modestes', 'arches', ',', 'seul', 'vaisseau', 'périra', ',', 'consulté', 'si', 'pauvres', 'compas', ',', 'seul', 'salut', ',', 'patriarches', '.']
-['Nous', 'consommé', 'si', 'lointains', 'voyages', ',', "n'", 'plus', 'goût', 'pays', 'étranges', '.']
-['Reine', 'confesseurs', ',', 'vierges', 'anges', ',', 'voici', 'retournés', 'premiers', 'villages', '.']
-['On', 'a', 'dit', ',', 'reine', 'apôtres', ',', "n'", 'plus', 'goût', 'péroraison', '.']
-['Nous', "n'", 'plus', "d'", 'autels', 'ceux', 'vôtres', ',', 'savons', 'plus', 'rien', "qu'", 'simple', 'oraison', '.']
-['Nous', 'essuyé', 'si', 'vastes', 'naufrages', ',', "n'", 'plus', 'goût', 'transbordement', ',', 'voici', 'revenus', ',', 'déclin', 'âges', ',', 'seul', 'Nord', 'bâtiment', '.']
-['Ce', 'partout', 'ailleurs', 'dispersion', "N'", 'ici', "l'", 'effet', "d'", 'beau', 'rassemblement', '.']
-['Ce', 'partout', 'ailleurs', 'démembrement', "N'", 'ici', 'cortège', 'procession', '.']
-['Ce', 'partout', 'ailleurs', 'demande', 'examen', "N'", 'ici', "l'", 'effet', "d'", 'pauvre', 'jeunesse', '.']
-['Ce', 'partout', 'ailleurs', 'demande', 'lendemain', "N'", 'ici', "l'", 'effet', 'soudaine', 'faiblesse', '.']
-['Ce', 'partout', 'ailleurs', 'demande', 'parchemin', "N'", 'ici', "l'", 'effet', "d'", 'pauvre', 'tendresse', '.']
-['Ce', 'partout', 'ailleurs', 'demande', 'tour', 'main', "N'", 'ici', "l'", 'effet', "d'", 'humble', 'maladresse', '.']
-['Ce', 'partout', 'ailleurs', 'détraquement', "N'", 'ici', 'justesse', 'déclinaison', '.']
-['Ce', 'partout', 'ailleurs', 'baraquement', "N'", 'ici', "qu'", 'épaisse', 'durable', 'maison', '.']
-['Ce', 'partout', 'ailleurs', 'guerre', 'paix', "N'", 'ici', 'défaite', 'reddition', '.']
-['Ce', 'partout', 'ailleurs', 'sédition', "N'", 'ici', "qu'", 'beau', 'peuple', 'épis', 'épais', '.']
-['Ce', 'partout', 'ailleurs', 'immense', 'armée', 'Avec', 'trains', 'vivre', 'encombrements', ',', 'trains', 'bagage', 'retardements', ',', 'ici', 'décence', 'bonne', 'renommée', '.']
-['Ce', 'partout', 'ailleurs', 'effondrement', "N'", 'ici', "qu'", 'lente', 'courbe', 'inclinaison', '.']
-['Ce', 'partout', 'ailleurs', 'comparaison', 'Est', 'ici', 'sans', 'pareil', 'sans', 'redoublement', '.']
-['Ce', 'partout', 'ailleurs', 'accablement', "N'", 'ici', "l'", 'effet', 'pauvre', 'obéissance', '.']
-['Ce', 'partout', 'ailleurs', 'grand', 'parlement', "N'", 'ici', "l'", 'effet', 'seule', 'audience', '.']
-['Ce', 'partout', 'ailleurs', 'encadrement', "N'", 'ici', "qu'", 'candide', 'calme', 'reposoir', '.']
-['Ce', 'partout', 'ailleurs', 'ajournement', "N'", 'ici', "l'", 'oubli', 'matin', 'soir', '.']
-['Les', 'matins', 'partis', 'vers', 'temps', 'révolus', ',', 'soirs', 'partiront', 'vers', 'soir', 'éternel', ',', 'jours', 'entreront', 'jour', 'solennel', ',', 'fils', 'deviendront', 'hommes', 'résolus', '.']
-['Les', 'âges', 'rentreront', 'âge', 'absolu', ',', 'fils', 'retourneront', 'vers', 'seuil', 'paternel', 'Et', 'raviront', 'force', "l'", 'amour', 'fraternel', 'Et', "l'", 'antique', 'héritage', 'bien', 'dévolu', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'devient', 'enfant', ',', 'surtout', 'vieil', 'homme', 'barbe', 'grise', ',', 'cheveux', 'mêlés', 'souffle', 'brise', ',', 'regard', 'modeste', 'jadis', 'triomphant', '.']
-['Voici', 'lieu', 'monde', 'où', 'tout', 'devient', 'novice', ',', 'cette', 'vieille', 'tête', 'lanternements', ',', 'deux', 'bras', 'raidis', 'gouvernements', ',', 'seul', 'coin', 'terre', 'où', 'tout', 'devient', 'complice', ',', 'grand', 'sot', 'faisait', 'malin', ',', "C'", 'serviteur', ',', 'première', 'servante', ')', 'Et', 'tournait', 'rond', 'orbe', 'savante', ',', 'portait', "l'", 'eau', 'bief', 'moulin', '.']
-['Ce', 'partout', 'ailleurs', 'arrachement', "N'", 'ici', 'fleur', 'jeune', 'saison', '.']
-['Ce', 'partout', 'ailleurs', 'retranchement', "N'", 'ici', "qu'", 'soleil', 'ras', "l'", 'horizon', '.']
-['Ce', 'partout', 'ailleurs', 'dur', 'labourage', "N'", 'ici', 'récolte', 'dessaisissement', '.']
-['Ce', 'partout', 'ailleurs', 'déclin', "d'", 'âge', "N'", 'ici', "qu'", 'candide', 'cher', 'vieillissement', '.']
-['Ce', 'partout', 'ailleurs', 'résistance', "N'", 'ici', 'suite', "d'", 'accompagnement', ';', 'partout', 'ailleurs', 'prosternement', "N'", 'ici', "qu'", 'douce', 'longue', 'obéissance', '.']
-['Ce', 'partout', 'ailleurs', 'règle', 'contrainte', "N'", 'ici', 'déclenche', "qu'", 'abandonnement', ';', 'partout', 'ailleurs', 'dure', 'astreinte', "N'", 'ici', 'faiblesse', 'soulèvement', '.']
-['Ce', 'partout', 'ailleurs', 'règle', 'conduite', "N'", 'ici', 'bonheur', 'renforcement', ';', 'partout', 'ailleurs', 'épargne', 'produite', "N'", 'ici', "qu'", 'honneur', "qu'", 'grave', 'serment', '.']
-['Ce', 'partout', 'ailleurs', 'courbature', "N'", 'ici', 'fleur', 'jeune', 'oraison', ';', 'partout', 'ailleurs', 'lourde', 'armature', "N'", 'ici', 'laine', 'blanche', 'toison', '.']
-['Ce', 'partout', 'ailleurs', 'tour', 'force', "N'", 'ici', 'simplesse', 'délassement', ';', 'partout', 'ailleurs', 'rugueuse', 'écorce', "N'", 'ici', 'sève', 'pleurs', 'sarment', '.']
-['Ce', 'partout', 'ailleurs', 'longue', 'usure', "N'", 'ici', 'renfort', 'recroissement', ';', 'partout', 'ailleurs', 'bouleversement', "N'", 'ici', 'jour', 'bonne', 'aventure', '.']
-['Ce', 'partout', 'ailleurs', 'tient', 'réserve', "N'", 'ici', "qu'", 'abondance', 'dépassement', ';', 'partout', 'ailleurs', 'gagne', 'conserve', "N'", 'ici', 'dépense', 'désistement', '.']
-['Ce', 'partout', 'ailleurs', 'tient', 'défense', "N'", 'ici', 'liesse', 'démantèlement', ';', "l'", 'oubli', "l'", 'injure', "l'", 'oubli', "l'", 'offense', "N'", 'ici', 'paresse', 'bannissement', '.']
-['Ce', 'partout', 'ailleurs', 'liaison', "N'", 'ici', "qu'", 'fidèle', 'noble', 'attachement', ';', 'partout', 'ailleurs', 'encerclement', "N'", 'ici', "qu'", 'passant', 'dedans', 'maison', '.']
-['Ce', 'partout', 'ailleurs', 'obédience', "N'", 'ici', "qu'", 'gerbe', 'temps', 'fauchaison', ';', 'partout', 'ailleurs', 'fait', 'surveillance', "N'", 'ici', "qu'", 'beau', 'coin', 'temps', 'fenaison', '.']
-['Ce', 'partout', 'ailleurs', 'forcerie', "N'", 'ici', 'plante', 'jardin', ';', 'partout', 'ailleurs', 'gagerie', "N'", 'ici', 'seuil', 'gradin', '.']
-['Ce', 'partout', 'ailleurs', 'rétorsion', "N'", 'ici', 'détente', 'désarmement', ';', 'partout', 'ailleurs', 'contraction', "N'", 'ici', "qu'", 'muet', 'calme', 'engagement', ';', 'partout', 'ailleurs', 'bien', 'périssable', "N'", 'ici', "qu'", 'tranquille', 'bref', 'dégagement', ';', 'partout', 'ailleurs', 'rengorgement', "N'", 'ici', "qu'", 'rose', 'sable', '.']
-['Ce', 'partout', 'ailleurs', 'efforcement', "N'", 'ici', 'fleur', 'jeune', 'raison', ';', 'partout', 'ailleurs', 'redressement', "N'", 'ici', 'pente', 'pli', 'gazon', '.']
-['Ce', 'partout', 'ailleurs', 'écorcherie', "N'", 'ici', "qu'", 'modeste', 'beau', 'dévêtement', ';', 'partout', 'ailleurs', 'affouillerie', "N'", 'ici', "qu'", 'durable', 'sûr', 'dépouillement', '.']
-['Ce', 'partout', 'ailleurs', 'raidissement', "N'", 'ici', "qu'", 'souple', 'candide', 'fontaine', ';', 'partout', 'ailleurs', 'illustre', 'peine', "N'", 'ici', "qu'", 'profond', 'pur', 'jaillissement', '.']
-['Ce', 'partout', 'ailleurs', 'querelle', 'prend', "N'", 'ici', "qu'", 'beau', 'fleuve', 'confins', 'source', ',', 'reine', "c'", 'ici', 'tout', 'âme', 'rend', 'Comme', 'jeune', 'guerrier', 'retombé', 'course', '.']
-['Ce', 'partout', 'ailleurs', 'route', 'gravie', ',', 'reine', 'régnez', 'illustre', 'cour', ',', 'matin', ',', 'dernier', 'jour', ',', 'partout', 'ailleurs', 'table', 'servie', ',', 'partout', 'ailleurs', 'route', 'suivie', "N'", 'ici', "qu'", 'paisible', 'fort', 'détachement', ',', 'calme', 'temple', 'loin', "d'", 'plat', 'tourment', "L'", 'attente', "d'", 'mort', 'plus', 'vivante', 'vie', '.']
-['2.', '--', 'prière', 'demande', 'Nous', 'demandons', 'grain', 'sous', 'meule', 'Soit', 'jamais', 'replacé', 'coeur', "l'", 'épi', ',', 'demandons', "l'", 'âme', 'errante', 'seule', 'Soit', 'jamais', 'reposée', 'jardin', 'fleuri', '.']
-['Nous', 'demandons', 'grappe', 'écrasée', 'Soit', 'jamais', 'replacée', 'fronton', 'treille', ',', 'lourd', 'frelon', 'jeune', 'abeille', 'Y', 'jamais', 'gorger', 'rosée', '.']
-['Nous', 'demandons', 'rose', 'vermeille', 'Soit', 'jamais', 'replacée', 'cerceaux', 'rosier', ',', 'paneton', 'lourde', 'corbeille', 'Retourne', 'vers', 'fleuve', 'redevienne', 'osier', '.']
-['Nous', 'demandons', 'cette', 'page', 'écrite', 'Soit', 'jamais', 'effacée', 'livre', 'mémoire', ',', 'lourd', 'soupçon', 'jeune', 'histoire', 'Vienne', 'remémorer', 'cette', 'peine', 'prescrite', '.']
-['Nous', 'demandons', 'tige', 'ployée', 'Soit', 'jamais', 'redressée', 'livre', 'nature', ',', 'lourd', 'bourgeon', 'jeune', 'nervure', 'Perce', 'jamais', "l'", 'écorce', 'redéployée', '.']
-['Nous', 'demandons', 'rameau', 'broyé', 'Reverdisse', 'jamais', 'livre', 'grâce', ',', 'lourd', 'surgeon', 'jeune', 'race', 'Rejaillisse', 'jamais', "l'", 'arbre', 'foudroyé', '.']
-['Nous', 'demandons', 'branche', 'effeuillée', 'Se', 'tourne', 'jamais', 'plus', 'vers', 'jeune', 'printemps', ',', 'lourde', 'sève', 'jeune', 'temps', 'Sauve', 'cime', 'moins', 'forêt', 'noyée', '.']
-['Nous', 'demandons', 'pli', 'nappe', 'Soit', 'effacé', 'devant', 'revienne', 'maître', ',', 'servante', "qu'", 'malheureux', 'être', 'Soient', 'libérés', 'jamais', 'cette', 'lourde', 'chape', '.']
-['Nous', 'demandons', 'cette', 'auguste', 'table', 'Soit', 'jamais', 'resservie', ',', 'moins', 'Dieu', ',', "n'", 'espérons', 'grand', 'connétable', 'Chauffe', 'deux', 'fois', 'mains', 'vers', 'si', 'maigre', 'feu', '.']
-['Nous', 'demandons', "qu'", 'âme', 'fourvoyée', 'Soit', 'jamais', 'replacée', 'chemin', 'bonheur', '.']
-['O', 'suffit', "d'", 'avoir', 'gardé', "l'", 'honneur', 'Et', 'voulons', "qu'", 'aide', 'apitoyée', 'Nous', 'remette', 'jamais', 'chemin', 'plaisance', ',', 'voulons', "qu'", 'amour', 'soudoyée', 'Nous', 'remette', 'jamais', 'chemin', "d'", 'allégeance', ',', 'seul', 'gouvernement', "d'", 'âme', 'guerroyée', ',', 'mer', "l'", 'illustre', 'port', 'Nous', 'demandons', 'rien', 'amendements', 'Reine', 'garder', 'sous', 'commandements', 'Une', 'fidélité', 'plus', 'forte', 'mort', '.']
-['3.', '--', 'prière', 'confidence', 'Nous', 'demandons', 'cette', 'belle', 'nappe', 'Soit', 'jamais', 'repliée', 'rayons', "l'", 'armoire', ',', 'demandons', "qu'", 'pli', 'mémoire', 'Soit', 'jamais', 'effacé', 'cette', 'lourde', 'chape', '.']
-['Maîtresse', 'voie', 'raccordement', ',', 'miroir', 'justice', 'justesse', "d'", 'âme', ',', 'seule', 'savez', ',', 'grande', 'Dame', ',', "c'", 'halte', 'recueillement', '.']
-['Maîtresse', 'race', 'recroisement', ',', 'temple', 'sagesse', 'jurisprudence', ',', 'seule', 'connaissez', ',', 'sévère', 'prudence', ',', "c'", 'juge', 'balancement', '.']
-['Quand', 'fallut', "s'", 'asseoir', 'croix', 'deux', 'routes', 'Et', 'choisir', 'regret', "d'", 'avecque', 'remords', ',', 'fallut', "s'", 'asseoir', 'coin', 'doubles', 'sorts', 'Et', 'fixer', 'regard', 'clef', 'deux', 'voûtes', ',', 'seule', 'savez', ',', 'secret', ',', "l'", 'deux', 'chemins', 'allait', 'contre-bas', ',', 'connaissez', 'celui', 'choisirent', ',', 'choisit', 'cèdre', 'bois', "d'", 'coffret', '.']
-['Et', 'non', 'point', 'vertu', 'car', "n'", 'guère', ',', 'non', 'point', 'devoir', 'car', "l'", 'aimons', ',', 'comme', 'charpentier', "s'", 'arme', 'compas', ',', 'besoin', 'mettre', 'centre', 'misère', ',', 'bien', 'placer', "l'", 'axe', 'détresse', ',', 'besoin', 'sourd', "d'", 'être', 'plus', 'malheureux', ',', "d'", 'aller', 'plus', 'dur', 'souffrir', 'plus', 'creux', ',', 'prendre', 'mal', 'pleine', 'justesse', '.']
-['Par', 'vieux', 'tour', 'main', ',', 'cette', 'adresse', ',', 'servira', 'plus', 'bonheur', ',', ',', 'régente', ',', 'moins', 'tenir', "l'", 'honneur', ',', 'garder', 'seul', 'pauvre', 'tendresse', '.']
-['4.', '--', 'prière', 'report', 'Nous', 'gouverné', 'si', 'vastes', 'royaumes', ',', 'régente', 'rois', 'gouvernements', ',', 'tant', 'couché', 'paille', 'chaumes', ',', 'grands', 'gueux', 'soulèvements', '.']
-['Nous', "n'", 'plus', 'goût', 'grands', 'majordomes', ',', 'pouvoir', 'renversements', ',', "n'", 'plus', 'goût', 'chambardements', ',', 'frontons', ',', 'palais', 'dômes', '.']
-['Nous', 'combattu', 'si', 'ferventes', 'guerres', 'Par', 'devant', 'Seigneur', 'Dieu', 'armées', ',', 'parcouru', 'si', 'mouvantes', 'terres', ',', 'acquis', 'si', 'hautes', 'renommées', '.']
-['Nous', "n'", 'plus', 'goût', 'métier', 'armes', ',', 'grandes', 'paix', 'désarmements', ',', "n'", 'plus', 'goût', 'métier', 'larmes', ',', 'sept', 'douleurs', 'sept', 'sacrements', '.']
-['Nous', 'gouverné', 'si', 'vastes', 'provinces', ',', 'préfets', 'procurateurs', ',', 'lanterné', 'tous', 'tant', "d'", 'augustes', 'princes', ',', 'tableaux', 'peints', 'deux', 'donateurs', '.']
-['Nous', "n'", 'plus', 'goût', 'départements', ',', 'préfecture', 'capitale', ',', "n'", 'plus', 'goût', 'embarquements', ',', 'respirons', 'plus', 'vers', 'terre', 'natale', '.']
-['Nous', 'encouru', 'si', 'hautes', 'fortunes', ',', 'clef', 'seul', 'honneur', 'périra', 'point', ',', 'dépouillé', 'si', 'basses', 'rancunes', ',', 'témoignage', 'double', 'témoin', '.']
-['Nous', "n'", 'plus', 'goût', 'forfanteries', ',', 'sagesse', 'silence', "d'", 'ombre', ',', "n'", 'plus', 'goût', 'argenteries', ',', 'clef', 'seul', 'trésor', "d'", 'bonheur', 'sans', 'nombre', '.']
-['Nous', 'tant', 'vu', ',', 'pauvreté', ',', "n'", 'plus', 'goût', 'nouveaux', 'regards', ',', 'tant', 'fait', ',', 'pureté', ',', "n'", 'plus', 'goût', 'nouveaux', 'hasards', '.']
-['Nous', 'tant', 'péché', ',', 'pécheur', ',', "n'", 'plus', 'goût', 'atermoiements', ',', 'tant', 'cherché', ',', 'candeur', ',', "n'", 'plus', 'goût', 'enseignements', '.']
-['Nous', 'tant', 'appris', 'maisons', "d'", 'école', ',', 'savons', 'plus', 'rien', 'commandements', ',', 'tant', 'failli', "l'", 'acte', 'parole', ',', 'savons', 'plus', 'rien', 'amendements', '.']
-['Nous', 'soldats', 'grognaient', 'monde', ',', 'marchaient', 'toujours', "n'", 'jamais', 'plié', ',', 'cette', 'Église', 'faisceau', 'lié', ',', 'cette', 'race', 'internelle', 'profonde', '.']
-['Nous', 'demandons', 'plus', 'biens', 'périssables', ',', 'demandons', 'plus', 'grâces', 'bonheur', ',', 'demandons', 'plus', 'grâces', "d'", 'honneur', ',', 'bâtirons', 'plus', 'maisons', 'sables', '.']
-['Nous', 'savons', 'plus', 'rien', "qu'", 'a', ',', 'savons', 'plus', 'rien', "qu'", 'a', '.']
-['Nous', 'connaissons', 'plus', "qu'", 'éternel', 'édit', ',', 'savons', 'plus', 'rien', 'ordre', 'absolu', '.']
-['Nous', 'trop', 'pris', ',', 'résolus', '.']
-['Nous', 'voulons', 'plus', 'rien', 'obéissance', ',', 'rester', 'sous', 'coups', "d'", 'auguste', 'puissance', ',', 'temps', 'futurs', 'temps', 'révolus', '.']
-["S'", 'permis', 'pourtant', 'celui', 'rien', 'Puisse', 'jour', 'disposer', ',', 'léguer', 'quelque', 'chose', '.']
-["S'", "n'", 'défendu', ',', 'rose', ',', 'celui', 'reporte', 'jour', 'bien', ';', 'permis', 'gueux', 'faire', 'testament', ',', 'léguer', "l'", 'asile', 'paille', 'chaume', ',', 'permis', 'roi', 'léguer', 'royaume', ',', 'si', 'grand', 'dauphin', 'prête', 'nouveau', 'serment', ';', 'admis', 'pourtant', 'celui', 'doit', 'tout', 'Se', 'fasse', 'ouvrir', 'compte', 'porter', 'crédit', ',', 'virement', 'tourne', "n'", 'interdit', ',', 'demandons', 'rien', ',', 'irons', "jusqu'", 'bout', ',', 'donc', 'admis', "qu'", 'humble', 'débiteur', 'Puisse', 'élever', 'voix', "n'", 'dû', ',', 'peut', 'toucher', 'prix', 'quand', 'vendu', ',', 'faire', 'balancer', 'solde', 'créditeur', ';', "n'", 'connu', 'grâces', 'guerre', 'Et', 'grâces', 'deuil', 'grâces', 'peine', ',', 'Et', 'grâces', 'joie', 'cette', 'lourde', 'plaine', ')', 'Et', 'cheminement', 'grâces', 'misère', ';', 'procession', 'grâces', 'détresse', ',', 'champs', 'labourés', 'sentiers', 'battus', ',', 'coeurs', 'lacérés', 'reins', 'courbatus', ',', 'demandons', 'rien', ',', 'maîtresse', '.']
-['Nous', "n'", 'connu', 'adversité', ',', 'Mais', "qu'", 'bénie', ',', 'temple', 'sagesse', ')', 'ô', 'reporter', ',', 'largesse', ',', 'grâces', 'bonheur', 'prospérité', '.']
-['Veuillez', 'reposer', 'quatre', 'jeunes', 'têtes', ',', 'grâces', 'douceur', 'consentement', ',', 'tresser', 'fronts', ',', 'pur', 'froment', ',', 'épis', 'cueillis', 'moisson', 'fêtes', '.']
+tapisserie Notre Dame_ _cahier dimanche Pentecôte mois mai quatorzième série_ fidèle Lotte _Bulletin Professeurs catholiques l' Université Présentation Paris Dame Étoile mer voici lourde nef Où ramons tout nuds sous commandements Voici détresse désarmements ; quai Louvre , l' écluse , bief .
+
+Voici appareil voici chef .
+
+C' gars chez siffle moments .
+
+Il pareil gouvernements .
+
+Il a tête dure geste peu bref .
+
+Reine levez tous océans , penserez quand large .
+
+Aujourd' hui c' jour d' embarquer charge .
+
+Voici l' énorme grue longs meuglements .
+
+S' fallait charger pauvres vertus , vaisseau s' irait vers auguste seuil Plus creux noisette après l' écureuil L laissé retomber ongles pointus .
+
+Nuls ballots n' entreraient panneaux béants , arriverions mer sargasse Traînant cette inutile grotesque carcasse Et Anglais diraient : n' rien mis dedans .
+
+Mais saurons l' emplir jurons , plus beau cet illustre port .
+
+La cargaison ira jusque plat-bord .
+
+Et quand plein couronnerons .
+
+Nous chargerons pauvre maïs , l' or blé emporterons .
+
+Et tiendra mer : chargerons Du poids péchés payés fils .
+
+Paris vaisseau charge Double vaisseau charge deux rives Seine , pourpre d' or , myrrhe cinname , blé , seigle , justesse d' âme , humilité , orgueil , simple verveine ; pères t' comblé d' si longue peine , mille mille ans viens lame , nulle cargaison n' si lourde rame , nul bâtiment panse aussi pleine .
+
+Mais apporterons regret si sévère , si nourri d' honneur , si creusé flamme , chef prendra sac prière , fera hisser jusque sous l' oriflamme , appareillé sous Septime Sévère , vaisseau charge pieds Notre Dame .
+
+Paris double galère Depuis Point Jour jusqu' cèdres bibliques Double galère assise long grand bazar , grand ministère , morne alcazar , deuils privés vertus publiques ; quatre-vingts rois trois Républiques , sous Napoléon , César , pères tenté centuple hasard , courbés rames obliques .
+
+Et prenant place banc chêne , ramerons reins , nuque , l' âme , , , , sous chaîne ; tiendrons coup , rame , fils forçats deux rives Seine , couchés pieds Notre Dame .
+
+Paris vaisseau guerre Double vaisseau ligne long colonnades Autrefois bâtiment centuple sabord , hui lourde usine , coffre-fort Fermé secret sourdes canonnades .
+
+Nos pères t' dansé chaudes sérénades .
+
+Ils t' fleuri sang plus belle mort , gaillard d' avant vers l' l' autre bord Bondissait troupeau graves caronnades .
+
+Mais apporterons destins géants Un coeur si sérieux si brûlé flamme , coeur si curieux tous océans , fils soldats sous oriflamme , mettra valets canons béants , verts accroupis pieds Notre-Dame .
+
+Présentation Beauce Dame Chartres Étoile mer voici lourde nappe Et profonde houle l' océan blés Et mouvante écume greniers comblés , regard cette immense chape Et voici voix cette lourde plaine Et amis absents coeurs dépeuplés , long poings désassemblés Et lassitude force pleine .
+
+Étoile matin , reine , marchons vers illustre cour , voici plateau pauvre amour , voici l' océan immense peine .
+
+Un sanglot rôde court delà l' horizon .
+
+A quelques toits font comme archipel .
+
+Du vieux clocher retombe sorte d' appel .
+
+L' épaisse église semble basse maison .
+
+Ainsi naviguons vers cathédrale .
+
+De loin loin surnage chapelet meules , comme tours , seules Comme rang châteaux barque amirale .
+
+Deux mille ans labeur fait cette terre Un réservoir sans fin âges nouveaux .
+
+Mille ans grâce fait travaux Un reposoir sans fin l' âme solitaire .
+
+Vous voyez marcher cette route droite , poudreux , crottés , pluie entre dents .
+
+Sur large éventail ouvert vents La route nationale porte étroite .
+
+Nous allons devant , mains long poches , aucun appareil , fatras , discours , toujours égal , hâte ni recours , champs plus présents vers champs plus proches .
+
+Vous voyez marcher , piétaille .
+
+Nous n' avançons jamais d' fois .
+
+Mais vingt siècles peuple vingt siècles rois , toute séquelle toute volaille Et leurs chapeaux valetaille Ont appris c' d' être familiers , comme peut marcher , pieds souliers , dernier carré soir d' bataille .
+
+Nous nés bord plateau , recourbement blonde Loire , fleuve sable fleuve gloire N' là baiser auguste manteau .
+
+Nous nés bord vaste plateau , l' antique Orléans sévère sérieuse , Loire coulante souvent limoneuse N' là laver pieds coteau .
+
+Nous nés bord plate Beauce Et connu dès plus jeunes ans Le portail ferme durs paysans Et l' enclos bourg bêche fosse .
+
+Nous nés bord Beauce plate Et connu dès premiers regrets Ce peut receler désespoirs secrets Un soleil descend ciel écarlate Et couche ras d' sol inévitable Dur comme justice , comme barre , comme loi , comme mare , comme beau socle plan comme table .
+
+Un homme chez , glèbe féconde A jaillir ici d' seul enlèvement , d' seule source d' seul portement , assomption flèche unique monde .
+
+Tour David voici tour beauceronne .
+
+C' l' épi plus dur jamais monté Vers ciel clémence sérénité , plus beau fleuron dedans couronne .
+
+Un homme chez a ici jaillir , ras sol jusqu' pied croix , haut tous saints , haut tous rois , flèche irréprochable peut faillir .
+
+C' gerbe blé périra point , fanera point soleil septembre , gèlera point rigueurs décembre , serviteur c' témoin .
+
+C' tige blé pourrira , flétrira point ardeurs l' .
+
+Qui moisira point hiver gâté , transira point commun trépas .
+
+C' pierre sans tache pierre sans faute , plus haute oraison qu' jamais portée , plus droite raison qu' jamais jetée , vers ciel sans bord ligne plus haute .
+
+Celle mourra jour d' aucunes morts , gage portrait arrachements , image tracé redressements , laine fuseau plus modestes sorts .
+
+Nous arrivons vers lointain Parisis .
+
+Nous trois jours quitté boutique , l' archéologie sémantique , maigre Sorbonne pauvres petits .
+
+D' autres viendront vers lointain Beauvaisis .
+
+Nous trois jours laissé négoce , rumeur géante ville colosse , autres viendront vers lointain Cambrésis .
+
+Nous arrivons vers Paris capitale .
+
+C' là gouvernement , temps perdu lanternement , liberté décevante totale .
+
+Nous arrivons vers l' autre Notre Dame , celle s' élève coeur cité , royale robe majesté , magnificence justesse d' âme .
+
+Comme commandez océan d' épis , commandez océan têtes , moisson deuils moisson fêtes Se couche chaque soir devant parvis .
+
+Nous arrivons vers noble Hurepoix .
+
+C' commencement Beauce usage , fermes champs taillés image , coupés plus souvent rideaux bois , coupés plus souvent creuses vallées Pour l' Yvette Bièvre leurs accroissements , leurs savants détours leurs dégagements , beaux châteaux longues allées .
+
+D' autres viendront vers noble Vermandois , vallonnements bouleaux saules .
+
+D' autres viendront vers palais geôles .
+
+Et pays picard vert Vendômois .
+
+Mais c' toujours France , petite plus grande , pays beaux blés encadrements , pays grappe ruissellements , pays genêts , bruyère , lande .
+
+Nous arrivons vers lointain Palaiseau Et faubourgs d' Orsay Gometz-le-Châtel , dit Saint-Clair ; n' castel ; village bord d' route biseau .
+
+Nous débouché , coteau , ras plaine Gometz-la-Ville Au-dessus Saint-Clair ; n' ville ; village bord d' route plateau .
+
+Nous descendu côte Limours .
+
+Nous rencontré trois quatre gendarmes .
+
+Ils regardé , sans quelques alarmes , poteaux coins carrefours .
+
+Nous pu coucher calme Dourdan .
+
+C' gros bourg très riche sent province .
+
+Fiers longé , comme prince , fossés château coupés comme redan .
+
+Dans maison amie , fraternelle On a coucher lit garçon .
+
+Vingt ans souvenirs échanson .
+
+Le pain coupé d' main maternelle .
+
+Toute jeunesse là sollennelle .
+
+On prononça Bénédicité .
+
+Quatre siècles d' honneur fidélité Faisaient draps lit couche éternelle .
+
+Nous fait semblant d' être gai pèlerin Et bon vivant d' aimer voyages , d' avoir parcouru cent trente-et-un bailliages , d' être accoutumés d' être chemin .
+
+La clarté lampe éblouissait nappe .
+
+On fit visiter jardin potager .
+
+Il donnait treille beau verger .
+
+Tel premier gîte tête d' étape .
+
+Le jardin clos coude l' Orge .
+
+Vers droite donnait mur bocager Surmonté rameaux d' arceau léger .
+
+En face maréchal , l' enclume , forge .
+
+Nous levés matin devant l' aube .
+
+Nous quittés après beaux adieux .
+
+Le temps s' annonçait bien .
+
+On a tant mieux .
+
+On a goûter quelque boeuf daube , entendu bon pèlerin Est celui boit ferme tient place , qu' besoin faire comptable , c' bien assez lever matin .
+
+Le jour route soleil montait Quand passé Sainte-Mesme autres .
+
+Nous avancions déjà comme deux bons apôtres .
+
+Et gauche droite comptait .
+
+Nous remontés Gué Longroy , fait désormais atermoiements , l' iniquité dénivellements : juste plaine secret effroi De trouver tout seuls voici charroi Et roue boeufs joug grange , poussière égale l' équitable fange Et détresse égale l' égal désarroi .
+
+Nous voici parvenus haute terrasse Où rien cache plus l' homme devant Dieu , nul déguisement ni temps ni lieu Ne pourra sauver Seigneur , chasse .
+
+Voici gerbe immense l' immense liasse , grain sous meule écrasements , grêle javelle renoncements , l' immense horizon regard embrasse .
+
+Et indignité cette immuable masse , basse peur pareil moment , juste terreur secret tourment De trouver tout seuls devant face .
+
+Mais voici c' , majesté .
+
+Comment avons-nous pu laisser décevoir , marcher devant sans apercevoir .
+
+Nous donc toujours peuple inconcerté .
+
+Ce pays plus ras plus rase table .
+
+A creux sol , peine léger pli .
+
+C' table juge fait accompli , l' arrêt sans appel l' ordre inéluctable .
+
+Et c' prononcé texte insurmontable , mesure comble c' sort empli , c' vie étale l' homme enseveli , c' héraut d' arme sceau redoutable .
+
+Mais apparaissez , mystérieuse .
+
+Cette pointe là-bas moutonnement Des moissons bois flottement De l' extrême horizon n' point yeuse , profil connu d' arbre interchangeable .
+
+C' déjà plus distante , plus basse , plus haute , comme espoir dernière côte , dernier coteau flèche inimitable .
+
+D' ici vers , reine , n' plus route .
+
+Celle-ci regarde , a fait d' autres .
+
+Vous gloire nôtres .
+
+Nous l' entamée , mangera toute .
+
+Nous savons c' qu' tronçon s' ajoute Au tronçon déjà fait qu' kilomètre Demande jarret qu' faut mettre : passerons soir pont voûte Et fossé profond cerne rempart .
+
+Nous marchons vent coupés autos .
+
+C' ici contrée imprenable photos , route nue grave allant part part .
+
+Nous bon vent partir dès jour .
+
+Nous coucherons soir chez , cette vieille auberge où quarante sous Nous dormirons tout près illustre tour .
+
+Nous si fourbus regarderons , chaise auprès fenêtre Dans écrasement corps tout l' être , yeux battus , yeux ronds , sourcils haussés jusque dedans fronts , angle fois trouvé seul homme monde , l' unique montée ascendante profonde , recrus contemplerons .
+
+Voici l' axe ligne géante fleur .
+
+Voici dure pente contentement .
+
+Voici l' exactitude consentement .
+
+Et sévère larme , reine douleur .
+
+Voici nudité , reste vêtement .
+
+Voici vêtement , reste parure .
+
+Voici pureté , reste souillure .
+
+Voici pauvreté , reste ornement .
+
+Voici seule force reste faiblesse .
+
+Voici l' arête unique reste bavure .
+
+Et seule noblesse reste ordure .
+
+Et seule grandeur reste bassesse .
+
+Voici seule foi point parjure .
+
+Voici seul élan sache peu monter .
+
+Voici seul instant vaille compter .
+
+Voici seul propos s' achève dure .
+
+Voici monument , reste doublure .
+
+Et voici amour entendement .
+
+Et port tête apaisement .
+
+Et rien dentelle l' exacte moulure .
+
+Voici beau serment , reste forfaiture .
+
+Voici l' unique prix arrachements , salaire payé retranchements .
+
+Voici vérité , reste imposture .
+
+Voici firmament , reste procédure .
+
+Et vers tribunal voici l' ajustement .
+
+Et vers paradis voici l' achèvement .
+
+Et feuille pierre l' exacte nervure .
+
+Nous resterons cloués chaise paille .
+
+Et n' entendrons verrons Le tumulte voix , tumulte , salle bas l' innocente ripaille .
+
+Ni rouliers venus jour marché .
+
+Ni feinte colère l' éclat jurons : contemplerons méditerons D' seul embrassement flèche sans péché .
+
+Nous sentirons ni faces raidies , faim ni soif ni renoncements , raides genoux ni raisonnements , pantalons jambes engourdies .
+
+Perdus cette chambre parmi tant d' hôtels , descendrons heure repas , n' entendrons verrons La ville prosternée pieds autels .
+
+Et quand lèvera soleil demain , réveillerons aube lustrale , l' ombre deux bras cathédrale , malheureux perclus chemin .
+
+Nous venons prier pauvre garçon Qui mourut comme sot cours cette année , semaine devers journée Où fils naquit paille .
+
+ô n' pire troupeau .
+
+Il n' qu' défaut jeune cuirasse .
+
+Mais mort piste suit trace A trou qu' s' fait peau .
+
+Il né vers Gâtinais .
+
+Il commençait route où redescendons .
+
+Il gagnait tous jours tout perdons .
+
+Et pourtant c' destinais , mort vaincue premier caveau .
+
+Il mis mêmes empreintes .
+
+Mais seul manquement d' seule craintes Laissa passer mort chemin nouveau .
+
+Le voici maintenant dedans régence .
+
+Vous reine mère saurez montrer .
+
+C' être pur .
+
+Vous ferez rentrer Dans patronage indulgence .
+
+ô lisez secret coeur , savez c' vie mort , savez ainsi quel secret sort Se coud découd ruse traqueur .
+
+Et savez ainsi quel accent choeur Se noue dénoue accompagnement , qu' faut d' espace déboisement Pour laisser débouler meute piqueur .
+
+Et savez ainsi quel recreux port Se prépare s' achève noble enlèvement , quel jeu d' adresse gouvernement Se dérobe fige illustre support .
+
+Et savez ainsi quel tranchant glaive Se joue déjoue épouvantement , quel coup pouce quel balancement L' plateaux descend l' autre s' élève .
+
+Et peut coûter lèvre moqueur , qu' faut force recroisement Pour faire coup d' seul retournement D' vaincu malheureux malheureux vainqueur .
+
+Mère voici donc , race , vingt ans après redoublement .
+
+Reine recevez-le amendement .
+
+Où mort a , bien grâce .
+
+Nous , retournerons chemin .
+
+Ce nouveau terre sans cachette , château sans coin sans oubliette , sol mieux gravé qu' parfait parchemin .
+
+_Et nunc in hora_ , prions Qui plus grands sots pauvre gamin , sans doute moins purs moins main , moins acheminés vers sacrés genoux .
+
+Quand joué derniers personnages , posé cape manteau , jeté masque couteau , rappeler longs pèlerinages .
+
+Quand retournerons cette froide terre , qu' prescrit premier Adam , Saint-Chéron , Dourdan , rappeler chemin solitaire .
+
+Quand mis étroite fosse , dit l' absoute messe , rappeler , promesse , long cheminement faisons Beauce .
+
+Quand quitté sac cette corde , tremblé derniers tremblements , râlé derniers râclements , rappeler miséricorde .
+
+Nous demandons rien , pécheur , dernière place Purgatoire , pleurer longuement tragique histoire , contempler loin jeune splendeur .
+
+_les quatre prières cathédrale Chartres_ 1. -- prière résidence O voici donc après longue route , repartir chemin , seul asile ouvert creux main , jardin secret où l' âme s' ouvre toute .
+
+Voici lourd pilier montante voûte ; l' oubli hier , l' oubli demain ; l' inutilité tout calcul humain ; plus péché , sagesse déroute .
+
+Voici lieu monde où tout devient facile , regret , départ , l' événement , l' adieu temporaire détournement , seul coin terre où tout devient docile , vieux coeur faisait rebelle ; cette vieille tête raisonnements ; deux bras raidis casernements ; cette jeune enfant faisait trop belle .
+
+Voici lieu monde où tout reconnu , cette vieille tête source larmes ; deux bras raidis métier armes ; seul coin terre où tout contenu .
+
+Voici lieu monde où tout revenu Après tant départs , tant d' arrivées .
+
+Voici lieu monde où tout pauvre nu Après tant hasards , tant corvées .
+
+Voici lieu monde seule retraite , l' unique retour recueillement , feuille fruit défeuillement , rameaux cueillis cette unique fête .
+
+Voici lieu monde où tout rentre tait , silence l' ombre charnelle absence , commencement d' éternelle présence , seul réduit où l' âme tout qu' .
+
+Voici lieu monde où tentation Se retourne elle-même met envers .
+
+Car tente ici c' soumission ; c' l' aveuglement l' immense univers .
+
+Et déposement ici tente , vient tout seul l' abdication , vient soi-même présente N' ici grandesse présentation .
+
+C' révolte ici devient impossible , présente démission .
+
+Et c' l' effacement devient invincible , tout n' bonjour salutation .
+
+Ce partout ailleurs accession N' ici qu' total sourd abrasement .
+
+Ce partout ailleurs entassement N' ici bassesse dépression .
+
+Ce partout ailleurs oppression N' ici l' effet d' noble écrasement .
+
+Ce partout ailleurs empressement N' ici qu' héritage succession .
+
+Ce partout ailleurs rude guerre N' ici paix d' long délaissement .
+
+Ce partout ailleurs affaissement Est ici loi norme vulgaire .
+
+Ce partout ailleurs âpre bataille Et cou tendu couteau boucher , partout ailleurs greffe taille N' ici fleur fruit pêcher .
+
+Ce partout ailleurs rude montée N' ici descente qu' aboutissement .
+
+Ce partout ailleurs mer démontée N' ici bonace qu' établissement .
+
+Ce partout ailleurs dure loi N' ici qu' beau pli sous commandements , liberté amendements Une fidélité plus tendre foi .
+
+Ce partout ailleurs obsession N' ici sous lois qu' place rendue .
+
+Ce partout ailleurs âme vendue N' ici prière qu' intercession .
+
+Ce partout ailleurs lassitude N' ici clefs humble plateau .
+
+Ce partout ailleurs vicissitude N' ici qu' vigne coteau .
+
+Ce partout ailleurs longue habitude Assise coin feu poings sous menton , partout ailleurs solitude N' ici qu' vivace ferme rejeton .
+
+Ce partout ailleurs décrépitude Assise coin feu poings genoux N' ici tendresse sollicitude Et deux bras maternels tournent vers .
+
+Nous lavés d' telle amertume Étoile mer récifs salés , lavés d' si basse écume , barque souples filets .
+
+Nous délavé malheureuses têtes D' tel fatras d' ordure raisonnement , voici désormais , reine prophètes , clairs l' eau puits l' ancien testament .
+
+Nous gouverné si modestes arches , seul vaisseau périra , consulté si pauvres compas , seul salut , patriarches .
+
+Nous consommé si lointains voyages , n' plus goût pays étranges .
+
+Reine confesseurs , vierges anges , voici retournés premiers villages .
+
+On a dit , reine apôtres , n' plus goût péroraison .
+
+Nous n' plus d' autels ceux vôtres , savons plus rien qu' simple oraison .
+
+Nous essuyé si vastes naufrages , n' plus goût transbordement , voici revenus , déclin âges , seul Nord bâtiment .
+
+Ce partout ailleurs dispersion N' ici l' effet d' beau rassemblement .
+
+Ce partout ailleurs démembrement N' ici cortège procession .
+
+Ce partout ailleurs demande examen N' ici l' effet d' pauvre jeunesse .
+
+Ce partout ailleurs demande lendemain N' ici l' effet soudaine faiblesse .
+
+Ce partout ailleurs demande parchemin N' ici l' effet d' pauvre tendresse .
+
+Ce partout ailleurs demande tour main N' ici l' effet d' humble maladresse .
+
+Ce partout ailleurs détraquement N' ici justesse déclinaison .
+
+Ce partout ailleurs baraquement N' ici qu' épaisse durable maison .
+
+Ce partout ailleurs guerre paix N' ici défaite reddition .
+
+Ce partout ailleurs sédition N' ici qu' beau peuple épis épais .
+
+Ce partout ailleurs immense armée Avec trains vivre encombrements , trains bagage retardements , ici décence bonne renommée .
+
+Ce partout ailleurs effondrement N' ici qu' lente courbe inclinaison .
+
+Ce partout ailleurs comparaison Est ici sans pareil sans redoublement .
+
+Ce partout ailleurs accablement N' ici l' effet pauvre obéissance .
+
+Ce partout ailleurs grand parlement N' ici l' effet seule audience .
+
+Ce partout ailleurs encadrement N' ici qu' candide calme reposoir .
+
+Ce partout ailleurs ajournement N' ici l' oubli matin soir .
+
+Les matins partis vers temps révolus , soirs partiront vers soir éternel , jours entreront jour solennel , fils deviendront hommes résolus .
+
+Les âges rentreront âge absolu , fils retourneront vers seuil paternel Et raviront force l' amour fraternel Et l' antique héritage bien dévolu .
+
+Voici lieu monde où tout devient enfant , surtout vieil homme barbe grise , cheveux mêlés souffle brise , regard modeste jadis triomphant .
+
+Voici lieu monde où tout devient novice , cette vieille tête lanternements , deux bras raidis gouvernements , seul coin terre où tout devient complice , grand sot faisait malin , C' serviteur , première servante ) Et tournait rond orbe savante , portait l' eau bief moulin .
+
+Ce partout ailleurs arrachement N' ici fleur jeune saison .
+
+Ce partout ailleurs retranchement N' ici qu' soleil ras l' horizon .
+
+Ce partout ailleurs dur labourage N' ici récolte dessaisissement .
+
+Ce partout ailleurs déclin d' âge N' ici qu' candide cher vieillissement .
+
+Ce partout ailleurs résistance N' ici suite d' accompagnement ; partout ailleurs prosternement N' ici qu' douce longue obéissance .
+
+Ce partout ailleurs règle contrainte N' ici déclenche qu' abandonnement ; partout ailleurs dure astreinte N' ici faiblesse soulèvement .
+
+Ce partout ailleurs règle conduite N' ici bonheur renforcement ; partout ailleurs épargne produite N' ici qu' honneur qu' grave serment .
+
+Ce partout ailleurs courbature N' ici fleur jeune oraison ; partout ailleurs lourde armature N' ici laine blanche toison .
+
+Ce partout ailleurs tour force N' ici simplesse délassement ; partout ailleurs rugueuse écorce N' ici sève pleurs sarment .
+
+Ce partout ailleurs longue usure N' ici renfort recroissement ; partout ailleurs bouleversement N' ici jour bonne aventure .
+
+Ce partout ailleurs tient réserve N' ici qu' abondance dépassement ; partout ailleurs gagne conserve N' ici dépense désistement .
+
+Ce partout ailleurs tient défense N' ici liesse démantèlement ; l' oubli l' injure l' oubli l' offense N' ici paresse bannissement .
+
+Ce partout ailleurs liaison N' ici qu' fidèle noble attachement ; partout ailleurs encerclement N' ici qu' passant dedans maison .
+
+Ce partout ailleurs obédience N' ici qu' gerbe temps fauchaison ; partout ailleurs fait surveillance N' ici qu' beau coin temps fenaison .
+
+Ce partout ailleurs forcerie N' ici plante jardin ; partout ailleurs gagerie N' ici seuil gradin .
+
+Ce partout ailleurs rétorsion N' ici détente désarmement ; partout ailleurs contraction N' ici qu' muet calme engagement ; partout ailleurs bien périssable N' ici qu' tranquille bref dégagement ; partout ailleurs rengorgement N' ici qu' rose sable .
+
+Ce partout ailleurs efforcement N' ici fleur jeune raison ; partout ailleurs redressement N' ici pente pli gazon .
+
+Ce partout ailleurs écorcherie N' ici qu' modeste beau dévêtement ; partout ailleurs affouillerie N' ici qu' durable sûr dépouillement .
+
+Ce partout ailleurs raidissement N' ici qu' souple candide fontaine ; partout ailleurs illustre peine N' ici qu' profond pur jaillissement .
+
+Ce partout ailleurs querelle prend N' ici qu' beau fleuve confins source , reine c' ici tout âme rend Comme jeune guerrier retombé course .
+
+Ce partout ailleurs route gravie , reine régnez illustre cour , matin , dernier jour , partout ailleurs table servie , partout ailleurs route suivie N' ici qu' paisible fort détachement , calme temple loin d' plat tourment L' attente d' mort plus vivante vie .
+
+2. -- prière demande Nous demandons grain sous meule Soit jamais replacé coeur l' épi , demandons l' âme errante seule Soit jamais reposée jardin fleuri .
+
+Nous demandons grappe écrasée Soit jamais replacée fronton treille , lourd frelon jeune abeille Y jamais gorger rosée .
+
+Nous demandons rose vermeille Soit jamais replacée cerceaux rosier , paneton lourde corbeille Retourne vers fleuve redevienne osier .
+
+Nous demandons cette page écrite Soit jamais effacée livre mémoire , lourd soupçon jeune histoire Vienne remémorer cette peine prescrite .
+
+Nous demandons tige ployée Soit jamais redressée livre nature , lourd bourgeon jeune nervure Perce jamais l' écorce redéployée .
+
+Nous demandons rameau broyé Reverdisse jamais livre grâce , lourd surgeon jeune race Rejaillisse jamais l' arbre foudroyé .
+
+Nous demandons branche effeuillée Se tourne jamais plus vers jeune printemps , lourde sève jeune temps Sauve cime moins forêt noyée .
+
+Nous demandons pli nappe Soit effacé devant revienne maître , servante qu' malheureux être Soient libérés jamais cette lourde chape .
+
+Nous demandons cette auguste table Soit jamais resservie , moins Dieu , n' espérons grand connétable Chauffe deux fois mains vers si maigre feu .
+
+Nous demandons qu' âme fourvoyée Soit jamais replacée chemin bonheur .
+
+O suffit d' avoir gardé l' honneur Et voulons qu' aide apitoyée Nous remette jamais chemin plaisance , voulons qu' amour soudoyée Nous remette jamais chemin d' allégeance , seul gouvernement d' âme guerroyée , mer l' illustre port Nous demandons rien amendements Reine garder sous commandements Une fidélité plus forte mort .
+
+3. -- prière confidence Nous demandons cette belle nappe Soit jamais repliée rayons l' armoire , demandons qu' pli mémoire Soit jamais effacé cette lourde chape .
+
+Maîtresse voie raccordement , miroir justice justesse d' âme , seule savez , grande Dame , c' halte recueillement .
+
+Maîtresse race recroisement , temple sagesse jurisprudence , seule connaissez , sévère prudence , c' juge balancement .
+
+Quand fallut s' asseoir croix deux routes Et choisir regret d' avecque remords , fallut s' asseoir coin doubles sorts Et fixer regard clef deux voûtes , seule savez , secret , l' deux chemins allait contre-bas , connaissez celui choisirent , choisit cèdre bois d' coffret .
+
+Et non point vertu car n' guère , non point devoir car l' aimons , comme charpentier s' arme compas , besoin mettre centre misère , bien placer l' axe détresse , besoin sourd d' être plus malheureux , d' aller plus dur souffrir plus creux , prendre mal pleine justesse .
+
+Par vieux tour main , cette adresse , servira plus bonheur , , régente , moins tenir l' honneur , garder seul pauvre tendresse .
+
+4. -- prière report Nous gouverné si vastes royaumes , régente rois gouvernements , tant couché paille chaumes , grands gueux soulèvements .
+
+Nous n' plus goût grands majordomes , pouvoir renversements , n' plus goût chambardements , frontons , palais dômes .
+
+Nous combattu si ferventes guerres Par devant Seigneur Dieu armées , parcouru si mouvantes terres , acquis si hautes renommées .
+
+Nous n' plus goût métier armes , grandes paix désarmements , n' plus goût métier larmes , sept douleurs sept sacrements .
+
+Nous gouverné si vastes provinces , préfets procurateurs , lanterné tous tant d' augustes princes , tableaux peints deux donateurs .
+
+Nous n' plus goût départements , préfecture capitale , n' plus goût embarquements , respirons plus vers terre natale .
+
+Nous encouru si hautes fortunes , clef seul honneur périra point , dépouillé si basses rancunes , témoignage double témoin .
+
+Nous n' plus goût forfanteries , sagesse silence d' ombre , n' plus goût argenteries , clef seul trésor d' bonheur sans nombre .
+
+Nous tant vu , pauvreté , n' plus goût nouveaux regards , tant fait , pureté , n' plus goût nouveaux hasards .
+
+Nous tant péché , pécheur , n' plus goût atermoiements , tant cherché , candeur , n' plus goût enseignements .
+
+Nous tant appris maisons d' école , savons plus rien commandements , tant failli l' acte parole , savons plus rien amendements .
+
+Nous soldats grognaient monde , marchaient toujours n' jamais plié , cette Église faisceau lié , cette race internelle profonde .
+
+Nous demandons plus biens périssables , demandons plus grâces bonheur , demandons plus grâces d' honneur , bâtirons plus maisons sables .
+
+Nous savons plus rien qu' a , savons plus rien qu' a .
+
+Nous connaissons plus qu' éternel édit , savons plus rien ordre absolu .
+
+Nous trop pris , résolus .
+
+Nous voulons plus rien obéissance , rester sous coups d' auguste puissance , temps futurs temps révolus .
+
+S' permis pourtant celui rien Puisse jour disposer , léguer quelque chose .
+
+S' n' défendu , rose , celui reporte jour bien ; permis gueux faire testament , léguer l' asile paille chaume , permis roi léguer royaume , si grand dauphin prête nouveau serment ; admis pourtant celui doit tout Se fasse ouvrir compte porter crédit , virement tourne n' interdit , demandons rien , irons jusqu' bout , donc admis qu' humble débiteur Puisse élever voix n' dû , peut toucher prix quand vendu , faire balancer solde créditeur ; n' connu grâces guerre Et grâces deuil grâces peine , Et grâces joie cette lourde plaine ) Et cheminement grâces misère ; procession grâces détresse , champs labourés sentiers battus , coeurs lacérés reins courbatus , demandons rien , maîtresse .
+
+Nous n' connu adversité , Mais qu' bénie , temple sagesse ) ô reporter , largesse , grâces bonheur prospérité .
+
+Veuillez reposer quatre jeunes têtes , grâces douceur consentement , tresser fronts , pur froment , épis cueillis moisson fêtes .

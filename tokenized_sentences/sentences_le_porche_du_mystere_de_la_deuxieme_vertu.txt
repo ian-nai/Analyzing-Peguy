@@ -1,485 +1,969 @@
-['LE', 'PORCHE', 'DU', 'MYSTÈRE', 'DE', 'LA', 'DEUXIÈME', 'VERTU', 'Madame', 'Gervaise', 'rentre', 'Madame', 'Gervaise', 'La', 'foi', 'mieux', ',', 'Dieu', ',', '.']
-['La', 'foi', ',', '.']
-['Ça', 'étonnant', '.']
-['J', 'tellement', 'création', '.']
-['Dans', 'soleil', 'lune', 'étoiles', '.']
-['Dans', 'toutes', 'créatures', '.']
-['Dans', 'astres', 'firmament', 'poissons', 'mer', '.']
-['Dans', 'créatures', '.']
-['Sur', 'face', 'mer', 'face', 'eaux', '.']
-['Dans', 'mouvement', 'astres', 'ciel', '.']
-['Dans', 'vent', 'souffle', 'mer', 'vent', 'souffle', 'vallée', '.']
-['Dans', 'calme', 'vallée', '.']
-['Dans', 'recoite', 'vallée', '.']
-['Dans', 'plantes', 'bêtes', 'bêtes', 'forêts', '.']
-['Et', '.']
-['Ma', 'créature', '.']
-['Dans', 'peuples', 'hommes', 'rois', 'peuples', '.']
-['Dans', 'femme', 'compagne', '.']
-['Et', 'surtout', 'enfants', '.']
-['Mes', 'créatures', '.']
-['Dans', 'regard', 'voix', 'enfants', '.']
-['Car', 'enfants', 'plus', 'créatures', '.']
-['Que', 'hommes', 'Ils', 'encore', 'défaits', 'vie', '.']
-['De', 'terre', '.']
-['Et', 'entre', 'tous', 'serviteurs', '.']
-['Avant', 'tous', '.']
-['Et', 'voix', 'enfants', 'plus', 'pure', 'voix', 'vent', 'calme', 'vallée', '.']
-['Dans', 'vallée', 'recoite', '.']
-['Et', 'regard', 'enfants', 'plus', 'pur', 'bleu', 'ciel', ',', 'laiteux', 'ciel', ',', 'rayon', 'calme', 'nuit', '.']
-['Or', 'tellement', 'création', '.']
-['Sur', 'face', 'montagnes', 'face', 'plaine', '.']
-['Dans', 'pain', 'vin', 'laboure', 'sème', 'moisson', 'vendange', '.']
-['Dans', 'lumière', 'ténèbres', '.']
-['Et', 'cœur', ',', 'plus', 'profond', 'monde', '.']
-['Créé', '.']
-['Si', 'profond', 'impénétrable', 'regard', '.']
-['Excepté', 'regard', '.']
-['Dans', 'tempête', 'fait', 'bondir', 'vagues', 'tempête', 'fait', 'bondir', 'feuilles', '.']
-['Des', 'arbres', 'forêt', '.']
-['Et', 'contraire', 'calme', 'beau', 'soir', '.']
-['Dans', 'sables', 'mer', 'étoiles', 'sable', 'ciel', '.']
-['Dans', 'pierre', 'seuil', 'pierre', 'foyer', 'pierre', '.']
-['Dans', 'prière', 'sacrements', '.']
-['Dans', 'maisons', 'hommes', 'maison', 'terre', '.']
-['Dans', 'créature', 'vole', 'sommets', '.']
-['L', 'royal', 'a', 'moins', 'deux', 'mètres', '—gure', 'peut-être', 'trois', 'mètres', '.']
-['Et', 'fourmi', 'créature', 'rampe', 'amasse', 'petitement', '.']
-['Dans', 'terre', '.']
-['Dans', 'fourmi', 'serviteur', 'Et', 'jusque', 'serpent', '.']
-['Dans', 'fourmi', 'servante', ',', 'infime', 'servante', ',', 'amasse', 'péniblement', ',', 'parcimonieuse', '.']
-['Qui', 'travaille', 'comme', 'malheureuse', 'point', 'cesse', 'point', 'repos', '.']
-['Que', 'mort', 'long', 'sommeil', '(', 'épaules', 'tant', '.']
-['devant', 'tant', 'nce', '.']
-['J', 'tellement', 'toute', 'création', '.']
-['Dans', ',', 'créature', 'infime', ',', 'ser-', '—vante', 'infime', ',', 'fourmi', 'infime', '.']
-['Qui', 'thésaurise', 'petitement', ',', '.']
-['Comme', 'infime', '.']
-['Et', 'creuse', 'galeries', 'terre', '.']
-['Dans', 'sous-sols', 'terre', '.']
-['Pour', 'mesquinement', 'trésors', '.']
-['Temporels', '.']
-['Pauvrement', '.']
-['Et', 'jusque', 'serpent', '.']
-['Qui', 'a', 'femme', 'rampe', 'cela', 'ventre', '.']
-['Et', 'créature', 'serviteur', '.']
-['Le', 'serpent', 'a', 'femme', '.']
-['Ma', 'servante', '.']
-['Qui', 'a', 'serviteur', '.']
-['J', 'tellement', 'création', '.']
-['Dans', 'tout', 'arrive', 'hommes', 'peuples', ',', 'pauvres', '.']
-['Et', 'riches', '.']
-['Qui', 'veulent', 'être', 'créatures', '.']
-['Et', 'mettent', 'abri', '.']
-['D', 'serviteurs', '.']
-['Dans', 'tout', 'fait', 'défait', 'mal', 'bien', '.']
-['(', 'passe', 'dessus', ',', 'maître', 'fais', 'a', 'défais', 'a', '.']
-['Et', 'jusque', 'tentation', 'péché', '.']
-['Même', '.']
-['Et', 'arrivé', 'fils', '.']
-['A', '.']
-['Ma', 'créature', '.']
-['Que', 'créé', '.']
-['Dans', ',', 'renaissance', 'vie', 'mort', 'fils', '.']
-['Et', 'saint', 'sacrifice', 'messe', '.']
-['Dans', 'toute', 'naissance', 'toute', 'vie', '.']
-['Et', 'toute', 'mort', '.']
-['Et', 'vie', 'éternelle', 'finira', 'point', '.']
-['Qui', 'vaincra', 'toute', 'mort', '.']
-['J', 'tellement', 'création', '.']
-['Que', 'voir', 'vraiment', 'faudrait', 'pauvres', 'gens', 'aveugles', '.']
-['La', 'charité', ',', 'Dieu', ',', '.']
-['Ça', 'étonnant', '.']
-['Ces', 'pauvres', 'créatures', 'si', 'malheureuses', 'cœur', 'pierre', ',', '—raient-elles', 'point', 'charité', 'unes', 'autres', '.']
-['Comment', 'point', 'charité', 'frères', '.']
-['Comment', 'retireraient-ils', 'point', 'pain', 'bouche', ',', 'pain', 'chaque', 'jour', ',', 'donner', 'malheureux', 'enfants', 'passent', '.']
-['Et', 'fils', 'a', 'telle', 'charité', '.']
-['Mon', 'fils', 'frère', '.']
-['Une', 'si', 'grande', 'charité', '.']
-['Mais', ',', 'Dieu', ',', '.']
-['Moi-même', '.']
-['Ça', 'étonnant', '.']
-['Que', 'pauvres', 'enfants', 'voient', 'comme', 'tout', 'ça', 'passe', 'croient', 'demain', 'ça', 'ira', 'mieux', '.']
-['voient', 'comme', 'ça', 'passe', 'aujourd', 'hui', 'croient', 'ça', 'ira', 'mieux', 'demain', 'matin', '.']
-['Ça', 'étonnant', 'bien', 'plus', 'grande', 'mer-', '—veille', 'grâce', '.']
-['Et', 'étonné', 'moi-même', '.']
-['Et', 'faut', 'grâce', 'effet', 'force', 'incroyable', '.']
-['Et', 'coule', 'source', 'comme', 'fleuve', 'inépuisable', '.']
-['Depuis', 'première', 'fois', 'coula', 'depuis', 'toujours', 'coule', '.']
-['Dans', 'création', 'naturelle', 'surnaturelle', '.']
-['Dans', 'création', 'spirituelle', 'charnelle', 'encore', 'spirituelle', '.']
-['Dans', 'création', 'éternelle', 'temporelle', 'encore', 'éternelle', '.']
-['Mortelle', 'immortelle', '.']
-['Et', 'cette', 'fois', ',', 'cette', 'fois', ',', 'cette', 'fois', 'coula', ',', 'fleuve', 'sang', ',', 'flanc', 'percé', 'fils', '.']
-['Quelle', 'faut-il', 'grâce', 'force', 'grâce', 'cette', 'petite', 'espérance', ',', 'souffle', 'péché', ',', 'vents', ',', 'moindre', 'souffle', ',', 'aussi', 'invariable', ',', 'tienne', 'aussi', 'fidèle', ',', 'droite', ',', 'pure', ';', 'aussi', 'invincible', ',', 'immortelle', ',', 'impossible', ';', 'cette', 'petite', 'flamme', 'sanctuaire', '.']
-['Qui', 'brûle', 'éternellement', 'lampe', 'fidèle', '.']
-['Une', 'flamme', 'tremblotante', 'a', 'mondes', '.']
-['Une', 'flamme', 'vacillante', 'a', 'temps', '.']
-['Une', 'flamme', 'anxieuse', 'a', 'nuits', '.']
-['Depuis', 'cette', 'première', 'fois', 'grâce', 'a', 'création', 'monde', '.']
-['Depuis', 'toujours', 'grâce', 'coule', 'conser-', '—vation', 'monde', '.']
-['Depuis', 'cette', 'fois', 'sang', 'fils', 'a', 'salut', 'monde', '.']
-['Une', 'flamme', 'impossible', ',', 'souffle', 'mort', '.']
-['Ce', ',', 'Dieu', ',', '.']
-['Et', 'reviens', '.']
-['Cette', 'petite', 'espérance', 'rien', 'tout', '.']
-['Cette', 'petite', 'fille', 'espérance', '.']
-['Immortelle', '.']
-['Car', 'trois', 'vertus', ',', 'Dieu', '.']
-['Les', 'trois', 'vertus', 'créatures', '.']
-['Mes', 'filles', 'enfants', '.']
-['Sont', 'elles-mêmes', 'comme', 'autres', 'créatures', '.']
-['De', 'race', 'hommes', '.']
-['La', 'Foi', 'Épouse', 'fidèle', '.']
-['La', 'Charité', 'Mère', '.']
-['Une', 'mère', 'ardente', ',', 'cœur', '.']
-['Ou', 'sœur', 'aînée', 'comme', 'mère', '.']
-['L', 'petite', 'fille', 'rien', 'tout', '.']
-['Qui', 'venue', 'monde', 'jour', 'Noël', 'dernière', '.']
-['Qui', 'joue', 'encore', 'bonhomme', 'Janvier', '.']
-['Avec', 'petits', 'sapins', 'bois', 'couverts', 'givre', 'peint', '.']
-['Et', 'bœuf', 'âne', 'bois', '.']
-['Peints', '.']
-['Et', 'crèche', 'pleine', 'paille', 'bêtes', 'mangent', '.']
-['Puisqu', 'elles', 'bois', '.']
-['C', 'cette', 'petite', 'fille', 'pourtant', 'traversera', 'mondes', '.']
-['Cette', 'petite', 'fille', 'rien', 'tout', '.']
-['Elle', 'seule', ',', 'autres', ',', 'traversera', 'mondes', 'révolus', '.']
-['Comme', 'a', 'trois', 'rois', 'fin', 'fond', '.']
-['Vers', 'berceau', 'mo', '.']
-['Ainsi', 'flamme', 'tremblante', '.']
-['Elle', 'seule', 'conduira', 'Vertus', 'Mondes', '.']
-['Une', 'flamme', 'percera', 'ténèbres', 'éternelles', '.']
-['Le', 'prêtre', 'dit', '.']
-['Ministre', 'Dieu', 'prêtre', 'dit', ':', 'trois', 'vertus', 'théologales', '?']
-['L', 'répond', 'Les', 'trois', 'vertus', 'théologales', 'Foi', ',', 'Espérance', 'Charité', '.']
-['—', 'Foi', ',', 'Espérance', 'Charité', 'sont-', 'elles', 'appelées', 'vertus', 'théologales', '?']
-['—', 'Foi', ',', 'Espérance', 'Charité', 'appelées', 'vertus', 'théologales', 'parce', 'elles', 'rapportent', 'immédiatement', '.']
-['—', 'est-ce', '?']
-['—', 'Espérance', 'vertu', 'surnaturelle', 'laquelle', 'attendons', 'Dieu', ',', 'confiance', ',', 'grâce', 'monde', 'gloire', 'éternelle', '.']
-['—', 'acte', '.']
-['La', 'foi', 'va', 'soi', '.']
-['La', 'foi', 'marche', 'toute', 'seule', '.']
-['Pour', 'croire', 'a', 'laisser', 'aller', ',', 'a', '.']
-['Pour', 'croire', 'faudrait', 'vio-', '—lenter', ',', 'torturer', ',', 'tourmenter', ',', 'contrarier', '.']
-['Se', 'raidir', '.']
-['Se', 'prendre', 'envers', ',', 'mettre', 'en-', '—vers', ',', 'remonter', '.']
-['La', 'foi', 'toute', 'naturelle', ',', 'allante', ',', 'simple', ',', 'venante', '.']
-['Toute', 'bonne', 'venante', '.']
-['Toute', 'belle', 'allante', '.']
-['C', 'bonne', 'femme', 'connaît', ',', 'vieille', 'bonne', 'femme', ',', 'bonne', 'vieille', 'paroissienne', ',', 'bonne', 'femme', 'paroisse', ',', 'vieille', 'grand-', '—mère', ',', 'bonne', 'paroissienne', '.']
-['Elle', 'raconte', 'histoires', 'temps', ',', 'arrivées', 'temps', '.']
-['Pour', 'croire', ',', 'enfant', ',', 'faudrait', 'boucher', 'yeux', 'oreilles', '.']
-['Pour', 'voir', ',', 'croire', '.']
-['La', 'charité', 'va', 'malheureusement', 'soi', '.']
-['La', 'charité', 'marche', 'toute', 'seule', '.']
-['Pour', 'aimer', 'prochain', 'a', 'laisser', 'aller', ',', 'a', 'tant', 'détresse', '.']
-['Pour', 'aimer', 'prochain', 'faudrait', 'violenter', ',', 'torturer', ',', 'tourmenter', ',', 'contrarier', '.']
-['Sa', 'raidir', '.']
-['Se', 'faire', 'mal', '.']
-['Se', 'dénaturer', ',', 'prendre', 'envers', ',', 'mettre', 'envers', '.']
-['Se', 'remonter', '.']
-['La', 'charité', 'toute', 'naturelle', ',', 'jaillissante', ',', 'simple', ',', 'bonne', 'venante', '.']
-['C', 'premier', 'mouve-', '—ment', 'cœur', '.']
-['C', 'premier', 'mouvement', 'bon', '.']
-['La', 'charité', 'mère', 'sœur', '.']
-['Pour', 'aimer', 'prochain', ',', 'enfant', ',', 'faudrait', 'boucher', 'yeux', 'oreilles', '.']
-['À', 'cris', 'détresse', '.']
-['Mais', 'va', 'soi', '.']
-['L', 'va', 'toute', 'seule', '.']
-['Pour', 'espérer', ',', 'enfant', ',', 'faut', 'être', 'bien', 'heureux', ',', 'faut', 'avoir', 'obtenu', ',', 'grande', 'grâce', '.']
-['C', 'foi', 'facile', 'croire', 'se-', 'rait', 'impossible', '.']
-['C', 'charité', 'facile', 'aimer', 'impossible', '.']
-['Mais', 'difficile', '.']
-['basse', 'honteusement', 'Et', 'facile', 'pente', 'désespérer', 'grande', 'tentation', '.']
-['La', 'petite', 'espérance', 'entre', 'deux', 'gran-', 'sœurs', 'prend', 'seulement', 'garde', '.']
-['Sur', 'chemin', 'salut', ',', 'chemin', 'charnel', ',', 'chemin', 'raboteux', 'salut', ',', 'route', 'inter-', 'minable', ',', 'route', 'entre', 'deux', 'sœurs', 'petite', 'espérance', 'S', '.']
-['Entre', 'deux', 'grandes', 'sœurs', '.']
-['Celle', 'mariée', '.']
-['Et', 'celle', 'mère', '.']
-['Et', ',', 'peuple', 'chrétien', 'deux', 'grandes', '.']
-['La', 'première', 'dernière', '.']
-['Qui', 'vont', 'plus', 'pressé', '.']
-['Au', 'temps', 'présent', '.']
-['À', 'instant', 'momentané', 'passe', '.']
-['Le', 'peuple', 'chrétien', 'voit', 'deux', 'grandes', 'sœurs', ',', 'a', 'regard', 'deux', 'grandes', 'sœurs', '.']
-['Celle', 'celle', '.']
-['Et', 'voit', 'quasiment', 'celle', 'milieu', '.']
-['La', 'petite', ',', 'va', 'encore', 'école', '.']
-['Et', 'marche', '.']
-['Perdue', 'entre', 'jupes', 'sœurs', '.']
-['Et', 'croit', 'volontiers', 'deux', 'grandes', 'traînent', 'petite', 'main', '.']
-['Au', 'milieu', '.']
-['Entre', 'deux', '.']
-['Pour', 'faire', 'faire', 'chemin', 'raboteux', 'salut', '.']
-['Les', 'aveugles', 'voient', 'contraire', '.']
-['Que', 'milieu', 'entraîne', 'grandes', 'sœurs', '.']
-['Et', 'sans', 'elles', 'rien', '.']
-['Que', 'deux', 'femmes', 'déjà', 'âgées', '.']
-['Deux', 'femmes', 'certain', 'âge', '.']
-['Fripées', 'vie', '.']
-['C', ',', 'petite', ',', 'entraîne', 'tout', '.']
-['Car', 'Foi', 'voit', '.']
-['Et', 'voit', '.']
-['La', 'Charité', '.']
-['Et', 'aime', '.']
-['La', 'Foi', 'voit', '.']
-['Dans', 'Temps', '.']
-['L', 'voit', '.']
-['Dans', 'temps', '.']
-['Pour', 'ainsi', 'dire', 'futur', '.']
-['La', 'Charité', 'aime', '.']
-['Dans', 'Temps', '.']
-['Dieu', 'prochain', '.']
-['Comme', 'Foi', 'voit', '.']
-['Dieu', 'création', '.']
-['Mais', 'aime', '.']
-['Dans', 'temps', '.']
-['Pour', 'ainsi', 'dire', 'futur', '.']
-['L', 'voit', 'encore', '.']
-['Elle', 'aime', 'encore', 'Dans', 'futur', 'temps', '.']
-['Sur', 'chemin', 'montant', ',', ',', '.']
-['Sur', 'route', 'montante', '.']
-['Traînée', ',', 'bras', 'deux', 'grandes', 'sœurs', ',', 'tiennent', 'main', ',', 'petite', 'espérance', '.']
-['S', '.']
-['Et', 'milieu', 'entre', 'deux', 'grandes', 'sœurs', 'a', 'air', 'laisser', 'traîner', '.']
-['Comme', 'enfant', 'force', 'marcher', '.']
-['Et', 'traînerait', 'cette', 'route', 'malgré', '.']
-['Et', 'réalité', 'fait', 'marcher', 'deux', 'autres', '.']
-['Et', 'traîne', '.']
-['Et', 'fait', 'marcher', 'tout', 'monde', '.']
-['Et', 'traîne', '.']
-['Car', 'travaille', 'jamais', 'enfants', '.']
-['Et', 'deux', 'grandes', 'marchent', 'petite', '.']
-['Mes', 'trois', 'vertus', ',', 'Dieu', '.']
-['Maître', 'Trois', 'Vertus', '.']
-['Mes', 'trois', 'vertus', 'point', 'autrement', 'hommes', 'femmes', 'maison', 'hommes', '.']
-['Ce', 'point', 'enfants', 'travaillent', '.']
-['Mais', 'travaille', 'jamais', 'enfants', '.']
-['Ce', 'point', 'va', 'champs', ',', 'laboure', 'sème', ',', 'moissonne', 'vendange', 'taille', 'vigne', 'abat', 'arbres', 'scie', 'bois', '.']
-['Pour', '.']
-['Pour', 'chauffer', 'maison', '.']
-['Mais', 'est-ce', 'père', 'cœur', 'e', '.']
-['Si', 'ça', 'enfants', '.']
-['Et', 'quand', 'travaille', 'dur', '.']
-['Dans', 'forêt', '.']
-['Quand', 'travaille', 'plus', 'dur', '.']
-['De', 'serpe', 'scie', 'cognée', 'hache', '.']
-['Dans', 'forêt', 'glacée', '.']
-['L', 'quand', 'vipères', 'dorment', 'bois', 'parce', 'elles', 'gelées', '.']
-['Et', 'quand', 'souffle', 'bise', 'aigre', '.']
-['Qui', 'transperce', 'os', '.']
-['Qui', 'passe', 'travers', 'tous', 'membres', '.']
-['Et', 'tout', 'transi', 'claquerait', 'dents', '.']
-['Et', 'givre', 'fait', 'glaçons', 'barbe', '.']
-['Tout', 'coup', 'pense', 'femme', 'restée', 'maison', '.']
-['À', 'femme', 'si', 'bonne', 'ménagère', '.']
-['Dont', 'devant', 'Dieu', '.']
-['Et', 'enfants', 'bien', 'tranquilles', 'mai-', '.']
-['Qui', 'jouent', 'heure', 'coin', 'feu', '.']
-['Et', 'peut-être', 'battent', '.']
-['Ensemble', '.']
-['Pour', '.']
-['Ils', 'passent', 'devant', 'yeux', ',', 'éclair', 'devant', 'yeux', 'mémoire', ',', 'yeux', 'âme', '.']
-['Ils', 'habitent', 'mémoire', 'cœur', 'âme', 'yeux', 'âme', '.']
-['Ils', 'habitent', 'regard', '.']
-['Dans', 'éclair', 'voit', 'trois', 'enfants', 'jouent', 'rient', 'coin', 'feu', '.']
-['Ses', 'trois', 'enfants', ',', 'garçons', 'fille', '.']
-['Dont', 'père', 'devant', 'Dieu', '.']
-['Son', 'aîné', ',', 'garçon', 'a', 'douze', 'ans', 'mois', '.']
-['Sa', 'fille', 'a', 'neuf', 'ans', 'mois', 'septembre', '.']
-['Et', 'cadet', 'a', 'sept', 'ans', 'mois', 'juin', '.']
-['Ainsi', 'fille', 'milieu', '.']
-['Comme', 'convient', '.']
-['Afin', 'défendue', 'deux', 'frères', '.']
-['Dans', '.']
-['Un', 'avant', 'après', '.']
-['Ses', 'trois', 'enfants', 'succéderont', 'survivront', '.']
-['Sur', 'terre', '.']
-['Qui', 'maison', 'terres', '.']
-['Et', 'point', 'maison', 'terres', 'moins', 'outils', '.']
-['(', 'point', 'maison', 'terres', 'aurontpoint', 'non', 'plus', '.']
-['Voilà', 'tout', '.']
-['(', 'bien', 'passé', 'vivre', '.']
-['Ils', 'feront', 'comme', '.']
-['Ils', 'travailleront', '.']
-['Sa', 'hache', 'cognée', 'serpe', 'scie', '.']
-['Et', 'marteau', 'lime', '.']
-['Et', 'pelle', 'pioche', '.']
-['Et', 'bêche', 'bêcher', 'terre', '.']
-['Et', 'maison', 'terre', '.']
-['S', 'maison', 'terre', '.']
-['Au', 'moins', 'hériteront', 'outils', '.']
-['Ses', 'bons', 'outils', '.']
-['Qui', 'servi', 'tant', 'fois', '.']
-['Qui', 'faits', 'main', '.']
-['Qui', 'tant', 'fois', 'bêché', 'terre', '.']
-['Ses', 'outils', ',', 'force', 'servir', ',', 'rendu', 'main', 'toute', 'calleuse', 'luisante', '.']
-['Mais', ',', 'force', 'aussi', 'servir', ',', 'a', 'poli', 'luisant', 'manche', 'outils', '.']
-['Et', 'travailler', 'a', 'peau', 'aussi', 'dure', 'aussi', 'tannée', 'manche', 'outils', '.']
-['Au', 'manche', 'outils', 'fils', 'retrouveront', ',', 'fils', 'hériteront', 'dureté', 'mains', '.']
-['Mais', 'aussi', 'habileté', ',', 'grande', 'habileté', '.']
-['Car', 'bon', 'laboureur', 'bon', 'bûcheron', '.']
-['Et', 'bon', 'vigneron', '.']
-['Et', 'outils', 'fils', 'hériteront', ',', 'enfants', 'hériteront', '.']
-['Ce', 'a', ',', 'nul', 'pourrait', 'ôter', '.']
-['(', 'Dieu', ')']
-['(', 'Dieu', 'a', 'homme', ')']
-['La', 'force', 'race', ',', 'force', 'sang', '.']
-['Et', 'Français', 'Lorrains', '.']
-['Fils', 'bonne', 'race', 'bonne', 'maison', '.']
-['Or', 'bonne', 'race', 'peut', 'mentir', '.']
-['Fils', 'bonne', 'mère', '.']
-['Et', 'dessus', 'tout', 'dessus', 'tout', 'outils', 'race', 'sang', 'enfants', 'hériteront', '.']
-['Ce', 'vaut', 'mieux', 'maison', 'morceau', 'terre', 'enfants', '.']
-['Car', 'maison', 'terre', 'périssables', 'périront', '.']
-['Et', 'maison', 'terre', 'exposées', 'vent', '.']
-['À', 'bise', 'aigre', 'souffle', 'cette', 'forêt', '.']
-['Mais', 'bénédiction', 'Dieu', 'soufflée', 'aucun', 'vent', '.']
-['Ce', 'vaut', 'mieux', 'outils', ',', 'plus', 'laborieux', ',', 'ouvrier', 'outils', '.']
-['Ce', 'fait', 'plus', 'travail', 'tils', '.']
-['Et', 'outils', 'finissent', 'tout', '.']
-['Comme', '.']
-['Ce', 'vaut', 'mieux', ',', 'plus', 'durable', 'race', 'sang', '.']
-['Même', '.']
-['Car', 'race', 'sang', 'périssables', 'péri-', 'ront', '.']
-['Excepté', 'sang', 'Jésus', '.']
-['Qui', 'versé', 'siècles', 'siècles', '.']
-['Et', 'race', 'sang', 'exposés', 'vent', '.']
-['Et', 'peut', 'hiver', 'races', '.']
-['Avec', 'maison', 'peut-être', 'a', 'terre', '.']
-['Avec', 'outils', 'sûrement', 'race', 'sang', 'enfants', 'hériteront', '.']
-['Ce', 'dessus', 'tout', '.']
-['La', 'bénédiction', 'Dieu', 'maison', 'race', '.']
-['La', 'grâce', 'Dieu', 'vaut', 'plus', 'tout', '.']
-['Il', 'sait', 'bien', '.']
-['Qui', 'pauvre', 'celui', 'travaille', '.']
-['Et', 'élève', 'bien', 'enfants', '.']
-['Il', 'sait', 'bien', '.']
-['Parce', 'promis', '.']
-['Et', 'souverainement', 'fidèle', 'promesses', '.']
-['Ses', 'trois', 'enfants', 'grandissent', 'tellement', '.']
-['Pourvu', 'malades', '.']
-['Et', 'certainement', 'plus', 'grands', '.']
-['(', 'fier', 'cœur', ')']
-['Et', 'deux', 'gars', 'rudement', 'forts', '.']
-['Ses', 'deux', 'gars', 'remplaceront', ',', 'enfants', 'tiendront', 'place', '.']
-['Quand', 'plus', '.']
-['Sa', 'place', 'paroisse', 'place', 'forêt', '.']
-['Sa', 'place', 'place', 'maison', '.']
-['Sa', 'place', 'bourg', 'place', 'vigne', '.']
-['Et', 'plaine', 'coteau', 'vallée', '.']
-['Sa', 'place', 'chrétienté', '.']
-['Enfin', '.']
-['Quoi', '.']
-['Sa', 'place', 'chrétien', '.']
-['Sa', 'place', 'paroissien', ',', 'place', 'laboureur', '.']
-['Sa', 'place', 'paysan', '.']
-['Sa', 'place', 'père', '.']
-['Sa', 'place', 'Lorrain', 'Français', '.']
-['Car', 'places', ',', 'Dieu', ',', 'faut', 'tenues', '.']
-['Et', 'faut', 'tout', 'cela', 'continue', '.']
-['Quand', 'plus', 'comme', '.']
-['Sinon', 'mieux', '.']
-['Il', 'faut', 'paysannerie', 'continue', '.']
-['Et', 'vigne', 'blé', 'moisson', 'vendange', '.']
-['Et', 'labour', 'terre', '.']
-['Et', 'pâtour', 'bêtes', '.']
-['Quand', 'plus', 'comme', '.']
-['Sinon', 'mieux', '.']
-['Il', 'faut', 'chrétienté', 'continue', '.']
-['L', 'militante', '.']
-['Et', 'cela', 'faut', 'chrétiens', '.']
-['Toujours', '.']
-['Il', 'faut', 'paroisse', 'continue', '.']
-['Il', 'faut', 'France', 'Lorraine', 'continue', '.']
-['Longtemps', 'après', 'plus', '.']
-['Aussi', 'bien', 'comme', '.']
-['Sinon', 'mieux', '.']
-['Il', 'pense', 'tendresse', 'temps', 'où', 'plus', 'où', 'enfants', 'tiendront', 'place', '.']
-['Sur', 'terre', '.']
-['Devant', 'Dieu', '.']
-['À', 'temps', 'où', 'plus', 'où', 'enfants', '.']
-['Et', 'quand', 'dira', 'nom', 'bourg', ',', 'parlera', ',', 'nom', 'sortira', ',', 'hasard', 'propos', ',', 'plus', 'parlera', 'fils', '.']
-['Ensemble', ',', 'fils', '.']
-['Ce', 'nom', 'plus', 'nom', ',', '(', ')', 'nom', 'fils', '.']
-['Et', 'fier', 'cœur', 'comme', 'tendresse', '.']
-['Que', 'lui-même', 'plus', 'lui-même', 'fils', '.']
-['Et', 'nom', 'plus', 'nom', 'nom', 'fils', '.']
-['Que', 'nom', 'plus', 'service', 'service', 'fils', '.']
-['Qui', 'porteront', 'nom', 'honnêtement', 'devant', 'Dieu', '.']
-['Hautement', 'fièrement', '.']
-['Comme', '.']
-['Mieux', '.']
-['Et', 'quand', 'dira', 'nom', ',', 'fils', 'appellera', ',', 'fils', 'parlera', '.']
-['Lui', 'depuis', 'longtemps', 'cimetière', '.']
-['Entour', '.']
-['Lui', ',', 'est-à-dire', 'corps', '.']
-['Côte', 'pères', 'pères', 'pères', '.']
-['Aligné', '.']
-['Avec', 'père', 'grand', 'père', 'a', '.']
-['Et', 'tous', 'autres', 'tous', 'ceux', 'connus', '.']
-['Tous', 'hommes', 'toutes', 'femmes', 'race', '.']
-['Tous', 'anciens', 'hommes', 'toutes', 'anciennes', 'femmes', '.']
-['Ses', 'ancêtres', 'aïeux', '.']
-['Et', 'aïeules', '.']
-['Tant', 'a', 'depuis', 'paroisse', 'a', 'fondée', '.']
-['Par', 'quelque', 'saint', 'fondateur', '.']
-['Venu', 'Jésus', '.']
-['Son', 'corps', ',', 'âme', 'longtemps', '.']
-['Qu', 'recommandée', '.']
-['La', 'mettant', 'sous', 'protection', 'saints', 'patrons', '.']
-['Il', 'dormira', ',', 'corps', 'ainsi', 'reposera', '.']
-['Parmi', 'siens', ',', 'attendant', 'siens', ')']
-['Attendant', 'résurrection', 'corps', '.']
-['Jusqu', 'résurrection', 'corps', 'corps', 'ainsi', 'reposera', '.']
-['Il', 'pense', 'tendresse', 'temps', 'où', 'besoin', '.']
-['Et', 'où', 'ça', 'ira', 'tout', '.']
-['Parce', '.']
-['Qui', 'porteront', 'charge', '.']
-['Et', 'peut-être', ',', 'sans', 'doute', 'porteront', 'mieux', '.']
-['Il', 'pense', 'tendresse', 'temps', 'où', 'plus', '.']
-['Parce', 'peut', 'être', 'toujours', '.']
-['On', 'peut', 'être', 'avoir', '.']
-['Et', 'où', 'tout', 'marchera', 'tout', '.']
-['Où', 'tout', 'marchera', 'plus', 'mal', '.']
-['Au', 'contraire', '.']
-['Où', 'tout', 'marchera', 'mieux', '.']
-['Au', 'contraire', '.']
-['Parce', 'enfants', 'là', ',', 'coup', '.']
-['Ses', 'enfants', 'feront', 'mieux', ',', 'sûr', '.']
-['Et', 'monde', 'marchera', 'mieux', '.']
-['Plus', 'tard', '.']
-['Il', 'jaloux', '.']
-['Au', 'contraire', '.']
-['Ni', 'venu', 'monde', ',', ',', 'temps', 'ingrat', '.']
-['Et', 'préparé', 'sans', 'doute', 'fils', 'peut-être', 'temps', 'moins', 'ingrat', '.']
-['Quel', 'insensé', 'jaloux', 'fils', 'fils', 'fils', '.']
-['Est-ce', 'travaille', 'uniquement', 'enfants', '.']
-['Il', 'pense', 'tendresse', 'temps', 'où', 'pensera', 'plus', 'guère', 'enfants', '.']
-['(', 'seulement', 'quelquefois', '.']
-['Rarement', '.']
-['Quand', 'nom', 'retentira', '(', ')', 'bourg', '.']
-['C', 'quelqu', 'appellera', 'fils', 'Marcel', 'fils', 'Pierre', '.']
-['C', 'quelqu', 'besoin', 'fils', 'Marcel', 'fils', 'Pierre', '.']
-['Et', 'appelera', ',', 'voir', '.']
-['Et', 'cherchera', '.']
-['Car', 'régneront', 'alors', 'porteront', 'nom', '.']
-['C', 'régneront', 'face', 'terre', '.']
-['Peut-être', 'quelque', 'temps', 'encore', 'vieux', 'rappellera', '.']
-['Dira', '.']
-['Les', 'deux', 'gars', 'Sévin', 'braves', 'gars', '.']
-['Ça', 'étonnant', '.']
-['Ils', 'tenir', '.']
-['Le', 'père', 'si', 'brave', 'homme', '.']
-['Et', 'quelque', 'temps', 'jeunes', 'rediront', 'confiance', ':', 'vieux', 'si', 'brave', 'homme', '.']
-['Mais', 'déjà', 'sauront', 'rien', '.']
-['Puis', 'sauront', 'plus', 'cela', ',', 'propos', 'taira', '.']
-['Il', 'pense', 'tendresse', 'temps', 'où', 'plus', 'propos', '.']
-['C', ',', 'cela', 'travaille', ',', 'enfants', 'travaille', '.']
-['Il', 'plus', 'corps', 'six', 'pieds', 'terre', 'sous', 'six', 'pieds', 'terre', 'sous', 'croix', '.']
-['Mais', 'enfants', '.']
-['Il', 'salue', 'tendresse', 'temps', 'nouveau', 'où', 'plus', '.']
-['Où', '.']
-['Où', 'enfants', '.']
-['Le', 'règne', 'enfants', '.']
+LE PORCHE DU MYSTÈRE DE LA DEUXIÈME VERTU Madame Gervaise rentre Madame Gervaise La foi mieux , Dieu , .
+
+La foi , .
+
+Ça étonnant .
+
+J tellement création .
+
+Dans soleil lune étoiles .
+
+Dans toutes créatures .
+
+Dans astres firmament poissons mer .
+
+Dans créatures .
+
+Sur face mer face eaux .
+
+Dans mouvement astres ciel .
+
+Dans vent souffle mer vent souffle vallée .
+
+Dans calme vallée .
+
+Dans recoite vallée .
+
+Dans plantes bêtes bêtes forêts .
+
+Et .
+
+Ma créature .
+
+Dans peuples hommes rois peuples .
+
+Dans femme compagne .
+
+Et surtout enfants .
+
+Mes créatures .
+
+Dans regard voix enfants .
+
+Car enfants plus créatures .
+
+Que hommes Ils encore défaits vie .
+
+De terre .
+
+Et entre tous serviteurs .
+
+Avant tous .
+
+Et voix enfants plus pure voix vent calme vallée .
+
+Dans vallée recoite .
+
+Et regard enfants plus pur bleu ciel , laiteux ciel , rayon calme nuit .
+
+Or tellement création .
+
+Sur face montagnes face plaine .
+
+Dans pain vin laboure sème moisson vendange .
+
+Dans lumière ténèbres .
+
+Et cœur , plus profond monde .
+
+Créé .
+
+Si profond impénétrable regard .
+
+Excepté regard .
+
+Dans tempête fait bondir vagues tempête fait bondir feuilles .
+
+Des arbres forêt .
+
+Et contraire calme beau soir .
+
+Dans sables mer étoiles sable ciel .
+
+Dans pierre seuil pierre foyer pierre .
+
+Dans prière sacrements .
+
+Dans maisons hommes maison terre .
+
+Dans créature vole sommets .
+
+L royal a moins deux mètres —gure peut-être trois mètres .
+
+Et fourmi créature rampe amasse petitement .
+
+Dans terre .
+
+Dans fourmi serviteur Et jusque serpent .
+
+Dans fourmi servante , infime servante , amasse péniblement , parcimonieuse .
+
+Qui travaille comme malheureuse point cesse point repos .
+
+Que mort long sommeil ( épaules tant .
+
+devant tant nce .
+
+J tellement toute création .
+
+Dans , créature infime , ser- —vante infime , fourmi infime .
+
+Qui thésaurise petitement , .
+
+Comme infime .
+
+Et creuse galeries terre .
+
+Dans sous-sols terre .
+
+Pour mesquinement trésors .
+
+Temporels .
+
+Pauvrement .
+
+Et jusque serpent .
+
+Qui a femme rampe cela ventre .
+
+Et créature serviteur .
+
+Le serpent a femme .
+
+Ma servante .
+
+Qui a serviteur .
+
+J tellement création .
+
+Dans tout arrive hommes peuples , pauvres .
+
+Et riches .
+
+Qui veulent être créatures .
+
+Et mettent abri .
+
+D serviteurs .
+
+Dans tout fait défait mal bien .
+
+( passe dessus , maître fais a défais a .
+
+Et jusque tentation péché .
+
+Même .
+
+Et arrivé fils .
+
+A .
+
+Ma créature .
+
+Que créé .
+
+Dans , renaissance vie mort fils .
+
+Et saint sacrifice messe .
+
+Dans toute naissance toute vie .
+
+Et toute mort .
+
+Et vie éternelle finira point .
+
+Qui vaincra toute mort .
+
+J tellement création .
+
+Que voir vraiment faudrait pauvres gens aveugles .
+
+La charité , Dieu , .
+
+Ça étonnant .
+
+Ces pauvres créatures si malheureuses cœur pierre , —raient-elles point charité unes autres .
+
+Comment point charité frères .
+
+Comment retireraient-ils point pain bouche , pain chaque jour , donner malheureux enfants passent .
+
+Et fils a telle charité .
+
+Mon fils frère .
+
+Une si grande charité .
+
+Mais , Dieu , .
+
+Moi-même .
+
+Ça étonnant .
+
+Que pauvres enfants voient comme tout ça passe croient demain ça ira mieux .
+
+voient comme ça passe aujourd hui croient ça ira mieux demain matin .
+
+Ça étonnant bien plus grande mer- —veille grâce .
+
+Et étonné moi-même .
+
+Et faut grâce effet force incroyable .
+
+Et coule source comme fleuve inépuisable .
+
+Depuis première fois coula depuis toujours coule .
+
+Dans création naturelle surnaturelle .
+
+Dans création spirituelle charnelle encore spirituelle .
+
+Dans création éternelle temporelle encore éternelle .
+
+Mortelle immortelle .
+
+Et cette fois , cette fois , cette fois coula , fleuve sang , flanc percé fils .
+
+Quelle faut-il grâce force grâce cette petite espérance , souffle péché , vents , moindre souffle , aussi invariable , tienne aussi fidèle , droite , pure ; aussi invincible , immortelle , impossible ; cette petite flamme sanctuaire .
+
+Qui brûle éternellement lampe fidèle .
+
+Une flamme tremblotante a mondes .
+
+Une flamme vacillante a temps .
+
+Une flamme anxieuse a nuits .
+
+Depuis cette première fois grâce a création monde .
+
+Depuis toujours grâce coule conser- —vation monde .
+
+Depuis cette fois sang fils a salut monde .
+
+Une flamme impossible , souffle mort .
+
+Ce , Dieu , .
+
+Et reviens .
+
+Cette petite espérance rien tout .
+
+Cette petite fille espérance .
+
+Immortelle .
+
+Car trois vertus , Dieu .
+
+Les trois vertus créatures .
+
+Mes filles enfants .
+
+Sont elles-mêmes comme autres créatures .
+
+De race hommes .
+
+La Foi Épouse fidèle .
+
+La Charité Mère .
+
+Une mère ardente , cœur .
+
+Ou sœur aînée comme mère .
+
+L petite fille rien tout .
+
+Qui venue monde jour Noël dernière .
+
+Qui joue encore bonhomme Janvier .
+
+Avec petits sapins bois couverts givre peint .
+
+Et bœuf âne bois .
+
+Peints .
+
+Et crèche pleine paille bêtes mangent .
+
+Puisqu elles bois .
+
+C cette petite fille pourtant traversera mondes .
+
+Cette petite fille rien tout .
+
+Elle seule , autres , traversera mondes révolus .
+
+Comme a trois rois fin fond .
+
+Vers berceau mo .
+
+Ainsi flamme tremblante .
+
+Elle seule conduira Vertus Mondes .
+
+Une flamme percera ténèbres éternelles .
+
+Le prêtre dit .
+
+Ministre Dieu prêtre dit : trois vertus théologales ?
+
+L répond Les trois vertus théologales Foi , Espérance Charité .
+
+— Foi , Espérance Charité sont- elles appelées vertus théologales ?
+
+— Foi , Espérance Charité appelées vertus théologales parce elles rapportent immédiatement .
+
+— est-ce ?
+
+— Espérance vertu surnaturelle laquelle attendons Dieu , confiance , grâce monde gloire éternelle .
+
+— acte .
+
+La foi va soi .
+
+La foi marche toute seule .
+
+Pour croire a laisser aller , a .
+
+Pour croire faudrait vio- —lenter , torturer , tourmenter , contrarier .
+
+Se raidir .
+
+Se prendre envers , mettre en- —vers , remonter .
+
+La foi toute naturelle , allante , simple , venante .
+
+Toute bonne venante .
+
+Toute belle allante .
+
+C bonne femme connaît , vieille bonne femme , bonne vieille paroissienne , bonne femme paroisse , vieille grand- —mère , bonne paroissienne .
+
+Elle raconte histoires temps , arrivées temps .
+
+Pour croire , enfant , faudrait boucher yeux oreilles .
+
+Pour voir , croire .
+
+La charité va malheureusement soi .
+
+La charité marche toute seule .
+
+Pour aimer prochain a laisser aller , a tant détresse .
+
+Pour aimer prochain faudrait violenter , torturer , tourmenter , contrarier .
+
+Sa raidir .
+
+Se faire mal .
+
+Se dénaturer , prendre envers , mettre envers .
+
+Se remonter .
+
+La charité toute naturelle , jaillissante , simple , bonne venante .
+
+C premier mouve- —ment cœur .
+
+C premier mouvement bon .
+
+La charité mère sœur .
+
+Pour aimer prochain , enfant , faudrait boucher yeux oreilles .
+
+À cris détresse .
+
+Mais va soi .
+
+L va toute seule .
+
+Pour espérer , enfant , faut être bien heureux , faut avoir obtenu , grande grâce .
+
+C foi facile croire se- rait impossible .
+
+C charité facile aimer impossible .
+
+Mais difficile .
+
+basse honteusement Et facile pente désespérer grande tentation .
+
+La petite espérance entre deux gran- sœurs prend seulement garde .
+
+Sur chemin salut , chemin charnel , chemin raboteux salut , route inter- minable , route entre deux sœurs petite espérance S .
+
+Entre deux grandes sœurs .
+
+Celle mariée .
+
+Et celle mère .
+
+Et , peuple chrétien deux grandes .
+
+La première dernière .
+
+Qui vont plus pressé .
+
+Au temps présent .
+
+À instant momentané passe .
+
+Le peuple chrétien voit deux grandes sœurs , a regard deux grandes sœurs .
+
+Celle celle .
+
+Et voit quasiment celle milieu .
+
+La petite , va encore école .
+
+Et marche .
+
+Perdue entre jupes sœurs .
+
+Et croit volontiers deux grandes traînent petite main .
+
+Au milieu .
+
+Entre deux .
+
+Pour faire faire chemin raboteux salut .
+
+Les aveugles voient contraire .
+
+Que milieu entraîne grandes sœurs .
+
+Et sans elles rien .
+
+Que deux femmes déjà âgées .
+
+Deux femmes certain âge .
+
+Fripées vie .
+
+C , petite , entraîne tout .
+
+Car Foi voit .
+
+Et voit .
+
+La Charité .
+
+Et aime .
+
+La Foi voit .
+
+Dans Temps .
+
+L voit .
+
+Dans temps .
+
+Pour ainsi dire futur .
+
+La Charité aime .
+
+Dans Temps .
+
+Dieu prochain .
+
+Comme Foi voit .
+
+Dieu création .
+
+Mais aime .
+
+Dans temps .
+
+Pour ainsi dire futur .
+
+L voit encore .
+
+Elle aime encore Dans futur temps .
+
+Sur chemin montant , , .
+
+Sur route montante .
+
+Traînée , bras deux grandes sœurs , tiennent main , petite espérance .
+
+S .
+
+Et milieu entre deux grandes sœurs a air laisser traîner .
+
+Comme enfant force marcher .
+
+Et traînerait cette route malgré .
+
+Et réalité fait marcher deux autres .
+
+Et traîne .
+
+Et fait marcher tout monde .
+
+Et traîne .
+
+Car travaille jamais enfants .
+
+Et deux grandes marchent petite .
+
+Mes trois vertus , Dieu .
+
+Maître Trois Vertus .
+
+Mes trois vertus point autrement hommes femmes maison hommes .
+
+Ce point enfants travaillent .
+
+Mais travaille jamais enfants .
+
+Ce point va champs , laboure sème , moissonne vendange taille vigne abat arbres scie bois .
+
+Pour .
+
+Pour chauffer maison .
+
+Mais est-ce père cœur e .
+
+Si ça enfants .
+
+Et quand travaille dur .
+
+Dans forêt .
+
+Quand travaille plus dur .
+
+De serpe scie cognée hache .
+
+Dans forêt glacée .
+
+L quand vipères dorment bois parce elles gelées .
+
+Et quand souffle bise aigre .
+
+Qui transperce os .
+
+Qui passe travers tous membres .
+
+Et tout transi claquerait dents .
+
+Et givre fait glaçons barbe .
+
+Tout coup pense femme restée maison .
+
+À femme si bonne ménagère .
+
+Dont devant Dieu .
+
+Et enfants bien tranquilles mai- .
+
+Qui jouent heure coin feu .
+
+Et peut-être battent .
+
+Ensemble .
+
+Pour .
+
+Ils passent devant yeux , éclair devant yeux mémoire , yeux âme .
+
+Ils habitent mémoire cœur âme yeux âme .
+
+Ils habitent regard .
+
+Dans éclair voit trois enfants jouent rient coin feu .
+
+Ses trois enfants , garçons fille .
+
+Dont père devant Dieu .
+
+Son aîné , garçon a douze ans mois .
+
+Sa fille a neuf ans mois septembre .
+
+Et cadet a sept ans mois juin .
+
+Ainsi fille milieu .
+
+Comme convient .
+
+Afin défendue deux frères .
+
+Dans .
+
+Un avant après .
+
+Ses trois enfants succéderont survivront .
+
+Sur terre .
+
+Qui maison terres .
+
+Et point maison terres moins outils .
+
+( point maison terres aurontpoint non plus .
+
+Voilà tout .
+
+( bien passé vivre .
+
+Ils feront comme .
+
+Ils travailleront .
+
+Sa hache cognée serpe scie .
+
+Et marteau lime .
+
+Et pelle pioche .
+
+Et bêche bêcher terre .
+
+Et maison terre .
+
+S maison terre .
+
+Au moins hériteront outils .
+
+Ses bons outils .
+
+Qui servi tant fois .
+
+Qui faits main .
+
+Qui tant fois bêché terre .
+
+Ses outils , force servir , rendu main toute calleuse luisante .
+
+Mais , force aussi servir , a poli luisant manche outils .
+
+Et travailler a peau aussi dure aussi tannée manche outils .
+
+Au manche outils fils retrouveront , fils hériteront dureté mains .
+
+Mais aussi habileté , grande habileté .
+
+Car bon laboureur bon bûcheron .
+
+Et bon vigneron .
+
+Et outils fils hériteront , enfants hériteront .
+
+Ce a , nul pourrait ôter .
+
+( Dieu )
+
+( Dieu a homme )
+
+La force race , force sang .
+
+Et Français Lorrains .
+
+Fils bonne race bonne maison .
+
+Or bonne race peut mentir .
+
+Fils bonne mère .
+
+Et dessus tout dessus tout outils race sang enfants hériteront .
+
+Ce vaut mieux maison morceau terre enfants .
+
+Car maison terre périssables périront .
+
+Et maison terre exposées vent .
+
+À bise aigre souffle cette forêt .
+
+Mais bénédiction Dieu soufflée aucun vent .
+
+Ce vaut mieux outils , plus laborieux , ouvrier outils .
+
+Ce fait plus travail tils .
+
+Et outils finissent tout .
+
+Comme .
+
+Ce vaut mieux , plus durable race sang .
+
+Même .
+
+Car race sang périssables péri- ront .
+
+Excepté sang Jésus .
+
+Qui versé siècles siècles .
+
+Et race sang exposés vent .
+
+Et peut hiver races .
+
+Avec maison peut-être a terre .
+
+Avec outils sûrement race sang enfants hériteront .
+
+Ce dessus tout .
+
+La bénédiction Dieu maison race .
+
+La grâce Dieu vaut plus tout .
+
+Il sait bien .
+
+Qui pauvre celui travaille .
+
+Et élève bien enfants .
+
+Il sait bien .
+
+Parce promis .
+
+Et souverainement fidèle promesses .
+
+Ses trois enfants grandissent tellement .
+
+Pourvu malades .
+
+Et certainement plus grands .
+
+( fier cœur )
+
+Et deux gars rudement forts .
+
+Ses deux gars remplaceront , enfants tiendront place .
+
+Quand plus .
+
+Sa place paroisse place forêt .
+
+Sa place place maison .
+
+Sa place bourg place vigne .
+
+Et plaine coteau vallée .
+
+Sa place chrétienté .
+
+Enfin .
+
+Quoi .
+
+Sa place chrétien .
+
+Sa place paroissien , place laboureur .
+
+Sa place paysan .
+
+Sa place père .
+
+Sa place Lorrain Français .
+
+Car places , Dieu , faut tenues .
+
+Et faut tout cela continue .
+
+Quand plus comme .
+
+Sinon mieux .
+
+Il faut paysannerie continue .
+
+Et vigne blé moisson vendange .
+
+Et labour terre .
+
+Et pâtour bêtes .
+
+Quand plus comme .
+
+Sinon mieux .
+
+Il faut chrétienté continue .
+
+L militante .
+
+Et cela faut chrétiens .
+
+Toujours .
+
+Il faut paroisse continue .
+
+Il faut France Lorraine continue .
+
+Longtemps après plus .
+
+Aussi bien comme .
+
+Sinon mieux .
+
+Il pense tendresse temps où plus où enfants tiendront place .
+
+Sur terre .
+
+Devant Dieu .
+
+À temps où plus où enfants .
+
+Et quand dira nom bourg , parlera , nom sortira , hasard propos , plus parlera fils .
+
+Ensemble , fils .
+
+Ce nom plus nom , ( ) nom fils .
+
+Et fier cœur comme tendresse .
+
+Que lui-même plus lui-même fils .
+
+Et nom plus nom nom fils .
+
+Que nom plus service service fils .
+
+Qui porteront nom honnêtement devant Dieu .
+
+Hautement fièrement .
+
+Comme .
+
+Mieux .
+
+Et quand dira nom , fils appellera , fils parlera .
+
+Lui depuis longtemps cimetière .
+
+Entour .
+
+Lui , est-à-dire corps .
+
+Côte pères pères pères .
+
+Aligné .
+
+Avec père grand père a .
+
+Et tous autres tous ceux connus .
+
+Tous hommes toutes femmes race .
+
+Tous anciens hommes toutes anciennes femmes .
+
+Ses ancêtres aïeux .
+
+Et aïeules .
+
+Tant a depuis paroisse a fondée .
+
+Par quelque saint fondateur .
+
+Venu Jésus .
+
+Son corps , âme longtemps .
+
+Qu recommandée .
+
+La mettant sous protection saints patrons .
+
+Il dormira , corps ainsi reposera .
+
+Parmi siens , attendant siens )
+
+Attendant résurrection corps .
+
+Jusqu résurrection corps corps ainsi reposera .
+
+Il pense tendresse temps où besoin .
+
+Et où ça ira tout .
+
+Parce .
+
+Qui porteront charge .
+
+Et peut-être , sans doute porteront mieux .
+
+Il pense tendresse temps où plus .
+
+Parce peut être toujours .
+
+On peut être avoir .
+
+Et où tout marchera tout .
+
+Où tout marchera plus mal .
+
+Au contraire .
+
+Où tout marchera mieux .
+
+Au contraire .
+
+Parce enfants là , coup .
+
+Ses enfants feront mieux , sûr .
+
+Et monde marchera mieux .
+
+Plus tard .
+
+Il jaloux .
+
+Au contraire .
+
+Ni venu monde , , temps ingrat .
+
+Et préparé sans doute fils peut-être temps moins ingrat .
+
+Quel insensé jaloux fils fils fils .
+
+Est-ce travaille uniquement enfants .
+
+Il pense tendresse temps où pensera plus guère enfants .
+
+( seulement quelquefois .
+
+Rarement .
+
+Quand nom retentira ( ) bourg .
+
+C quelqu appellera fils Marcel fils Pierre .
+
+C quelqu besoin fils Marcel fils Pierre .
+
+Et appelera , voir .
+
+Et cherchera .
+
+Car régneront alors porteront nom .
+
+C régneront face terre .
+
+Peut-être quelque temps encore vieux rappellera .
+
+Dira .
+
+Les deux gars Sévin braves gars .
+
+Ça étonnant .
+
+Ils tenir .
+
+Le père si brave homme .
+
+Et quelque temps jeunes rediront confiance : vieux si brave homme .
+
+Mais déjà sauront rien .
+
+Puis sauront plus cela , propos taira .
+
+Il pense tendresse temps où plus propos .
+
+C , cela travaille , enfants travaille .
+
+Il plus corps six pieds terre sous six pieds terre sous croix .
+
+Mais enfants .
+
+Il salue tendresse temps nouveau où plus .
+
+Où .
+
+Où enfants .
+
+Le règne enfants .
