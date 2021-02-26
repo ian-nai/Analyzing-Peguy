@@ -76,8 +76,12 @@ for f in input_files:
             pattern = '[0-9]'
             word = [re.sub(pattern, '', i) for i in word]
 
+        str_words = " ".join(final_words)
+        new_lines.append(str_words)
 
-        new_lines.append(str(final_words))
+        #new_lines.append(str(final_words))
+
+
         for line in new_lines:
             if not line:
                 new_lines.remove(line)
@@ -86,6 +90,6 @@ for f in input_files:
 
     # Save our new file as 'cleaned_text.txt'
     with open(('sentences_' + input_files[index_num]), 'w') as f:
-                f.write('\n'.join(new_lines))
+                f.write('\n\n'.join(new_lines))
 
     index_num += 1
