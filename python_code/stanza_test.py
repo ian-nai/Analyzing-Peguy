@@ -84,4 +84,4 @@ for f in files:
                 writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
                 
-            index_num += 1
+     index_num += 1
