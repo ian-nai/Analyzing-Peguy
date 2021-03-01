@@ -7,14 +7,10 @@ import csv
 
 index_num = 0
 
-files = ["stopform_la_tapisserie_de_sainte_genevieve.txt"] #, "nostop_le_mystere_des_saints_innocents.txt", "nostop_le_porche_du_mystere_de_la_deuxieme_vertu.txt", "nostop_peguy_eve.txt"]
+files = ['test1.txt', 'test2.txt']#["lines_la_tapisserie_de_sainte_genevieve.txt", "lines_le_mystere_des_saints_innocents.txt", "lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt", "lines_eve.txt"]
 
 
 nlp = spacy.load("fr_core_news_lg")
-pos = POSTagger()
-#french_lemmatizer = LefffLemmatizer(after_melt=True, default=True)
-nlp.add_pipe(pos, name='pos', after='parser')
-nlp.add_pipe(french_lemmatizer, name='lefff', after='pos')
 
 
 list_keys = []
@@ -30,18 +26,13 @@ for f in files:
 
     testing_list = text_data.splitlines()
 
-    print(testing_list)
-
-
-    # Specify the information we want
     for x in testing_list:
-
         doc = nlp(x)
         pos_elements = []
         actual_pos = []
 
         for d in doc:
-            print(d.text, d.pos_, d._.melt_tagger, d._.lefff_lemma, d.tag_, d.lemma_)
+            print(d.text, d.pos_)
             pos_elements.append(d)
             actual_pos.append(d.pos_)
 
@@ -71,12 +62,14 @@ for f in files:
     print(len(list_nums_unique))
 
 # Output our tagged data into a CSV
-    with open('text_testing.csv', 'w') as csvfile:
+    with open('pos_spacy' + files[index_num] + '.csv', 'w') as csvfile:
         fieldnames = ['text', 'pos', 'total', 'pos_unique']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         x = 0
         for d in testing_list:
-            writer.writerow({'text': text_bits[x], 'pos': perm_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
-            x += 1
+            if d.pos_ != "SPACE":
+                writer.writerow({'text': text_bits[x], 'pos': perm_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
+                x += 1
+        index_num += 1
