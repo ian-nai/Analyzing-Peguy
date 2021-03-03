@@ -1,14 +1,14 @@
 text,pos,total,pos_unique
 [],[],0,0
-"[_, la, tapisserie]","['PUNCT', 'DET', 'NOUN']",3,3
+"[la, tapisserie]","['DET', 'NOUN']",2,2
 "[sainte, geneviève]","['ADJ', 'PROPN']",2,2
-"[jeanne, d', arc, _]","['PROPN', 'ADP', 'PROPN', 'PROPN']",4,2
-"[_, cahier, jour, noël]","['PUNCT', 'NOUN', 'NOUN', 'NOUN']",4,2
+"[jeanne, d', arc]","['PROPN', 'ADP', 'PROPN']",3,2
+"[cahier, jour, noël]","['NOUN', 'NOUN', 'NOUN']",3,1
 "[neuvaine, sainte, geneviève]","['NOUN', 'ADJ', 'PROPN']",3,3
 "[quatorzième, série]","['ADJ', 'NOUN']",2,2
 "[madame, geneviève, favre]","['NOUN', 'PROPN', 'PROPN']",3,2
-"[_, communis, urbis, atque, antiquae]","['PUNCT', 'NOUN', 'ADJ', 'PROPN', 'ADJ']",5,4
-"[patronae, in, fidem, aeternam, _]","['X', 'X', 'NOUN', 'PROPN', 'PUNCT']",5,4
+"[communis, urbis, atque, antiquae]","['X', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[patronae, in, fidem, aeternam]","['X', 'X', 'X', 'X']",4,1
 "[premier, jour]","['ADJ', 'NOUN']",2,2
 "[vendredi, janvier]","['NOUN', 'NOUN']",2,1
 "[fête, sainte, geneviève]","['NOUN', 'ADJ', 'PROPN']",3,3

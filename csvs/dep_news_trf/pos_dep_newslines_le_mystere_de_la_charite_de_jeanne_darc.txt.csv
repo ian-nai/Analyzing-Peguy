@@ -745,7 +745,7 @@ text,pos,total,pos_unique
 "[comme, voyageur, soir, voyage]","['ADP', 'NOUN', 'NOUN', 'NOUN']",4,2
 "[accompli, voyage, terre]","['VERB', 'NOUN', 'NOUN']",3,2
 "[consommé, voyage, jérusalem]","['VERB', 'NOUN', 'ADJ']",3,3
-[métrifieur|],['NOUN'],1,1
+[métrifieur],['NOUN'],1,1
 "[comme, voyageur, las, soir, voyage, voyait, maison]","['ADP', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN']",7,4
 "[comme, moissonneur, soir, journée, deux, mains, père, versait, salaire, comme, moissonneur, las, soir, moisson, deux, mains, père, versait, salaire, âmes, justes, rachetées, salaire, gagné, si, durement]","['ADP', 'NOUN', 'NOUN', 'NOUN', 'NUM', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NUM', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'VERB', 'SCONJ', 'ADV']",26,7
 "[âmes, saints, sanctifiées, âmes, justes, justifiées, âmes, pécheurs, justifiés, autre, main, ramassés, comme, épi, tombé, justifiés, mérites]","['NOUN', 'ADJ', 'VERB', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADJ', 'ADJ', 'ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN', 'VERB', 'ADJ', 'NOUN']",17,4
@@ -1769,7 +1769,7 @@ text,pos,total,pos_unique
 "[aventure, ordinaire, perdre, garçon, douze, ans, grand, garçon, douze, ans]","['NOUN', 'ADJ', 'VERB', 'NOUN', 'NUM', 'NOUN', 'ADJ', 'NOUN', 'NUM', 'NOUN']",10,4
 "[heureusement, retrouvé, temple, milieu, docteurs, assis, milieu, docteurs, docteurs, écoutaient, religieusement, enseignait, douze, ans, enseignait, milieu, docteurs, comme, fiers]","['ADV', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADV', 'VERB', 'NUM', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADJ']",19,6
 "[trop, fiers]","['ADV', 'ADJ']",2,2
-"[i1, dû, tout, méfier, jour, -là, vraiment, trop, brillant, brillait, trop, rayonnait, trop, parmi, docteurs, docteurs]","['NOUN', 'VERB', 'ADJ', 'VERB', 'PRON', 'PRON', 'ADV', 'ADV', 'ADJ', 'VERB', 'ADV', 'VERB', 'ADV', 'ADP', 'NOUN', 'NOUN']",16,6
+"[i, dû, tout, méfier, jour, -là, vraiment, trop, brillant, brillait, trop, rayonnait, trop, parmi, docteurs, docteurs]","['PRON', 'VERB', 'ADJ', 'VERB', 'PRON', 'PRON', 'ADV', 'ADV', 'ADJ', 'VERB', 'ADV', 'VERB', 'ADV', 'ADP', 'NOUN', 'NOUN']",16,6
 "[trop, grand, parmi, docteurs, docteurs, fait, voir, trop, visiblement, trop, laissé, voir, trop, manifesté, dieu, docteurs, aiment, ça]","['ADV', 'ADJ', 'ADP', 'NOUN', 'NOUN', 'AUX', 'VERB', 'ADV', 'ADV', 'ADV', 'VERB', 'VERB', 'ADV', 'VERB', 'PROPN', 'NOUN', 'VERB', 'PRON']",18,8
 "[dû, méfier, gens, -là, mémoire, cela, docteurs, sûrement, blessés, jour, -là, docteurs, bonne, mémoire, docteurs, mémoire, longue]","['ADJ', 'VERB', 'NOUN', 'PRON', 'NOUN', 'PRON', 'NOUN', 'ADV', 'ADJ', 'NOUN', 'PRON', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADJ']",17,5
 "[dû, méfier, gens, -là, mémoire, longue]","['VERB', 'VERB', 'NOUN', 'PRON', 'NOUN', 'ADJ']",6,4
@@ -2559,6 +2559,6 @@ text,pos,total,pos_unique
 [jeannette],['NOUN'],1,1
 "[ainsi, soit, -il, madame, gervaise]","['ADV', 'AUX', 'PRON', 'NOUN', 'ADJ']",5,5
 "[remet, filer]","['VERB', 'VERB']",2,1
-"[|6, mystere]","['NUM', 'NOUN']",2,2
+"[ , mystere]","['SPACE', 'NOUN']",2,2
 "[orléans, pays, loire]","['PROPN', 'NOUN', 'PROPN']",3,2
 "[madame, gervaisc, sortie, rentre, avant, temps, baisser, rideau]","['NOUN', 'PROPN', 'NOUN', 'VERB', 'ADP', 'NOUN', 'VERB', 'NOUN']",8,4

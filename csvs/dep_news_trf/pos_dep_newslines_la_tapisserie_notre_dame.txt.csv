@@ -1,12 +1,12 @@
 text,pos,total,pos_unique
 [],[],0,0
 [tapisserie],['NOUN'],1,1
-"[dame, _]","['PROPN', 'NUM']",2,2
-"[_, cahier, dimanche, pentecôte]","['PUNCT', 'NOUN', 'NOUN', 'NOUN']",4,2
+[dame],['NOUN'],1,1
+"[cahier, dimanche, pentecôte]","['NOUN', 'NOUN', 'NOUN']",3,1
 "[mois, mai]","['NOUN', 'NOUN']",2,1
-"[quatorzième, série, _]","['ADJ', 'NOUN', 'PUNCT']",3,3
+"[quatorzième, série]","['ADJ', 'NOUN']",2,2
 "[fidèle, lotte]","['ADJ', 'NOUN']",2,2
-"[_, bulletin, professeurs, catholiques, l', université, _]","['PUNCT', 'NOUN', 'NOUN', 'ADJ', 'DET', 'NOUN', 'PUNCT']",7,4
+"[bulletin, professeurs, catholiques, l', université]","['NOUN', 'NOUN', 'ADJ', 'DET', 'NOUN']",5,3
 "[présentation, paris, dame]","['NOUN', 'PROPN', 'NOUN']",3,2
 "[étoile, mer, voici, lourde, nef]","['NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN']",5,3
 "[où, ramons, tout, nuds, sous, commandements]","['PRON', 'VERB', 'ADJ', 'ADJ', 'ADP', 'NOUN']",6,5
@@ -414,7 +414,7 @@ text,pos,total,pos_unique
 "[nouveau, terre, sans, cachette]","['ADJ', 'NOUN', 'ADP', 'NOUN']",4,3
 "[château, sans, coin, sans, oubliette]","['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",5,2
 "[sol, mieux, gravé, qu', un, parfait, parchemin]","['NOUN', 'ADV', 'VERB', 'SCONJ', 'DET', 'ADJ', 'NOUN']",7,6
-"[_, et, nunc, in, hora, _, prions]","['PUNCT', 'CCONJ', 'X', 'X', 'PROPN', 'PUNCT', 'VERB']",7,5
+"[et, nunc, in, hora, prions]","['CCONJ', 'X', 'X', 'X', 'VERB']",5,3
 "[plus, grands, sots, pauvre, gamin]","['ADV', 'ADJ', 'ADJ', 'ADJ', 'NOUN']",5,3
 "[sans, doute, moins, purs, moins, main]","['ADP', 'NOUN', 'ADV', 'ADJ', 'ADV', 'NOUN']",6,4
 "[moins, acheminés, vers, sacrés, genoux]","['ADV', 'VERB', 'ADP', 'ADJ', 'NOUN']",5,5
@@ -438,8 +438,8 @@ text,pos,total,pos_unique
 "[dernière, place, purgatoire]","['ADJ', 'NOUN', 'ADJ']",3,2
 "[pleurer, longuement, tragique, histoire]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
 "[contempler, loin, jeune, splendeur]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
-"[_, les, quatre, prières, cathédrale, chartres, _]","['PUNCT', 'DET', 'NUM', 'NOUN', 'NOUN', 'NOUN', 'PUNCT']",7,4
-"[1, ., --, prière, résidence]","['NUM', 'NUM', 'PUNCT', 'NOUN', 'NOUN']",5,3
+"[les, quatre, prières, cathédrale, chartres]","['DET', 'NUM', 'NOUN', 'NOUN', 'NOUN']",5,3
+"[., --, prière, résidence]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
 "[reine, voici, donc, après, longue, route]","['NOUN', 'VERB', 'ADV', 'ADP', 'ADJ', 'NOUN']",6,5
 "[avant, repartir, chemin]","['ADP', 'VERB', 'NOUN']",3,3
 "[seul, asile, ouvert, creux, main]","['ADJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,2
@@ -688,7 +688,7 @@ text,pos,total,pos_unique
 "[n', est, ici, qu', un, paisible, fort, détachement]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'ADJ', 'ADJ', 'NOUN']",8,5
 "[calme, temple, loin, d', un, plat, tourment]","['ADJ', 'NOUN', 'ADV', 'ADP', 'DET', 'ADJ', 'NOUN']",7,5
 "[l', attente, d', une, mort, plus, vivante, vie]","['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADV', 'ADJ', 'NOUN']",8,5
-"[2, ., --, prière, demande]","['NUM', 'PUNCT', 'PUNCT', 'NOUN', 'VERB']",5,4
+"[., --, prière, demande]","['PUNCT', 'PUNCT', 'NOUN', 'VERB']",4,3
 "[demandons, grain, sous, meule]","['VERB', 'NOUN', 'ADP', 'NOUN']",4,3
 "[jamais, replacé, coeur, l', épi]","['ADV', 'VERB', 'NOUN', 'DET', 'NOUN']",5,4
 "[demandons, l', âme, errante, seule]","['VERB', 'DET', 'NOUN', 'ADJ', 'ADJ']",5,4
@@ -737,7 +737,7 @@ text,pos,total,pos_unique
 "[demandons, rien, amendements]","['VERB', 'PRON', 'NOUN']",3,3
 "[reine, garder, sous, commandements]","['NOUN', 'VERB', 'ADP', 'NOUN']",4,3
 "[fidélité, plus, forte, mort]","['NOUN', 'ADV', 'ADJ', 'NOUN']",4,3
-"[3, ., --, prière, confidence]","['NUM', 'PUNCT', 'PUNCT', 'NOUN', 'NOUN']",5,3
+"[., --, prière, confidence]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
 "[demandons, cette, belle, nappe]","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
 "[jamais, repliée, rayons, l', armoire]","['ADV', 'VERB', 'NOUN', 'DET', 'NOUN']",5,4
 "[demandons, qu', un, pli, mémoire]","['VERB', 'SCONJ', 'DET', 'NOUN', 'NOUN']",5,4
@@ -770,7 +770,7 @@ text,pos,total,pos_unique
 "[servira, plus, courir, bonheur]","['VERB', 'ADV', 'VERB', 'NOUN']",4,3
 "[puissions, -nous, régente, moins, tenir, l', honneur]","['VERB', 'PRON', 'VERB', 'ADV', 'VERB', 'DET', 'NOUN']",7,5
 "[garder, seul, pauvre, tendresse]","['VERB', 'ADJ', 'ADJ', 'NOUN']",4,3
-"[4, ., --, prière, report]","['NUM', 'PUNCT', 'PUNCT', 'NOUN', 'NOUN']",5,3
+"[., --, prière, report]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
 "[gouverné, si, vastes, royaumes]","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
 "[régente, rois, gouvernements]","['ADJ', 'NOUN', 'NOUN']",3,2
 "[tant, couché, paille, chaumes]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
