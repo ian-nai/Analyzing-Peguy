@@ -74,7 +74,7 @@ for f in files:
 
 
 
-    with open(('stanza_tags.csv' + files[index_num]), 'w') as csvfile:
+    with open(('stanza_' + files[index_num] + '.csv'), 'w') as csvfile:
             fieldnames = ['text', 'pos', 'total', 'pos_unique']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
@@ -83,5 +83,10 @@ for f in files:
             for d in testing_list:
                 writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
-                
+
     index_num += 1
+    list_keys.clear()
+    list_nums.clear()
+    list_nums_unique.clear()
+    text_bits.clear()
+    perm_pos.clear()
