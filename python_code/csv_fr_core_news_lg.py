@@ -7,7 +7,12 @@ import csv
 
 index_num = 0
 
-files = ['test1.txt', 'test2.txt']#["lines_la_tapisserie_de_sainte_genevieve.txt", "lines_le_mystere_des_saints_innocents.txt", "lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt", "lines_eve.txt"]
+files = ['lines_la_tapisserie_de_sainte_genevieve.txt',
+'lines_la_tapisserie_notre_dame.txt',
+'lines_le_mystere_de_la_charite_de_jeanne_darc.txt',
+'lines_le_mystere_des_saints_innocents.txt',
+'lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt',
+'lines_eve.txt']
 
 
 nlp = spacy.load("fr_core_news_lg")
@@ -69,7 +74,6 @@ for f in files:
         writer.writeheader()
         x = 0
         for d in testing_list:
-            if d.pos_ != "SPACE":
                 writer.writerow({'text': text_bits[x], 'pos': perm_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
                 x += 1
         index_num += 1
