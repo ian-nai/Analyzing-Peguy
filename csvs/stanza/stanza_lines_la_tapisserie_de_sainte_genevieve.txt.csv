@@ -1,0 +1,1240 @@
+text,pos,total,pos_unique
+"['la', 'tapisserie']","['DET', 'NOUN']",2,2
+"['sainte', 'geneviève']","['NOUN', 'NOUN']",2,1
+"['jeanne', ""d'"", 'arc']","['NOUN', 'ADP', 'NOUN']",3,2
+"['cahier', 'jour', 'noël']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['neuvaine', 'sainte', 'geneviève']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['quatorzième', 'série']","['ADJ', 'NOUN']",2,2
+"['madame', 'geneviève', 'favre']","['NOUN', 'NOUN', 'PROPN']",3,2
+"['communis', 'urbis', 'atque', 'antiquae']","['X', 'X', 'X', 'X']",4,1
+"['patronae', 'in', 'fidem', 'aeternam']","['X', 'X', 'X', 'X']",4,1
+"['premier', 'jour']","['ADJ', 'NOUN']",2,2
+"['vendredi', 'janvier']","['NOUN', 'NOUN']",2,1
+"['fête', 'sainte', 'geneviève']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['quatorze', 'cent', 'unième', 'anniversaire']","['NUM', 'NUM', 'ADJ', 'NOUN']",4,3
+['mort'],['VERB'],1,1
+"['comme', 'gardé', 'moutons', 'nanterre']","['SCONJ', 'VERB', 'NOUN', 'ADJ']",4,4
+"['mit', 'garder', 'bien', 'autre', 'troupeau']","['AUX', 'VERB', 'ADV', 'ADJ', 'NOUN']",5,5
+"['plus', 'énorme', 'horde', 'où', 'loup', ""l'"", 'agneau']","['ADV', 'ADJ', 'NOUN', 'ADV', 'NOUN', 'DET', 'NOUN']",7,4
+"['jamais', 'confondu', 'commune', 'misère']","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"['comme', 'veillait', 'tous', 'soirs', 'solitaire']","['SCONJ', 'VERB', 'DET', 'NOUN', 'ADJ']",5,5
+"['cour', 'ferme', 'bord', ""l'"", 'eau']","['NOUN', 'ADJ', 'NOUN', 'DET', 'NOUN']",5,3
+"['pied', 'saule', 'bouleau']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['veille', ""aujourd'hui"", 'monstre', 'pierre']","['VERB', 'ADV', 'NOUN', 'NOUN']",4,3
+"['quand', 'soir', 'viendra', 'fermera', 'jour']","['SCONJ', 'NOUN', 'VERB', 'VERB', 'NOUN']",5,3
+"[""c'"", 'est', 'caduque', ""l'"", 'antique', 'bergère']","['PRON', 'AUX', 'ADJ', 'DET', 'ADJ', 'NOUN']",6,5
+"['ramassant', 'paris', 'tout', 'alentour']","['VERB', 'NOUN', 'ADV', 'ADV']",4,3
+"['conduira', ""d'"", 'un', 'ferme', ""d'"", 'une', 'main', 'légère']","['VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ']",8,5
+"['dernière', 'fois', 'dernière', 'cour']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['troupeau', 'plus', 'vaste', 'droite', 'père']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['deuxième', 'jour']","['ADJ', 'NOUN']",2,2
+"['samedi', 'janvier']","['NOUN', 'NOUN']",2,1
+['ii'],['NUM'],1,1
+"['comme', 'gardé', 'moutons', 'nanterre']","['SCONJ', 'VERB', 'NOUN', 'ADJ']",4,4
+"[""qu'"", 'on', 'content', 'exactitude']","['PRON', 'PRON', 'VERB', 'NOUN']",4,3
+"['mit', 'sous', 'houlette', 'inquiétude']","['VERB', 'ADP', 'NOUN', 'NOUN']",4,3
+"['plus', 'mouvant', 'troupeau', 'plus', 'volontaire']","['ADV', 'ADJ', 'NOUN', 'ADV', 'ADJ']",5,3
+"['comme', 'veillait', 'devant', 'presbytère']","['SCONJ', 'VERB', 'ADP', 'NOUN']",4,4
+"['soirs', 'soirs', ""d'"", 'une', 'longue', 'habitude']","['NOUN', 'ADJ', 'ADP', 'DET', 'ADJ', 'NOUN']",6,4
+"['veille', ""aujourd'hui"", 'cette', 'ingratitude']","['VERB', 'ADV', 'DET', 'NOUN']",4,4
+"['cette', 'auberge', 'énorme', 'phalanstère']","['DET', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['quand', 'soir', 'viendra', 'toute', 'plénitude']","['SCONJ', 'NOUN', 'VERB', 'DET', 'NOUN']",5,4
+"[""c'"", 'est', 'savante', ""l'"", 'antique', 'bergère']","['PRON', 'AUX', 'ADJ', 'DET', 'ADJ', 'NOUN']",6,5
+"['ramassant', 'paris', 'sollicitude']","['VERB', 'NOUN', 'NOUN']",3,2
+"['conduira', ""d'"", 'un', 'ferme', ""d'"", 'une', 'main', 'légère']","['VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ']",8,5
+"['cour', 'justice', 'béatitude']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['troupeau', 'plus', 'sage', 'droite', 'père']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['troisième', 'jour']","['ADJ', 'NOUN']",2,2
+"['dimanche', 'janvier']","['NOUN', 'NOUN']",2,1
+['iii'],['NUM'],1,1
+"[""jusqu'"", 'à', 'le', 'fond', 'plus', 'secret', 'hameau']","['ADV', 'ADP', 'DET', 'NOUN', 'ADV', 'ADJ', 'NOUN']",7,5
+"['réputation', 'toute', 'seine', 'oise']","['NOUN', 'DET', 'NOUN', 'ADJ']",4,3
+"['jamais', 'ni', 'loup', 'ni', 'chercheur', 'noise']","['ADV', 'CCONJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",6,3
+"[""n'"", 'avaient', 'pu', 'ravir', 'plus', 'chétif', 'agneau']","['ADV', 'AUX', 'VERB', 'VERB', 'ADV', 'ADJ', 'NOUN']",7,5
+"['tout', 'monde', 'savait', 'limours', 'pontoise']","['DET', 'NOUN', 'VERB', 'NOUN', 'ADJ']",5,4
+"['vieux', 'bateliers', 'contaient', 'fil', ""l'"", 'eau']","['ADJ', 'NOUN', 'VERB', 'VERB', 'DET', 'NOUN']",6,4
+"[""qu'"", 'assise', 'pied', 'saule', 'bouleau']","['SCONJ', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['nul', ""n'"", 'avait', 'pu', 'jouer', 'cette', 'humble', 'villageoise']","['PRON', 'ADV', 'AUX', 'VERB', 'VERB', 'DET', 'NOUN', 'ADJ']",8,7
+"['sainte', 'rameniez', 'tous', 'soirs', 'bercail']","['NOUN', 'VERB', 'DET', 'NOUN', 'NOUN']",5,3
+"['troupeau', 'tout', 'entier', 'diligente', 'bergère']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'ADJ']",5,3
+"['quand', 'monde', 'paris', 'viendront', 'fin', 'bail']","['SCONJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN']",6,3
+"['puissiez', '-vous', ""d'"", 'un', 'ferme', ""d'"", 'une', 'main', 'légère']","['VERB', 'PRON', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ']",9,6
+"['dernière', 'cour', 'dernier', 'portail']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['ramener', 'voûte', 'double', 'vantail']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['troupeau', 'tout', 'entier', 'droite', 'père']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['quatrième', 'jour']","['ADJ', 'NOUN']",2,2
+"['lundi', 'janvier']","['NOUN', 'NOUN']",2,1
+"['jour', 'rois']","['NOUN', 'NOUN']",2,1
+"['cinq', 'cent', 'unième', 'anniversaire']","['NUM', 'NUM', 'ADJ', 'NOUN']",4,3
+"['naissance', 'jeanne', ""d'"", 'arc']","['NOUN', 'ADJ', 'ADP', 'NOUN']",4,3
+['iv'],['NUM'],1,1
+"['comme', 'vieille', 'aïeule', 'plus', 'fort', 'âge']","['ADP', 'ADJ', 'NOUN', 'ADV', 'ADJ', 'NOUN']",6,4
+"['réjouit', 'voir', 'tendre', 'nourrisson']","['VERB', 'VERB', 'VERB', 'NOUN']",4,2
+"[""l'"", 'enfant', 'mamelle', 'dernier', 'besson']","['DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['recommencer', 'vie', 'ainsi', ""qu'"", 'un', 'héritage']","['VERB', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN']",6,5
+"['fait', 'avance', 'très', 'grand', 'personnage']","['VERB', 'NOUN', 'ADV', 'ADJ', 'NOUN']",5,4
+"['plus', 'hardi', 'faucheur', 'temps', 'moisson']","['ADV', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",5,3
+"['plus', 'hardi', 'chanteur', 'temps', 'chanson']","['ADV', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",5,3
+"[""qu'"", 'on', 'jamais', 'vu', 'cet', 'humble', 'village']","['PRON', 'PRON', 'ADV', 'VERB', 'DET', 'ADJ', 'NOUN']",7,6
+"['telle', 'vieille', 'sainte', 'éternellement', 'sage']","['DET', 'ADJ', 'NOUN', 'ADV', 'ADJ']",5,4
+"['connut', ""l'"", 'honneur', 'maison']","['VERB', 'DET', 'NOUN', 'NOUN']",4,3
+"['quand', 'vit', 'venir', 'habillée', 'garçon']","['SCONJ', 'VERB', 'VERB', 'VERB', 'NOUN']",5,3
+"['bien', 'prise', 'cuirasse', 'droite', ""l'"", 'arçon']","['ADV', 'VERB', 'NOUN', 'ADJ', 'DET', 'NOUN']",6,5
+"['priant', 'pommeau', 'estramaçon']","['VERB', 'NOUN', 'ADJ']",3,3
+"['après', 'neuf', 'cent', 'vingt', 'ans', 'fille', 'dur', 'corsage']","['ADP', 'NUM', 'NUM', 'NUM', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",8,4
+"[""qu'"", 'elle', 'vit', 'monter', 'dessus', ""l'"", 'horizon']","['PRON', 'PRON', 'VERB', 'VERB', 'ADV', 'DET', 'NOUN']",7,5
+"['souple', 'cheval', 'caparaçon']","['ADJ', 'NOUN', 'ADJ']",3,2
+"['plus', 'grande', 'beauté', 'tout', 'parentage']","['ADV', 'ADJ', 'NOUN', 'DET', 'NOUN']",5,4
+"['cinquième', 'jour']","['ADJ', 'NOUN']",2,2
+"['mardi', 'janvier']","['NOUN', 'NOUN']",2,1
+"['comme', 'vieille', 'aïeule', 'fin', 'fond', 'âge']","['ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",6,3
+"['plaît', 'regarder', 'plus', 'arrière', 'fille']","['VERB', 'VERB', 'ADV', 'ADJ', 'NOUN']",5,4
+"['naissante', ""l'"", 'autre', 'bout', 'longue', 'famille']","['ADJ', 'DET', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",6,3
+"['recommencer', 'vie', 'ainsi', ""qu'"", 'un', 'héritage']","['VERB', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN']",6,5
+"['fait', 'avance', 'très', 'grand', 'personnage']","['VERB', 'NOUN', 'ADV', 'ADJ', 'NOUN']",5,4
+"['fileuse', 'moissonneuse', 'pleine', 'faucille']","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"['plus', 'preste', 'fuseau', 'plus', 'savante', 'aiguille']","['ADV', 'NOUN', 'NOUN', 'ADV', 'ADJ', 'NOUN']",6,3
+"[""qu'"", 'on', 'jamais', 'vu', 'simple', 'village']","['PRON', 'PRON', 'ADV', 'VERB', 'ADJ', 'NOUN']",6,5
+"['telle', 'vieille', 'sainte', 'éternellement', 'sage']","['DET', 'ADJ', 'NOUN', 'ADV', 'ADJ']",5,4
+"['bord', 'montagne', 'double', 'berge']","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['regardait', ""s'"", 'avancer', 'tout', 'équipage']","['VERB', 'PRON', 'VERB', 'DET', 'NOUN']",5,4
+"['encadrement', 'cierge', 'flamberge']","['NOUN', 'NOUN', 'ADJ']",3,2
+"['casque', 'remis', 'mains', 'petit', 'page']","['NOUN', 'VERB', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['fille', 'plus', 'sainte', 'après', 'sainte', 'vierge']","['NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'ADJ']",6,4
+"['sixième', 'jour']","['ADJ', 'NOUN']",2,2
+"['mercredi', 'janvier']","['NOUN', 'NOUN']",2,1
+['vi'],['NUM'],1,1
+"['comme', 'dieu', 'fait', 'rien', 'miséricordes']","['ADP', 'NOUN', 'VERB', 'PRON', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'royaume', 'lambeaux']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'ADJ']",6,5
+"['filleule', 'ville', 'embrasée', 'flambeaux']","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"['ravagée', 'mains', 'plus', 'sinistres', 'hordes']","['VERB', 'NOUN', 'ADV', 'ADJ', 'NOUN']",5,4
+"['coeurs', 'dévorés', 'plus', 'basses', 'discordes']","['NOUN', 'VERB', 'ADV', 'ADJ', 'NOUN']",5,4
+"['morts', 'poursuivis', 'jusque', 'tombeaux']","['VERB', 'VERB', 'ADV', 'NOUN']",4,3
+"['cent', 'mille', 'innocents', 'exposés', 'corbeaux']","['NUM', 'NUM', 'NOUN', 'VERB', 'NOUN']",5,3
+"['pendus', 'tirant', 'langue', 'bout', 'cordes']","['VERB', 'VERB', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[""qu'"", 'elle', 'vît', 'fleurir', 'plus', 'grande', 'merveille']","['PRON', 'PRON', 'VERB', 'VERB', 'ADV', 'ADJ', 'NOUN']",7,5
+"['jamais', 'dieu', 'père', 'simplicité']","['ADV', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['jardins', 'grâce', 'volonté']","['NOUN', 'ADV', 'NOUN']",3,2
+"['fait', 'jaillir', 'force', 'nécessité']","['AUX', 'VERB', 'NOUN', 'NOUN']",4,3
+"['après', 'neuf', 'cent', 'vingt', 'ans', 'prière', 'veille']","['ADP', 'NUM', 'NUM', 'NUM', 'NOUN', 'NOUN', 'NOUN']",7,3
+"['quand', 'vit', 'venir', 'vers', ""l'"", 'antique', 'cité']","['SCONJ', 'VERB', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN']",7,6
+"['gardant', 'coeur', 'intact', 'pleine', 'adversité']","['VERB', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['masquant', 'sous', 'visière', 'efficacité']","['VERB', 'ADP', 'NOUN', 'NOUN']",4,3
+"['tenant', 'tout', 'royaume', 'ténacité']","['VERB', 'DET', 'NOUN', 'NOUN']",4,3
+"['vivant', 'plein', 'mystère', 'sagacité']","['VERB', 'ADJ', 'NOUN', 'NOUN']",4,3
+"['mourant', 'plein', 'martyre', 'vivacité']","['VERB', 'ADJ', 'NOUN', 'NOUN']",4,3
+"['fille', 'lorraine', 'nulle', 'autre', 'pareille']","['NOUN', 'ADJ', 'ADJ', 'ADJ', 'ADJ']",5,2
+"['septième', 'jour']","['ADJ', 'NOUN']",2,2
+"['jeudi', 'janvier']","['NOUN', 'NOUN']",2,1
+['vii'],['NUM'],1,1
+"['comme', 'dieu', 'fait', 'rien', 'simple', 'bergère']","['ADP', 'NOUN', 'VERB', 'PRON', 'ADJ', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'discorde', 'civile']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'ADJ']",6,5
+"['secouer', 'flambeau', 'toits', 'ville']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['joindre', 'fureur', 'guerre', 'étrangère']","['VERB', 'NOUN', 'NOUN', 'ADJ']",4,3
+"['fallut', ""qu'"", 'elle', 'vît', ""l'"", 'horrible', 'harengère']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN']",7,6
+"['haranguer', 'bas', 'peuple', 'tourbe', 'servile']","['VERB', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",5,3
+"['halle', 'blé', 'jusqu', ""l'"", 'hôtel', 'ville']","['NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",6,3
+"['refluer', 'hoquet', ""l'"", 'odieuse', 'mégère']","['VERB', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,4
+"[""qu'"", 'elle', 'vît', 'venir', 'merveilleuse', 'légère']","['PRON', 'PRON', 'VERB', 'VERB', 'ADJ', 'ADJ']",6,3
+"['chemins', 'ronce', 'frêle', 'fougère']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['pliant', 'beaux', 'drapeaux', 'comme', 'humble', 'lingère']","['VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",6,4
+"['gouvernant', 'bataille', 'bonne', 'ménagère']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['traînant', 'trois', 'vertus', 'quelque', 'fourragère']","['VERB', 'NUM', 'NOUN', 'DET', 'NOUN']",5,4
+"['vers', ""l'"", 'antique', 'vaisseau', 'jeune', 'passagère']","['ADP', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADJ']",6,4
+"['huitième', 'jour']","['ADJ', 'NOUN']",2,2
+"['vendredi', 'janvier']","['NOUN', 'NOUN']",2,1
+['viii'],['NUM'],1,1
+"['comme', 'dieu', 'fait', 'rien', 'pauvre', 'misère']","['ADP', 'NOUN', 'VERB', 'PRON', 'ADJ', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'ville', 'endolorie']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'PUNCT']",6,5
+"['peuples', 'foulés', 'race', 'flétrie']","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"[""l'"", 'émeute', 'suppurant', 'comme', 'secret', 'ulcère']","['DET', 'NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'anniversaire']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN']",5,4
+"['cadavres', 'crevés', 'seine', 'charrie']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['source', 'grâce', 'apparemment', 'tarie']","['NOUN', 'ADV', 'ADV', 'VERB']",4,3
+"[""l'"", 'enfant', 'femme', 'mains', 'garnisaire']","['DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,3
+"[""qu'"", 'elle', 'vît', 'venir', 'cheval', 'guerre']","['PRON', 'PRON', 'VERB', 'VERB', 'NOUN', 'NOUN']",6,3
+"['conduisant', 'tout', 'peuple', 'nom', 'père']","['VERB', 'DET', 'NOUN', 'NOUN', 'NOUN']",5,3
+"['seule', 'devant', 'garde', 'gendarmerie']","['ADJ', 'ADP', 'NOUN', 'NOUN']",4,3
+"['engagée', 'journée', 'ainsi', ""qu'"", 'une', 'ouvrière']","['VERB', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN']",6,5
+"['sous', 'vieille', 'oriflamme', 'jeune', 'bannière']","['ADP', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['jetant', 'toute', 'armée', 'pieds', 'prière']","['VERB', 'DET', 'NOUN', 'NOUN', 'NOUN']",5,3
+"['arborant', ""l'"", 'étendard', 'semé', 'broderie']","['VERB', 'DET', 'NOUN', 'VERB', 'NOUN']",5,3
+"['où', 'nom', 'jésus', 'vient', 'argenterie']","['ADV', 'NOUN', 'NOUN', 'VERB', 'NOUN']",5,3
+"['armes', 'orfèvrerie']","['NOUN', 'NOUN']",2,1
+"['filant', 'drapeaux', 'comme', 'filandière']","['VERB', 'NOUN', 'ADP', 'NOUN']",4,3
+"['faisant', 'essanger', 'quelque', 'buandière']","['AUX', 'VERB', 'DET', 'NOUN']",4,4
+"['mettant', 'couler', ""l'"", 'énorme', 'chaudière']","['VERB', 'VERB', 'DET', 'ADJ', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'croix', 'équarrie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['voilà', 'armement', 'voilà', 'armoirie']","['VERB', 'NOUN', 'VERB', 'NOUN']",4,2
+"['voilà', 'armature', 'armurerie']","['VERB', 'NOUN', 'NOUN']",3,2
+"['rinçant', 'beaux', 'drapeaux', ""l'"", 'eau', 'rivière']","['VERB', 'ADJ', 'NOUN', 'DET', 'NOUN', 'NOUN']",6,4
+"['lavant', 'lavoir', 'comme', 'lavandière']","['VERB', 'NOUN', 'ADP', 'NOUN']",4,3
+"['battant', 'battoir', 'comme', 'mercenaire']","['VERB', 'NOUN', 'ADP', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'face', 'maigrie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['pleurs', 'sang', 'barbe', 'meurtrie']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[""l'"", 'injure', ""l'"", 'outrage', 'propre', 'patrie']","['DET', 'NOUN', 'DET', 'VERB', 'ADJ', 'NOUN']",6,4
+"['ravaudant', 'drapeaux', 'comme', 'roturière']","['VERB', 'NOUN', 'ADP', 'NOUN']",4,3
+"['mettant', 'sécher', 'front', 'bandière']","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"['donnant', 'garder', 'quelque', 'vivandière']","['AUX', 'VERB', 'DET', 'NOUN']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'foule', 'furie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['acclamant', 'barabbas', ""c'"", 'est', 'plaidoirie']","['VERB', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'tribunal', 'voilà', 'hoirie']","['PRON', 'AUX', 'NOUN', 'VERB', 'NOUN']",5,4
+"['teignant', 'beaux', 'drapeaux', 'comme', 'teinturière']","['VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN']",5,4
+"['faisant', 'repasser', 'quelque', 'culottière']","['AUX', 'VERB', 'DET', 'NOUN']",4,4
+"['adorant', 'bon', 'dieu', 'comme', 'couturière']","['VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'barbarie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['décurion', 'menant', 'décurie']","['NOUN', 'VERB', 'PUNCT']",3,3
+"['centurion', 'menant', 'centurie']","['NOUN', 'VERB', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'interrogatoire']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['lanciers', 'romains', 'debout', 'prétoire']","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"['dérisions', 'fusant', ""l'"", 'auditoire']","['NOUN', 'VERB', 'DET', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'pénurie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['chair', 'exposée', 'toute', 'intempérie']","['NOUN', 'VERB', 'DET', 'NOUN']",4,3
+"['chiens', 'dévorants', 'meute', 'ahurie']","['NOUN', 'ADJ', 'NOUN', 'PUNCT']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'croix', 'dieu']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"[""c'"", 'est', ""d'"", 'être', 'vagabond', 'couchant', 'sans', 'feu', 'ni', 'lieu']","['PRON', 'VERB', 'ADP', 'AUX', 'NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",10,6
+"['trois', 'croix', 'debout', 'sienne', 'milieu']","['NUM', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'pillerie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['pauvre', 'troupeau', ""c'"", 'est', 'cette', 'loterie']","['ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['pauvre', 'trousseau', ""qu'"", 'un', 'soldat', ""s'"", 'approprie']","['ADJ', 'NOUN', 'SCONJ', 'DET', 'NOUN', 'PRON', 'VERB']",7,6
+"['armes', 'jésus', ""c'"", 'est', 'frêle', 'roseau']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['sang', 'flanc', 'coulant', 'comme', 'ruisseau']","['NOUN', 'NOUN', 'VERB', 'ADP', 'NOUN']",5,3
+"['licteur', 'antique', ""l'"", 'antique', 'faisceau']","['NOUN', 'ADJ', 'DET', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'raillerie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"[""jusqu'"", 'à', 'le', 'pied', 'croix', ""c'"", 'est', 'cette', 'moquerie']","['ADV', 'ADP', 'DET', 'NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",9,6
+"[""jusqu'"", 'à', 'le', 'pied', 'mort', ""c'"", 'est', 'brusquerie']","['ADV', 'ADP', 'DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",8,7
+"['bourreau', 'troupe', 'gouvernement']","['NOUN', 'NOUN', 'NOUN']",3,1
+"[""c'"", 'est', 'froid', 'sépulcre', ""c'"", 'est', ""l'"", 'enterrement']","['PRON', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,5
+"['armes', 'jésus', ""c'"", 'est', 'désarmement']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""l'"", 'avanie', ""l'"", 'affront', 'voilà', 'industrie']","['DET', 'NOUN', 'PRON', 'VERB', 'VERB', 'NOUN']",6,4
+"['cendre', 'cailloux', 'voilà', 'métairie']","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"['appartements', 'duché-pairie']","['NOUN', 'ADJ']",2,2
+"['armes', 'jésus', ""c'"", 'est', 'souple', 'arbrisseau']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['tressé', 'beau', 'front', 'comme', 'frêle', 'réseau']","['VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",6,4
+"['scellant', 'royauté', ""d'"", 'un', 'parodique', 'sceau']","['VERB', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",6,5
+"['disciples', 'poltrons', 'voilà', 'confrérie']","['NOUN', 'ADJ', 'VERB', 'NOUN']",4,3
+"['pierre', 'chant', 'coq', 'voilà', 'seigneurie']","['NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN']",5,2
+"['voilà', 'lieutenance', 'capitainerie']","['VERB', 'NOUN', 'NOUN']",3,2
+"['lavement', 'mains', 'forfanterie']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['garde', 'sceaux', 'plaisanterie']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['beaux', 'damoiseaux', 'galanterie']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['beaux', 'jouvenceaux', ""c'"", 'est', 'boulangerie']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,4
+"['pain', 'poussière', 'sueur', 'pétrie']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"[""l'"", 'éponge', 'fiel', 'vinaigrerie']","['DET', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['croix', 'bien', 'assemblée', 'double', 'coulisseau']","['NOUN', 'ADV', 'VERB', 'ADJ', 'NOUN']",5,4
+"[""l'ironique"", 'pancarte', 'engravée', 'ciseau']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['tasseau', 'pieds', 'descendant', 'biseau']","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"['autre', 'bûcheron', 'coupé', 'bois']","['ADJ', 'NOUN', 'VERB', 'NOUN']",4,3
+"['autre', 'charpentier', 'taillé', 'croix']","['ADJ', 'NOUN', 'VERB', 'NOUN']",4,3
+"['lui-même', 'nul', 'autre', 'porté', 'poids']","['PRON', 'DET', 'ADJ', 'VERB', 'NOUN']",5,5
+"[""l'"", 'image', 'vierge', 'tissu', 'soierie']","['DET', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",5,3
+"['sainte', 'marguerite', 'fleurs', 'draperie']","['ADJ', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['sainte', 'catherine', 'tapisserie']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['où', ""l'"", 'on', 'voit', 'saint', 'michel', 'habillé', 'nouveau']","['ADV', 'DET', 'PRON', 'VERB', 'ADJ', 'NOUN', 'VERB', 'ADJ']",8,6
+"['saint-esprit', 'planant', 'sous', 'figure', ""d'"", 'oiseau']","['NOUN', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN']",6,3
+"[""l'"", 'archange', 'écrasant', 'satan', 'museau']","['DET', 'NOUN', 'VERB', 'NOUN', 'NOUN']",5,3
+"['satan', 'résiste', 'sorcellerie']","['NOUN', 'VERB', 'NOUN']",3,2
+"['atermoiement', 'grivèlerie']","['ADV', 'NOUN']",2,2
+"[""s'"", 'est', 'juré', ""d'"", 'absorber', 'beauce', 'brie']","['PRON', 'AUX', 'VERB', 'ADP', 'VERB', 'NOUN', 'NOUN']",7,5
+"['saints', 'tête', 'très', 'léger', 'cerceau']","['ADJ', 'NOUN', 'ADV', 'ADJ', 'NOUN']",5,3
+"['bien', 'voir', ""c'"", 'est', 'sorte', ""d'"", 'arceau']","['ADV', 'VERB', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN']",7,6
+"['ouvre', 'paradis', 'jésus', 'berceau']","['VERB', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['regarde', 'saint', 'joseph', 'espièglerie']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['veut', 'tirer', 'barbe', 'vieux', 'récrie']","['VERB', 'VERB', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['fait', 'semblant', 'mordre', 'afin', ""l'"", 'enfant', 'rie']","['NOUN', 'VERB', 'VERB', 'ADV', 'DET', 'NOUN', 'PUNCT']",7,5
+"['satan', 'regarde', 'fumant', 'naseau']","['NOUN', 'VERB', 'VERB', 'NOUN']",4,2
+"['serpent', 'venimeux', 'cet', 'immonde', 'pourceau']","['NOUN', 'ADJ', 'DET', 'ADJ', 'NOUN']",5,3
+"[""s'"", 'est', 'juré', ""d'"", 'empester', 'faubourg', 'saint-marceau']","['PRON', 'AUX', 'VERB', 'ADP', 'VERB', 'NOUN', 'X']",7,6
+"['serpent', 'sonnette', 'sonnerie']","['NOUN', 'NOUN', 'NOUN']",3,1
+"[""s'"", 'est', 'vanté', ""qu'"", 'il', 'ferait', 'voyez', 'hâblerie']","['PRON', 'AUX', 'VERB', 'SCONJ', 'PRON', 'VERB', 'VERB', 'NOUN']",8,5
+"['jeter', 'suppôts', 'saints', 'voirie']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'paille', ""l'"", 'étable']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'DET', 'NOUN']",7,5
+"['pain', 'vin', 'nappe', 'table']","['NOUN', 'NOUN', 'NOUN', 'NOUN']",4,1
+"['plus', 'malheureux', 'voilà', 'connétable']","['ADV', 'ADJ', 'VERB', 'NOUN']",4,4
+"['armes', 'satan', ""c'"", 'est', 'supercherie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['aplomb', 'infernal', 'aigre', 'drôlerie']","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"['savoir', 'savants', 'cafarderie']","['VERB', 'NOUN', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'poignante', 'épine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'fleur', 'sang', 'blanche', 'aubépine']","['PRON', 'AUX', 'NOUN', 'NOUN', 'ADJ', 'ADJ']",6,4
+"['fleurs', 'pleurs', 'rouge', 'églantine']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['perle', 'descend', 'joue', 'attendrie']","['NOUN', 'VERB', 'VERB', 'VERB']",4,2
+"['perle', ""qu'"", 'il', 'boit', 'lèvre', 'appauvrie']","['NOUN', 'PRON', 'PRON', 'VERB', 'NOUN', 'ADJ']",6,4
+"['voilà', 'beaux', 'cristaux', 'joaillerie']","['VERB', 'ADJ', 'NOUN', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'verte', 'couronne']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'front', ""l'"", 'amour', 'grâce', 'environne']","['PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'ADV', 'ADJ']",7,6
+"[""l'"", 'éternelle', 'fleur', 'peau', 'fleuronne']","['DET', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",5,3
+"['perle', 'descend', 'face', 'amoindrie']","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"['vient', 'humecter', 'langue', 'rabougrie']","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"['voilà', 'coffre-fort', 'bijouterie']","['VERB', 'ADJ', 'NOUN']",3,3
+"['armes', 'jésus', ""c'"", 'est', 'forfaiture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['clous', 'marteau', 'robe', 'sans', 'couture']","['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",5,2
+"[""l'"", 'homme', ""l'"", 'ange', 'bête', 'double', 'nature']","['DET', 'NOUN', 'DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",7,3
+"['armes', 'satan', ""c'"", 'est', 'jobarderie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'scientificisme', ""c'"", 'est', ""l'"", 'artisterie']","['PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,4
+"[""c'"", 'est', 'laboratoire', 'flagornerie']","['PRON', 'AUX', 'NOUN', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'forfaiture']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', ""d'"", 'avoir', 'dispersé', 'robe', 'sans', 'couture']","['PRON', 'VERB', 'ADP', 'AUX', 'VERB', 'NOUN', 'ADP', 'NOUN']",8,5
+"[""c'"", 'est', 'bête', 'sous', ""l'"", 'ange', 'double', 'nature']","['PRON', 'AUX', 'ADJ', 'ADP', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,6
+"['armes', 'satan', ""c'"", 'est', 'bouffonnerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'moraliste', 'infirmerie']","['PRON', 'AUX', 'ADJ', 'NOUN']",4,4
+"['haute', 'éloquence', 'pâtisserie']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'peine', ""l'"", 'homme']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'DET', 'NOUN']",7,5
+"[""c'"", 'est', 'chemin', 'mène', 'ramène', 'rome']","['PRON', 'AUX', 'NOUN', 'ADJ', 'VERB', 'NOUN']",6,5
+"[""c'"", 'est', 'main', 'frappe', 'poing', ""l'"", 'assomme']","['PRON', 'AUX', 'NOUN', 'VERB', 'NOUN', 'PRON', 'VERB']",7,4
+"['armes', 'satan', ""c'"", 'est', 'parfumerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""l'"", 'écrivain', 'disert', ""c'"", 'est', 'sucrerie']","['DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",6,5
+"[""l'"", 'écrivain', 'amer', ""c'"", 'est', 'pruderie']","['DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",6,5
+"['blette', 'aridité', 'vieille', 'dévote']","['ADJ', 'NOUN', 'ADJ', 'ADJ']",4,2
+"[""c'"", 'est', ""l'"", 'âme', 'confiture', 'poire', 'compote']","['PRON', 'AUX', 'DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",7,5
+"['raisin', 'coti', 'moisissant', 'hotte']","['NOUN', 'ADJ', 'VERB', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'clou', 'botte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['nef', 'sans', 'nautonnier', 'flotte', 'sans', 'pilote']","['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",6,3
+"['carcan', 'garrot', ""l'"", 'entrave', 'menotte']","['NOUN', 'NOUN', 'PRON', 'NOUN', 'ADJ']",5,3
+"['armes', 'satan', ""c'"", 'est', 'quelque', 'jonglerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"[""c'"", 'est', 'loup', 'ferme', 'bergerie']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN']",5,4
+"[""c'"", 'est', 'renard', 'feutré', 'poulaillerie']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'amour', 'peine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,5
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'envie', 'haine']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,4
+"['guerre', 'mains', 'toute', 'châtelaine']","['NOUN', 'NOUN', 'DET', 'ADJ']",4,3
+"['armes', 'satan', ""c'"", 'est', 'quelque', 'forgerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['document', 'secret', 'quelque', 'hôtellerie']","['NOUN', 'ADJ', 'DET', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'toute', 'diablerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'croix', 'lorraine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['sang', ""l'"", 'artère', 'sang', 'veine']","['VERB', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['source', 'grâce', 'claire', 'fontaine']","['NOUN', 'ADV', 'ADJ', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'croix', 'lorraine']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'artère', ""c'"", 'est', 'veine']","['PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,3
+"[""c'"", 'est', 'sang', 'trouble', 'fontaine']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'esclave', 'reine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['toute', 'compagnie', 'capitaine']","['DET', 'NOUN', 'NOUN']",3,2
+"['double', 'destin', 'détresse', 'humaine']","['ADJ', 'NOUN', 'NOUN', 'ADJ']",4,2
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'esclave', 'reine']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['toute', 'compagnie', 'capitaine']","['DET', 'NOUN', 'NOUN']",3,2
+"['destin', 'déveine']","['NOUN', 'ADJ']",2,2
+"['armes', 'jésus', ""c'"", 'est', 'mort', 'vie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'rugueuse', 'route', 'incessamment', 'gravie']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADV', 'ADJ']",6,5
+"[""c'"", 'est', ""l'"", 'âme', ""jusqu'"", 'à', 'le', 'ciel', 'insolemment', 'ravie']","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'ADP', 'DET', 'NOUN', 'ADV', 'ADJ']",10,7
+"['armes', 'satan', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['désir', 'femme', 'dés', 'sort']","['NOUN', 'NOUN', 'ADJ', 'VERB']",4,3
+"['droit', 'plus', 'dur', 'droit', 'plus', 'fort']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'ADV', 'ADJ']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'mort', 'vie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'glaive', 'dieu', 'hésite', 'dévie']","['PRON', 'AUX', 'NOUN', 'NOUN', 'ADJ', 'VERB']",6,5
+"[""c'"", 'est', 'fidèle', 'route', 'obscurément', 'suivie']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADV', 'VERB']",6,6
+"['armes', 'satan', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', ""l'"", 'écueil', 'immobile', 'plein', 'milieu', 'port']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'NOUN']",8,5
+"[""c'"", 'est', 'peine', 'immuable', 'plein', 'milieu', 'sort']","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADJ']",7,4
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'heureux', 'naufrage', 'plein', 'milieu', 'port']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",7,4
+"[""c'"", 'est', 'plus', 'beau', 'présage', 'plein', 'milieu', 'sort']","['PRON', 'AUX', 'ADV', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",8,5
+"['armes', 'satan', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'péril', 'mer', ""c'"", 'est', ""l'"", 'homme', 'tort']","['PRON', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",9,5
+"['voleur', 'aguets', 'tyran', 'fort']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'dieu', 'justice', 'satan', 'tort']","['PRON', 'AUX', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",6,3
+"['beauté', 'plus', 'pur', 'juste', 'fort']","['NOUN', 'ADV', 'ADJ', 'ADV', 'ADJ']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', ""l'"", 'enfant', 'femme', 'secret', 'sort']","['PRON', 'AUX', 'DET', 'NOUN', 'NOUN', 'ADJ', 'VERB']",7,6
+"['navire', 'acouflé', 'recreux', 'port']","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'homme', 'dévie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,5
+"[""c'"", 'est', 'deux', 'poings', 'liés', ""c'"", 'est', ""l'"", 'âme', 'asservie']","['PRON', 'AUX', 'NUM', 'NOUN', 'VERB', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",10,7
+"[""c'"", 'est', 'vengeance', 'inlassablement', 'poursuivie']","['PRON', 'AUX', 'NOUN', 'ADV', 'VERB']",5,5
+"['armes', 'jésus', 'deux', 'mains', 'jointes']","['NOUN', 'ADJ', 'NUM', 'NOUN', 'ADJ']",5,3
+"[""l'"", 'épine', 'rose', 'clous', 'pointes']","['DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,3
+"['lit', 'mort', 'pauvres', 'âmes', 'ointes']","['NOUN', 'VERB', 'ADJ', 'NOUN', 'ADJ']",5,3
+"[""c'"", 'est', 'choeur', 'alterné', 'martyrs', 'saintes']","['PRON', 'AUX', 'NOUN', 'VERB', 'NOUN', 'ADJ']",6,5
+"[""c'"", 'est', 'choeur', 'conjugué', 'sanglots', 'plaintes']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",6,4
+"['temple', 'degrés', 'pilastres', 'plinthes']","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', 'vert', 'térébinthe']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['cet', 'arbre', 'résineux', ""c'"", 'est', 'coloquinte']","['DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ']",6,5
+"['cette', 'citrouille', 'amère', ""c'"", 'est', 'morne', 'absinthe']","['DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,5
+"['armes', 'satan', ""c'"", 'est', 'deux', 'poings', 'liés']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NUM', 'NOUN', 'VERB']",7,5
+"['armes', 'jésus', 'coeurs', 'humiliés']","['NOUN', 'ADJ', 'ADJ', 'VERB']",4,3
+"['pauvres', 'genoux', 'suppliants', 'pliés']","['ADJ', 'NOUN', 'ADJ', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'belle', 'jacinthe']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['posée', 'tapis', 'belle', 'enceinte']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['plus', 'douce', 'laine', 'plus', 'souple', 'mieux', 'teinte']","['ADV', 'ADJ', 'NOUN', 'ADV', 'ADJ', 'ADV', 'NOUN']",7,3
+"['armes', 'jésus', ""c'"", 'est', 'cloche', 'tinte']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'PUNCT']",6,5
+"['sept', 'sacrements', ""c'"", 'est', ""l'"", 'ordre', 'contrainte']","['NUM', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,6
+"['dessin', 'fidèle', ""l'"", 'image', 'bien', 'peinte']","['NOUN', 'ADJ', 'DET', 'NOUN', 'ADV', 'VERB']",6,5
+"['armes', 'satan', ""c'"", 'est', 'cloche', 'tinte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'PUNCT']",6,4
+"['feu', ""l'"", 'enfer', ""c'"", 'est', 'ville', 'contrainte']","['NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",7,5
+"['passer', 'sort', ""c'"", 'est', 'toute', 'âme', 'repeinte']","['VERB', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,5
+"['faux', 'pinceau', ""c'"", 'est', 'toute', 'règle', 'enfreinte']","['ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['nom', 'quelque', 'règle', 'toute', 'foi', 'restreinte']","['NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,3
+"['nom', 'quelque', 'maître', 'toute', 'ville', 'ceinte']","['NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,3
+"[""d'"", 'un', 'rempart', 'frauduleux', 'toute', 'fleur', 'déteinte']","['ADP', 'DET', 'NOUN', 'ADJ', 'DET', 'NOUN', 'ADJ']",7,4
+"['force', 'pleuvoir', 'toute', 'flamme', 'éteinte']","['VERB', 'VERB', 'DET', 'NOUN', 'VERB']",5,3
+"['force', 'brûler', 'toute', 'infortune', 'atteinte']","['VERB', 'VERB', 'DET', 'NOUN', 'VERB']",5,3
+"['seuil', 'toute', 'mort', 'morne', 'complainte']","['NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['long', 'toute', 'vie', ""l'"", 'éphémère', 'empreinte']","['ADJ', 'DET', 'NOUN', 'DET', 'VERB', 'NOUN']",6,4
+"['sable', 'mortelle', 'étreinte']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['deux', 'amants', 'impurs', 'corps', ""l'"", 'âme', 'contrainte']","['NUM', 'NOUN', 'ADJ', 'VERB', 'DET', 'NOUN', 'VERB']",7,5
+"['armes', 'satan', ""c'"", 'est', 'ruse', 'feinte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""l'"", 'épouvante', ""l'"", 'envie', 'graisse', 'suinte']","['DET', 'NOUN', 'DET', 'NOUN', 'NOUN', 'VERB']",6,3
+"['double', 'concert', 'asthmes', 'quintes']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['coeurs', 'compliqués', 'soins', 'craintes']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['coeurs', 'contournés', 'comme', 'labyrinthes']","['NOUN', 'VERB', 'ADP', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'éternelle', 'empreinte']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['sable', ""l'"", 'immortelle', 'étreinte']","['NOUN', 'DET', 'ADJ', 'NOUN']",4,3
+"['deux', 'époux', 'très', 'purs', 'corps', ""l'"", 'âme', 'astreinte']","['NUM', 'NOUN', 'ADV', 'ADJ', 'VERB', 'DET', 'NOUN', 'ADJ']",8,6
+"['armes', 'jésus', ""c'"", 'est', 'faim', 'assouvie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'corps', 'glorieux', ""n'"", 'est', 'survie']","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADV', 'AUX', 'VERB']",7,6
+"[""c'"", 'est', ""l'"", 'éternelle', 'table', 'abondamment', 'servie']","['PRON', 'AUX', 'DET', 'ADJ', 'NOUN', 'ADV', 'VERB']",7,7
+"['satan', ""c'"", 'est', 'vengeance', 'elle-même', 'assouvie']","['NOUN', 'PRON', 'AUX', 'NOUN', 'PRON', 'VERB']",6,4
+"['armes', 'satan', ""c'"", 'est', 'horlogerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""chef-d'oeuvre"", ""d'"", 'adresse', 'serrurerie']","['NOUN', 'ADP', 'NOUN', 'NOUN']",4,2
+"['clef', ""c'"", 'est', 'jésus', 'jésus', 'porte']","['NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN', 'NOUN']",6,3
+"['porte', 'ciel', 'prend', 'main', 'forte']","['NOUN', 'NOUN', 'VERB', 'NOUN', 'ADJ']",5,3
+"['tous', 'serruriers', 'resteront', 'porte']","['DET', 'NOUN', 'VERB', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'grande', 'escorte']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['rome', 'prêta', ""c'"", 'est', 'rude', 'cohorte']","['NOUN', 'VERB', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,5
+"['faisait', 'honneur', ""c'"", 'est', 'croix', ""qu'"", 'il', 'porte']","['VERB', 'NOUN', 'PRON', 'AUX', 'NOUN', 'PRON', 'PRON', 'VERB']",8,4
+"['armes', 'satan', 'sorte']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['car', ""c'"", 'est', 'rome', ""c'"", 'est', 'escorte']","['CCONJ', 'PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'NOUN']",7,4
+"['cohorte', 'mer', 'morte']","['NOUN', 'NOUN', 'VERB']",3,2
+"['armes', 'jésus', ""c'"", 'est', ""qu'"", 'il', 'réconforte']","['NOUN', 'ADJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"['déconfort', ""c'"", 'est', ""qu'"", 'il', 'reporte']","['INTJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",6,5
+"['premier', 'paradis', ""c'"", 'est', ""qu'"", 'il', 'apporte']","['ADJ', 'NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"['pardon', 'père', ""c'"", 'est', ""qu'"", 'il', 'emporte']","['ADJ', 'NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"['dernier', 'paradis', ""c'"", 'est', ""qu'"", 'il', 'déporte']","['ADJ', 'NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"[""l'"", 'exil', 'péché', 'vers', 'seul', 'importe']","['DET', 'NOUN', 'VERB', 'ADP', 'ADJ', 'VERB']",6,5
+"[""c'"", 'est', 'salut', ""c'"", 'est', ""qu'"", 'il', 'transporte']","['PRON', 'AUX', 'ADV', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",8,5
+"['royaume', 'grâce', ""c'"", 'est', ""qu'"", 'il', 'supporte']","['NOUN', 'ADV', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"['péché', 'cette', 'immense', 'mainmorte']","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
+"[""qu'"", 'il', 'porte', ""l'"", 'épaule', ""c'"", 'est', ""qu'"", 'il', 'exhorte']","['SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB']",10,5
+"['silence', ""qu'"", 'il', 'frappe', 'porte']","['NOUN', 'PRON', 'PRON', 'VERB', 'VERB']",5,3
+"[""l'"", 'homme', 'vent', 'comme', 'feuille', 'morte']","['DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",6,4
+"['armes', 'satan', ""c'"", 'est', 'mainmorte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ']",5,4
+"['désarroi', ""c'"", 'est', ""qu'"", 'il', 'déconforte']","['NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",6,5
+"['réconfort', ""c'"", 'est', ""qu'"", 'il', 'reporte']","['NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",6,5
+"['péché', ""d'"", 'origine', ""c'"", 'est', ""qu'"", 'il', 'rapporte']","['VERB', 'ADP', 'NOUN', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB']",8,5
+"['mépris', 'pardon', ""c'"", 'est', ""qu'"", 'il', 'remporte']","['NOUN', 'ADJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",7,6
+"['science', 'mal', ""qu'"", 'il', 'redéporte']","['NOUN', 'ADV', 'PRON', 'PRON', 'VERB']",5,4
+"['vers', 'terre', 'bagne', ""qu'"", 'il', 'retransporte']","['ADP', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB']",6,4
+"['ténébreux', 'royaume', 'où', 'lui-même', 'supporte']","['ADJ', 'NOUN', 'ADV', 'PRON', 'VERB']",5,5
+"['poids', 'tout', 'monde', ""c'"", 'est', ""qu'"", 'il', 'exhorte']","['NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB']",8,6
+"['beaux', 'compliments', ""qu'"", 'il', 'gratte', 'porte']","['ADJ', 'NOUN', 'PRON', 'PRON', 'VERB', 'VERB']",6,4
+"[""l'"", 'homme', 'léger', 'comme', 'feuille', 'morte']","['DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'VERB']",6,5
+"['comme', 'pourrit', 'sous', 'pieds', 'cloporte']","['SCONJ', 'VERB', 'ADP', 'NOUN', 'ADJ']",5,5
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'solide', 'ancrage', 'beau', 'milieu', 'port']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",7,4
+"[""c'"", 'est', 'grand', 'partage', 'beau', 'milieu', 'sort']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",7,4
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'heureux', 'mouillage', 'plein', 'milieu', 'port']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",7,4
+"[""c'"", 'est', 'grand', 'héritage', 'plein', 'milieu', 'sort']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",7,4
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'bon', 'voisinage', 'plein', 'milieu', 'port']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",7,4
+"['pèlerinage', 'plein', 'milieu', 'sort']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'compagnonnage', 'plein', 'milieu', 'port']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",6,4
+"[""c'"", 'est', ""l'"", 'appareillage', 'plein', 'milieu', 'sort']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",7,5
+"['armes', 'satan', 'sept', 'péchés']","['NOUN', 'NOUN', 'NUM', 'NOUN']",4,2
+"['minauderie', 'airs', 'penchés']","['NOUN', 'NOUN', 'VERB']",3,2
+"['honteux', 'ressorts', 'savamment', 'déclanchés']","['ADJ', 'NOUN', 'ADV', 'VERB']",4,4
+"['armes', 'jésus', 'trois', 'vertus']","['NOUN', 'ADJ', 'NUM', 'NOUN']",4,3
+"['torses', 'courbés', 'reins', 'courbatus']","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"['galériens', 'battus', 'rebattus']","['NOUN', 'VERB', 'PUNCT']",3,3
+"['armes', 'satan', ""c'"", 'est', 'méthode', 'torte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,3
+"['sang', ""l'"", 'oreillette', 'sang', ""l'"", 'aorte']","['NOUN', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN']",6,3
+"['sang', 'ventricule', 'veine', 'porte']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'tout', 'sang', 'coeur']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,5
+"['sang', 'victime', 'sang', 'vainqueur']","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"['sang', 'noble', 'cerf', 'sang', 'piqueur']","['NOUN', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,2
+"['armes', 'satan', 'sept', 'péchés']","['NOUN', 'NOUN', 'NUM', 'NOUN']",4,2
+"['embarqués', 'quatre', 'quatre', 'mollement', 'couchés']","['VERB', 'NUM', 'NUM', 'ADV', 'VERB']",5,3
+"['folle', 'galère', 'dais', 'empanachés']","['ADJ', 'NOUN', 'NOUN', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'barque', 'pierre']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['toujours', 'fluctuante', 'toujours', 'batelière']","['ADV', 'ADJ', 'ADV', 'ADJ']",4,2
+"['racle', 'filets', 'fond', 'rivière']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'barque', 'pierre']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"[""c'"", 'est', 'vieux', 'pêcheur', ""d'"", 'homme', 'assis', 'derrière']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP']",8,5
+"['dépeuplant', ""l'"", 'océan', 'lac', 'rivière']","['VERB', 'DET', 'NOUN', 'NOUN', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'sept', 'sacrements']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NUM', 'NOUN']",6,5
+"['barque', 'pierre', 'sept', 'bâtiments']","['NOUN', 'NOUN', 'NUM', 'NOUN']",4,2
+"['suivent', 'derrière', 'sept', 'monuments']","['VERB', 'ADP', 'NUM', 'NOUN']",4,4
+"['périront', 'point', 'sept', 'couronnements']","['VERB', 'NOUN', 'NUM', 'NOUN']",4,3
+"['sept', 'douleurs', 'sept', 'fleuronnements']","['NUM', 'NOUN', 'NUM', 'NOUN']",4,2
+"[""l'"", 'arbre', 'grâce', 'sept', 'firmaments']","['DET', 'NOUN', 'ADV', 'NUM', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'unique', 'nef']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['gouvernant', 'plus', 'près', 'sous', 'cet', 'unique', 'chef']","['VERB', 'ADV', 'ADV', 'ADP', 'DET', 'ADJ', 'NOUN']",7,6
+"['toujours', 'plein', 'péril', 'toujours', 'sans', 'méchef']","['ADV', 'ADJ', 'NOUN', 'ADV', 'ADP', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'cet', 'unique', 'fief']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['tenu', 'seul', 'homme', 'armé', 'quelque', 'bref']","['VERB', 'ADJ', 'NOUN', 'VERB', 'DET', 'NOUN']",6,4
+"['toujours', 'plein', 'péril', 'toujours', 'sans', 'grief']","['ADV', 'ADJ', 'NOUN', 'ADV', 'ADP', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'éternelle', 'peine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['assise', 'creux', 'lit', 'toute', 'race', 'humaine']","['NOUN', 'ADJ', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,3
+"['mort', 'mains', 'toute', 'châtelaine']","['VERB', 'NOUN', 'DET', 'ADJ']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'grande', 'semaine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['part', 'lundi', 'saint', ""c'"", 'est', 'grande', 'neuvaine']","['NOUN', 'NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,4
+"['part', 'trois', 'janvier', ""c'"", 'est', 'barque', 'pleine']","['NOUN', 'NUM', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",7,5
+"['armes', 'jésus', ""c'"", 'est', 'cette', 'unique', 'nef']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['bateau', 'vers', ""l'"", 'écluse', 'amarré', 'bief']","['NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'NOUN']",6,4
+"['bateau', 'charpenté', 'vieux', 'saint', 'joseph']","['NOUN', 'ADJ', 'ADJ', 'NOUN', 'NOUN']",5,2
+"[""c'"", 'est', 'aussi', 'jacob', 'premier', 'joseph']","['PRON', 'AUX', 'ADV', 'DET', 'ADJ', 'NOUN']",6,6
+"['moïse', 'nil', 'étroite', 'nef']","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['peuple', 'dieu', 'gouverné', 'derechef']","['NOUN', 'NOUN', 'VERB', 'PUNCT']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'sang', 'veine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['sang', 'coeur', 'sanglots', 'peine']","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[""l'"", 'immense', 'sanglot', 'toute', 'race', 'humaine']","['DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,3
+"['armes', 'satan', ""c'"", 'est', 'sourde', 'gangrène']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""l'"", 'obscur', 'mal', 'tête', 'lourde', 'migraine']","['DET', 'NOUN', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[""l'"", 'orgueil', ""l'"", 'ivraie', 'mauvaise', 'graine']","['DET', 'NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'double', 'prière']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""l'"", 'une', 'marchant', 'devant', ""l'"", 'autre', 'marchant', 'derrière']","['DET', 'PRON', 'VERB', 'ADP', 'DET', 'PRON', 'VERB', 'ADP']",8,4
+"['comme', 'matinale', 'vers', 'journalière']","['ADP', 'NOUN', 'ADP', 'ADJ']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'double', 'prière']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""l'"", 'une', 'arrivant', 'devant', ""l'"", 'autre', 'avançant', 'derrière']","['DET', 'PRON', 'VERB', 'ADP', 'DET', 'PRON', 'VERB', 'ADP']",8,4
+"['comme', 'vespérale', 'vers', 'journalière']","['ADP', 'ADJ', 'ADP', 'ADJ']",4,2
+"[""c'"", 'est', 'aussi', 'secret', 'prière', 'nocturne']","['PRON', 'AUX', 'ADV', 'ADJ', 'NOUN', 'ADJ']",6,5
+"[""l'"", 'immuable', 'regret', 'coeur', 'taciturne']","['DET', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",5,3
+"['mort', ""l'"", 'amour', 'cendre', ""l'"", 'urne']","['VERB', 'DET', 'NOUN', 'ADJ', 'DET', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'angélus', 'soir']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,5
+"['celui', 'matin', 'calme', 'reposoir']","['PRON', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['procession', ""l'"", 'éclatant', 'ostensoir']","['NOUN', 'DET', 'NOUN', 'NOUN']",4,2
+"['balancé', 'fronts', 'comme', 'soleil', 'ardent']","['VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ']",5,4
+"['armes', 'satan', ""c'"", 'est', 'griffe', 'dent']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,3
+"['nez', 'mal', 'retroussé', 'regard', 'impudent']","['NOUN', 'ADV', 'ADJ', 'NOUN', 'ADJ']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'calme', 'soir']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'procession', 'assise', 'reposoir']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['feuilles', 'fleurs', ""c'"", 'est', 'lourd', 'ostensoir']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['levé', 'dessus', 'fronts', 'comme', 'soleil', 'levant']","['VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADJ']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'pluie', 'vent']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['souffle', 'nef', ""c'"", 'est', 'coeur', 'fervent']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'fruit', 'mûrit', 'planches', 'dressoir']","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN', 'PUNCT']",6,5
+"[""c'"", 'est', ""l'"", 'enfant', 'couche', 'dit', 'bonsoir']","['PRON', 'AUX', 'DET', 'NOUN', 'NOUN', 'VERB', 'X']",7,6
+"[""s'"", 'endort', 'priant', ""c'"", 'est', 'lourd', 'ostensoir']","['PRON', 'VERB', 'VERB', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,5
+"['haussé', 'dessus', 'fronts', 'comme', 'soleil', 'couchant']","['VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'souple', 'vallon', ""c'"", 'est', 'coteau', 'penchant']","['PRON', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",8,4
+"[""l'"", 'église', 'plaine', 'prose', 'chant']","['DET', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",5,3
+"[""c'"", 'est', 'grappe', 'giclant', 'sous', ""l'"", 'énorme', 'pressoir']","['PRON', 'AUX', 'NOUN', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN']",8,7
+"[""c'"", 'est', ""l'"", 'étang', 'répandu', 'dessus', 'déversoir']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",7,5
+"[""c'"", 'est', ""l'"", 'encens', 'balancé', 'lourd', 'encensoir']","['PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'ADJ', 'NOUN']",7,6
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'écu', 'trébuchant']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['propos', 'alléchant', 'souffle', 'desséchant']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['plaine', 'sans', 'église', ""l'"", 'ortie', 'champ']","['NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'NOUN']",6,3
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'écuyer', 'tranchant']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['bon', 'méchant', 'beau', 'vaisseau', 'marchand']","['ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,2
+"[""l'"", 'église', 'plaine', ""l'"", 'homme', 'champ']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'NOUN']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'belle', 'marraine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'beau', 'baptême', ""c'"", 'est', 'belle', 'étrenne']","['PRON', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",8,4
+"[""l'"", 'avoine', 'seigle', ""c'"", 'est', 'bonne', 'graine']","['DET', 'NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,5
+"[""c'"", 'est', 'seneçon', ""c'"", 'est', 'sept', 'péchés']","['PRON', 'AUX', 'ADJ', 'PRON', 'AUX', 'NUM', 'NOUN']",7,5
+"['contrition', 'noeuds', 'relâchés']","['NOUN', 'NOUN', 'VERB']",3,2
+"['filet', 'satan', 'cordons', 'tranchés']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['armes', 'satan', ""c'"", 'est', 'sept', 'débauchés']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NUM', 'NOUN']",6,4
+"[""c'"", 'est', 'prince-évêque', 'sept', 'évêchés']","['PRON', 'AUX', 'NOUN', 'NUM', 'NOUN']",5,4
+"['tentations', 'courant', 'marchés']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'sept', 'cents', 'évêchés']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NUM', 'NUM', 'NOUN']",7,5
+"[""c'"", 'est', 'pape-évêque', 'cent', 'archevêchés']","['PRON', 'AUX', 'ADV', 'NUM', 'NOUN']",5,5
+"[""l'"", 'esclave', ""l'"", 'enfant', 'vendus', 'marchés']","['DET', 'NOUN', 'DET', 'NOUN', 'VERB', 'NOUN']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'tête', 'penchée']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"['coude', 'genou', 'épaule', 'écorchée']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['estomac', 'reins', 'hanche', 'démanchée']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['barbe', 'cheveux', 'habits', 'arrachés']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['poitrine', 'bras', 'poignets', 'attachés']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['plus', 'savants', 'ressorts', ""l'"", 'instant', 'décrochés']","['ADV', 'NOUN', 'NOUN', 'DET', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'vieux', 'paris', 'foule', 'endimanchée']","['PRON', 'AUX', 'ADJ', 'NOUN', 'NOUN', 'VERB']",6,5
+"['dimanche', 'matin', ""c'"", 'est', 'soif', 'étanchée']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"['calice', ""d'"", 'or', 'pur', 'pauvresse', 'penchée']","['NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'VERB']",6,4
+"['plus', 'pauvresse', ""c'"", 'est', ""l'"", 'amour', 'cachée']","['ADV', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,6
+"[""l'"", 'âme', 'plus', 'pauvre', 'douleur', 'couchée']","['DET', 'NOUN', 'ADV', 'ADJ', 'NOUN', 'VERB']",6,5
+"['lit', 'tout', 'homme', 'toute', 'orge', 'fauchée']","['NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'VERB']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'toute', 'onde', 'épanchée']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,6
+"['gosier', 'fièvre', 'toute', 'âme', 'ébauchée']","['NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",5,3
+"['coin', 'toute', 'lèvre', 'toute', 'fleur', 'jonchée']","['NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'VERB']",6,3
+"['pied', 'pieds', 'saignants', 'toute', 'arme', 'ébréchée']","['NOUN', 'NOUN', 'ADJ', 'DET', 'NOUN', 'ADJ']",6,3
+"['force', 'servir', 'tige', 'ébranchée']","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"['force', 'produire', 'paille', 'hachée']","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'amour', 'peine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,5
+"[""l'"", 'amour', 'mains', 'suppôts', 'haine']","['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['mort', 'mains', 'toute', 'châtelaine']","['VERB', 'NOUN', 'DET', 'ADJ']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'vie', 'mort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'fleuve', 'fécond', ""c'"", 'est', ""l'"", 'éternel', 'apport']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",9,5
+"['vase', 'limon', 'plein', 'milieu', 'port']","['NOUN', 'ADJ', 'ADJ', 'NOUN', 'NOUN']",5,2
+"['armes', 'jésus', ""c'"", 'est', 'gamin', 'dort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'honte', 'peine', 'frère', 'sort']","['PRON', 'AUX', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",6,4
+"[""l'"", 'amour', 'mains', 'suppôts', 'mort']","['DET', 'NOUN', 'NOUN', 'ADJ', 'ADJ']",5,3
+"['armes', 'satan', ""c'"", 'est', 'sensiblerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'censément', 'droit', ""l'"", 'humanitairerie']","['PRON', 'AUX', 'ADV', 'ADJ', 'DET', 'NOUN']",6,6
+"[""c'"", 'est', 'fourberie', ""c'"", 'est', 'ladrerie']","['PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'ADJ']",6,4
+"['armes', 'satan', ""c'"", 'est', 'bête', 'lâchée']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'VERB']",6,5
+"['déshonneur', 'gratuit', 'honte', 'remâchée']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['troupeau', 'mal', 'conduit', 'terre', 'mal', 'bêchée']","['NOUN', 'ADV', 'VERB', 'NOUN', 'ADV', 'ADJ']",6,4
+"['armes', 'satan', ""c'"", 'est', 'membre', 'arraché']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"['bourgeon', 'retranché', 'rameau', 'détaché']","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"['boeuf', 'aiguillonné', 'cheval', 'cravaché']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'haute', 'terrasse']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""d'"", 'où', 'retombe', 'jet', ""d'"", 'eau', 'source', 'grâce']","['ADP', 'ADV', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADV']",8,4
+"['vasque', 'flanc', 'grave', 'sang', 'race']","['NOUN', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",5,2
+"['armes', 'satan', ""c'"", 'est', 'basse', 'menace']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['coins', 'toute', 'lèvre', 'gluante', 'trace']","['NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['laisse', 'fleur', 'visqueuse', 'limace']","['VERB', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['armes', 'satan', ""c'"", 'est', 'esprit', 'pointu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'corps', 'lambeaux', ""c'"", 'est', 'coeur', 'combattu']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",8,5
+"['bourreau', 'mal', 'payé', 'procès', 'débattu']","['NOUN', 'ADV', 'VERB', 'NOUN', 'VERB']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'coeur', 'combattu']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"[""c'"", 'est', 'corps', 'tout', 'entier', 'vertu']","['PRON', 'AUX', 'NOUN', 'ADV', 'ADJ', 'NOUN']",6,5
+"['grappe', 'écrasée', 'froment', 'battu']","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'grain', 'sous', 'meule']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADP', 'NOUN']",7,5
+"['raisin', 'sous', 'presse', ""l'"", 'oiseau', 'gueule']","['NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'NOUN']",6,3
+"['fils', 'père', ""l'"", 'enfant', ""l'"", 'aïeule']","['NOUN', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN']",6,2
+"['satan', 'regarde', 'vil', 'vermisseau']","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"['juré', ""d'"", 'étouffer', 'sous', ""l'"", 'ombre', 'boisseau']","['VERB', 'ADP', 'VERB', 'ADP', 'DET', 'NOUN', 'ADJ']",7,5
+"['lumière', 'lampe', 'plaine', 'monceau']","['NOUN', 'NOUN', 'ADJ', 'ADJ']",4,2
+"['armes', 'satan', ""c'"", 'est', 'gagerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'forfanterie', 'effronterie']","['PRON', 'AUX', 'NOUN', 'NOUN']",4,3
+"[""c'"", 'est', 'philologue', 'quincaillerie']","['PRON', 'AUX', 'NOUN', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'servitude']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'hébétement', 'longue', 'habitude']","['PRON', 'AUX', 'ADV', 'ADJ', 'NOUN']",5,5
+"['nuit', 'veille', 'lampe', ""l'"", 'étude']","['NOUN', 'VERB', 'NOUN', 'DET', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'béatitude']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'parabole', 'mansuétude']","['PRON', 'AUX', 'ADJ', 'NOUN']",4,4
+"[""c'"", 'est', 'quand', 'pleura', 'cette', 'multitude']","['PRON', 'AUX', 'SCONJ', 'VERB', 'DET', 'NOUN']",6,6
+"['armes', 'satan', ""c'"", 'est', 'quiétude']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'théorème', ""c'"", 'est', 'certitude']","['PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,3
+"['pouvoir', 'savoir', 'décrépitude']","['VERB', 'VERB', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'tranchant', 'sort']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'point', 'glaive', 'où', 'vie', 'mort']","['PRON', 'AUX', 'NOUN', 'NOUN', 'ADV', 'NOUN', 'ADJ']",7,5
+"['déjouent', 'corps', ""l'"", 'âme', 'plein', 'milieu', 'port']","['VERB', 'NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",7,4
+"['armes', 'jésus', ""c'"", 'est', 'inquiétude']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""l'"", 'axiome', 'règle', 'incertitude']","['DET', 'NOUN', 'VERB', 'NOUN']",4,3
+"['devoir', 'pouvoir', 'vicissitude']","['VERB', 'VERB', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'servitude']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'toute', 'solitude', 'toute', 'plénitude']","['PRON', 'AUX', 'DET', 'NOUN', 'DET', 'NOUN']",6,4
+"['turpitude', 'lassitude']","['NOUN', 'NOUN']",2,1
+"['armes', 'satan', ""c'"", 'est', 'criaillerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['vote', 'mandat', 'suffragerie']","['NOUN', 'NOUN', 'NOUN']",3,1
+"[""l'"", 'avocasserie', 'haranguerie']","['DET', 'NOUN', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'sollicitude']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['ingratitude', 'exactitude']","['NOUN', 'NOUN']",2,1
+"['similitude', 'toute', 'rectitude']","['NOUN', 'DET', 'NOUN']",3,2
+"['armes', 'satan', ""c'"", 'est', 'pure', 'vanterie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'vieux', 'bric', 'brac', ""l'"", 'antiquaillerie']","['PRON', 'AUX', 'ADJ', 'NOUN', 'NOUN', 'DET', 'NOUN']",7,5
+"['fabriqué', 'faux', 'ferronnerie']","['VERB', 'ADJ', 'NOUN']",3,3
+"['armes', 'satan', ""c'"", 'est', 'fruit', 'défendu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'meurtre', ""d'"", 'abel', ""c'"", 'est', 'sang', 'répandu']","['PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",9,5
+"[""c'"", 'est', 'judas', 'dépendu', ""c'"", 'est', 'judas', 'rependu']","['PRON', 'AUX', 'NOUN', 'VERB', 'PRON', 'AUX', 'NOUN', 'NOUN']",8,4
+"['armes', 'satan', ""c'"", 'est', 'filet', 'tendu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'propos', 'douteux', 'sous-entendu']","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADJ']",5,4
+"['toute', 'controverse', 'tout', 'malentendu']","['DET', 'NOUN', 'DET', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', 'jésus-christ', 'vendu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'trente', 'deniers', ""c'"", 'est', 'joseph', 'descendu']","['PRON', 'AUX', 'NUM', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",8,5
+"['fond', 'citerne', 'captif', 'revendu']","['NOUN', 'NOUN', 'ADJ', 'VERB']",4,3
+"['armes', 'satan', ""c'"", 'est', 'race', 'perdue']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'lacet', 'tressé', ""c'"", 'est', 'corde', 'tordue']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",8,4
+"['toute', 'chair', 'assaillie', 'toute', 'chair', 'mordue']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",6,3
+"['armes', 'satan', ""c'"", 'est', 'tout', 'résidu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['lie', ""l'"", 'écume', ""c'"", 'est', ""l'"", 'individu']","['VERB', 'DET', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"[""c'"", 'est', 'commentaire', 'compte', 'rendu']","['PRON', 'AUX', 'NOUN', 'NOUN', 'VERB']",5,4
+"['armes', 'satan', ""c'"", 'est', 'toute', 'dette', 'due']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,5
+"['irrémissiblement', 'honte', 'suspendue']","['ADV', 'NOUN', 'VERB']",3,3
+"['gouverneur', 'toute', 'ville', 'rendue']","['NOUN', 'DET', 'NOUN', 'VERB']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'satan', 'confondu']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"['tout', 'fossé', 'remparé', 'tout', 'rempart', 'défendu']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",6,3
+"['tout', 'terrain', 'regagné', 'terrain', 'perdu']","['DET', 'NOUN', 'VERB', 'NOUN', 'VERB']",5,3
+"['dette', 'remise', 'dette', 'rendue']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['frère', 'frère', 'brebis', 'perdue']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['toute', 'âme', 'assaillie', 'toute', 'âme', 'mordue']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",6,3
+"['armes', 'jésus', ""c'"", 'est', 'nuit', 'répandue']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"['repos', ""l'"", 'homme', 'ferme', 'vendue']","['NOUN', 'DET', 'NOUN', 'ADJ', 'VERB']",5,4
+"['payer', 'impôts', 'brebis', 'tondue']","['VERB', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'neige', 'fondue']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['soleil', 'printemps', 'hache', 'suspendue']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['jour', 'jugement', ""c'"", 'est', ""l'"", 'âme', 'éperdue']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",7,5
+"['indignité', ""c'"", 'est', 'grande', 'étendue']","['NOUN', 'PRON', 'AUX', 'ADJ', 'VERB']",5,5
+"[""l'"", 'arbre', 'noël', 'bûche', 'fendue']","['DET', 'NOUN', 'ADJ', 'NOUN', 'VERB']",5,4
+"[""c'"", 'est', 'depuis', 'adam', 'nouvelle', 'attendue']","['PRON', 'AUX', 'ADP', 'NOUN', 'ADJ', 'VERB']",6,6
+"['armes', 'jésus', ""c'"", 'est', 'bonne', 'aventure']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'créateur', 'créant', 'créature']","['PRON', 'AUX', 'NOUN', 'VERB', 'NOUN']",5,4
+"['sceau', 'seigneur', 'mettant', 'signature']","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', 'caricature']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['contrefaçon', 'toute', 'signature']","['NOUN', 'DET', 'NOUN']",3,2
+"[""l'"", 'homme', 'jugeant', ""l'"", 'homme', 'magistrature']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'NOUN']",6,3
+"['assise', 'tribunal', ""c'"", 'est', 'lettre', 'surie']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'PUNCT']",6,5
+"['littéralité', 'morne', 'déjà', 'pourrie']","['NOUN', 'ADJ', 'ADV', 'ADJ']",4,3
+"['armes', 'satan', ""c'"", 'est', 'chancellerie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['armes', 'satan', ""c'"", 'est', 'plaisanterie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['cette', 'sauce', 'tournée', ""c'"", 'est', ""l'"", 'hôtellerie']","['DET', 'NOUN', 'VERB', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"['mauvais', 'passants', ""c'"", 'est', ""l'"", 'ivrognerie']","['ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['coudes', 'table', 'clabauderie']","['NOUN', 'NOUN', 'NOUN']",3,1
+"['ribauderie', 'maussaderie']","['NOUN', 'NOUN']",2,1
+"['badauderie', 'nigauderie']","['NOUN', 'NOUN']",2,1
+"['armes', 'jésus', ""c'"", 'est', 'charpenterie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""l'"", 'établi', 'varlope', 'menuiserie']","['DET', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['scie', 'rabot', ""l'"", 'ébénisterie']","['NOUN', 'NOUN', 'DET', 'NOUN']",4,2
+"['denier', 'veuve', 'bon', 'ouvrier']","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', 'vil', 'usurier']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"[""l'"", 'armurier', 'guerrier', 'manufacturier']","['DET', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['armes', 'satan', ""c'"", 'est', 'truanderie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['mauvais', 'compagnon', 'camaraderie']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['mauvais', 'camarade', 'cafarderie']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['mauvais', 'garçon', ""c'"", 'est', 'regard', 'oblique']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['jeté', 'voisin', 'peuple', 'famélique']","['VERB', 'ADJ', 'NOUN', 'ADJ']",4,3
+"['sous', 'bombance', 'énorme', 'pantagruélique']","['ADP', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'foi', 'catholique']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['enchâssée', 'prix', ""d'"", 'or', 'ronde', 'basilique']","['VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADJ']",6,4
+"[""c'"", 'est', 'paix', 'publique', 'sainte', 'relique']","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,4
+"['armes', 'satan', ""c'"", 'est', 'tout', 'complique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADV', 'ADJ']",6,5
+"['très', 'simple', 'existence', ""c'"", 'est', 'quand', 'implique']","['ADV', 'ADJ', 'NOUN', 'PRON', 'AUX', 'SCONJ', 'VERB']",7,7
+"[""l'"", 'innocent', 'crime', 'diabolique']","['DET', 'ADJ', 'NOUN', 'ADJ']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'cèdre', 'biblique']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['salutation', 'ferveur', 'angélique']","['ADJ', 'NOUN', 'ADJ']",3,2
+"[""l'"", 'annonciation', ""l'"", 'ère', 'évangélique']","['DET', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,3
+"['armes', 'satan', ""c'"", 'est', 'ruse', 'clique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['claque', 'sournoise', 'méphistophélique']","['NOUN', 'ADJ', 'ADJ']",3,2
+"['noise', 'sourdine', 'machiavélique']","['NOUN', 'NOUN', 'ADJ']",3,2
+"['armes', 'jésus', ""c'"", 'est', 'léger', 'caïque']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['pierre', 'lac', ""c'"", 'est', ""l'"", 'archange', 'archaïque']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['fermant', 'paradis', ""c'"", 'est', 'foi', 'judaïque']","['VERB', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,5
+"['première', 'loi', ""c'"", 'est', 'race', 'hébraïque']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['tronc', ""d'"", 'israël', ""c'"", 'est', 'mosaïque']","['NOUN', 'ADP', 'NOUN', 'PRON', 'AUX', 'ADJ']",6,5
+"['vertu', 'clercs', 'vertu', 'laïque']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'loi', 'mosaïque']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['dix', 'commandements', 'peuple', 'liturgique']","['NUM', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[""qu'"", 'il', 'point', 'rayés', 'rome', 'apostolique']","['PRON', 'PRON', 'NOUN', 'VERB', 'NOUN', 'ADJ']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'mort', 'héroïque']","['NOUN', 'ADJ', 'PRON', 'AUX', 'VERB', 'ADJ']",6,5
+"['martyr', ""l'"", 'arène', 'douceur', 'stoïque']","['NOUN', 'DET', 'NOUN', 'NOUN', 'ADJ']",5,3
+"['saint', ""c'"", 'est', 'aussi', 'vertu', 'prosaïque']","['NOUN', 'PRON', 'AUX', 'ADV', 'NOUN', 'ADJ']",6,5
+"['armes', 'satan', ""c'"", 'est', 'courbe', 'saïque']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['souple', 'vaisseau', 'charge', ""c'"", 'est', ""l'"", 'art', 'chaldaïque']","['ADJ', 'NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",8,5
+"['vertu', 'riche', 'pharisaïque']","['NOUN', 'ADJ', 'ADJ']",3,2
+"[""c'"", 'est', ""l'"", 'aigre', 'réplique', 'somnambulique']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'ADJ']",6,5
+"['cyrénaïque', ""l'"", 'aristotélique']","['ADJ', 'DET', 'NOUN']",3,3
+"['pire', 'tout', ""c'"", 'est', 'bien', 'quand', 'explique']","['INTJ', 'ADV', 'PRON', 'AUX', 'ADV', 'SCONJ', 'VERB']",7,6
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'ardente', 'supplique']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",7,5
+"['pauvre', 'gouverneur', ""c'"", 'est', 'parabolique']","['ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ']",5,4
+"[""c'"", 'est', 'huit', 'bonheurs', 'sous', 'rome', 'apostolique']","['PRON', 'AUX', 'NUM', 'NOUN', 'ADP', 'NOUN', 'ADJ']",7,6
+"[""c'"", 'est', 'roi', 'france', ""c'"", 'est', 'république']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",7,4
+"[""c'"", 'est', 'bref', 'pape', 'lourde', 'encyclique']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'ADJ']",6,4
+"['parmi', 'deuils', 'privés', 'vertu', 'publique']","['ADP', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,3
+"['armes', 'satan', ""c'"", 'est', 'vil', 'publicain']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['percepteur', 'rome', 'fieffé', 'coquin']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['berne', ""l'"", 'honnête', 'homme', 'fait', 'faquin']","['NOUN', 'DET', 'ADJ', 'NOUN', 'VERB', 'PUNCT']",6,5
+"[""l'"", 'avare', 'péager', 'servile', 'sequin']","['DET', 'NOUN', 'VERB', 'ADJ', 'NOUN']",5,4
+"[""l'"", 'infidèle', 'berger', 'manteau', ""d'"", 'arlequin']","['DET', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",6,4
+"['vice', 'vertu', 'grossier', 'mannequin']","['NOUN', 'NOUN', 'ADJ', 'ADJ']",4,2
+"['fait', 'peur', 'moineaux', 'rude', 'casaquin']","['VERB', 'NOUN', 'ADJ', 'ADJ', 'PUNCT']",5,4
+"[""l'"", 'armure', 'guerre', 'lourd', 'troussequin']","['DET', 'NOUN', 'NOUN', 'ADJ', 'VERB']",5,4
+"['cheval', 'guerre', ""l'"", 'ennuyeux', 'pasquin']","['NOUN', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'samaritain']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['blessé', 'recueilli', 'pauvre', 'franciscain']","['VERB', 'VERB', 'ADJ', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'républicain']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ']",5,4
+"['armes', 'satan', ""c'"", 'est', 'faux', 'symbolique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['pierre', 'comprimé', 'marbre', 'majolique']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['pierre', 'jésus', ""c'"", 'est', 'pur', 'pentélique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['armes', 'satan', ""c'"", 'est', 'toute', 'hyperbolique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'ADJ']",6,5
+"['masque', 'satan', ""c'"", 'est', 'toute', 'bucolique']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'ADJ']",6,5
+"['modulant', 'sous', 'hêtre', 'pure', 'idyllique']","['VERB', 'ADP', 'NOUN', 'ADJ', 'ADJ']",5,4
+"['armes', 'tous', 'deux', ""c'"", 'est', 'mélancolique']","['NOUN', 'ADJ', 'NUM', 'PRON', 'AUX', 'ADJ']",6,5
+"[""qu'"", 'il', 'descendu', 'vieux', 'cèdre', 'biblique']","['PRON', 'PRON', 'VERB', 'ADJ', 'NOUN', 'ADJ']",6,4
+"[""qu'"", 'il', 'remonté', 'jeune', 'république']","['PRON', 'PRON', 'VERB', 'ADJ', 'NOUN']",5,4
+"['armes', 'satan', ""c'"", 'est', 'toute', 'idolâtrie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['tout', 'réassortiment', 'toute', 'replâtrerie']","['PRON', 'VERB', 'DET', 'NOUN']",4,4
+"['tout', 'fatras', 'tout', 'raccord', 'toute', 'folâtrerie']","['DET', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN']",6,2
+"['armes', 'jésus', ""c'"", 'est', 'culte', 'doulie']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'PUNCT']",6,5
+"[""d'"", 'asservissement', ""c'"", 'est', 'culte', 'latrie']","['ADP', 'NOUN', 'PRON', 'AUX', 'ADJ', 'PUNCT']",6,6
+"[""d'"", 'adoration', ""c'"", 'est', 'culte', 'patrie']","['ADP', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,5
+"['terre', 'natale', 'démonolâtrie']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['retourne', 'vers', 'satan', 'zoolâtrie']","['VERB', 'ADP', 'NOUN', 'NOUN']",4,3
+"['psychiâtrie', 'chimiâtrie']","['NOUN', 'NOUN']",2,1
+"[""l'"", 'ergot', 'seigle', 'autres', 'caries']","['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['phylloxéras', 'vignes', 'flétries']","['VERB', 'NOUN', 'ADJ']",3,3
+"['puits', 'desséchés', 'races', 'taries']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'pauvre', 'monture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""l'"", 'ânon', 'cette', 'ânesse', ""c'"", 'est', 'courbature']","['DET', 'NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",7,4
+"['reins', 'bâtonnés', ""c'"", 'est', 'sépulture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['caveau', 'prêté', ""c'"", 'est', ""l'"", 'agneau', 'sans', 'pâture']","['NOUN', 'VERB', 'PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'NOUN']",8,6
+"[""c'"", 'est', 'barque', 'pierre', 'errante', 'sans', 'mâture']","['PRON', 'AUX', 'NOUN', 'NOUN', 'ADJ', 'ADP', 'NOUN']",7,5
+"['préteur', 'rome', ""c'"", 'est', 'préfecture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['préfet', 'rome', 'cette', 'humble', 'toiture']","['NOUN', 'ADJ', 'DET', 'ADJ', 'NOUN']",5,3
+"['chaume', 'ras', 'sol', ""l'"", 'unique', 'voiture']","['NOUN', 'ADJ', 'NOUN', 'DET', 'ADJ', 'NOUN']",6,3
+"['seul', 'cheval', 'vieille', 'clôture']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['mauvais', 'fil', 'fer', 'progéniture']","['ADJ', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['attendant', 'sous', 'lampe', 'humble', 'nourriture']","['VERB', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['espérant', 'vaguement', 'pot', 'confiture']","['VERB', 'ADV', 'NOUN', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'cette', 'dictature']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['sept', 'sept', 'monture']","['NUM', 'NUM', 'NOUN']",3,2
+"['cheval', 'pourri', 'tenus', 'ceinture']","['NOUN', 'ADJ', 'VERB', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'sainte', 'écriture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['depuis', 'premier', 'livre', ""c'"", 'est', 'toute', 'droiture']","['ADP', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,6
+"['depuis', 'premier', ""c'"", 'est', 'toute', 'armature']","['ADP', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,6
+"['tenant', 'homme', 'roide', ""c'"", 'est', 'toute', 'ossature']","['VERB', 'NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",7,6
+"['tenant', 'homme', 'ferme', 'toute', 'architecture']","['VERB', 'NOUN', 'VERB', 'DET', 'NOUN']",5,3
+"['tenant', 'maison', 'pleine', 'basse', 'stature']","['VERB', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['armes', 'satan', ""c'"", 'est', 'mauvais', 'docteur']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['est', '-il', 'bons', ""c'"", 'est', 'mauvais', 'acteur']","['AUX', 'PRON', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,4
+"['joue', 'contre', 'sens', 'mauvais', 'lecteur']","['VERB', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['lit', 'contre', 'texte', ""c'"", 'est', 'détracteur']","['NOUN', 'ADP', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,4
+"['détracte', 'détraque', 'simple', 'électeur']","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['rétracte', 'vote', 'morne', 'inspecteur']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['regarde', 'surveille', 'dur', 'directeur']","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"['regarde', 'gouverne', 'lourd', 'protecteur']","['VERB', 'VERB', 'ADJ', 'ADJ']",4,2
+"['regarde', 'pèse', 'fait', 'recteur']","['VERB', 'VERB', 'VERB', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', 'contradicteur']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['dit', ""d'"", 'abord', 'non', ""c'"", 'est', ""l'"", 'antique', 'licteur']","['VERB', 'ADP', 'NOUN', 'ADV', 'PRON', 'AUX', 'DET', 'ADJ', 'NOUN']",9,8
+"[""l'"", 'antique', 'faisceau', ""c'"", 'est', 'satan', 'destructeur']","['DET', 'ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",7,5
+"['armes', 'satan', ""c'"", 'est', 'satan', 'constructeur']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['satané', 'parvis', ""c'"", 'est', 'satan', 'conducteur']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"[""l'"", 'homme', 'vers', 'perte', 'satan', 'rédacteur']","['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADJ']",6,4
+"['fausse', 'nouvelle', ""c'"", 'est', 'tout', 'abstracteur']","['ADJ', 'ADJ', 'PRON', 'AUX', 'DET', 'ADJ']",6,4
+"['cinquième', 'essence', 'tout', 'contrefacteur']","['ADJ', 'NOUN', 'DET', 'NOUN']",4,3
+"['poursuivi', ""c'"", 'est', 'satan', 'collecteur']","['VERB', 'PRON', 'AUX', 'NOUN', 'NOUN']",5,4
+"[""d'"", 'impôts', 'état', ""c'"", 'est', 'satan', 'correcteur']","['ADP', 'NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",7,4
+"['mauvais', 'journal', 'traître', 'traducteur']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['mauvais', 'patois', 'fourbe', 'producteur']","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"['produits', 'frelatés', 'brillant', 'introducteur']","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"['royaume', ""d'"", 'enfer', 'décevant', 'instructeur']","['NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['mauvaise', 'recrue', 'sinistre', 'amateur']","['ADJ', 'NOUN', 'ADJ', 'ADJ']",4,2
+"[""d'art"", 'collections', 'savant', 'armateur']","['DET', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['naufrage', 'superbe', 'docile', 'imposteur']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['armes', 'satan', ""c'"", 'est', 'satan', 'séducteur']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,3
+"['armes', 'satan', ""c'"", 'est', 'sévère', 'cotte']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['maille', ""c'"", 'est', 'aussi', 'regard', 'clignotte']","['NOUN', 'PRON', 'AUX', 'ADV', 'NOUN', 'ADJ']",6,5
+"['sous', 'lourde', 'visière', 'sous', 'bourguignotte']","['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'race', 'future']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'riche', 'missel', ""c'"", 'est', 'miniature']","['PRON', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ']",7,4
+"['ciel', ""l'"", 'enfer', 'terre', 'peinture']","['NOUN', 'DET', 'NOUN', 'NOUN', 'NOUN']",5,2
+"['armes', 'satan', ""c'"", 'est', 'mésaventure']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['traître', 'couronné', 'mauvaise', 'lecture']","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'littérature']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'noblesse', 'roture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['égales', 'vers', 'face', 'belle', 'sculpture']","['ADJ', 'ADP', 'ADV', 'ADJ', 'NOUN']",5,4
+"['portail', ""l'"", 'église', 'fine', 'moulure']","['NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'riche', 'tenture']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['devant', 'tabernacle', 'rouge', 'teinture']","['ADP', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['robe', 'prêtre', 'croix', 'torture']","['NOUN', 'NOUN', 'NOUN', 'ADJ']",4,2
+"['armes', 'satan', ""c'"", 'est', 'toute', 'conjecture']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"['maraudant', 'texte', ""c'"", 'est', 'toute', 'imposture']","['VERB', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['toute', 'note', 'crayon', 'toute', 'maculature']","['DET', 'NOUN', 'NOUN', 'DET', 'NOUN']",5,2
+"[""c'"", 'est', 'toute', 'leçon', ""n'"", 'est', 'lecture']","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'AUX', 'NOUN']",7,5
+"[""c'"", 'est', 'toute', 'façon', ""n'"", 'est', 'facture']","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'AUX', 'NOUN']",7,5
+"[""c'"", 'est', 'toute', 'moisson', ""n'"", 'est', 'drue', 'dure']","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'AUX', 'ADJ', 'ADJ']",8,6
+"[""c'"", 'est', 'toute', 'prison', ""n'"", 'est', 'capture']","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'AUX', 'NOUN']",7,5
+"['toute', 'liaison', ""n'"", 'est', 'rupture']","['DET', 'NOUN', 'ADV', 'AUX', 'NOUN']",5,4
+"['toute', 'cendre', 'tout', 'feu', ""n'"", 'est', 'feu', 'dure']","['DET', 'NOUN', 'DET', 'NOUN', 'ADV', 'AUX', 'NOUN', 'ADJ']",8,5
+"['armes', 'satan', ""c'"", 'est', 'désinvolture']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"[""c'"", 'est', 'fausse', 'élégance', 'toute', 'conjoncture']","['PRON', 'AUX', 'ADJ', 'NOUN', 'DET', 'NOUN']",6,5
+"['où', ""l'"", 'homme', 'droit', 'mis', 'oblique', 'posture']","['ADV', 'DET', 'NOUN', 'ADJ', 'VERB', 'ADJ', 'NOUN']",7,5
+"['armes', 'satan', ""c'"", 'est', 'fausse', 'culture']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['sème', 'chiendent', ""c'"", 'est', 'couverture']","['VERB', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,4
+"['volée', 'vieux', 'cheval', ""c'"", 'est', 'toute', 'ouverture']","['VERB', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,6
+"[""l'"", 'on', 'ouvert', 'toute', 'fermeture']","['DET', 'PRON', 'VERB', 'DET', 'NOUN']",5,4
+"[""l'"", 'on', 'fermée', 'toute', 'quadrature']","['DET', 'PRON', 'VERB', 'DET', 'NOUN']",5,4
+"[""l'"", 'on', 'quarrée', ""c'"", 'est', 'toute', 'arcature']","['DET', 'PRON', 'VERB', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"[""l'"", 'on', 'arquée', ""c'"", 'est', 'toute', 'rature']","['DET', 'PRON', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"['milieu', 'page', 'toute', 'ligature']","['NOUN', 'NOUN', 'DET', 'NOUN']",4,2
+"[""n'"", 'est', 'greffe', 'toute', 'horticulture']","['ADV', 'AUX', 'VERB', 'DET', 'NOUN']",5,5
+"[""n'"", 'est', 'fleur', 'toute', 'arboriculture']","['ADV', 'AUX', 'NOUN', 'DET', 'NOUN']",5,4
+"[""n'"", 'est', 'fruit', 'toute', 'viticulture']","['ADV', 'AUX', 'NOUN', 'DET', 'NOUN']",5,4
+"[""n'"", 'est', 'vin', ""c'"", 'est', 'toute', 'agriculture']","['ADV', 'AUX', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"[""n'"", 'est', 'blé', ""c'"", 'est', 'toute', 'apiculture']","['ADV', 'AUX', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"[""n'"", 'est', 'miel', 'toute', 'sylviculture']","['ADV', 'AUX', 'NOUN', 'DET', 'NOUN']",5,4
+"[""n'"", 'est', 'bois', ""c'"", 'est', 'toute', 'bouture']","['ADV', 'AUX', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",7,5
+"['pris', 'racine', ""c'"", 'est', 'toute', 'mouture']","['VERB', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"[""n'"", 'est', 'moulin', 'toute', 'portraiture']","['ADV', 'AUX', 'NOUN', 'DET', 'NOUN']",5,4
+"[""n'"", 'est', 'modèle', 'toute', 'investiture']","['ADV', 'AUX', 'NOUN', 'DET', 'NOUN']",5,4
+"['vient', 'dieu', ""c'"", 'est', 'point', 'suture']","['VERB', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['quand', 'mal', 'cousu', ""c'"", 'est', 'judicature']","['SCONJ', 'ADV', 'VERB', 'PRON', 'AUX', 'NOUN']",6,6
+"[""l'"", 'homme', 'homme', 'candidature']","['DET', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['assise', 'robe', 'blanche', 'seuil', 'préture']","['ADJ', 'NOUN', 'ADJ', 'NOUN', 'PUNCT']",5,3
+"['armes', 'satan', ""c'"", 'est', 'nomenclature']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['dénombrement', ""c'"", 'est', 'toute', 'fourniture']","['NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",5,4
+"[""n'"", 'est', 'bon', 'poids', ""c'"", 'est', 'belle', 'denture']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",8,5
+"['bêtes', ""l'"", 'arène', ""c'"", 'est', 'devanture']","['NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,4
+"['masque', 'maison', ""c'"", 'est', 'toute', 'jointure']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,4
+"[""s'"", 'articule', 'mal', ""c'"", 'est', 'toute', 'fracture']","['PRON', 'VERB', 'ADV', 'PRON', 'AUX', 'DET', 'NOUN']",7,6
+"['réduit', ""c'"", 'est', 'toute', 'contracture']","['VERB', 'PRON', 'AUX', 'DET', 'NOUN']",5,5
+"['résoud', ""c'"", 'est', 'toute', 'structure']","['VERB', 'PRON', 'AUX', 'DET', 'NOUN']",5,5
+"[""n'"", 'est', 'organique', ""c'"", 'est', 'toute', 'questure']","['ADV', 'AUX', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",7,6
+"['où', ""l'"", 'on', 'candidat', ""c'"", 'est', 'toute', 'texture']","['ADV', 'DET', 'PRON', 'VERB', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"[""n'"", 'est', 'bon', 'fil', ""c'"", 'est', 'toute', 'mixture']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"[""n'"", 'est', 'bon', 'vin', ""c'"", 'est', 'toute', 'mouture']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"[""n'"", 'est', 'bon', 'pain', ""c'"", 'est', 'toute', 'pâture']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"[""n'"", 'est', 'bon', 'grain', ""c'"", 'est', 'toute', 'clôture']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"[""n'"", 'est', 'bon', 'bois', ""c'"", 'est', 'toute', 'questure']","['ADV', 'AUX', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"['requiert', 'faux', 'poids', 'frappe', 'fausse', 'mesure']","['VERB', 'ADJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,3
+"['paie', 'fausse', 'monnaie', 'prête', 'usure']","['VERB', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'législature']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['dix', 'commandements', ""c'"", 'est', 'tablature']","['NUM', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,4
+"['tables', 'loi', ""c'"", 'est', 'nonciature']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['quand', 'nonce', 'pape', 'judicature']","['SCONJ', 'NOUN', 'NOUN', 'VERB']",4,3
+"['quand', 'juge', 'craint', 'dieu', ""c'"", 'est', 'magistrature']","['SCONJ', 'NOUN', 'VERB', 'NOUN', 'PRON', 'AUX', 'NOUN']",7,5
+"['quand', 'magistrale', 'cléricature']","['SCONJ', 'ADJ', 'NOUN']",3,3
+"['quand', 'clerc', 'prudhomme', ""c'"", 'est', 'prélature']","['SCONJ', 'NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,4
+"['quand', ""l'"", 'évêque', 'aignan', 'saint', 'bonaventure']","['SCONJ', 'DET', 'NOUN', 'PROPN', 'PROPN', 'PROPN']",6,4
+"['saint', 'côme', 'saint', 'loup', 'sacrificature']","['NOUN', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",5,2
+"['quand', ""c'"", 'est', 'victime', ""c'"", 'est', 'toute', 'vêture']","['SCONJ', 'PRON', 'AUX', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",8,6
+"['vêt', ""l'"", 'âme', 'corps', ""c'"", 'est', 'toute', 'tonture']","['INTJ', 'DET', 'NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",8,5
+"[""n'"", 'écorchera', 'faible', 'créature']","['ADV', 'VERB', 'ADJ', 'NOUN']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'belle', 'paroisse']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['assise', 'coeur', 'france', ""c'"", 'est', 'noble', 'angoisse']","['NOUN', 'NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,4
+"['curé', 'soucieux', 'troupeau', 'recroisse']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'belle', 'provende']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['éparse', 'râtelier', ""c'"", 'est', 'thym', 'lavande']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['rose', ""l'"", 'oeillet', 'souple', 'guirlande']","['ADJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['armée', 'jésus', ""c'"", 'est', 'bon', 'voisinage']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['entre', 'pauvres', 'gens', ""c'"", 'est', 'pauvre', 'village']","['ADP', 'ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,5
+"[""l'"", 'église', 'milieu', ""c'"", 'est', 'compagnonnage']","['DET', 'NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,4
+"['entre', 'bons', 'compagnons', ""c'"", 'est', 'pèlerinage']","['ADP', 'ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,5
+"['entre', 'bons', 'pèlerins', ""c'"", 'est', 'pauvre', 'ménage']","['ADP', 'ADJ', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,5
+"['entre', ""l'"", 'homme', 'femme', 'long', 'mariage']","['ADP', 'DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'enfants', 'bien', 'sages']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADV', 'ADJ']",7,5
+"['assis', 'coin', 'feu', ""c'"", 'est', 'belles', 'images']","['ADJ', 'NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",7,4
+"[""qu'"", 'on', 'voit', 'vitraux', ""c'"", 'est', 'trois', 'rois', 'mages']","['PRON', 'PRON', 'VERB', 'NOUN', 'PRON', 'AUX', 'NUM', 'NOUN', 'ADJ']",9,6
+"['armes', 'satan', ""c'"", 'est', 'magiciens']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,3
+"['magicerie', 'faux', 'entretiens']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['libres', 'discours', 'conseil', 'anciens']","['ADJ', 'NOUN', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'pauvre', 'famille']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['frères', 'soeur', 'garçons', 'fille']","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"['fuseau', 'lourd', 'laine', 'savante', 'aiguille']","['NOUN', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,2
+"['armes', 'jésus', ""c'"", 'est', 'tous', 'coeurs', 'païens']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['pourvu', ""qu'"", 'on', 'baptise', 'rende', 'chrétiens']","['ADJ', 'PRON', 'PRON', 'VERB', 'VERB', 'ADJ']",6,3
+"['fait', 'plus', 'purs', 'tous', 'paroissiens']","['VERB', 'ADV', 'ADJ', 'DET', 'NOUN']",5,5
+"['armes', 'jésus', ""c'"", 'est', 'tous', 'plébéiens']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['moins', ""qu'"", 'on', 'courtise', 'rende', 'vauriens']","['ADV', 'SCONJ', 'PRON', 'VERB', 'VERB', 'NOUN']",6,5
+"['fait', 'plus', 'durs', 'fermes', 'soutiens']","['VERB', 'ADV', 'ADJ', 'ADJ', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'bons', 'citoyens']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['quand', 'grâce', 'prend', 'secrets', 'moyens']","['SCONJ', 'ADV', 'VERB', 'ADJ', 'NOUN']",5,5
+"['fait', 'plus', 'sûrs', 'curés', 'doyens']","['VERB', 'ADV', 'ADJ', 'NOUN', 'ADJ']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'docilité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'foi', ""l'"", 'espérance', ""c'"", 'est', 'charité']","['PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",8,4
+"[""c'"", 'est', 'femme', ""l'"", 'enfant', 'fidélité']","['PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'NOUN']",6,4
+"['armes', 'jésus', ""c'"", 'est', 'fragilité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'vertu', 'civique', ""c'"", 'est', 'liberté']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",7,4
+"[""c'"", 'est', 'femme', ""l'"", 'enfant', ""c'"", 'est', 'pauvreté']","['PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",8,4
+"['armes', 'jésus', ""c'"", 'est', 'simplicité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"[""c'"", 'est', 'paix', 'éternelle', ""c'"", 'est', 'cité']","['PRON', 'AUX', 'NOUN', 'ADJ', 'PRON', 'AUX', 'VERB']",7,5
+"['tout', 'fleuve', 'grâce', ""d'"", 'efficacité']","['DET', 'NOUN', 'ADV', 'ADP', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'nécessité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['travail', 'pain', ""c'"", 'est', 'cité']","['NOUN', 'NOUN', 'PRON', 'AUX', 'VERB']",5,4
+"['tout', 'fleuve', 'grâce', 'félicité']","['DET', 'NOUN', 'ADV', 'VERB']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'sagacité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['pardon', ""l'"", 'offense', ""c'"", 'est', 'cité']","['INTJ', 'DET', 'NOUN', 'PRON', 'AUX', 'VERB']",6,6
+"['tout', 'fleuve', 'grâce', 'vivacité']","['DET', 'NOUN', 'ADV', 'NOUN']",4,3
+"['armes', 'jésus', ""c'"", 'est', 'mendicité']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN']",5,4
+"['dernier', 'misérable', ""c'"", 'est', 'cité']","['ADJ', 'ADJ', 'PRON', 'AUX', 'VERB']",5,4
+"['tout', 'fleuve', 'grâce', 'ténacité']","['DET', 'NOUN', 'ADV', 'NOUN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'chemin', 'tortu']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'PUNCT']",6,4
+"['sentier', 'dérobé', 'cheval', 'abattu']","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"['quatre', 'fers', ""l'"", 'air', 'mulet', 'têtu']","['NUM', 'NOUN', 'DET', 'NOUN', 'ADJ', 'ADJ']",6,4
+"['armes', 'satan', ""c'"", 'est', 'fausse', 'tendresse']","['NOUN', 'NOUN', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"['couchée', 'lit', ""l'"", 'homme', 'molle', 'paresse']","['VERB', 'NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",6,4
+"['dort', 'long', 'jour', 'désintéresse']","['VERB', 'ADJ', 'NOUN', 'VERB']",4,3
+"['pauvre', ""l'"", 'enfant', ""c'"", 'est', 'charmeresse']","['ADJ', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,5
+"['mots', 'savants', 'devineresse']","['NOUN', 'ADJ', 'VERB']",3,3
+"['vieille', 'grimace', ""c'"", 'est', ""l'"", 'enchanteresse']","['ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['vieux', 'onguents', ""c'"", 'est', 'sécheresse']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN']",5,4
+"['coeur', ""c'"", 'est', 'vraie', ""c'"", 'est', 'fausse', 'adresse']","['NOUN', 'PRON', 'AUX', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",8,4
+"[""l'"", 'homme', 'très', 'malin', ""c'"", 'est', ""l'"", 'homme', 'transgresse']","['DET', 'NOUN', 'ADV', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",9,7
+"['vieilles', 'lois', ""l'"", 'homme', ""c'"", 'est', ""l'"", 'homme', 'tresse']","['ADJ', 'NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",9,5
+"['chanvre', 'gibet', ""l'"", 'homme', 'progresse']","['NOUN', 'NOUN', 'DET', 'NOUN', 'VERB']",5,3
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'homme', ""s'"", 'engraisse']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'PRON', 'VERB']",8,5
+"['sang', 'malheureux', 'serpent', 'redresse']","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"['tête', ""c'"", 'est', 'aussi', 'vigneron', 'presse']","['NOUN', 'PRON', 'AUX', 'ADV', 'NOUN', 'NOUN']",6,4
+"['grappe', 'fait', 'jaillir', 'vin', 'doux', ""l'"", 'ivresse']","['NOUN', 'AUX', 'VERB', 'NOUN', 'ADJ', 'DET', 'NOUN']",7,5
+"['armes', 'jésus', ""c'"", 'est', 'toute', 'forteresse']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN']",6,5
+"['tient', ""c'"", 'est', 'noble', 'pure', 'caresse']","['VERB', 'PRON', 'AUX', 'ADJ', 'ADJ', 'NOUN']",6,5
+"['mère', ""l'"", 'enfant', ""c'"", 'est', 'maladresse']","['NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,4
+"[""l'"", 'homme', 'malin', 'sourde', 'tendresse']","['DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,3
+"['mère', 'fille', 'afin', 'reparaisse']","['NOUN', 'NOUN', 'ADV', 'ADJ']",4,3
+"['cette', 'enfant', 'naissante', 'tendresse']","['DET', 'NOUN', 'ADJ', 'NOUN']",4,3
+"['temps', 'futur', 'caresse']","['NOUN', 'ADJ', 'NOUN']",3,2
+"['regard', 'cette', 'tresse']","['NOUN', 'DET', 'NOUN']",3,2
+"['blonde', 'fleurira', 'cette', 'détresse']","['NOUN', 'VERB', 'DET', 'NOUN']",4,3
+"['consolée', 'cette', 'âme', 'pauvresse']","['VERB', 'DET', 'NOUN', 'ADJ']",4,4
+"['dernier', 'temps', 'allégresse']","['ADJ', 'NOUN', 'NOUN']",3,2
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'homme', ""s'"", 'adresse']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'PRON', 'VERB']",8,6
+"['directement', 'dieu', ""c'"", 'est', ""l'"", 'homme', ""s'"", 'adresse']","['ADV', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'PRON', 'VERB']",8,6
+"['quelque', 'saint', 'patron', ""c'"", 'est', ""l'"", 'homme', 'dresse']","['DET', 'ADJ', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB']",8,6
+"['contre', ""l'"", 'iniquité', ""c'"", 'est', ""l'"", 'homme', ""s'"", 'empresse']","['ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'PRON', 'VERB']",9,6
+"['panser', 'blessé', ""c'"", 'est', 'fraîche', 'compresse']","['VERB', 'VERB', 'PRON', 'AUX', 'ADJ', 'ADJ']",6,4
+"['cuisante', 'plaie', ""l'"", 'homme', ""s'"", 'engraisse']","['ADJ', 'NOUN', 'DET', 'NOUN', 'PRON', 'VERB']",6,5
+"['sanglots', 'pleurs', 'peine', 'détresse']","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"[""d'"", 'un', 'regret', 'plus', 'beau', 'tendresse']","['ADP', 'DET', 'NOUN', 'ADV', 'ADJ', 'NOUN']",6,5
+"[""l'"", 'arme', 'mains', ""l'"", 'ange', 'ardente', 'vengeresse']","['DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADJ', 'ADJ']",7,4
+"['seuil', 'paradis', 'afin', 'comparaisse']","['NOUN', 'NOUN', 'ADV', 'ADJ']",4,3
+"[""l'âme"", 'toujours', 'chassée', 'toujours', 'chasseresse']","['AUX', 'ADV', 'VERB', 'ADV', 'NOUN']",5,4
+"[""l'"", 'âme', 'toujours', 'esclave', 'ensemble', 'maîtresse']","['DET', 'NOUN', 'ADV', 'ADJ', 'ADV', 'ADJ']",6,4
+"[""l'âme"", 'toujours', 'enfant', 'toujours', 'pécheresse']","['INTJ', 'ADV', 'NOUN', 'ADV', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'lettre', ""l'"", 'esprit']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'DET', 'NOUN']",7,5
+"[""c'"", 'est', ""l'"", 'esprit', 'mène', ""l'"", 'esprit', 'nourrit']","['PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",8,5
+"['lettre', ""n'"", 'est', 'là', 'comme', 'mot', ""d'"", 'écrit']","['NOUN', 'ADV', 'AUX', 'ADV', 'ADP', 'NOUN', 'ADP', 'NOUN']",8,4
+"['armes', 'jésus', ""c'"", 'est', 'lettre', ""l'"", 'esprit']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'DET', 'NOUN']",7,5
+"[""c'"", 'est', 'père', 'gronde', ""l'"", 'enfant', 'sourit']","['PRON', 'AUX', 'NOUN', 'ADJ', 'DET', 'NOUN', 'ADJ']",7,5
+"[""c'"", 'est', 'père', 'fils', ""c'"", 'est', 'saint-esprit']","['PRON', 'AUX', 'NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN']",7,3
+"['lettre', 'tue', ""l'"", 'esprit', 'vivifie']","['NOUN', 'VERB', 'DET', 'NOUN', 'ADJ']",5,4
+"['lettre', 'mort', ""l'"", 'esprit', 'vie']","['NOUN', 'VERB', 'DET', 'NOUN', 'NOUN']",5,3
+"['lettre', ""l'"", 'orgueil', 'lettre', ""l'"", 'envie']","['NOUN', 'DET', 'NOUN', 'NOUN', 'DET', 'NOUN']",6,2
+"[""c'"", 'est', ""l'"", 'esprit', 'commande', 'lettre', 'sert']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'NOUN', 'VERB']",7,6
+"[""c'"", 'est', ""l'"", 'esprit', 'demande', 'lettre', 'perd']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'NOUN', 'VERB']",7,6
+"[""c'"", 'est', ""l'"", 'esprit', 'sauve', 'prêche', 'plein', 'désert']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'VERB', 'ADJ', 'NOUN']",8,6
+"[""c'"", 'est', ""l'"", 'esprit', 'gouverne', ""l'"", 'esprit', 'conduit']","['PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",8,5
+"[""l'"", 'homme', 'vers', 'seul', 'point', 'lettre', 'suit']","['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'VERB']",7,5
+"['vers', 'lampe', ""l'"", 'ogre', ""c'"", 'est', ""l'"", 'esprit', 'cuit']","['ADP', 'NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",9,6
+"['pain', 'quand', 'chaud', ""c'"", 'est', ""l'"", 'esprit', 'déduit']","['NOUN', 'SCONJ', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",8,6
+"['jésus', 'vieil', 'adam', 'derechef', 'induit']","['NOUN', 'ADJ', 'NOUN', 'ADV', 'VERB']",5,4
+"['israël', 'jésus', 'lettre', 'réduit']","['ADJ', 'NOUN', 'NOUN', 'VERB']",4,3
+"[""c'"", 'est', ""l'"", 'esprit', 'combat', 'lettre', 'fuit']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'NOUN', 'VERB']",7,6
+"[""c'"", 'est', ""l'"", 'esprit', 'travaille', ""l'"", 'esprit', 'produit']","['PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'VERB']",8,5
+"['paille', 'bon', 'grain', 'feuille', 'bon', 'fruit']","['NOUN', 'ADJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",6,2
+"['lettre', 'jamais', 'fait', ""qu'"", 'un', 'peu', 'bruit']","['NOUN', 'ADV', 'VERB', 'SCONJ', 'DET', 'ADV', 'NOUN']",7,5
+"[""c'"", 'est', 'séduit', ""c'"", 'est', 'nuit']","['PRON', 'AUX', 'VERB', 'PRON', 'AUX', 'NOUN']",6,4
+"['lettre', ""l'"", 'esprit', ""c'"", 'est', 'jour', 'nuit']","['NOUN', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",7,4
+"[""l'"", 'esprit', 'lettre', 'nuit', 'jour']","['DET', 'NOUN', 'VERB', 'NOUN', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'honneur', ""l'"", 'amour']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'DET', 'NOUN']",8,5
+"['roi', 'camp', 'roi', 'cour']","['NOUN', 'NOUN', 'NOUN', 'NOUN']",4,1
+"['armes', 'jésus', ""c'"", 'est', 'feu', 'four']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['pâte', 'levain', ""c'"", 'est', 'pain', 'jour']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,3
+"[""c'"", 'est', 'roi', 'david', 'retiré', 'tour']","['PRON', 'AUX', 'NOUN', 'ADJ', 'VERB', 'NOUN']",6,5
+"['armes', 'jésus', ""c'"", 'est', 'tout', 'homme', 'proscrit']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'ADJ']",7,5
+"['rappelé', ""c'"", 'est', 'jeune', 'conscrit']","['VERB', 'PRON', 'AUX', 'ADJ', 'NOUN']",5,5
+"['convoqué', ""c'"", 'est', 'jeune', 'homme', 'inscrit']","['VERB', 'PRON', 'AUX', 'ADJ', 'NOUN', 'VERB']",6,5
+"['livre', 'éternel', ""c'"", 'est', 'coeur', 'contrit']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['fomenté', ""c'"", 'est', 'billet', 'souscrit']","['VERB', 'PRON', 'AUX', 'NOUN', 'VERB']",5,4
+"['présenté', ""c'"", 'est', 'bonheur', 'décrit']","['VERB', 'PRON', 'AUX', 'NOUN', 'VERB']",5,4
+"['jour', 'montagne', ""l'"", 'honnête', 'rescrit']","['NOUN', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,3
+"['roi', 'ciel', 'pardon', 'prescrit']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['nouvelle', 'loi', ""c'"", 'est', 'dieu', 'transcrit']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"['moïse', 'jésus', ""c'"", 'est', 'satan', 'circonscrit']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'tout', ""qu'"", 'il', 'fallait', 'jésus', 'souffrît']","['PRON', 'AUX', 'ADV', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'PUNCT']",8,7
+"['armes', 'jésus', ""c'"", 'est', 'surtout', 'jésus-christ']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADV', 'NOUN']",6,5
+"[""c'"", 'est', 'tout', ""qu'"", 'il', 'fallait', 'jésus', 'ouvrît']","['PRON', 'AUX', 'ADV', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'PUNCT']",8,7
+"['porte', 'tombeau', 'jésus', 'offrît']","['VERB', 'NOUN', 'ADJ', 'PUNCT']",4,4
+"['premier', 'sacrifice', ""qu'"", 'il', 'rendît', ""l'"", 'esprit']","['ADJ', 'NOUN', 'PRON', 'PRON', 'VERB', 'DET', 'NOUN']",7,5
+"[""c'"", 'est', 'tout', ""qu'"", 'il', 'fallait', 'jésus', 'couvrît']","['PRON', 'AUX', 'ADV', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'PUNCT']",8,7
+"['pécheur', 'devant', 'dieu', ""qu'"", 'il', 'redécouvrît']","['NOUN', 'ADP', 'NOUN', 'PRON', 'PRON', 'VERB']",6,4
+"['chemin', 'salut', ""qu'"", 'il', 'entreprît']","['NOUN', 'ADJ', 'PRON', 'PRON', 'VERB']",5,4
+"['remonter', 'pente', ""qu'"", 'il', 'reprît']","['VERB', 'NOUN', 'PRON', 'PRON', 'VERB']",5,3
+"[""qu'"", 'il', 'reprît', 'monde', ""l'"", 'homme', 'apprît']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'DET', 'NOUN', 'PUNCT']",7,6
+"['chemin', 'difficile', ""qu'"", 'il', 'désapprît']","['NOUN', 'ADJ', 'PRON', 'PRON', 'VERB']",5,4
+"['route', 'sans', 'cailloux', ""qu'"", 'un', 'jour', 'gaule']","['NOUN', 'ADP', 'NOUN', 'SCONJ', 'DET', 'NOUN', 'ADJ']",7,5
+"[""d'"", 'autres', 'soldats', 'romains', 'manteau', ""l'"", 'épaule']","['DET', 'ADJ', 'NOUN', 'ADJ', 'VERB', 'DET', 'NOUN']",7,4
+"['torse', 'bien', 'moulé', 'leurs', 'lames', 'tôle']","['NOUN', 'ADV', 'VERB', 'DET', 'NOUN', 'NOUN']",6,4
+"['chevauchant', 'route', 'épaisse', 'comme', 'môle']","['VERB', 'NOUN', 'ADJ', 'ADP', 'NOUN']",5,4
+"['lance', 'entre', 'doigts', 'comme', 'tient', 'gaule']","['NOUN', 'ADP', 'NOUN', 'SCONJ', 'VERB', 'NOUN']",6,4
+"['jour', 'plein', 'hiver', 'sous', 'neige', 'pôle']","['NOUN', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",6,3
+"['long', 'blancs', 'bouleaux', 'long', 'saule']","['ADJ', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,2
+"['voyant', 'vagabond', 'quelque', 'échappé', 'geôle']","['VERB', 'NOUN', 'DET', 'VERB', 'NOUN']",5,3
+"['autre', 'centurion', 'ceux', 'rome', 'enrôle']","['ADJ', 'NOUN', 'PRON', 'NOUN', 'VERB']",5,4
+"['manteau', 'militaire', 'enfin', 'découvrît']","['NOUN', 'ADJ', 'ADV', 'ADJ']",4,3
+"[""c'"", 'est', 'tout', ""qu'"", 'il', 'fallait', ""l'"", 'homme', ""s'"", 'éprît']","['PRON', 'AUX', 'ADV', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB']",10,7
+"['seul', 'amour', 'dure', ""qu'"", 'il', 'déprît']","['ADJ', 'NOUN', 'ADJ', 'SCONJ', 'PRON', 'VERB']",6,5
+"['seul', 'amour', 'passe', ""qu'"", 'il', 'méprît']","['ADJ', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'VERB']",6,5
+"['comme', 'faut', 'méprendre', ""qu'"", 'alors', 'comprît']","['SCONJ', 'VERB', 'VERB', 'SCONJ', 'ADV', 'PUNCT']",6,4
+"['tout', ""qu'"", 'il', 'faut', 'comprendre', ""qu'"", 'alors', 'prît']","['ADV', 'SCONJ', 'PRON', 'VERB', 'VERB', 'SCONJ', 'ADV', 'VERB']",8,4
+"['tout', ""qu'"", 'il', 'faut', 'prendre', ""qu'"", 'alors', 'surprît']","['ADV', 'SCONJ', 'PRON', 'VERB', 'VERB', 'SCONJ', 'ADV', 'PUNCT']",8,5
+"['secret', 'mal', 'gardé', 'secret', 'manuscrit']","['NOUN', 'ADV', 'VERB', 'ADJ', 'NOUN']",5,4
+"[""n'"", 'est', 'lettre', 'cache', 'esprit']","['ADV', 'AUX', 'NOUN', 'VERB', 'NOUN']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'chemin', 'fleuri']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['plus', 'printemps', 'galamment', 'refleuri']","['ADV', 'NOUN', 'ADV', 'PUNCT']",4,3
+"[""c'"", 'est', 'sévère', 'automne', ""l'"", 'instant', 'défleuri']","['PRON', 'AUX', 'ADJ', 'NOUN', 'DET', 'NOUN', 'PUNCT']",7,6
+"['fleur', 'marie', 'rose', 'fleurie']","['NOUN', 'NOUN', 'ADJ', 'ADJ']",4,2
+"['plus', ""l'"", 'humble', 'rose', 'printemps', 'refleurie']","['ADV', 'DET', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'rose', ""d'"", 'automne', 'humblement', 'défleurie']","['PRON', 'AUX', 'ADJ', 'ADP', 'NOUN', 'ADV', 'PUNCT']",7,7
+"['armes', 'jésus', ""c'"", 'est', 'vallon', 'fleuri']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['plus', 'printemps', 'incessamment', 'fleuri']","['ADV', 'NOUN', 'ADV', 'ADJ']",4,3
+"['plus', 'printemps', 'insolemment', 'fleuri']","['ADV', 'NOUN', 'ADV', 'ADJ']",4,3
+"['plus', 'printemps', 'impudemment', 'fleuri']","['ADV', 'NOUN', 'ADV', 'ADJ']",4,3
+"['plus', 'printemps', 'effrontément', 'fleuri']","['ADV', 'NOUN', 'ADV', 'ADJ']",4,3
+"[""c'"", 'est', 'pudique', 'automne', 'jamais', 'défleuri']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADV', 'PUNCT']",6,6
+"['armes', 'jésus', ""c'"", 'est', 'peuple', 'chéri']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['comme', 'fils', 'revient', ""c'"", 'est', 'mourant', 'guéri']","['ADP', 'NOUN', 'VERB', 'PRON', 'AUX', 'NOUN', 'VERB']",7,5
+"['extrême', 'onction', ""c'"", 'est', 'peuple', 'aguerri']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['juste', 'guerre', 'marin', 'péri']","['ADJ', 'NOUN', 'ADJ', 'VERB']",4,3
+"['péril', 'mer', 'navire', 'atterri']","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"['recreux', 'port', 'tout', 'peuple', 'nourri']","['ADJ', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,3
+"['quelques', 'poissons', 'secs', 'tout', 'monde', 'nourri']","['DET', 'NOUN', 'ADJ', 'DET', 'NOUN', 'VERB']",6,4
+"[""d'"", 'une', 'seule', 'victime', 'raisin', 'mûri']","['ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'VERB']",6,5
+"['vin', 'calice', ""l'"", 'autre', 'vin', 'suri']","['NOUN', 'NOUN', 'DET', 'ADJ', 'NOUN', 'NOUN']",6,3
+"[""l'"", 'éponge', 'lance', 'vinaigre', 'aigri']","['DET', 'NOUN', 'VERB', 'NOUN', 'ADJ']",5,4
+"['armes', 'jésus', ""c'"", 'est', 'levain', 'pétri']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"['milieu', 'pâte', 'lui-même', 'suri']","['NOUN', 'NOUN', 'PRON', 'PROPN']",4,3
+"['armes', 'satan', ""c'"", 'est', 'fleuve', 'tari']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,4
+"[""c'"", 'est', 'chez', ""l'"", 'équarrisseur', 'cheval', 'équarri']","['PRON', 'AUX', 'ADP', 'DET', 'NOUN', 'NOUN', 'PUNCT']",7,6
+"[""c'"", 'est', ""l'"", 'enfant', 'affamé', ""c'"", 'est', 'pain', 'renchéri']","['PRON', 'AUX', 'DET', 'NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'VERB']",9,6
+"['armes', 'satan', ""c'"", 'est', 'coeur', 'mal', 'guéri']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADV', 'VERB']",7,5
+"['vieille', 'blessure', ""c'"", 'est', 'coeur', 'tari']","['ADJ', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB']",6,5
+"['force', 'saigner', 'coeur', 'mal', 'nourri']","['NOUN', 'VERB', 'NOUN', 'ADV', 'VERB']",5,3
+"['force', 'jeûner', ""c'"", 'est', 'tout', 'tarit']","['NOUN', 'VERB', 'PRON', 'AUX', 'PRON', 'VERB']",6,4
+"[""c'"", 'est', 'tout', 'périt', 'tout', 'dépérit']","['PRON', 'AUX', 'PRON', 'VERB', 'PRON', 'VERB']",6,3
+"['tout', 'surit', 'tout', 'pourrit']","['DET', 'VERB', 'PRON', 'VERB']",4,3
+"['armes', 'satan', ""c'"", 'est', 'sève', 'appauvrie']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADJ']",6,4
+"[""c'"", 'est', 'sang', 'répandu', 'branche', 'rabougrie']","['PRON', 'AUX', 'ADV', 'ADJ', 'NOUN', 'ADJ']",6,5
+"['rameau', 'desséché', 'prude', 'renchérie']","['NOUN', 'VERB', 'ADJ', 'VERB']",4,3
+"['armes', 'satan', ""c'"", 'est', 'tout', 'flétrit']","['NOUN', 'NOUN', 'PRON', 'AUX', 'PRON', 'ADJ']",6,4
+"['rapetisse', 'avilit', 'injurie', 'amoindrit']","['NOUN', 'VERB', 'VERB', 'VERB']",4,2
+"[""c'"", 'est', 'tout', 'méprise', 'tout', 'meurtrit']","['PRON', 'AUX', 'ADV', 'VERB', 'ADV', 'ADJ']",6,5
+"['armes', 'jésus', ""c'"", 'est', 'tout', 'nourrit']","['NOUN', 'ADJ', 'PRON', 'AUX', 'PRON', 'VERB']",6,5
+"[""c'"", 'est', 'tout', 'boutonne', 'tout', 'périt']","['PRON', 'AUX', 'DET', 'NOUN', 'PRON', 'VERB']",6,5
+"['jardins', 'touraine', 'tout', 'mûrit']","['NOUN', 'ADJ', 'PRON', 'VERB']",4,4
+"['armes', 'jésus', ""c'"", 'est', 'coeur', 'tout', 'fleuri']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'ADV', 'ADJ']",7,5
+"['plus', 'jeune', 'coeur', 'printemps', 'refleuri']","['ADV', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",5,3
+"[""c'"", 'est', 'coeur', ""l'"", 'automne', 'jamais', 'défleuri']","['PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'ADV', 'PUNCT']",7,6
+"['armes', 'satan', ""c'"", 'est', 'paix', 'guerre']","['NOUN', 'NOUN', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,3
+"['peuples', 'éventrés', 'sacrements', 'terre']","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"['honte', 'terreur', 'rage', 'militaire']","['NOUN', 'NOUN', 'NOUN', 'ADJ']",4,2
+"['armes', 'jésus', ""c'"", 'est', 'guerre', 'paix']","['NOUN', 'ADJ', 'PRON', 'AUX', 'NOUN', 'NOUN']",6,4
+"['peuples', 'respectés', 'derniers', 'harnais']","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"['guerre', 'suspendus', 'frontons', 'palais']","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"['armes', 'satan', ""c'"", 'est', ""l'"", 'horreur', 'guerre']","['NOUN', 'NOUN', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,4
+"['peuples', 'affolés', 'jésus', 'calvaire']","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"['sang', 'cri', 'mort', 'meurtre', 'volontaire']","['NOUN', 'NOUN', 'VERB', 'NOUN', 'ADJ']",5,3
+"['armes', 'jésus', ""c'"", 'est', ""l'"", 'honneur', 'guerre']","['NOUN', 'ADJ', 'PRON', 'AUX', 'DET', 'NOUN', 'NOUN']",7,5
+"['peuples', 'rétablis', 'jésus', 'calvaire']","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"['sang', 'sacrifice', 'mort', 'volontaire']","['NOUN', 'NOUN', 'VERB', 'ADJ']",4,3
+"[""qu'"", 'elle', 'vît', 'venir', 'sous', 'tel', 'étendard']","['PRON', 'PRON', 'VERB', 'VERB', 'ADP', 'DET', 'NOUN']",7,5
+"['jésus-christ', 'soldat', 'contre', 'satan', 'soudard']","['NOUN', 'NOUN', 'ADP', 'NOUN', 'X']",5,3
+"['vers', 'vieux', 'saint', 'étienne', 'vieux', 'saint', 'médard']","['ADP', 'ADJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'PROPN']",7,4
+"[""qu'"", 'elle', 'vît', 'venir', 'chemin', 'terre']","['PRON', 'PRON', 'VERB', 'VERB', 'NOUN', 'NOUN']",6,3
+"['comme', 'jeune', 'enfant', 'vient', 'vers', ""grand'mère""]","['ADP', 'ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN']",6,4
+"['bois', 'puteaux', 'champs', 'nanterre']","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[""qu'"", 'elle', 'vît', 'venir', 'ardente', 'militaire']","['PRON', 'PRON', 'VERB', 'VERB', 'ADJ', 'ADJ']",6,3
+"['obéissante', 'ferme', 'douce', 'volontaire']","['ADJ', 'NOUN', 'ADJ', 'ADJ']",4,2
+"['boulogne', 'neuilly', 'puteaux', 'nanterre']","['NOUN', 'PROPN', 'ADJ', 'ADJ']",4,3
+"['hauturière', 'docile', 'alerte', 'droiturière']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['prompte', 'manoeuvre', 'peu', 'procédurière']","['ADJ', 'NOUN', 'ADV', 'ADJ']",4,3
+"['destinée', 'périr', 'comme', 'aventurière']","['VERB', 'VERB', 'ADP', 'NOUN']",4,3
+"['bien', 'selle', 'avant', 'cavalerie']","['ADV', 'NOUN', 'ADP', 'NOUN']",4,3
+"['masquant', 'bombardiers', 'bombarderie']","['VERB', 'NOUN', 'NOUN']",3,2
+"['traînant', 'comme', 'réseau', 'lourde', 'infanterie']","['VERB', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['ameutant', 'tambours', 'battaient', 'messe']","['VERB', 'NOUN', 'VERB', 'NOUN']",4,2
+"['gourmandant', 'brigands', 'couraient', 'confesse']","['VERB', 'NOUN', 'VERB', 'VERB']",4,2
+"['déférente', 'trois', 'voix', 'scellaient', 'promesse']","['NOUN', 'NUM', 'NOUN', 'VERB', 'NOUN']",5,3
+"['mis', 'soldats', 'sacramentaire']","['VERB', 'NOUN', 'ADJ']",3,3
+"['mis', 'curés', 'réglementaire']","['VERB', 'NOUN', 'ADJ']",3,3
+"['logé', 'vertus', 'train', 'régimentaire']","['VERB', 'NOUN', 'NOUN', 'ADJ']",4,3
+"['bien', 'allante', 'vaillante', 'sans', 'étourderie']","['ADV', 'ADJ', 'ADJ', 'ADP', 'NOUN']",5,4
+"['bien', 'venante', 'plaisante', 'sans', 'coquetterie']","['ADV', 'ADJ', 'ADJ', 'ADP', 'NOUN']",5,4
+"['bien', 'disante', 'parlante', 'sans', 'bavarderie']","['ADV', 'ADJ', 'ADJ', 'ADP', 'NOUN']",5,4
+"['révérant', 'coffrets', 'sertis', 'pierrerie']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['où', 'reliefs', 'saints', 'ouvrés', ""d'"", 'orfèvrerie']","['ADV', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'NOUN']",6,4
+"['reposent', ""l'"", 'autel', 'broderie']","['VERB', 'DET', 'NOUN', 'NOUN']",4,3
+"['sage', 'comme', 'aïeule', 'tendre', 'jeunesse']","['ADJ', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['cadette', 'conquis', 'plus', 'beau', 'droit', ""d'"", 'aînesse']","['NOUN', 'VERB', 'ADV', 'ADJ', 'NOUN', 'ADP', 'NOUN']",7,5
+"['grave', 'yeux', 'plus', 'clairs', ""d'"", 'une', 'chanoinesse']","['ADJ', 'NOUN', 'ADV', 'ADJ', 'ADP', 'DET', 'NOUN']",7,5
+"['sainte', 'plus', 'grande', 'après', 'sainte', 'marie']","['NOUN', 'ADV', 'ADJ', 'ADP', 'ADJ', 'NOUN']",6,4
+"['neuvième', 'jour']","['ADJ', 'NOUN']",2,2
+"['samedi', 'janvier']","['NOUN', 'NOUN']",2,1
+['ix'],['NUM'],1,1
+"['comme', 'dieu', 'fait', 'rien', 'compagnonnage']","['ADP', 'NOUN', 'VERB', 'PRON', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'mauvais', 'compagnons']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['anglais', 'français', 'traîtres', 'bourguignons']","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"['dépecer', 'royaume', 'ainsi', ""qu'"", 'un', 'apanage']","['VERB', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'monstrueux', 'ménage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['gibets', 'poussant', 'comme', 'champignons']","['NOUN', 'VERB', 'ADP', 'NOUN']",4,3
+"['mur', 'toit', ""l'"", 'angle', 'pignons']","['NOUN', 'ADJ', 'DET', 'NOUN', 'ADJ']",5,3
+"['tout', 'dégouttants', 'meurtre', 'sang', 'carnage']","['ADV', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['fallut', ""qu'"", 'elle', 'vît', 'tout', 'maquignonnage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['cadavres', 'tout', 'nus', 'serrés', 'rangs', ""d'"", 'oignons']","['NOUN', 'ADV', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",7,4
+"['blessés', 'mutilés', 'traînés', 'leurs', 'moignons']","['VERB', 'VERB', 'VERB', 'DET', 'NOUN']",5,3
+"['morts', 'mourants', 'dérivant', 'nage']","['NOUN', 'ADJ', 'VERB', 'NOUN']",4,3
+"['fallut', ""qu'"", 'elle', 'vît', 'cet', 'horrible', 'engrenage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN']",7,6
+"['happer', 'tout', 'royaume', 'mauvais', 'garçons']","['VERB', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['rouer', 'vif', 'tout', 'peuple', 'rôtir', 'moissons']","['VERB', 'ADJ', 'DET', 'NOUN', 'VERB', 'NOUN']",6,4
+"['sortis', 'menu', 'peuple', 'haut', 'baronnage']","['VERB', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['armes', 'jésus', ""c'"", 'est', 'belle', 'marraine']","['NOUN', 'ADJ', 'PRON', 'AUX', 'ADJ', 'NOUN']",6,4
+"[""c'"", 'est', 'beau', 'baptême', 'belles', 'dragées']","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",6,4
+"['plus', 'cortège', 'apogées']","['ADV', 'NOUN', 'ADJ']",3,3
+"[""c'"", 'est', 'deuil', 'ruine', 'honte', 'peine']","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,4
+"['fallut', ""qu'"", 'elle', 'vît', 'libertinage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN']",5,4
+"['dissiper', 'trésor', ""d'"", 'honneur', 'gagnons']","['VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",5,3
+"['déserter', 'dieu', 'accompagnons']","['VERB', 'NOUN', 'VERB']",3,2
+"['comme', 'déserte', 'mort', 'pauvre', 'village']","['ADP', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"['fallut', ""qu'"", 'elle', 'vît', 'vagabondage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN']",5,4
+"['retourner', 'passé', 'dont', 'éloignons']","['VERB', 'VERB', 'PRON', 'VERB']",4,2
+"['fallut', ""qu'"", 'elle', 'vît', 'maux', 'soignons']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'ADJ']",6,5
+"['monter', 'long', 'comme', 'échafaudage']","['VERB', 'ADJ', 'ADP', 'NOUN']",4,4
+"['fallut', ""qu'"", 'elle', 'vît', 'faux', 'témoignage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['démentir', 'propos', 'témoignons']","['VERB', 'NOUN', 'VERB']",3,2
+"['fallut', ""qu'"", 'elle', 'vît', ""l'"", 'urne', 'où', 'baignons']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADV', 'VERB']",8,6
+"[""s'"", 'effondrer', 'souillure', 'dévergondage']","['PRON', 'VERB', 'NOUN', 'NOUN']",4,3
+"['fallut', ""qu'"", 'elle', 'vît', 'tout', 'maraudage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['cueillir', 'fruits', 'moisis', 'dédaignons']","['VERB', 'NOUN', 'ADJ', 'ADJ']",4,3
+"['fallut', ""qu'"", 'elle', 'vît', 'ville', 'où', 'régnons']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'ADV', 'VERB']",7,5
+"['démantelée', 'mains', 'tout', 'chapardage']","['VERB', 'NOUN', 'ADV', 'NOUN']",4,3
+"['fallut', ""qu'"", 'elle', 'vît', 'tant', ""d'"", 'enfantillage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADV', 'ADP', 'NOUN']",7,6
+"['avilir', 'cette', 'foi', 'dont', 'imprégnons']","['VERB', 'DET', 'NOUN', 'PRON', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'sang', 'dont', 'saignons']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'PRON', 'NOUN']",7,4
+"['saigner', 'coeur', 'courage']","['VERB', 'NOUN', 'NOUN']",3,2
+"['fallut', ""qu'"", 'elle', 'vît', 'sot', 'bavardage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['flétrir', 'dogme', 'auguste', 'enseignons']","['VERB', 'NOUN', 'NOUN', 'VERB']",4,2
+"[""qu'"", 'elle', 'vît', 'tarir', 'grâce', 'où', 'baignons']","['PRON', 'PRON', 'VERB', 'VERB', 'ADV', 'ADV', 'VERB']",7,3
+"['lustrale', 'baptismale', 'lourd', 'badinage']","['ADJ', 'ADJ', 'ADJ', 'ADJ']",4,1
+"['fallut', ""qu'"", 'elle', 'vît', 'tout', 'brigandage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['commettre', 'forfaits', 'dont', 'indignons']","['VERB', 'NOUN', 'PRON', 'NOUN']",4,3
+"['écus', 'sonnants', 'alignons']","['NOUN', 'ADJ', 'ADJ']",3,2
+"['fondre', 'creuset', ""d'"", 'orgueil', 'faux', 'monnayage']","['VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN']",6,4
+"['fallut', ""qu'"", 'elle', 'vît', 'tout', 'forlignage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['dégénérer', 'race', 'où', 'alignons']","['VERB', 'NOUN', 'ADV', 'VERB']",4,3
+"['mots', 'éternels', 'soulignons']","['NOUN', 'ADJ', 'VERB']",3,3
+"['tomber', 'silence', 'persiflage']","['VERB', 'NOUN', 'NOUN']",3,2
+"['fallut', ""qu'"", 'elle', 'vît', 'tout', 'maquillage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['fausser', 'signature', 'où', 'contresignons']","['VERB', 'NOUN', 'ADV', 'VERB']",4,3
+"['terme', 'mort', 'assignons']","['NOUN', 'VERB', 'ADJ']",3,3
+"['approcher', 'tous', 'jours', 'comme', 'lointain', 'rivage']","['VERB', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'cette', 'jalouse', 'rage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN']",7,6
+"['assaillir', 'caserne', 'où', 'consignons']","['VERB', 'NOUN', 'ADV', 'VERB']",4,3
+"['taverne', 'infâme', 'désignons']","['NOUN', 'ADJ', 'VERB']",3,3
+"[""d'"", 'un', 'nom', 'injurieux', 'déborder', 'plage']","['ADP', 'DET', 'NOUN', 'ADJ', 'VERB', 'NOUN']",6,5
+"['fallut', ""qu'"", 'elle', 'vît', 'cette', 'haine', 'sauvage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADJ']",7,6
+"['dénaturer', 'sort', 'où', 'résignons']","['VERB', 'NOUN', 'ADV', 'VERB']",4,3
+"['ronce', ""l'"", 'ortie', 'où', 'égratignons']","['NOUN', 'DET', 'NOUN', 'ADV', 'VERB']",5,4
+"['mains', ""s'"", 'enchevêtrer', 'jeune', 'bocage']","['NOUN', 'PRON', 'VERB', 'ADJ', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'chemin', 'halage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'NOUN']",6,4
+"['déraciner', 'borne', 'cognons']","['VERB', 'NOUN', 'ADJ']",3,3
+"[""qu'"", 'elle', 'vît', 'coin', 'où', 'rencoignons']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'ADV', 'NOUN']",6,5
+"['refuser', 'gîte', 'pain', 'voyage']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['fallut', ""qu'"", 'elle', 'vît', 'commun', 'naufrage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['sombrer', ""l'"", 'arche', 'rompue', 'empoignons']","['VERB', 'DET', 'NOUN', 'VERB', 'NOUN']",5,3
+"[""qu'"", 'elle', 'vît', 'grande', 'armée', 'où', 'grognons']","['SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN', 'ADV', 'ADJ']",7,6
+"['marchons', 'toujours', 'subir', 'cet', 'hivernage']","['VERB', 'ADV', 'VERB', 'DET', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'tel', 'sabotage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['dénaturaliser', ""l'"", 'oeuvre', 'où', 'besognons']","['VERB', 'DET', 'NOUN', 'ADV', 'VERB']",5,4
+"[""qu'"", 'elle', 'vît', ""l'"", 'injure', 'répugnons']","['SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADJ']",6,6
+"['régner', 'gouverner', 'sous', 'figure', ""d'"", 'outrage']","['VERB', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN']",6,3
+"['fallut', ""qu'"", 'elle', 'vît', 'long', 'bastingage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['précipiter', ""l'"", 'eau', ""l'"", 'or', 'épargnons']","['VERB', 'DET', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,4
+"[""qu'"", 'elle', 'vît', 'vergue', 'où', 'éborgnons']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'ADV', 'VERB']",6,5
+"['chanceler', 'tomber', ""l'"", 'effet', 'tangage']","['VERB', 'VERB', 'DET', 'NOUN', 'ADJ']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'hivernage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN']",5,4
+"[""s'"", 'évanouir', 'froid', ""l'"", 'ardeur', 'feignons']","['PRON', 'VERB', 'ADJ', 'DET', 'NOUN', 'VERB']",6,5
+"[""qu'"", 'elle', 'vît', 'peine', 'où', 'renfrognons']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'ADV', 'NOUN']",6,5
+"[""s'"", 'évanouir', 'mort', 'beau', 'sarcophage']","['PRON', 'VERB', 'VERB', 'ADJ', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'cet', 'appareillage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"[""s'"", 'avancer', 'galère', 'où', 'captifs', 'geignons']","['PRON', 'VERB', 'NOUN', 'ADV', 'NOUN', 'VERB']",6,4
+"[""qu'"", 'elle', 'vît', 'nef', 'lourde', 'où', 'plaignons']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'ADJ', 'ADV', 'VERB']",7,6
+"['gémir', 'haubans', 'bois', ""d'"", 'assemblage']","['VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN']",5,3
+"['fallut', ""qu'"", 'elle', 'vît', 'commun', 'partage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['arriver', 'justement', 'sort', 'craignons']","['VERB', 'ADV', 'NOUN', 'VERB']",4,3
+"['loi', 'sauve', 'enfreignons']","['NOUN', 'VERB', 'NOUN']",3,2
+"['exposée', 'périr', 'naufrage']","['VERB', 'VERB', 'NOUN']",3,2
+"['fallut', ""qu'"", 'elle', 'vît', 'mouillage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN']",5,4
+"['sombrer', 'désespoir', 'seul', 'étreignons']","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[""qu'"", 'elle', 'vît', 'cet', 'ordre', 'où', 'astreignons']","['SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADV', 'VERB']",7,6
+"['perdre', 'bancs', 'rame', 'amarinage']","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"['fallut', ""qu'"", 'elle', 'vît', 'commun', 'dommage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['plier', 'discipline', 'où', 'contraignons']","['VERB', 'NOUN', 'ADV', 'VERB']",4,3
+"[""qu'"", 'elle', 'vît', ""l'"", 'astreinte', 'où', 'restreignons']","['SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADV', 'NOUN']",7,6
+"['détendre', 'crever', 'comme', 'mauvais', 'bordage']","['VERB', 'VERB', 'ADP', 'ADJ', 'NOUN']",5,4
+"['fallut', ""qu'"", 'elle', 'vît', 'mouvant', 'sillage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,5
+"['flotter', ""s'"", 'enfoncer', 'mort', 'ceignons']","['VERB', 'PRON', 'VERB', 'VERB', 'NOUN']",5,3
+"[""qu'"", 'elle', 'vît', 'couler', 'sang', 'dont', 'teignons']","['PRON', 'PRON', 'VERB', 'VERB', 'NOUN', 'PRON', 'NOUN']",7,3
+"['robe', 'lustrale', 'enfantillage']","['NOUN', 'ADJ', 'ADJ']",3,2
+"['fallut', ""qu'"", 'elle', 'vît', 'jeu', 'mirage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'NOUN']",6,4
+"['reculer', 'but', 'fixe', 'atteignons']","['VERB', 'NOUN', 'ADJ', 'VERB']",4,3
+"[""qu'"", 'elle', 'vît', 'terme', 'où', 'rejoignons']","['SCONJ', 'PRON', 'VERB', 'NOUN', 'ADV', 'VERB']",6,5
+"['dérober', 'plein', 'atterrissage']","['VERB', 'ADJ', 'NOUN']",3,3
+"['fallut', ""qu'"", 'elle', 'vît', 'plein', 'coeur', ""l'"", 'orage']","['VERB', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN', 'DET', 'NOUN']",8,6
+"['brûler', 'chère', 'flamme', 'éteignons']","['VERB', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[""qu'"", 'elle', 'vît', 'maux', 'adjoignons']","['PRON', 'PRON', 'VERB', 'NOUN', 'ADJ']",5,4
+"['coucher', 'contre', 'noble', 'servage']","['VERB', 'ADP', 'ADJ', 'NOUN']",4,4
+"['fallût', ""qu'"", 'elle', 'vît', 'tout', 'gribouillage']","['INTJ', 'PRON', 'PRON', 'VERB', 'DET', 'NOUN']",6,5
+"['raidir', 'devoirs', 'enjoignons']","['VERB', 'NOUN', 'ADJ']",3,3
+"['soucis', 'aigus', 'dont', 'poignons']","['NOUN', 'ADJ', 'PRON', 'X']",4,4
+"['percer', ""jusqu'"", 'à', 'le', 'coeur', 'tout', 'barbouillage']","['VERB', 'ADV', 'ADP', 'DET', 'NOUN', 'ADV', 'NOUN']",7,5
+"[""qu'"", 'elle', 'vît', 'venir', 'fond', 'campagne']","['PRON', 'PRON', 'VERB', 'VERB', 'NOUN', 'NOUN']",6,3
+"['milieu', 'clercs', 'milieu', 'pages']","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"['vers', ""l'"", 'arène', 'romaine', 'roide', 'montagne']","['ADP', 'DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,4
+"['traînant', 'trois', 'vertus', 'train', 'équipages']","['VERB', 'NUM', 'NOUN', 'ADJ', 'NOUN']",5,4
+"['plus', 'fine', 'plus', 'ferme', 'plus', 'douce', 'compagne']","['ADV', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'NOUN']",7,3
+"['plus', 'belle', 'enfant', 'longs', 'patronages']","['ADV', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
