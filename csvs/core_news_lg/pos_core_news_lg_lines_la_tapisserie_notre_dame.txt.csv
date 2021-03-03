@@ -1,0 +1,865 @@
+text,pos,total,pos_unique
+[],[],0,0
+[tapisserie],['NOUN'],1,1
+[dame],['NOUN'],1,1
+"[cahier, dimanche, pentecôte]","['NOUN', 'NOUN', 'PROPN']",3,2
+"[mois, mai]","['NOUN', 'NOUN']",2,1
+"[quatorzième, série]","['ADJ', 'NOUN']",2,2
+"[fidèle, lotte]","['ADP', 'NOUN']",2,2
+"[bulletin, professeurs, catholiques, l', université]","['NOUN', 'NOUN', 'ADJ', 'DET', 'NOUN']",5,3
+"[présentation, paris, dame]","['NOUN', 'ADJ', 'NOUN']",3,2
+"[étoile, mer, voici, lourde, nef]","['NOUN', 'ADJ', 'VERB', 'ADJ', 'NOUN']",5,3
+"[où, ramons, tout, nuds, sous, commandements]","['PRON', 'VERB', 'ADV', 'VERB', 'ADP', 'NOUN']",6,5
+"[voici, détresse, désarmements]","['VERB', 'X', 'PROPN']",3,3
+"[voici, quai, louvre, l', écluse, bief]","['VERB', 'NOUN', 'VERB', 'DET', 'NOUN', 'NOUN']",6,3
+"[voici, appareil, voici, chef]","['VERB', 'NOUN', 'VERB', 'NOUN']",4,2
+"[c', est, gars, chez, siffle, moments]","['PRON', 'AUX', 'NOUN', 'ADP', 'ADJ', 'NOUN']",6,5
+"[pareil, gouvernements]","['ADJ', 'NOUN']",2,2
+"[tête, dure, geste, peu, bref]","['NOUN', 'ADJ', 'NOUN', 'ADV', 'ADV']",5,3
+"[reine, levez, tous, océans]","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"[penserez, quand, large]","['VERB', 'SCONJ', 'ADJ']",3,3
+"[aujourd'hui, c', est, jour, d', embarquer, charge]","['ADV', 'PRON', 'AUX', 'NOUN', 'ADP', 'VERB', 'NOUN']",7,6
+"[voici, l', énorme, grue, longs, meuglements]","['VERB', 'DET', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[s', il, fallait, charger, pauvres, vertus]","['SCONJ', 'PRON', 'VERB', 'VERB', 'ADJ', 'NOUN']",6,5
+"[vaisseau, s', en, irait, vers, auguste, seuil]","['NOUN', 'PRON', 'PRON', 'VERB', 'ADP', 'ADJ', 'NOUN']",7,5
+"[plus, creux, noisette, après, l', écureuil]","['ADV', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN']",6,5
+"[laissé, retomber, ongles, pointus]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[nuls, ballots, n', entreraient, panneaux, béants]","['ADJ', 'NOUN', 'ADV', 'VERB', 'NOUN', 'ADJ']",6,4
+"[arriverions, mer, sargasse]","['VERB', 'ADP', 'ADJ']",3,3
+"[traînant, cette, inutile, grotesque, carcasse]","['VERB', 'DET', 'ADJ', 'ADJ', 'NOUN']",5,4
+"[anglais, diraient, n', ont, rien, mis, dedans]","['ADJ', 'VERB', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP']",7,6
+"[saurons, l', emplir, jurons]","['VERB', 'PRON', 'VERB', 'NOUN']",4,3
+"[plus, beau, cet, illustre, port]","['ADV', 'ADJ', 'DET', 'VERB', 'NOUN']",5,5
+"[cargaison, ira, jusque, plat, -, bord]","['NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",6,3
+"[quand, plein, couronnerons]","['SCONJ', 'ADJ', 'NOUN']",3,3
+"[chargerons, pauvre, maïs]","['VERB', 'ADJ', 'NOUN']",3,3
+"[l', or, blé, emporterons]","['DET', 'NOUN', 'AUX', 'VERB']",4,4
+"[tiendra, mer, car, chargerons]","['VERB', 'VERB', 'CCONJ', 'VERB']",4,2
+"[poids, péchés, payés, fils]","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"[paris, vaisseau, charge]","['NOUN', 'NOUN', 'VERB']",3,2
+"[double, vaisseau, charge, deux, rives, seine]","['ADJ', 'NOUN', 'NOUN', 'NUM', 'NOUN', 'NOUN']",6,3
+"[vaisseau, pourpre, d', or, myrrhe, cinname]","['NOUN', 'ADV', 'ADP', 'NOUN', 'ADV', 'ADJ']",6,4
+"[vaisseau, blé, seigle, justesse, d', âme]","['NOUN', 'AUX', 'ADJ', 'NOUN', 'ADP', 'NOUN']",6,4
+"[d', humilité, d', orgueil, simple, verveine]","['ADP', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN']",6,3
+"[pères, t', ont, comblé, d', une, si, longue, peine]","['NOUN', 'PRON', 'AUX', 'VERB', 'ADP', 'DET', 'ADV', 'ADJ', 'NOUN']",9,8
+"[depuis, mille, mille, ans, viens, lame]","['ADP', 'NUM', 'NUM', 'NOUN', 'VERB', 'NOUN']",6,4
+"[nulle, cargaison, n', est, si, lourde, rame]","['ADJ', 'NOUN', 'ADV', 'AUX', 'ADV', 'ADJ', 'NOUN']",7,4
+"[nul, bâtiment, panse, aussi, pleine]","['ADJ', 'NOUN', 'VERB', 'ADV', 'ADJ']",5,4
+"[apporterons, regret, si, sévère]","['VERB', 'NOUN', 'SCONJ', 'ADJ']",4,4
+"[si, nourri, d', honneur, si, creusé, flamme]","['SCONJ', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'NOUN']",7,4
+"[chef, prendra, sac, prière]","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"[fera, hisser, jusque, sous, l', oriflamme]","['VERB', 'VERB', 'ADV', 'ADP', 'DET', 'NOUN']",6,5
+"[navire, appareillé, sous, septime, sévère]","['NOUN', 'VERB', 'ADP', 'NOUN', 'ADJ']",5,4
+"[double, vaisseau, charge, pieds, dame]","['ADJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,2
+"[paris, double, galère]","['NOUN', 'ADJ', 'NOUN']",3,2
+"[depuis, point, jour, jusqu', aux, cèdres, bibliques]","['ADP', 'NOUN', 'NOUN', 'ADP', 'ADP', 'NOUN', 'ADJ']",7,3
+"[double, galère, assise, long, grand, bazar]","['ADJ', 'NOUN', 'ADJ', 'ADJ', 'ADJ', 'NOUN']",6,2
+"[grand, ministère, morne, alcazar]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[parmi, deuils, privés, vertus, publiques]","['ADP', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,3
+"[sous, quatre-vingts, rois, trois, républiques]","['ADP', 'NUM', 'NOUN', 'NUM', 'NOUN']",5,3
+"[sous, napoléon, alexandre, césar]","['ADP', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[pères, tenté, centuple, hasard]","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"[fidèlement, courbés, rames, obliques]","['ADV', 'VERB', 'NOUN', 'ADJ']",4,4
+"[prenant, place, banc, chêne]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[ramerons, reins, nuque, l', âme]","['ADJ', 'NOUN', 'ADJ', 'DET', 'NOUN']",5,3
+"[pliés, cassés, meurtris, saignants, sous, chaîne]","['VERB', 'VERB', 'ADJ', 'ADJ', 'ADP', 'NOUN']",6,4
+"[tiendrons, coup, rivés, rame]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[forçats, fils, forçats, deux, rives, seine]","['NOUN', 'ADJ', 'NOUN', 'NUM', 'NOUN', 'NOUN']",6,3
+"[galériens, couchés, pieds, dame]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[paris, vaisseau, guerre]","['NOUN', 'NOUN', 'NOUN']",3,1
+"[double, vaisseau, ligne, long, colonnades]","['ADJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,2
+"[autrefois, bâtiment, centuple, sabord]","['AUX', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[aujourd'hui, lourde, usine, énorme, coffre, -, fort]","['ADV', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADV', 'ADV']",7,3
+"[fermé, secret, sourdes, canonnades]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[pères, t', ont, dansé, chaudes, sérénades]","['NOUN', 'PRON', 'AUX', 'VERB', 'ADJ', 'NOUN']",6,5
+"[t', ont, fleuri, sang, plus, belle, mort]","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADV', 'ADJ', 'NOUN']",7,5
+"[quand, gaillard, d', avant, vers, l', un, l', autre, bord]","['SCONJ', 'NOUN', 'ADP', 'ADP', 'ADP', 'DET', 'PRON', 'DET', 'ADJ', 'NOUN']",10,6
+"[bondissait, troupeau, graves, caronnades]","['VERB', 'NOUN', 'ADJ', 'VERB']",4,3
+"[apporterons, destins, géants]","['VERB', 'ADJ', 'ADJ']",3,2
+"[coeur, si, sérieux, si, brûlé, flamme]","['NOUN', 'SCONJ', 'ADJ', 'SCONJ', 'VERB', 'NOUN']",6,4
+"[coeur, si, curieux, tous, océans]","['NOUN', 'SCONJ', 'ADJ', 'ADJ', 'ADJ']",5,3
+"[soldats, fils, soldats, sous, oriflamme]","['NOUN', 'ADJ', 'NOUN', 'ADP', 'NOUN']",5,3
+"[qu', on, mettra, valets, canons, béants]","['SCONJ', 'PRON', 'VERB', 'NOUN', 'NOUN', 'ADJ']",6,5
+"[monstres, verts, accroupis, pieds, notre-dame]","['NOUN', 'ADJ', 'VERB', 'NOUN', 'ADJ']",5,3
+"[présentation, beauce, dame, chartres]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[étoile, mer, voici, lourde, nappe]","['NOUN', 'ADJ', 'VERB', 'ADJ', 'NOUN']",5,3
+"[profonde, houle, l', océan, blés]","['ADJ', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,3
+"[mouvante, écume, greniers, comblés]","['NOUN', 'ADP', 'NOUN', 'VERB']",4,3
+"[voici, regard, cette, immense, chape]","['VERB', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,4
+"[voici, voix, cette, lourde, plaine]","['VERB', 'ADV', 'DET', 'ADJ', 'NOUN']",5,5
+"[amis, absents, coeurs, dépeuplés]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[voici, long, poings, désassemblés]","['VERB', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[lassitude, force, pleine]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[étoile, matin, inaccessible, reine]","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[voici, marchons, vers, illustre, cour]","['VERB', 'VERB', 'ADP', 'VERB', 'NOUN']",5,3
+"[voici, plateau, pauvre, amour]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[voici, l', océan, immense, peine]","['VERB', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,4
+"[sanglot, rôde, court, delà, l', horizon]","['NOUN', 'VERB', 'ADJ', 'ADV', 'DET', 'NOUN']",6,5
+"[peine, quelques, toits, font, comme, archipel]","['NOUN', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN']",6,4
+"[vieux, clocher, retombe, sorte, d', appel]","['ADJ', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN']",6,4
+"[l', épaisse, église, semble, basse, maison]","['DET', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN']",6,4
+"[ainsi, naviguons, vers, cathédrale]","['ADV', 'VERB', 'ADP', 'NOUN']",4,4
+"[loin, loin, surnage, chapelet, meules]","['ADV', 'ADV', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[rondes, comme, tours, opulentes, seules]","['NOUN', 'ADP', 'NOUN', 'ADJ', 'ADJ']",5,3
+"[comme, rang, châteaux, barque, amirale]","['ADP', 'NOUN', 'ADJ', 'VERB', 'ADJ']",5,4
+"[deux, mille, ans, labeur, fait, cette, terre]","['NUM', 'NUM', 'NOUN', 'NOUN', 'VERB', 'DET', 'NOUN']",7,4
+"[réservoir, sans, fin, âges, nouveaux]","['NOUN', 'ADP', 'NOUN', 'NOUN', 'ADJ']",5,3
+"[mille, ans, grâce, fait, travaux]","['NUM', 'NOUN', 'NOUN', 'VERB', 'NOUN']",5,3
+"[reposoir, sans, fin, l', âme, solitaire]","['NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,4
+"[voyez, marcher, cette, route, droite]","['VERB', 'VERB', 'DET', 'NOUN', 'NOUN']",5,3
+"[tout, poudreux, tout, crottés, pluie, entre, dents]","['DET', 'ADJ', 'PRON', 'NOUN', 'VERB', 'ADP', 'NOUN']",7,6
+"[large, éventail, ouvert, tous, vents]","['ADJ', 'ADJ', 'ADJ', 'DET', 'NOUN']",5,3
+"[route, nationale, porte, étroite]","['NOUN', 'ADJ', 'VERB', 'ADJ']",4,3
+"[allons, devant, mains, long, poches]","['VERB', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,4
+"[sans, aucun, appareil, sans, fatras, sans, discours]","['ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",7,3
+"[d', un, toujours, égal, sans, hâte, ni, recours]","['ADP', 'DET', 'ADV', 'ADJ', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",8,6
+"[champs, plus, présents, vers, champs, plus, proches]","['NOUN', 'ADV', 'ADJ', 'ADP', 'NOUN', 'ADV', 'ADJ']",7,4
+"[voyez, marcher, piétaille]","['VERB', 'VERB', 'NOUN']",3,2
+"[n', avançons, jamais, d', un, fois]","['ADV', 'VERB', 'ADV', 'ADP', 'DET', 'NOUN']",6,5
+"[vingt, siècles, peuple, vingt, siècles, rois]","['NUM', 'NOUN', 'NOUN', 'NUM', 'NOUN', 'VERB']",6,3
+"[toute, séquelle, toute, volaille]","['DET', 'NOUN', 'DET', 'NOUN']",4,2
+"[leurs, chapeaux, plume, valetaille]","['DET', 'NOUN', 'ADJ', 'ADJ']",4,3
+"[appris, c', est, d', être, familiers]","['VERB', 'PRON', 'AUX', 'ADP', 'AUX', 'ADJ']",6,5
+"[comme, peut, marcher, pieds, souliers]","['ADP', 'VERB', 'VERB', 'NOUN', 'ADJ']",5,4
+"[vers, dernier, carré, soir, d', une, bataille]","['ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN']",7,4
+"[nés, bord, plateau]","['VERB', 'ADJ', 'NOUN']",3,3
+"[recourbement, blonde, loire]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[fleuve, sable, fleuve, gloire]","['NOUN', 'ADJ', 'ADV', 'ADJ']",4,3
+"[n', est, là, baiser, auguste, manteau]","['ADV', 'AUX', 'ADV', 'VERB', 'ADJ', 'NOUN']",6,5
+"[nés, bord, vaste, plateau]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
+"[l', antique, orléans, sévère, sérieuse]","['DET', 'NOUN', 'NOUN', 'ADJ', 'ADJ']",5,3
+"[loire, coulante, souvent, limoneuse]","['ADJ', 'ADJ', 'ADV', 'ADJ']",4,2
+"[n', est, là, laver, pieds, coteau]","['ADV', 'AUX', 'ADV', 'VERB', 'NOUN', 'ADJ']",6,5
+"[nés, bord, plate, beauce]","['VERB', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[connu, dès, plus, jeunes, ans]","['VERB', 'ADP', 'ADV', 'ADJ', 'NOUN']",5,5
+"[portail, ferme, durs, paysans]","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"[l', enclos, bourg, bêche, fosse]","['DET', 'NOUN', 'ADJ', 'VERB', 'NOUN']",5,4
+"[nés, bord, beauce, plate]","['VERB', 'ADJ', 'ADJ', 'NOUN']",4,3
+"[connu, dès, premiers, regrets]","['VERB', 'ADP', 'ADJ', 'NOUN']",4,4
+"[peut, receler, désespoirs, secrets]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[soleil, descend, ciel, écarlate]","['NOUN', 'VERB', 'ADJ', 'ADJ']",4,3
+"[couche, ras, d', un, sol, inévitable]","['NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'ADJ']",6,4
+"[dur, comme, justice, égal, comme, barre]","['ADJ', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN']",6,3
+"[juste, comme, loi, fermé, comme, mare]","['ADV', 'ADP', 'NOUN', 'VERB', 'ADP', 'NOUN']",6,4
+"[ouvert, comme, beau, socle, plan, comme, table]","['ADJ', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",7,3
+"[homme, chez, glèbe, féconde]","['NOUN', 'ADP', 'NOUN', 'ADJ']",4,3
+"[fait, jaillir, ici, d', un, seul, enlèvement]","['AUX', 'VERB', 'ADV', 'ADP', 'DET', 'ADJ', 'NOUN']",7,7
+"[d', une, seule, source, d', un, seul, portement]","['ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",8,4
+"[vers, assomption, flèche, unique, monde]","['ADP', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[tour, david, voici, tour, beauceronne]","['NOUN', 'PROPN', 'VERB', 'NOUN', 'NOUN']",5,3
+"[c', est, l', épi, plus, dur, jamais, monté]","['PRON', 'AUX', 'DET', 'NOUN', 'ADV', 'ADJ', 'ADV', 'VERB']",8,7
+"[vers, ciel, clémence, sérénité]","['ADP', 'NOUN', 'ADJ', 'ADJ']",4,3
+"[plus, beau, fleuron, dedans, couronne]","['ADV', 'ADJ', 'ADJ', 'ADJ', 'NOUN']",5,3
+"[homme, chez, fait, ici, jaillir]","['NOUN', 'ADP', 'NOUN', 'ADV', 'VERB']",5,4
+"[depuis, ras, sol, jusqu', au, pied, croix]","['ADP', 'ADJ', 'NOUN', 'ADP', 'ADP', 'NOUN', 'ADJ']",7,3
+"[plus, haut, tous, saints, plus, haut, tous, rois]","['ADV', 'ADV', 'ADJ', 'NOUN', 'ADV', 'ADV', 'ADJ', 'NOUN']",8,3
+"[flèche, irréprochable, peut, faillir]","['NOUN', 'ADJ', 'VERB', 'VERB']",4,3
+"[c', est, gerbe, blé, périra, point]","['PRON', 'AUX', 'VERB', 'AUX', 'VERB', 'NOUN']",6,4
+"[fanera, point, soleil, septembre]","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"[gèlera, point, rigueurs, décembre]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[c', est, serviteur, c', est, témoin]","['PRON', 'AUX', 'NOUN', 'PRON', 'AUX', 'NOUN']",6,3
+"[c', est, tige, blé, pourrira]","['PRON', 'AUX', 'NOUN', 'PRON', 'VERB']",5,4
+"[flétrira, point, ardeurs, l', été]","['VERB', 'NOUN', 'ADV', 'PRON', 'NOUN']",5,4
+"[moisira, point, hiver, gâté]","['ADJ', 'NOUN', 'NOUN', 'VERB']",4,3
+"[transira, point, commun, trépas]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[c', est, pierre, sans, tache, pierre, sans, faute]","['PRON', 'AUX', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",8,4
+"[plus, haute, oraison, qu', on, jamais, portée]","['ADV', 'ADJ', 'NOUN', 'SCONJ', 'PRON', 'ADV', 'VERB']",7,6
+"[plus, droite, raison, qu', on, jamais, jetée]","['ADV', 'NOUN', 'NOUN', 'SCONJ', 'PRON', 'ADV', 'VERB']",7,5
+"[vers, ciel, sans, bord, ligne, plus, haute]","['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADV', 'ADJ']",7,4
+"[celle, mourra, jour, d', aucunes, morts]","['PRON', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",6,5
+"[gage, portrait, arrachements]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[l', image, tracé, redressements]","['DET', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[laine, fuseau, plus, modestes, sorts]","['NOUN', 'NOUN', 'ADV', 'ADJ', 'NOUN']",5,3
+"[arrivons, vers, lointain, parisis]","['VERB', 'ADP', 'ADJ', 'NOUN']",4,4
+"[trois, jours, quitté, boutique]","['NUM', 'NOUN', 'VERB', 'NOUN']",4,3
+"[l', archéologie, sémantique]","['DET', 'NOUN', 'ADJ']",3,3
+"[maigre, sorbonne, pauvres, petits]","['ADJ', 'ADJ', 'ADJ', 'ADJ']",4,1
+"[d', autres, viendront, vers, lointain, beauvaisis]","['DET', 'ADJ', 'VERB', 'ADP', 'ADJ', 'NOUN']",6,5
+"[trois, jours, laissé, négoce]","['NUM', 'NOUN', 'VERB', 'NOUN']",4,3
+"[rumeur, géante, ville, colosse]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[d', autres, viendront, vers, lointain, cambrésis]","['DET', 'ADJ', 'VERB', 'ADP', 'ADJ', 'ADJ']",6,4
+"[arrivons, vers, paris, capitale]","['VERB', 'ADP', 'PROPN', 'ADJ']",4,4
+"[c', est, là, gouvernement]","['PRON', 'AUX', 'ADV', 'NOUN']",4,4
+"[temps, perdu, lanternement]","['NOUN', 'VERB', 'ADV']",3,3
+"[liberté, décevante, totale]","['NOUN', 'ADJ', 'ADJ']",3,2
+"[arrivons, vers, l', autre, dame]","['VERB', 'ADP', 'DET', 'ADJ', 'NOUN']",5,5
+"[celle, s', élève, coeur, cité]","['PRON', 'PRON', 'VERB', 'NOUN', 'NOUN']",5,3
+"[royale, robe, majesté]","['ADJ', 'NOUN', 'ADJ']",3,2
+"[magnificence, justesse, d', âme]","['NOUN', 'ADJ', 'ADP', 'NOUN']",4,3
+"[comme, commandez, océan, d', épis]","['ADP', 'NUM', 'NOUN', 'ADP', 'NOUN']",5,3
+"[là, -, bas, commandez, océan, têtes]","['ADV', 'PUNCT', 'ADJ', 'VERB', 'ADJ', 'NOUN']",6,5
+"[moisson, deuils, moisson, fêtes]","['NOUN', 'VERB', 'VERB', 'NOUN']",4,2
+"[couche, chaque, soir, devant, parvis]","['NOUN', 'DET', 'NOUN', 'ADP', 'NOUN']",5,3
+"[arrivons, vers, noble, hurepoix]","['VERB', 'ADP', 'ADJ', 'ADJ']",4,3
+"[c', est, commencement, beauce, usage]","['PRON', 'AUX', 'ADV', 'ADV', 'NOUN']",5,4
+"[fermes, champs, taillés, image]","['ADJ', 'NOUN', 'VERB', 'NOUN']",4,3
+"[coupés, plus, souvent, rideaux, bois]","['VERB', 'ADV', 'ADV', 'NOUN', 'NOUN']",5,3
+"[coupés, plus, souvent, creuses, vallées]","['VERB', 'ADV', 'ADV', 'ADJ', 'NOUN']",5,4
+"[l', yvette, bièvre, leurs, accroissements]","['DET', 'NOUN', 'NOUN', 'DET', 'NOUN']",5,2
+"[leurs, savants, détours, leurs, dégagements]","['DET', 'ADJ', 'NOUN', 'DET', 'NOUN']",5,3
+"[beaux, châteaux, longues, allées]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[d', autres, viendront, vers, noble, vermandois]","['DET', 'ADJ', 'VERB', 'ADP', 'ADJ', 'NOUN']",6,5
+"[vallonnements, bouleaux, saules]","['NOUN', 'ADJ', 'ADJ']",3,2
+"[d', autres, viendront, vers, palais, geôles]","['DET', 'ADJ', 'VERB', 'ADP', 'NOUN', 'NOUN']",6,5
+"[pays, picard, vert, vendômois]","['NOUN', 'ADJ', 'ADJ', 'NOUN']",4,2
+"[c', est, toujours, france, petite, plus, grande]","['PRON', 'AUX', 'ADV', 'NOUN', 'ADJ', 'ADV', 'ADJ']",7,5
+"[pays, beaux, blés, encadrements]","['NOUN', 'ADJ', 'NOUN', 'NOUN']",4,2
+"[pays, grappe, ruissellements]","['NOUN', 'NOUN', 'NOUN']",3,1
+"[pays, genêts, bruyère, lande]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[arrivons, vers, lointain, palaiseau]","['VERB', 'ADP', 'ADJ', 'PROPN']",4,4
+"[faubourgs, d', orsay, gometz-le-châtel]","['ADJ', 'ADP', 'NOUN', 'PROPN']",4,4
+"[autrement, dit, saint-clair, n', est, castel]","['ADV', 'VERB', 'ADJ', 'ADV', 'AUX', 'VERB']",6,4
+"[c', est, village, bord, d', une, route, biseau]","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'NOUN']",8,6
+"[débouché, montant, coteau]","['ADJ', 'NOUN', 'ADJ']",3,2
+"[ras, plaine, gometz-la-ville]","['DET', 'NOUN', 'NOUN']",3,2
+"[au-dessus, saint-clair, n', est, ville]","['ADV', 'NOUN', 'ADV', 'AUX', 'NOUN']",5,3
+"[c', est, village, bord, d', une, route, plateau]","['PRON', 'AUX', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'NOUN']",8,6
+"[descendu, côte, limours]","['VERB', 'NOUN', 'NOUN']",3,2
+"[rencontré, trois, quatre, gendarmes]","['VERB', 'NUM', 'NUM', 'NOUN']",4,3
+"[regardé, non, sans, quelques, alarmes]","['VERB', 'ADV', 'ADP', 'DET', 'NOUN']",5,5
+"[consulter, poteaux, coins, carrefours]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[pu, coucher, calme, dourdan]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[c', est, gros, bourg, très, riche, sent, province]","['PRON', 'AUX', 'ADJ', 'NOUN', 'ADV', 'ADJ', 'VERB', 'NOUN']",8,6
+"[fiers, longé, regardés, comme, prince]","['ADJ', 'VERB', 'VERB', 'ADP', 'NOUN']",5,4
+"[fossés, château, coupés, comme, redan]","['NOUN', 'NOUN', 'VERB', 'ADP', 'ADV']",5,4
+"[maison, amie, hôtesse, fraternelle]","['NOUN', 'NOUN', 'ADJ', 'ADJ']",4,2
+"[fait, coucher, lit, garçon]","['AUX', 'VERB', 'VERB', 'ADJ']",4,3
+"[vingt, ans, souvenirs, échanson]","['NUM', 'NOUN', 'VERB', 'NOUN']",4,3
+"[pain, coupé, d', une, main, maternelle]","['NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADJ']",6,5
+"[toute, jeunesse, là, sollennelle]","['DET', 'NOUN', 'ADV', 'VERB']",4,4
+"[prononça, bénédicité]","['VERB', 'ADJ']",2,2
+"[quatre, siècles, d', honneur, fidélité]","['NUM', 'NOUN', 'ADP', 'NOUN', 'NOUN']",5,3
+"[faisaient, draps, lit, couche, éternelle]","['VERB', 'NOUN', 'NOUN', 'NOUN', 'ADJ']",5,3
+"[fait, semblant, d', être, gai, pèlerin]","['AUX', 'VERB', 'ADP', 'AUX', 'DET', 'NOUN']",6,5
+"[bon, vivant, d', aimer, voyages]","['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",5,4
+"[d', avoir, parcouru, cent, trente-et-un, bailliages]","['ADP', 'AUX', 'VERB', 'NUM', 'NUM', 'NOUN']",6,5
+"[d', être, accoutumés, d', être, chemin]","['ADP', 'AUX', 'VERB', 'ADP', 'AUX', 'NOUN']",6,4
+"[clarté, lampe, éblouissait, nappe]","['ADJ', 'NOUN', 'VERB', 'ADJ']",4,3
+"[fit, visiter, jardin, potager]","['VERB', 'VERB', 'VERB', 'NOUN']",4,2
+"[donnait, treille, beau, verger]","['VERB', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[tel, premier, gîte, tête, d', étape]","['ADJ', 'ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN']",6,4
+"[jardin, clos, coude, l', orge]","['VERB', 'VERB', 'VERB', 'DET', 'NOUN']",5,3
+"[vers, droite, donnait, mur, bocager]","['ADP', 'NOUN', 'VERB', 'NOUN', 'VERB']",5,3
+"[surmonté, rameaux, d', un, arceau, léger]","['VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ']",6,5
+"[face, maréchal, l', enclume, forge]","['NOUN', 'NOUN', 'DET', 'NOUN', 'NOUN']",5,2
+"[levés, matin, devant, l', aube]","['VERB', 'NOUN', 'ADP', 'DET', 'NOUN']",5,4
+"[quittés, après, beaux, adieux]","['VERB', 'ADP', 'ADJ', 'NOUN']",4,4
+"[temps, s', annonçait, bien, dit, tant, mieux]","['NOUN', 'PRON', 'VERB', 'ADV', 'VERB', 'ADV', 'ADV']",7,4
+"[fait, goûter, quelque, boeuf, daube]","['VERB', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,4
+"[puisqu', il, entendu, bon, pèlerin]","['SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",5,5
+"[celui, boit, ferme, tient, place, table]","['PRON', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'NOUN']",6,4
+"[qu', il, besoin, faire, comptable]","['SCONJ', 'PRON', 'NOUN', 'VERB', 'ADJ']",5,5
+"[c', est, bien, assez, lever, matin]","['PRON', 'AUX', 'ADV', 'ADV', 'VERB', 'NOUN']",6,5
+"[jour, route, soleil, montait]","['NOUN', 'NOUN', 'NOUN', 'VERB']",4,2
+"[quand, passé, sainte-mesme, autres]","['SCONJ', 'VERB', 'NOUN', 'ADJ']",4,4
+"[avancions, déjà, comme, deux, bons, apôtres]","['VERB', 'ADV', 'ADP', 'NUM', 'ADJ', 'NOUN']",6,6
+"[gauche, droite, comptait]","['NOUN', 'NOUN', 'VERB']",3,2
+"[remontés, gué, longroy]","['VERB', 'NOUN', 'ADJ']",3,3
+"[c', en, fait, désormais, atermoiements]","['PRON', 'PRON', 'NOUN', 'ADV', 'ADJ']",5,4
+"[l', iniquité, dénivellements]","['DET', 'NOUN', 'ADJ']",3,3
+"[voici, juste, plaine, secret, effroi]","['VERB', 'ADV', 'NOUN', 'NOUN', 'ADJ']",5,4
+"[trouver, tout, seuls, voici, charroi]","['VERB', 'ADV', 'ADJ', 'VERB', 'PROPN']",5,4
+"[roue, boeufs, joug, grange]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[poussière, égale, l', équitable, fange]","['ADJ', 'ADJ', 'DET', 'NOUN', 'ADJ']",5,3
+"[détresse, égale, l', égal, désarroi]","['NOUN', 'ADJ', 'DET', 'ADJ', 'NOUN']",5,3
+"[voici, parvenus, haute, terrasse]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[où, rien, cache, plus, l', homme, devant, dieu]","['PRON', 'PRON', 'VERB', 'ADV', 'DET', 'NOUN', 'ADP', 'PROPN']",8,7
+"[où, nul, déguisement, ni, temps, ni, lieu]","['PRON', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'NOUN']",7,4
+"[pourra, sauver, seigneur, chasse]","['VERB', 'VERB', 'NOUN', 'NOUN']",4,2
+"[voici, gerbe, immense, l', immense, liasse]","['VERB', 'VERB', 'ADJ', 'DET', 'ADJ', 'NOUN']",6,4
+"[grain, sous, meule, écrasements]","['NOUN', 'ADP', 'NOUN', 'ADJ']",4,3
+"[grêle, javelle, renoncements]","['ADV', 'ADJ', 'NOUN']",3,3
+"[l', immense, horizon, regard, embrasse]","['DET', 'ADJ', 'NOUN', 'ADJ', 'VERB']",5,4
+"[indignité, cette, immuable, masse]","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
+"[basse, peur, pareil, moment]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[juste, terreur, secret, tourment]","['ADJ', 'NOUN', 'ADJ', 'ADJ']",4,2
+"[trouver, tout, seuls, devant, face]","['VERB', 'ADV', 'ADJ', 'ADP', 'NOUN']",5,5
+"[voici, c', est, reine, majesté]","['VERB', 'PRON', 'AUX', 'NOUN', 'NOUN']",5,4
+"[comment, avons, -nous, pu, laisser, décevoir]","['ADV', 'AUX', 'PRON', 'VERB', 'VERB', 'VERB']",6,4
+"[marcher, devant, sans, apercevoir]","['VERB', 'ADP', 'ADP', 'VERB']",4,2
+"[donc, toujours, peuple, inconcerté]","['ADV', 'ADV', 'NOUN', 'ADJ']",4,3
+"[pays, plus, ras, plus, rase, table]","['NOUN', 'ADV', 'ADJ', 'ADV', 'VERB', 'NOUN']",6,4
+"[peine, creux, sol, peine, léger, pli]","['NOUN', 'ADJ', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",6,2
+"[c', est, table, juge, fait, accompli]","['PRON', 'AUX', 'NOUN', 'NOUN', 'AUX', 'VERB']",6,4
+"[l', arrêt, sans, appel, l', ordre, inéluctable]","['DET', 'NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'ADJ']",7,4
+"[c', est, prononcé, texte, insurmontable]","['PRON', 'AUX', 'VERB', 'NOUN', 'ADJ']",5,5
+"[mesure, comble, c', est, sort, empli]","['NOUN', 'ADJ', 'PRON', 'AUX', 'VERB', 'VERB']",6,5
+"[c', est, vie, étale, l', homme, enseveli]","['PRON', 'AUX', 'NOUN', 'ADJ', 'DET', 'NOUN', 'VERB']",7,6
+"[c', est, héraut, d', arme, sceau, redoutable]","['PRON', 'AUX', 'ADV', 'ADP', 'NOUN', 'NOUN', 'ADJ']",7,6
+"[apparaissez, reine, mystérieuse]","['VERB', 'NOUN', 'ADJ']",3,3
+"[cette, pointe, là, -, bas, moutonnement]","['DET', 'NOUN', 'ADV', 'PUNCT', 'ADJ', 'NOUN']",6,5
+"[moissons, bois, flottement]","['NOUN', 'NOUN', 'ADV']",3,2
+"[l', extrême, horizon, n', est, point, yeuse]","['DET', 'ADJ', 'NOUN', 'ADV', 'AUX', 'VERB', 'ADJ']",7,6
+"[ni, profil, connu, d', un, arbre, interchangeable]","['CCONJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADJ']",7,6
+"[c', est, déjà, plus, distante, plus, basse, plus, haute]","['PRON', 'AUX', 'ADV', 'ADV', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ']",9,4
+"[ferme, comme, espoir, dernière, côte]","['ADJ', 'ADP', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[dernier, coteau, flèche, inimitable]","['ADJ', 'NOUN', 'NOUN', 'ADJ']",4,2
+"[d', ici, vers, reine, n', est, plus, route]","['ADP', 'ADV', 'ADP', 'NOUN', 'ADV', 'AUX', 'ADV', 'NOUN']",8,4
+"[celle-ci, regarde, bien, fait, d', autres]","['PRON', 'VERB', 'ADV', 'NOUN', 'DET', 'ADJ']",6,6
+"[gloire, nôtres]","['NOUN', 'PRON']",2,2
+"[l', avons, entamée, mangera, toute]","['PRON', 'AUX', 'VERB', 'VERB', 'DET']",5,4
+"[savons, c', est, qu', un, tronçon, s', ajoute]","['VERB', 'PRON', 'AUX', 'SCONJ', 'DET', 'NOUN', 'PRON', 'VERB']",8,6
+"[tronçon, déjà, fait, qu', un, kilomètre]","['NOUN', 'ADV', 'VERB', 'SCONJ', 'DET', 'NOUN']",6,5
+"[demande, jarret, qu', il, faut, mettre]","['NOUN', 'ADJ', 'SCONJ', 'PRON', 'VERB', 'VERB']",6,5
+"[passerons, soir, pont, voûte]","['VERB', 'NOUN', 'NOUN', 'NOUN']",4,2
+"[fossé, profond, cerne, rempart]","['NOUN', 'ADJ', 'VERB', 'NOUN']",4,3
+"[marchons, vent, coupés, autos]","['VERB', 'AUX', 'ADJ', 'NOUN']",4,4
+"[c', est, ici, contrée, imprenable, photos]","['PRON', 'AUX', 'ADV', 'ADJ', 'ADJ', 'NOUN']",6,5
+"[route, nue, grave, allant, part, part]","['NOUN', 'ADJ', 'ADJ', 'VERB', 'NOUN', 'NOUN']",6,3
+"[bon, vent, partir, dès, jour]","['ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN']",5,4
+"[coucherons, soir, deux, chez]","['NOUN', 'NOUN', 'NUM', 'ADP']",4,3
+"[cette, vieille, auberge, où, quarante, sous]","['DET', 'ADJ', 'NOUN', 'PRON', 'NUM', 'ADP']",6,6
+"[dormirons, tout, près, illustre, tour]","['VERB', 'ADV', 'ADV', 'VERB', 'NOUN']",5,3
+"[si, fourbus, regarderons]","['SCONJ', 'AUX', 'VERB']",3,3
+"[assis, chaise, auprès, fenêtre]","['ADP', 'NOUN', 'ADV', 'NOUN']",4,3
+"[écrasement, corps, tout, l', être]","['NOUN', 'ADJ', 'ADJ', 'PRON', 'AUX']",5,4
+"[yeux, battus, presque, yeux, ronds]","['NOUN', 'VERB', 'ADV', 'NOUN', 'ADJ']",5,4
+"[sourcils, haussés, jusque, dedans, fronts]","['NOUN', 'VERB', 'ADP', 'ADP', 'NOUN']",5,3
+"[l', angle, fois, trouvé, seul, homme, monde]","['DET', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADJ']",7,4
+"[l', unique, montée, ascendante, profonde]","['DET', 'ADJ', 'NOUN', 'ADJ', 'ADJ']",5,3
+"[recrus, contemplerons]","['VERB', 'VERB']",2,1
+"[voici, l', axe, ligne, géante, fleur]","['VERB', 'DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[voici, dure, pente, contentement]","['VERB', 'ADJ', 'NOUN', 'ADV']",4,4
+"[voici, l', exactitude, consentement]","['VERB', 'DET', 'NOUN', 'ADJ']",4,4
+"[sévère, larme, reine, douleur]","['ADJ', 'NOUN', 'NOUN', 'NOUN']",4,2
+"[voici, nudité, reste, vêtement]","['VERB', 'NOUN', 'VERB', 'NOUN']",4,2
+"[voici, vêtement, tout, reste, parure]","['VERB', 'NOUN', 'ADV', 'VERB', 'NOUN']",5,3
+"[voici, pureté, tout, reste, souillure]","['VERB', 'NOUN', 'DET', 'VERB', 'NOUN']",5,3
+"[voici, pauvreté, reste, ornement]","['VERB', 'NOUN', 'VERB', 'NOUN']",4,2
+"[voici, seule, force, reste, faiblesse]","['VERB', 'ADJ', 'NOUN', 'VERB', 'NOUN']",5,3
+"[voici, l', arête, unique, reste, bavure]","['VERB', 'DET', 'NOUN', 'ADJ', 'VERB', 'NOUN']",6,4
+"[seule, noblesse, reste, ordure]","['ADJ', 'NOUN', 'VERB', 'ADJ']",4,3
+"[seule, grandeur, reste, bassesse]","['ADJ', 'NOUN', 'VERB', 'NOUN']",4,3
+"[voici, seule, foi, point, parjure]","['VERB', 'ADJ', 'NOUN', 'NOUN', 'ADJ']",5,3
+"[voici, seul, élan, sache, peu, monter]","['VERB', 'ADJ', 'NOUN', 'VERB', 'ADV', 'VERB']",6,4
+"[voici, seul, instant, vaille, compter]","['VERB', 'ADJ', 'NOUN', 'VERB', 'VERB']",5,3
+"[voici, seul, propos, s', achève, dure]","['VERB', 'ADJ', 'NOUN', 'PRON', 'VERB', 'ADJ']",6,4
+"[voici, monument, tout, reste, doublure]","['VERB', 'NOUN', 'ADV', 'VERB', 'NOUN']",5,3
+"[voici, amour, entendement]","['VERB', 'NOUN', 'VERB']",3,2
+"[port, tête, apaisement]","['NOUN', 'NOUN', 'NOUN']",3,1
+"[rien, dentelle, l', exacte, moulure]","['PRON', 'ADJ', 'DET', 'ADJ', 'NOUN']",5,4
+"[voici, beau, serment, reste, forfaiture]","['VERB', 'ADJ', 'NOUN', 'VERB', 'ADJ']",5,3
+"[voici, l', unique, prix, arrachements]","['VERB', 'DET', 'ADJ', 'NOUN', 'ADJ']",5,4
+"[salaire, payé, retranchements]","['NOUN', 'VERB', 'NOUN']",3,2
+"[voici, vérité, reste, imposture]","['VERB', 'ADJ', 'VERB', 'NOUN']",4,3
+"[voici, firmament, reste, procédure]","['VERB', 'ADV', 'VERB', 'NOUN']",4,3
+"[vers, tribunal, voici, l', ajustement]","['ADP', 'NOUN', 'VERB', 'DET', 'NOUN']",5,4
+"[vers, paradis, voici, l', achèvement]","['ADP', 'NOUN', 'VERB', 'DET', 'NOUN']",5,4
+"[feuille, pierre, l', exacte, nervure]","['NOUN', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,3
+"[resterons, cloués, chaise, paille]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[n', entendrons, verrons]","['ADV', 'VERB', 'VERB']",3,2
+"[tumulte, voix, tumulte]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[salle, bas, l', innocente, ripaille]","['NOUN', 'ADJ', 'DET', 'NOUN', 'ADJ']",5,3
+"[ni, rouliers, venus, jour, marché]","['CCONJ', 'NOUN', 'VERB', 'NOUN', 'ADJ']",5,4
+"[ni, feinte, colère, l', éclat, jurons]","['CCONJ', 'ADJ', 'NOUN', 'DET', 'NOUN', 'ADJ']",6,4
+"[car, contemplerons, méditerons]","['CCONJ', 'VERB', 'NOUN']",3,3
+"[d', un, seul, embrassement, flèche, sans, péché]","['ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",7,4
+"[sentirons, ni, faces, raidies]","['VERB', 'CCONJ', 'NOUN', 'ADJ']",4,4
+"[ni, faim, ni, soif, ni, renoncements]","['CCONJ', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'NOUN']",6,2
+"[ni, raides, genoux, ni, raisonnements]","['CCONJ', 'ADJ', 'ADJ', 'CCONJ', 'NOUN']",5,3
+"[ni, pantalons, jambes, engourdies]","['CCONJ', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[perdus, cette, chambre, parmi, tant, d', hôtels]","['VERB', 'DET', 'NOUN', 'ADP', 'ADV', 'ADP', 'NOUN']",7,5
+"[descendrons, l', heure, repas]","['VERB', 'DET', 'NOUN', 'NOUN']",4,3
+"[n', entendrons, verrons]","['ADV', 'VERB', 'VERB']",3,2
+"[ville, prosternée, pieds, autels]","['NOUN', 'NOUN', 'NOUN', 'ADJ']",4,2
+"[quand, lèvera, soleil, demain]","['SCONJ', 'VERB', 'NOUN', 'ADV']",4,4
+"[réveillerons, aube, lustrale]","['VERB', 'NOUN', 'ADJ']",3,3
+"[l', ombre, deux, bras, cathédrale]","['DET', 'NOUN', 'NUM', 'NOUN', 'ADJ']",5,4
+"[heureux, malheureux, perclus, chemin]","['ADJ', 'ADJ', 'ADJ', 'NOUN']",4,2
+"[venons, prier, pauvre, garçon]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[mourut, comme, sot, cours, cette, année]","['VERB', 'ADP', 'ADJ', 'NOUN', 'DET', 'NOUN']",6,5
+"[presque, semaine, devers, journée]","['ADV', 'NOUN', 'ADP', 'NOUN']",4,3
+"[où, fils, naquit, paille]","['PRON', 'NOUN', 'VERB', 'NOUN']",4,3
+"[vierge, n', était, pire, troupeau]","['NOUN', 'ADV', 'AUX', 'ADJ', 'NOUN']",5,4
+"[n', avait, qu', un, défaut, jeune, cuirasse]","['ADV', 'VERB', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",7,6
+"[mort, piste, suit, trace]","['NOUN', 'NOUN', 'VERB', 'NOUN']",4,2
+"[passé, trou, qu', il, s', est, fait, peau]","['VERB', 'NOUN', 'SCONJ', 'PRON', 'PRON', 'AUX', 'VERB', 'NOUN']",8,5
+"[né, vers, gâtinais]","['VERB', 'ADP', 'NOUN']",3,3
+"[commençait, route, où, redescendons]","['VERB', 'NOUN', 'PRON', 'VERB']",4,3
+"[gagnait, tous, jours, tout, perdons]","['VERB', 'DET', 'NOUN', 'ADV', 'VERB']",5,4
+"[pourtant, c', était, destinais]","['ADV', 'PRON', 'AUX', 'VERB']",4,4
+"[mort, vaincue, premier, caveau]","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"[mis, mêmes, empreintes]","['VERB', 'ADJ', 'NOUN']",3,3
+"[seul, manquement, d', une, seule, craintes]","['ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",6,4
+"[laissa, passer, mort, chemin, nouveau]","['VERB', 'VERB', 'ADJ', 'NOUN', 'ADJ']",5,3
+"[voici, maintenant, dedans, régence]","['VERB', 'ADV', 'ADP', 'NOUN']",4,4
+"[reine, mère, saurez, montrer]","['NOUN', 'NOUN', 'VERB', 'VERB']",4,2
+"[c', était, être, pur, ferez, rentrer]","['PRON', 'AUX', 'AUX', 'ADJ', 'PRON', 'VERB']",6,4
+"[patronage, indulgence]","['NOUN', 'VERB']",2,2
+"[reine, lisez, secret, coeur]","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"[savez, c', est, vie, mort]","['VERB', 'PRON', 'AUX', 'VERB', 'ADJ']",5,4
+"[savez, ainsi, quel, secret, sort]","['VERB', 'ADV', 'DET', 'NOUN', 'VERB']",5,4
+"[coud, découd, ruse, traqueur]","['VERB', 'VERB', 'ADJ', 'ADJ']",4,2
+"[savez, ainsi, quel, accent, choeur]","['VERB', 'ADV', 'DET', 'NOUN', 'NOUN']",5,4
+"[noue, dénoue, accompagnement]","['VERB', 'VERB', 'ADV']",3,2
+"[qu', il, faut, d', espace, déboisement]","['SCONJ', 'PRON', 'VERB', 'ADP', 'NOUN', 'ADV']",6,6
+"[laisser, débouler, meute, piqueur]","['VERB', 'VERB', 'NOUN', 'NOUN']",4,2
+"[savez, ainsi, quel, recreux, port]","['VERB', 'ADV', 'DET', 'NOUN', 'NOUN']",5,4
+"[prépare, s', achève, noble, enlèvement]","['VERB', 'PRON', 'VERB', 'ADJ', 'NOUN']",5,4
+"[quel, jeu, d', adresse, gouvernement]","['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",5,3
+"[dérobe, fige, illustre, support]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[savez, ainsi, quel, tranchant, glaive]","['VERB', 'ADV', 'DET', 'NOUN', 'ADJ']",5,5
+"[joue, déjoue, épouvantement]","['VERB', 'ADP', 'ADV']",3,3
+"[quel, coup, pouce, quel, balancement]","['DET', 'NOUN', 'NOUN', 'DET', 'NOUN']",5,2
+"[l', un, plateaux, descend, l', autre, s', élève]","['DET', 'DET', 'NOUN', 'VERB', 'DET', 'PRON', 'PRON', 'VERB']",8,4
+"[peut, coûter, lèvre, moqueur]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[qu', il, faut, force, recroisement]","['SCONJ', 'PRON', 'VERB', 'NOUN', 'PROPN']",5,5
+"[faire, coup, d', un, seul, retournement]","['VERB', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",6,5
+"[d', un, vaincu, malheureux, malheureux, vainqueur]","['ADP', 'DET', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,4
+"[mère, voici, donc, race]","['NOUN', 'VERB', 'ADV', 'NOUN']",4,3
+"[vingt, ans, après, redoublement]","['NUM', 'NOUN', 'ADP', 'ADV']",4,4
+"[reine, recevez, -, le, amendement]","['NOUN', 'VERB', 'PUNCT', 'DET', 'NOUN']",5,4
+"[où, mort, passé, passera, bien, grâce]","['PRON', 'NOUN', 'VERB', 'VERB', 'ADV', 'NOUN']",6,4
+"[retournerons, chemin]","['VERB', 'NOUN']",2,2
+"[nouveau, terre, sans, cachette]","['ADJ', 'NOUN', 'ADP', 'NOUN']",4,3
+"[château, sans, coin, sans, oubliette]","['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",5,2
+"[sol, mieux, gravé, qu', un, parfait, parchemin]","['ADJ', 'ADV', 'VERB', 'SCONJ', 'DET', 'ADJ', 'NOUN']",7,6
+"[et, nunc, in, hora, prions]","['CCONJ', 'ADV', 'X', 'NOUN', 'VERB']",5,5
+"[plus, grands, sots, pauvre, gamin]","['ADV', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[sans, doute, moins, purs, moins, main]","['ADP', 'NOUN', 'ADV', 'ADJ', 'ADV', 'NOUN']",6,4
+"[moins, acheminés, vers, sacrés, genoux]","['ADV', 'VERB', 'ADP', 'ADJ', 'NOUN']",5,5
+"[quand, joué, derniers, personnages]","['SCONJ', 'VERB', 'ADJ', 'NOUN']",4,4
+"[quand, posé, cape, manteau]","['SCONJ', 'VERB', 'NOUN', 'NOUN']",4,3
+"[quand, jeté, masque, couteau]","['SCONJ', 'VERB', 'NOUN', 'NOUN']",4,3
+"[veuillez, rappeler, longs, pèlerinages]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[quand, retournerons, cette, froide, terre]","['SCONJ', 'VERB', 'DET', 'ADJ', 'NOUN']",5,5
+"[ainsi, qu', il, prescrit, premier, adam]","['ADV', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'NOUN']",6,6
+"[reine, saint-chéron, saint-arnould, dourdan]","['NOUN', 'ADJ', 'ADJ', 'ADJ']",4,2
+"[veuillez, rappeler, chemin, solitaire]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[quand, mis, étroite, fosse]","['SCONJ', 'VERB', 'ADP', 'NOUN']",4,4
+"[quand, dit, l', absoute, messe]","['SCONJ', 'VERB', 'DET', 'NOUN', 'NOUN']",5,4
+"[veuillez, rappeler, reine, promesse]","['VERB', 'VERB', 'NOUN', 'NOUN']",4,2
+"[long, cheminement, faisons, beauce]","['ADJ', 'NOUN', 'VERB', 'ADV']",4,4
+"[quand, quitté, sac, cette, corde]","['SCONJ', 'VERB', 'NOUN', 'DET', 'NOUN']",5,4
+"[quand, tremblé, derniers, tremblements]","['SCONJ', 'VERB', 'ADJ', 'NOUN']",4,4
+"[quand, râlé, derniers, râclements]","['SCONJ', 'NUM', 'ADJ', 'ADJ']",4,3
+"[veuillez, rappeler, miséricorde]","['VERB', 'VERB', 'NOUN']",3,2
+"[demandons, rien, refuge, pécheur]","['VERB', 'PRON', 'NOUN', 'ADJ']",4,4
+"[dernière, place, purgatoire]","['ADJ', 'NOUN', 'ADJ']",3,2
+"[pleurer, longuement, tragique, histoire]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
+"[contempler, loin, jeune, splendeur]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
+"[les, quatre, prières, cathédrale, chartres]","['DET', 'NUM', 'NOUN', 'ADJ', 'ADJ']",5,4
+"[., --, prière, résidence]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
+"[reine, voici, donc, après, longue, route]","['NOUN', 'VERB', 'ADV', 'ADP', 'ADJ', 'NOUN']",6,5
+"[avant, repartir, chemin]","['ADP', 'VERB', 'NOUN']",3,3
+"[seul, asile, ouvert, creux, main]","['ADJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",5,2
+"[jardin, secret, où, l', âme, s', ouvre, toute]","['ADJ', 'NOUN', 'PRON', 'DET', 'NOUN', 'PRON', 'VERB', 'DET']",8,5
+"[voici, lourd, pilier, montante, voûte]","['VERB', 'ADJ', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[l', oubli, hier, l', oubli, demain]","['DET', 'NOUN', 'ADV', 'DET', 'NOUN', 'ADV']",6,3
+"[l', inutilité, tout, calcul, humain]","['DET', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,3
+"[plus, péché, sagesse, déroute]","['ADV', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[voici, lieu, monde, où, tout, devient, facile]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB', 'ADJ']",7,4
+"[regret, départ, l', événement]","['NOUN', 'NOUN', 'DET', 'NOUN']",4,2
+"[l', adieu, temporaire, détournement]","['DET', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[seul, coin, terre, où, tout, devient, docile]","['ADJ', 'NOUN', 'ADJ', 'PRON', 'PRON', 'VERB', 'ADJ']",7,4
+"[vieux, coeur, faisait, rebelle]","['ADJ', 'NOUN', 'VERB', 'ADJ']",4,3
+"[cette, vieille, tête, raisonnements]","['DET', 'ADJ', 'NOUN', 'NOUN']",4,3
+"[deux, bras, raidis, casernements]","['NUM', 'NOUN', 'ADJ', 'NOUN']",4,3
+"[cette, jeune, enfant, faisait, trop, belle]","['DET', 'ADJ', 'NOUN', 'VERB', 'ADV', 'ADJ']",6,5
+"[voici, lieu, monde, où, tout, reconnu]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB']",6,3
+"[cette, vieille, tête, source, larmes]","['DET', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",5,3
+"[deux, bras, raidis, métier, armes]","['NUM', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",5,3
+"[seul, coin, terre, où, tout, contenu]","['ADJ', 'NOUN', 'ADJ', 'PRON', 'DET', 'NOUN']",6,4
+"[voici, lieu, monde, où, tout, revenu]","['VERB', 'NOUN', 'NOUN', 'PRON', 'DET', 'NOUN']",6,4
+"[après, tant, départs, après, tant, d', arrivées]","['ADP', 'ADV', 'NOUN', 'ADP', 'ADV', 'ADP', 'NOUN']",7,3
+"[voici, lieu, monde, où, tout, pauvre, nu]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'ADJ', 'ADJ']",7,4
+"[après, tant, hasards, après, tant, corvées]","['ADP', 'ADV', 'NOUN', 'ADP', 'ADV', 'NOUN']",6,3
+"[voici, lieu, monde, seule, retraite]","['VERB', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[l', unique, retour, recueillement]","['DET', 'ADJ', 'NOUN', 'VERB']",4,4
+"[feuille, fruit, défeuillement]","['NOUN', 'NOUN', 'AUX']",3,2
+"[rameaux, cueillis, cette, unique, fête]","['NOUN', 'VERB', 'DET', 'ADJ', 'NOUN']",5,4
+"[voici, lieu, monde, où, tout, rentre, tait]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB', 'VERB']",7,3
+"[silence, l', ombre, charnelle, absence]","['NOUN', 'DET', 'NOUN', 'ADJ', 'NOUN']",5,3
+"[commencement, d', éternelle, présence]","['ADV', 'ADP', 'ADJ', 'NOUN']",4,4
+"[seul, réduit, où, l', âme, tout, qu', elle]","['ADJ', 'NOUN', 'PRON', 'DET', 'NOUN', 'ADV', 'SCONJ', 'PRON']",8,6
+"[voici, lieu, monde, où, tentation]","['VERB', 'NOUN', 'NOUN', 'PRON', 'NOUN']",5,3
+"[retourne, elle-même, met, l', envers]","['VERB', 'PRON', 'VERB', 'DET', 'NOUN']",5,4
+"[car, tente, ici, c', est, soumission]","['CCONJ', 'VERB', 'ADV', 'PRON', 'AUX', 'VERB']",6,5
+"[c', est, l', aveuglement, l', immense, univers]","['PRON', 'AUX', 'DET', 'NOUN', 'DET', 'ADJ', 'NOUN']",7,5
+"[déposement, ici, tente]","['NOUN', 'ADV', 'VERB']",3,3
+"[vient, tout, seul, l', abdication]","['VERB', 'ADV', 'ADJ', 'DET', 'NOUN']",5,5
+"[vient, soi, -, même, présente]","['VERB', 'NOUN', 'PUNCT', 'ADV', 'ADJ']",5,5
+"[n', est, ici, grandesse, présentation]","['ADV', 'AUX', 'ADV', 'ADJ', 'NOUN']",5,4
+"[c', est, révolte, ici, devient, impossible]","['PRON', 'AUX', 'VERB', 'ADV', 'VERB', 'ADJ']",6,5
+"[présente, démission]","['VERB', 'NOUN']",2,2
+"[c', est, l', effacement, devient, invincible]","['PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'ADJ']",6,6
+"[tout, n', est, bonjour, salutation]","['ADV', 'ADV', 'AUX', 'VERB', 'NOUN']",5,4
+"[partout, ailleurs, accession]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, total, sourd, abrasement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, entassement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, bassesse, dépression]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, oppression]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, l', effet, d', un, noble, écrasement]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",9,6
+"[partout, ailleurs, empressement]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, qu', héritage, succession]","['ADV', 'VERB', 'ADV', 'SCONJ', 'NOUN', 'NOUN']",6,4
+"[partout, ailleurs, rude, guerre]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, paix, d', un, long, délaissement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, affaissement]","['ADV', 'ADV', 'NOUN']",3,2
+"[ici, loi, norme, vulgaire]","['ADV', 'NOUN', 'NOUN', 'ADJ']",4,3
+"[partout, ailleurs, âpre, bataille]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[cou, tendu, couteau, boucher]","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"[partout, ailleurs, greffe, taille]","['ADV', 'ADV', 'VERB', 'NOUN']",4,3
+"[n', est, ici, fleur, fruit, pêcher]","['ADV', 'AUX', 'ADV', 'NOUN', 'VERB', 'VERB']",6,4
+"[partout, ailleurs, rude, montée]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, descente, qu', aboutissement]","['ADV', 'AUX', 'ADV', 'VERB', 'SCONJ', 'NOUN']",6,5
+"[partout, ailleurs, mer, démontée]","['ADV', 'ADV', 'ADP', 'VERB']",4,3
+"[n', est, ici, bonace, qu', établissement]","['ADV', 'AUX', 'ADV', 'VERB', 'SCONJ', 'NOUN']",6,5
+"[partout, ailleurs, dure, loi]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, qu', un, beau, pli, sous, commandements]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN']",9,7
+"[liberté, amendements]","['NOUN', 'NOUN']",2,1
+"[fidélité, plus, tendre, foi]","['NOUN', 'ADV', 'ADJ', 'NOUN']",4,3
+"[partout, ailleurs, obsession]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, sous, lois, qu', une, place, rendue]","['ADV', 'AUX', 'ADV', 'ADP', 'NOUN', 'SCONJ', 'DET', 'NOUN', 'VERB']",9,7
+"[partout, ailleurs, âme, vendue]","['ADV', 'ADV', 'PRON', 'VERB']",4,3
+"[n', est, ici, prière, qu', intercession]","['ADV', 'AUX', 'ADV', 'NOUN', 'SCONJ', 'NOUN']",6,4
+"[partout, ailleurs, lassitude]","['ADV', 'ADV', 'ADJ']",3,2
+"[n', est, ici, clefs, humble, plateau]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, vicissitude]","['ADV', 'ADV', 'CCONJ']",3,2
+"[n', est, ici, qu', une, vigne, coteau]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'NOUN', 'NOUN']",7,4
+"[partout, ailleurs, longue, habitude]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[assise, coin, feu, poings, sous, menton]","['NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",6,2
+"[partout, ailleurs, solitude]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, vivace, ferme, rejeton]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, décrépitude]","['ADV', 'ADV', 'NOUN']",3,2
+"[assise, coin, feu, poings, genoux]","['NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADJ']",5,2
+"[n', est, ici, tendresse, sollicitude]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[deux, bras, maternels, tournent, vers]","['NUM', 'NOUN', 'ADJ', 'VERB', 'ADP']",5,5
+"[lavés, d', une, telle, amertume]","['VERB', 'ADP', 'DET', 'ADJ', 'NOUN']",5,5
+"[étoile, mer, récifs, salés]","['NOUN', 'ADP', 'NOUN', 'ADJ']",4,3
+"[lavés, d', une, si, basse, écume]","['VERB', 'ADP', 'DET', 'SCONJ', 'ADJ', 'NOUN']",6,6
+"[étoile, barque, souples, filets]","['NOUN', 'VERB', 'ADJ', 'NOUN']",4,3
+"[délavé, malheureuses, têtes]","['ADJ', 'ADJ', 'NOUN']",3,2
+"[d', un, tel, fatras, d', ordure, raisonnement]","['ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",7,4
+"[voici, désormais, reine, prophètes]","['VERB', 'ADV', 'NOUN', 'ADJ']",4,4
+"[plus, clairs, l', eau, puits, l', ancien, testament]","['ADV', 'ADJ', 'DET', 'NOUN', 'NOUN', 'DET', 'ADJ', 'NOUN']",8,4
+"[gouverné, si, modestes, arches]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[voile, seul, vaisseau, périra]","['ADJ', 'ADJ', 'NOUN', 'VERB']",4,3
+"[consulté, si, pauvres, compas]","['VERB', 'SCONJ', 'NOUN', 'ADJ']",4,4
+"[arche, seul, salut, reine, patriarches]","['NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADJ']",5,2
+"[consommé, si, lointains, voyages]","['NOUN', 'SCONJ', 'ADJ', 'NOUN']",4,3
+"[n', avons, plus, goût, pays, étranges]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN', 'ADJ']",6,4
+"[reine, confesseurs, vierges, anges]","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[voici, retournés, premiers, villages]","['VERB', 'VERB', 'ADJ', 'NOUN']",4,3
+"[tant, dit, reine, apôtres]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[n', avons, plus, goût, péroraison]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN']",5,3
+"[n', avons, plus, d', autels, ceux, vôtres]","['ADV', 'VERB', 'ADV', 'ADP', 'NOUN', 'PRON', 'ADJ']",7,6
+"[savons, plus, rien, qu', une, simple, oraison]","['VERB', 'ADV', 'PRON', 'SCONJ', 'DET', 'ADJ', 'NOUN']",7,7
+"[essuyé, si, vastes, naufrages]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[n', avons, plus, goût, transbordement]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADV']",5,3
+"[voici, revenus, déclin, âges]","['VERB', 'NOUN', 'AUX', 'ADJ']",4,4
+"[étoile, seul, nord, bâtiment]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[partout, ailleurs, dispersion]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, l', effet, d', un, beau, rassemblement]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",9,6
+"[partout, ailleurs, démembrement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, cortège, procession]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, demande, examen]","['ADV', 'ADV', 'VERB', 'NOUN']",4,3
+"[n', est, ici, l', effet, d', une, pauvre, jeunesse]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",9,5
+"[partout, ailleurs, demande, lendemain]","['ADV', 'ADV', 'VERB', 'ADJ']",4,3
+"[n', est, ici, l', effet, soudaine, faiblesse]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADJ', 'NOUN']",7,5
+"[partout, ailleurs, demande, parchemin]","['ADV', 'ADV', 'VERB', 'ADV']",4,2
+"[n', est, ici, l', effet, d', une, pauvre, tendresse]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",9,6
+"[partout, ailleurs, demande, tour, main]","['ADV', 'ADV', 'VERB', 'NOUN', 'NOUN']",5,3
+"[n', est, ici, l', effet, d', une, humble, maladresse]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",9,6
+"[partout, ailleurs, détraquement]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, justesse, déclinaison]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, baraquement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, qu', une, épaisse, durable, maison]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,5
+"[partout, ailleurs, guerre, paix]","['ADV', 'ADV', 'NOUN', 'ADJ']",4,3
+"[n', est, ici, défaite, reddition]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, sédition]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, beau, peuple, épis, épais]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'ADJ', 'NOUN', 'ADJ', 'ADJ']",9,6
+"[partout, ailleurs, immense, armée]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[trains, vivre, encombrements]","['NOUN', 'VERB', 'NOUN']",3,2
+"[trains, bagage, retardements]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[n', est, ici, décence, bonne, renommée]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, effondrement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, qu', une, lente, courbe, inclinaison]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'ADJ', 'NOUN', 'NOUN']",8,5
+"[partout, ailleurs, comparaison]","['ADV', 'ADV', 'VERB']",3,2
+"[ici, sans, pareil, sans, redoublement]","['ADV', 'ADP', 'ADJ', 'ADP', 'ADV']",5,3
+"[partout, ailleurs, accablement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, l', effet, pauvre, obéissance]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADJ', 'NOUN']",7,5
+"[partout, ailleurs, grand, parlement]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, l', effet, seule, audience]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'ADJ', 'NOUN']",7,5
+"[partout, ailleurs, encadrement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, candide, calme, reposoir]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'VERB']",8,6
+"[partout, ailleurs, ajournement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, l', oubli, matin, soir]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN', 'NOUN', 'NOUN']",7,4
+"[matins, partis, vers, temps, révolus]","['NOUN', 'VERB', 'ADP', 'NOUN', 'ADJ']",5,4
+"[soirs, partiront, vers, soir, éternel]","['NOUN', 'VERB', 'ADP', 'NOUN', 'ADJ']",5,4
+"[jours, entreront, jour, solennel]","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"[fils, deviendront, hommes, résolus]","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"[âges, rentreront, âge, absolu]","['NOUN', 'VERB', 'NOUN', 'ADJ']",4,3
+"[fils, retourneront, vers, seuil, paternel]","['NOUN', 'VERB', 'ADP', 'NOUN', 'ADJ']",5,4
+"[raviront, force, l', amour, fraternel]","['VERB', 'NOUN', 'DET', 'NOUN', 'ADJ']",5,4
+"[l', antique, héritage, bien, dévolu]","['DET', 'ADJ', 'NOUN', 'ADV', 'ADJ']",5,4
+"[voici, lieu, monde, où, tout, devient, enfant]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB', 'NOUN']",7,3
+"[surtout, vieil, homme, barbe, grise]","['ADV', 'ADJ', 'NOUN', 'ADV', 'ADJ']",5,3
+"[cheveux, mêlés, souffle, brise]","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"[regard, modeste, jadis, triomphant]","['NOUN', 'ADJ', 'ADV', 'ADJ']",4,3
+"[voici, lieu, monde, où, tout, devient, novice]","['VERB', 'NOUN', 'NOUN', 'PRON', 'PRON', 'VERB', 'ADV']",7,4
+"[cette, vieille, tête, lanternements]","['DET', 'ADJ', 'NOUN', 'ADJ']",4,3
+"[deux, bras, raidis, gouvernements]","['NUM', 'NOUN', 'ADJ', 'ADJ']",4,3
+"[seul, coin, terre, où, tout, devient, complice]","['ADJ', 'NOUN', 'ADJ', 'PRON', 'PRON', 'VERB', 'NOUN']",7,4
+"[grand, sot, faisait, malin]","['ADJ', 'VERB', 'VERB', 'ADJ']",4,2
+"[c', est, serviteur, première, servante]","['PRON', 'AUX', 'NOUN', 'ADJ', 'NOUN']",5,4
+"[tournait, rond, orbe, savante]","['VERB', 'ADJ', 'ADJ', 'ADJ']",4,2
+"[portait, l', eau, bief, moulin]","['VERB', 'DET', 'NOUN', 'ADJ', 'ADJ']",5,4
+"[partout, ailleurs, arrachement]","['ADV', 'ADV', 'ADJ']",3,2
+"[n', est, ici, fleur, jeune, saison]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, retranchement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, qu', un, soleil, ras, l', horizon]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN']",9,6
+"[partout, ailleurs, dur, labourage]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, récolte, dessaisissement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADV']",5,3
+"[partout, ailleurs, déclin, d', un, âge]","['ADV', 'ADV', 'ADJ', 'ADP', 'DET', 'NOUN']",6,5
+"[n', est, ici, qu', un, candide, cher, vieillissement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, résistance]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, suite, d', accompagnement]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADP', 'NOUN']",6,4
+"[partout, ailleurs, prosternement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, qu', une, douce, longue, obéissance]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,5
+"[partout, ailleurs, règle, contrainte]","['ADV', 'ADV', 'VERB', 'ADJ']",4,3
+"[n', est, ici, déclenche, qu', abandonnement]","['ADV', 'AUX', 'ADV', 'VERB', 'SCONJ', 'NOUN']",6,5
+"[partout, ailleurs, dure, astreinte]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, faiblesse, soulèvement]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, règle, conduite]","['ADV', 'ADV', 'VERB', 'VERB']",4,2
+"[n', est, ici, bonheur, renforcement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ']",5,4
+"[partout, ailleurs, épargne, produite]","['ADV', 'ADV', 'ADJ', 'VERB']",4,3
+"[n', est, ici, qu', un, honneur, qu', un, grave, serment]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'SCONJ', 'DET', 'ADJ', 'NOUN']",10,6
+"[partout, ailleurs, courbature]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, fleur, jeune, oraison]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, lourde, armature]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, laine, blanche, toison]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, tour, force]","['ADV', 'ADV', 'NOUN', 'NOUN']",4,2
+"[n', est, ici, simplesse, délassement]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN']",5,3
+"[partout, ailleurs, rugueuse, écorce]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, sève, pleurs, sarment]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN', 'VERB']",6,4
+"[partout, ailleurs, longue, usure]","['ADV', 'ADV', 'ADJ', 'NOUN']",4,3
+"[n', est, ici, renfort, recroissement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADV']",5,3
+"[partout, ailleurs, bouleversement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, jour, bonne, aventure]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, tient, réserve]","['ADV', 'ADV', 'VERB', 'VERB']",4,2
+"[n', est, ici, qu', abondance, dépassement]","['ADV', 'AUX', 'ADV', 'SCONJ', 'NOUN', 'ADJ']",6,5
+"[partout, ailleurs, gagne, conserve]","['ADV', 'ADV', 'VERB', 'VERB']",4,2
+"[n', est, ici, dépense, désistement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADV']",5,3
+"[partout, ailleurs, tient, défense]","['ADV', 'ADV', 'VERB', 'NOUN']",4,3
+"[n', est, ici, liesse, démantèlement]","['ADV', 'AUX', 'ADV', 'DET', 'NOUN']",5,4
+"[l', oubli, l', injure, l', oubli, l', offense]","['DET', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN']",8,2
+"[n', est, ici, paresse, bannissement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ']",5,4
+"[partout, ailleurs, liaison]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, fidèle, noble, attachement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'ADJ', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, encerclement]","['ADV', 'ADV', 'ADV']",3,1
+"[n', est, ici, qu', un, passant, dedans, maison]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADP', 'NOUN']",8,6
+"[partout, ailleurs, obédience]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, qu', une, gerbe, temps, fauchaison]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'NOUN', 'NOUN', 'ADJ']",8,5
+"[partout, ailleurs, fait, surveillance]","['ADV', 'ADV', 'VERB', 'NOUN']",4,3
+"[n', est, ici, qu', un, beau, coin, temps, fenaison]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",9,5
+"[partout, ailleurs, forcerie]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, plante, jardin]","['ADV', 'AUX', 'ADV', 'NOUN', 'VERB']",5,4
+"[partout, ailleurs, gagerie]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, seuil, gradin]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ']",5,4
+"[partout, ailleurs, rétorsion]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, détente, désarmement]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADV']",5,3
+"[partout, ailleurs, contraction]","['ADV', 'ADV', 'ADJ']",3,2
+"[n', est, ici, qu', un, muet, calme, engagement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, bien, périssable]","['ADV', 'ADV', 'ADV', 'ADJ']",4,2
+"[n', est, ici, qu', un, tranquille, bref, dégagement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADV', 'NOUN']",8,5
+"[partout, ailleurs, rengorgement]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, qu', une, rose, sable]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'NOUN', 'ADJ']",7,5
+"[partout, ailleurs, efforcement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, fleur, jeune, raison]","['ADV', 'AUX', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[partout, ailleurs, redressement]","['ADV', 'ADV', 'VERB']",3,2
+"[n', est, ici, pente, pli, gazon]","['ADV', 'AUX', 'ADV', 'NOUN', 'NOUN', 'NOUN']",6,3
+"[partout, ailleurs, écorcherie]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, modeste, beau, dévêtement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'ADJ', 'ADJ', 'ADJ']",8,5
+"[partout, ailleurs, affouillerie]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', un, durable, sûr, dépouillement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADJ', 'ADV']",8,6
+"[partout, ailleurs, raidissement]","['ADV', 'ADV', 'NOUN']",3,2
+"[n', est, ici, qu', une, souple, candide, fontaine]","['ADV', 'AUX', 'ADV', 'ADV', 'DET', 'ADJ', 'NOUN', 'NOUN']",8,5
+"[partout, ailleurs, illustre, peine]","['ADV', 'ADV', 'VERB', 'NOUN']",4,3
+"[n', est, ici, qu', un, profond, pur, jaillissement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'ADJ', 'ADJ', 'NOUN']",8,6
+"[partout, ailleurs, querelle, prend]","['ADV', 'ADV', 'NOUN', 'VERB']",4,3
+"[n', est, ici, qu', un, beau, fleuve, confins, source]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",9,6
+"[reine, c', est, ici, tout, âme, rend]","['NOUN', 'PRON', 'AUX', 'ADV', 'ADV', 'PRON', 'VERB']",7,5
+"[comme, jeune, guerrier, retombé, course]","['ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN']",5,4
+"[partout, ailleurs, route, gravie]","['ADV', 'ADV', 'NOUN', 'ADJ']",4,3
+"[reine, régnez, illustre, cour]","['NOUN', 'VERB', 'VERB', 'NOUN']",4,2
+"[étoile, matin, reine, dernier, jour]","['NOUN', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",5,2
+"[partout, ailleurs, table, servie]","['ADV', 'ADV', 'NOUN', 'VERB']",4,3
+"[partout, ailleurs, route, suivie]","['ADV', 'ADV', 'NOUN', 'VERB']",4,3
+"[n', est, ici, qu', un, paisible, fort, détachement]","['ADV', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADV', 'NOUN']",8,5
+"[calme, temple, loin, d', un, plat, tourment]","['ADJ', 'NOUN', 'ADV', 'ADP', 'DET', 'NOUN', 'ADJ']",7,5
+"[l', attente, d', une, mort, plus, vivante, vie]","['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADV', 'ADJ', 'NOUN']",8,5
+"[., --, prière, demande]","['PUNCT', 'PUNCT', 'NOUN', 'VERB']",4,3
+"[demandons, grain, sous, meule]","['VERB', 'ADJ', 'ADP', 'NOUN']",4,4
+"[jamais, replacé, coeur, l', épi]","['ADV', 'VERB', 'NOUN', 'DET', 'NOUN']",5,4
+"[demandons, l', âme, errante, seule]","['VERB', 'DET', 'NOUN', 'ADJ', 'ADJ']",5,4
+"[jamais, reposée, jardin, fleuri]","['ADV', 'VERB', 'ADV', 'ADJ']",4,3
+"[demandons, grappe, écrasée]","['VERB', 'ADV', 'VERB']",3,2
+"[jamais, replacée, fronton, treille]","['ADV', 'VERB', 'NOUN', 'ADJ']",4,4
+"[lourd, frelon, jeune, abeille]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[reviennent, jamais, gorger, rosée]","['VERB', 'ADV', 'VERB', 'NOUN']",4,3
+"[demandons, rose, vermeille]","['VERB', 'ADJ', 'ADJ']",3,2
+"[jamais, replacée, cerceaux, rosier]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[paneton, lourde, corbeille]","['ADJ', 'ADJ', 'NOUN']",3,2
+"[retourne, vers, fleuve, redevienne, osier]","['VERB', 'ADP', 'NOUN', 'VERB', 'NOUN']",5,3
+"[demandons, cette, page, écrite]","['VERB', 'DET', 'NOUN', 'VERB']",4,3
+"[jamais, effacée, livre, mémoire]","['ADV', 'VERB', 'VERB', 'NOUN']",4,3
+"[lourd, soupçon, jeune, histoire]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[vienne, remémorer, cette, peine, prescrite]","['VERB', 'VERB', 'DET', 'NOUN', 'VERB']",5,3
+"[demandons, tige, ployée]","['VERB', 'NOUN', 'NOUN']",3,2
+"[jamais, redressée, livre, nature]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[lourd, bourgeon, jeune, nervure]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[perce, jamais, l', écorce, redéployée]","['VERB', 'ADV', 'DET', 'NOUN', 'VERB']",5,4
+"[demandons, rameau, broyé]","['VERB', 'NOUN', 'VERB']",3,2
+"[reverdisse, jamais, livre, grâce]","['NOUN', 'ADV', 'VERB', 'NOUN']",4,3
+"[lourd, surgeon, jeune, race]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[rejaillisse, jamais, l', arbre, foudroyé]","['VERB', 'ADV', 'DET', 'NOUN', 'VERB']",5,4
+"[demandons, branche, effeuillée]","['VERB', 'NOUN', 'VERB']",3,2
+"[tourne, jamais, plus, vers, jeune, printemps]","['VERB', 'ADV', 'ADV', 'ADP', 'ADJ', 'NOUN']",6,5
+"[lourde, sève, jeune, temps]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[sauve, cime, moins, forêt, noyée]","['ADJ', 'NOUN', 'ADV', 'NOUN', 'VERB']",5,4
+"[demandons, pli, nappe]","['VERB', 'NOUN', 'ADJ']",3,3
+"[effacé, devant, revienne, maître]","['VERB', 'ADP', 'VERB', 'NOUN']",4,3
+"[servante, qu', un, malheureux, être]","['ADJ', 'SCONJ', 'DET', 'NOUN', 'AUX']",5,5
+"[libérés, jamais, cette, lourde, chape]","['VERB', 'ADV', 'DET', 'ADJ', 'NOUN']",5,5
+"[demandons, cette, auguste, table]","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
+"[jamais, resservie, moins, dieu]","['ADV', 'VERB', 'ADV', 'PROPN']",4,3
+"[n', espérons, grand, connétable]","['ADV', 'VERB', 'ADJ', 'NOUN']",4,4
+"[chauffe, deux, fois, mains, vers, si, maigre, feu]","['VERB', 'NUM', 'NOUN', 'NOUN', 'ADP', 'SCONJ', 'NOUN', 'NOUN']",8,5
+"[demandons, qu', une, âme, fourvoyée]","['VERB', 'SCONJ', 'DET', 'NOUN', 'VERB']",5,4
+"[jamais, replacée, chemin, bonheur]","['ADV', 'VERB', 'NOUN', 'ADJ']",4,4
+"[reine, suffit, d', avoir, gardé, l', honneur]","['NOUN', 'VERB', 'ADP', 'AUX', 'VERB', 'DET', 'NOUN']",7,5
+"[voulons, qu', une, aide, apitoyée]","['VERB', 'ADV', 'DET', 'NOUN', 'NOUN']",5,4
+"[remette, jamais, chemin, plaisance]","['VERB', 'ADV', 'NOUN', 'NOUN']",4,3
+"[voulons, qu', une, amour, soudoyée]","['VERB', 'SCONJ', 'DET', 'NOUN', 'NOUN']",5,4
+"[remette, jamais, chemin, d', allégeance]","['VERB', 'ADV', 'NOUN', 'ADP', 'NOUN']",5,4
+"[seul, gouvernement, d', une, âme, guerroyée]","['ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",6,4
+"[régente, mer, l', illustre, port]","['ADJ', 'NOUN', 'DET', 'ADJ', 'NOUN']",5,3
+"[demandons, rien, amendements]","['VERB', 'PRON', 'NOUN']",3,3
+"[reine, garder, sous, commandements]","['NOUN', 'VERB', 'ADP', 'NOUN']",4,3
+"[fidélité, plus, forte, mort]","['NOUN', 'ADV', 'ADJ', 'NOUN']",4,3
+"[., --, prière, confidence]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
+"[demandons, cette, belle, nappe]","['VERB', 'DET', 'ADJ', 'NOUN']",4,4
+"[jamais, repliée, rayons, l', armoire]","['ADV', 'VERB', 'NOUN', 'DET', 'NOUN']",5,4
+"[demandons, qu', un, pli, mémoire]","['VERB', 'SCONJ', 'DET', 'NOUN', 'ADJ']",5,5
+"[jamais, effacé, cette, lourde, chape]","['ADV', 'VERB', 'DET', 'ADJ', 'NOUN']",5,5
+"[maîtresse, voie, raccordement]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[miroir, justice, justesse, d', âme]","['NOUN', 'NOUN', 'ADJ', 'ADP', 'NOUN']",5,3
+"[seule, savez, grande, dame]","['ADJ', 'VERB', 'ADJ', 'NOUN']",4,3
+"[c', est, halte, recueillement]","['PRON', 'AUX', 'NOUN', 'VERB']",4,4
+"[maîtresse, race, recroisement]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[temple, sagesse, jurisprudence]","['NOUN', 'NOUN', 'NOUN']",3,1
+"[seule, connaissez, sévère, prudence]","['ADJ', 'VERB', 'ADJ', 'NOUN']",4,3
+"[c', est, juge, balancement]","['PRON', 'AUX', 'NOUN', 'NOUN']",4,3
+"[quand, fallut, s', asseoir, croix, deux, routes]","['SCONJ', 'VERB', 'PRON', 'VERB', 'NOUN', 'NUM', 'NOUN']",7,5
+"[choisir, regret, d', avecque, remords]","['VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",5,4
+"[quand, fallut, s', asseoir, coin, doubles, sorts]","['SCONJ', 'VERB', 'PRON', 'VERB', 'NOUN', 'ADJ', 'NOUN']",7,5
+"[fixer, regard, clef, deux, voûtes]","['VERB', 'NOUN', 'NOUN', 'NUM', 'NOUN']",5,3
+"[seule, savez, maîtresse, secret]","['ADJ', 'VERB', 'NOUN', 'NOUN']",4,3
+"[l', un, deux, chemins, allait, contre-bas]","['DET', 'PRON', 'NUM', 'NOUN', 'VERB', 'NOUN']",6,5
+"[connaissez, celui, choisirent]","['VERB', 'PRON', 'VERB']",3,2
+"[comme, choisit, cèdre, bois, d', un, coffret]","['ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN']",7,4
+"[non, point, vertu, car, n', en, guère]","['ADV', 'NOUN', 'NOUN', 'CCONJ', 'ADV', 'ADP', 'ADV']",7,4
+"[non, point, devoir, car, l', aimons]","['ADV', 'NOUN', 'VERB', 'CCONJ', 'DET', 'VERB']",6,5
+"[comme, charpentier, s', arme, compas]","['ADP', 'NOUN', 'PRON', 'NOUN', 'ADJ']",5,4
+"[besoin, mettre, centre, misère]","['NOUN', 'VERB', 'NOUN', 'NOUN']",4,2
+"[bien, placer, l', axe, détresse]","['ADV', 'VERB', 'DET', 'NOUN', 'ADJ']",5,5
+"[besoin, sourd, d', être, plus, malheureux]","['NOUN', 'ADJ', 'ADP', 'AUX', 'ADV', 'ADJ']",6,5
+"[d', aller, plus, dur, souffrir, plus, creux]","['ADP', 'VERB', 'ADV', 'ADJ', 'VERB', 'ADV', 'ADJ']",7,4
+"[prendre, mal, pleine, justesse]","['VERB', 'ADV', 'ADJ', 'NOUN']",4,4
+"[vieux, tour, main, cette, adresse]","['ADJ', 'NOUN', 'NOUN', 'DET', 'NOUN']",5,3
+"[servira, plus, courir, bonheur]","['VERB', 'ADV', 'VERB', 'NOUN']",4,3
+"[puissions, -nous, régente, moins, tenir, l', honneur]","['VERB', 'PRON', 'ADJ', 'ADV', 'VERB', 'DET', 'NOUN']",7,6
+"[garder, seul, pauvre, tendresse]","['VERB', 'ADJ', 'ADJ', 'NOUN']",4,3
+"[., --, prière, report]","['PUNCT', 'PUNCT', 'NOUN', 'NOUN']",4,2
+"[gouverné, si, vastes, royaumes]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[régente, rois, gouvernements]","['ADJ', 'NOUN', 'NOUN']",3,2
+"[tant, couché, paille, chaumes]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[régente, grands, gueux, soulèvements]","['ADJ', 'ADJ', 'ADJ', 'ADJ']",4,1
+"[n', avons, plus, goût, grands, majordomes]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[régente, pouvoir, renversements]","['ADJ', 'VERB', 'ADJ']",3,2
+"[n', avons, plus, goût, chambardements]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN']",5,3
+"[régente, frontons, palais, dômes]","['ADJ', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[combattu, si, ferventes, guerres]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[devant, seigneur, dieu, armées]","['ADP', 'NOUN', 'PROPN', 'NOUN']",4,3
+"[parcouru, si, mouvantes, terres]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[acquis, si, hautes, renommées]","['VERB', 'SCONJ', 'ADJ', 'VERB']",4,3
+"[n', avons, plus, goût, métier, armes]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN', 'NOUN']",6,3
+"[reine, grandes, paix, désarmements]","['NOUN', 'ADJ', 'NOUN', 'VERB']",4,3
+"[n', avons, plus, goût, métier, larmes]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN', 'NOUN']",6,3
+"[reine, sept, douleurs, sept, sacrements]","['NOUN', 'NUM', 'NOUN', 'NUM', 'NOUN']",5,2
+"[gouverné, si, vastes, provinces]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[régente, préfets, procurateurs]","['ADJ', 'NOUN', 'ADJ']",3,2
+"[lanterné, tous, tant, d', augustes, princes]","['NOUN', 'ADJ', 'NOUN', 'DET', 'ADJ', 'NOUN']",6,3
+"[reine, tableaux, peints, deux, donateurs]","['NOUN', 'ADJ', 'ADJ', 'NUM', 'NOUN']",5,3
+"[n', avons, plus, goût, départements]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ']",5,4
+"[ni, préfecture, capitale]","['CCONJ', 'NOUN', 'ADJ']",3,3
+"[n', avons, plus, goût, embarquements]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN']",5,3
+"[respirons, plus, vers, terre, natale]","['VERB', 'ADV', 'ADP', 'NOUN', 'ADJ']",5,5
+"[encouru, si, hautes, fortunes]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[clef, seul, honneur, périra, point]","['NOUN', 'ADJ', 'NOUN', 'VERB', 'NOUN']",5,3
+"[dépouillé, si, basses, rancunes]","['VERB', 'SCONJ', 'ADJ', 'NOUN']",4,4
+"[reine, témoignage, double, témoin]","['NOUN', 'NOUN', 'ADJ', 'NOUN']",4,2
+"[n', avons, plus, goût, forfanteries]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ']",5,4
+"[maîtresse, sagesse, silence, d', ombre]","['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",5,2
+"[n', avons, plus, goût, argenteries]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ']",5,4
+"[clef, seul, trésor, d', un, bonheur, sans, nombre]","['NOUN', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",8,4
+"[tant, vu, dame, pauvreté]","['ADV', 'VERB', 'NOUN', 'ADJ']",4,4
+"[n', avons, plus, goût, nouveaux, regards]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[tant, fait, temple, pureté]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[n', avons, plus, goût, nouveaux, hasards]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ', 'NOUN']",6,4
+"[tant, péché, refuge, pécheur]","['ADV', 'NOUN', 'ADJ', 'ADJ']",4,3
+"[n', avons, plus, goût, atermoiements]","['ADV', 'VERB', 'ADV', 'NOUN', 'ADJ']",5,4
+"[tant, cherché, miracle, candeur]","['ADV', 'VERB', 'NOUN', 'NOUN']",4,3
+"[n', avons, plus, goût, enseignements]","['ADV', 'VERB', 'ADV', 'NOUN', 'NOUN']",5,3
+"[tant, appris, maisons, d', école]","['ADV', 'VERB', 'NOUN', 'ADP', 'NOUN']",5,4
+"[savons, plus, rien, commandements]","['VERB', 'ADV', 'PRON', 'NOUN']",4,4
+"[tant, failli, l', acte, parole]","['ADV', 'VERB', 'DET', 'NOUN', 'NOUN']",5,4
+"[savons, plus, rien, amendements]","['VERB', 'ADV', 'PRON', 'NOUN']",4,4
+"[soldats, grognaient, monde]","['NOUN', 'VERB', 'NOUN']",3,2
+"[marchaient, toujours, n', ont, jamais, plié]","['VERB', 'ADV', 'ADV', 'AUX', 'ADV', 'VERB']",6,3
+"[cette, église, faisceau, lié]","['DET', 'NOUN', 'NOUN', 'VERB']",4,3
+"[cette, race, internelle, profonde]","['DET', 'NOUN', 'ADJ', 'ADJ']",4,3
+"[demandons, plus, biens, périssables]","['VERB', 'ADV', 'NOUN', 'ADJ']",4,4
+"[demandons, plus, grâces, bonheur]","['VERB', 'ADV', 'NOUN', 'NOUN']",4,3
+"[demandons, plus, grâces, d', honneur]","['VERB', 'ADV', 'NOUN', 'ADP', 'NOUN']",5,4
+"[bâtirons, plus, maisons, sables]","['NOUN', 'ADV', 'NOUN', 'ADJ']",4,3
+"[savons, plus, rien, qu', on, lu]","['VERB', 'ADV', 'PRON', 'SCONJ', 'PRON', 'PROPN']",6,5
+"[savons, plus, rien, qu', on, dit]","['VERB', 'ADV', 'PRON', 'SCONJ', 'PRON', 'VERB']",6,4
+"[connaissons, plus, qu', un, éternel, édit]","['VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'NOUN']",6,5
+"[noua, savons, plus, rien, ordre, absolu]","['VERB', 'VERB', 'ADV', 'PRON', 'NOUN', 'ADJ']",6,5
+"[trop, pris, résolus]","['ADV', 'VERB', 'VERB']",3,2
+"[voulons, plus, rien, obéissance]","['VERB', 'ADV', 'PRON', 'NOUN']",4,4
+"[rester, sous, coups, d', une, auguste, puissance]","['VERB', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",7,5
+"[miroir, temps, futurs, temps, révolus]","['NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADJ']",5,2
+"[s', il, permis, pourtant, celui, rien]","['SCONJ', 'PRON', 'VERB', 'ADV', 'PRON', 'PRON']",6,4
+"[puisse, jour, disposer, léguer, quelque, chose]","['VERB', 'NOUN', 'VERB', 'VERB', 'DET', 'NOUN']",6,3
+"[s', il, n', est, défendu, mystérieuse, rose]","['SCONJ', 'PRON', 'ADV', 'AUX', 'VERB', 'ADJ', 'ADJ']",7,6
+"[celui, reporte, jour, bien]","['PRON', 'VERB', 'NOUN', 'ADV']",4,4
+"[s', il, permis, gueux, faire, testament]","['SCONJ', 'PRON', 'VERB', 'ADJ', 'VERB', 'NOUN']",6,5
+"[léguer, l', asile, paille, chaume]","['VERB', 'DET', 'NOUN', 'NOUN', 'ADJ']",5,4
+"[s', il, permis, roi, léguer, royaume]","['SCONJ', 'PRON', 'VERB', 'NOUN', 'VERB', 'ADJ']",6,5
+"[si, grand, dauphin, prête, nouveau, serment]","['SCONJ', 'ADJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",6,3
+"[s', il, admis, pourtant, celui, doit, tout]","['SCONJ', 'PRON', 'VERB', 'ADV', 'PRON', 'VERB', 'ADV']",7,4
+"[fasse, ouvrir, compte, porter, crédit]","['AUX', 'VERB', 'NOUN', 'VERB', 'NOUN']",5,3
+"[si, virement, tourne, n', est, interdit]","['SCONJ', 'NOUN', 'VERB', 'ADV', 'AUX', 'VERB']",6,5
+"[demandons, rien, irons, jusqu', au, bout]","['VERB', 'PRON', 'VERB', 'ADP', 'ADP', 'NOUN']",6,4
+"[si, donc, admis, qu', un, humble, débiteur]","['ADV', 'ADV', 'VERB', 'SCONJ', 'DET', 'ADJ', 'NOUN']",7,6
+"[puisse, élever, voix, n', est, dû]","['VERB', 'VERB', 'NOUN', 'ADV', 'AUX', 'VERB']",6,4
+"[s', il, peut, toucher, prix, quand, vendu]","['SCONJ', 'PRON', 'VERB', 'VERB', 'NOUN', 'SCONJ', 'VERB']",7,4
+"[faire, balancer, solde, créditeur]","['AUX', 'VERB', 'ADJ', 'NOUN']",4,4
+"[n', avons, connu, grâces, guerre]","['ADV', 'AUX', 'VERB', 'NOUN', 'NOUN']",5,4
+"[grâces, deuil, grâces, peine]","['NOUN', 'NOUN', 'NOUN', 'NOUN']",4,1
+"[grâces, joie, cette, lourde, plaine]","['NOUN', 'VERB', 'DET', 'ADJ', 'NOUN']",5,4
+"[cheminement, grâces, misère]","['NOUN', 'NOUN', 'NOUN']",3,1
+"[procession, grâces, détresse]","['NOUN', 'ADJ', 'NOUN']",3,2
+"[champs, labourés, sentiers, battus]","['NOUN', 'VERB', 'NOUN', 'VERB']",4,2
+"[coeurs, lacérés, reins, courbatus]","['NOUN', 'ADJ', 'NOUN', 'ADJ']",4,2
+"[demandons, rien, vigilante, maîtresse]","['VERB', 'PRON', 'ADJ', 'NOUN']",4,4
+"[n', avons, connu, adversité]","['ADV', 'AUX', 'VERB', 'NOUN']",4,4
+"[qu', elle, bénie, temple, sagesse]","['SCONJ', 'PRON', 'NOUN', 'NOUN', 'NOUN']",5,3
+"[veuillez, reporter, merveille, largesse]","['VERB', 'VERB', 'NOUN', 'ADJ']",4,3
+"[grâces, bonheur, prospérité]","['NOUN', 'NOUN', 'ADJ']",3,2
+"[veuillez, reposer, quatre, jeunes, têtes]","['VERB', 'VERB', 'NUM', 'ADJ', 'NOUN']",5,4
+"[grâces, douceur, consentement]","['NOUN', 'ADJ', 'NOUN']",3,2
+"[tresser, fronts, reine, pur, froment]","['VERB', 'NOUN', 'NOUN', 'ADJ', 'ADV']",5,4
+"[quelques, épis, cueillis, moisson, fêtes]","['DET', 'NOUN', 'VERB', 'NOUN', 'NOUN']",5,3
