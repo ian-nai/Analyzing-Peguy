@@ -1,11 +1,11 @@
 
 tapisserie
-dame_
-_cahier dimanche pentecôte
+dame
+cahier dimanche pentecôte
 mois mai
-quatorzième série_
+quatorzième série
 fidèle lotte
-_bulletin professeurs catholiques l'université_
+bulletin professeurs catholiques l'université
 présentation paris dame
 étoile mer voici lourde nef
 où ramons tout nuds sous commandements
@@ -413,7 +413,7 @@ retournerons chemin
 nouveau terre sans cachette
 château sans coin sans oubliette
 sol mieux gravé qu'un parfait parchemin
-_et nunc in hora_ prions
+et nunc in hora prions
 plus grands sots pauvre gamin
 sans doute moins purs moins main
 moins acheminés vers sacrés genoux
@@ -437,8 +437,8 @@ demandons rien refuge pécheur
 dernière place purgatoire
 pleurer longuement tragique histoire
 contempler loin jeune splendeur
-_les quatre prières cathédrale chartres_
-1. -- prière résidence
+les quatre prières cathédrale chartres
+. -- prière résidence
 reine voici donc après longue route
 avant repartir chemin
 seul asile ouvert creux main
@@ -687,7 +687,7 @@ partout ailleurs route suivie
 n'est ici qu'un paisible fort détachement
 calme temple loin d'un plat tourment
 l'attente d'une mort plus vivante vie
-2. -- prière demande
+. -- prière demande
 demandons grain sous meule
 jamais replacé coeur l'épi
 demandons l'âme errante seule
@@ -736,7 +736,7 @@ régente mer l'illustre port
 demandons rien amendements
 reine garder sous commandements
 fidélité plus forte mort
-3. -- prière confidence
+. -- prière confidence
 demandons cette belle nappe
 jamais repliée rayons l'armoire
 demandons qu'un pli mémoire
@@ -769,7 +769,7 @@ vieux tour main cette adresse
 servira plus courir bonheur
 puissions-nous régente moins tenir l'honneur
 garder seul pauvre tendresse
-4. -- prière report
+. -- prière report
 gouverné si vastes royaumes
 régente rois gouvernements
 tant couché paille chaumes
