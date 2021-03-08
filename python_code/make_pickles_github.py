@@ -13,16 +13,13 @@ nlp = spacy.load("fr_dep_news_trf")
 
 
 for f in files:
-    # Open our file
     with open(f) as file:
         text_data = file.read()
 
 
-    # Specify the information we want
     doc = nlp(text_data)
 
 
-    #doc_data = pickle.dumps(doc)
     fname1 = ("nlp_" + (files[index_num]) + ".pkl")
     fname2 = ("nlp_" + (files[index_num]) + ".gz")
 
