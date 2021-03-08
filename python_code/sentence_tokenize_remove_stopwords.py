@@ -58,10 +58,6 @@ for f in input_files:
                 if len(y) <= 1:
                     x.remove(y)
 
-        # Remove numbers
-
-
-
         # Remove stopwords
                 if y not in default_stopwords:
                     if  y.isnumeric():
@@ -79,16 +75,12 @@ for f in input_files:
         str_words = " ".join(final_words)
         new_lines.append(str_words)
 
-        #new_lines.append(str(final_words))
-
-
         for line in new_lines:
             if not line:
                 new_lines.remove(line)
 
         print(new_lines)
 
-    # Save our new file as 'cleaned_text.txt'
     with open(('sentences_' + input_files[index_num]), 'w') as f:
                 f.write('\n\n'.join(new_lines))
 
