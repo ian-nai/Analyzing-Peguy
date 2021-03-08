@@ -19,20 +19,18 @@ perm_pos = []
 
 index_num = 0
 
-nlp = stanza.Pipeline('fr') # initialize English neural pipeline
+nlp = stanza.Pipeline('fr') 
 
 for f in files:
     # Open our file
     with open(f) as file:
         text_data = file.read()
-
-    #testing_list = text_data.splitlines()
         testing_list = LineTokenizer(blanklines='discard').tokenize(text_data)
 
     final_pos = []
 
     sent_word = []
-    #num_list = []
+
 
     for x in testing_list:
         print(x)
@@ -50,8 +48,7 @@ for f in files:
 
 
 
-        pos_nums = Counter(pos_list).values() # counts the elements' frequency
-
+        pos_nums = Counter(pos_list).values() 
         total_num = str(len(pos_nums))
         list_nums.append(total_num)
 
