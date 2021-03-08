@@ -25,7 +25,6 @@ text_bits = []
 perm_pos = []
 
 for f in files:
-    # Open our file
     with open(f) as file:
         text_data = file.read()
 
@@ -42,8 +41,8 @@ for f in files:
             actual_pos.append(d.pos_)
 
 
-        pos_keys = Counter(actual_pos).keys() # equals to list(set(words))
-        pos_nums = Counter(pos_elements).values() # counts the elements' frequency
+        pos_keys = Counter(actual_pos).keys() 
+        pos_nums = Counter(pos_elements).values() 
 
 
         list_keys.append(pos_elements)
@@ -66,7 +65,6 @@ for f in files:
     print(len(list_nums))
     print(len(list_nums_unique))
 
-# Output our tagged data into a CSV
     with open('pos_spacy' + files[index_num] + '.csv', 'w') as csvfile:
         fieldnames = ['text', 'pos', 'total', 'pos_unique']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
