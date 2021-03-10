@@ -1,5 +1,4 @@
 text,pos,total,pos_unique
-[],[],0,0
 "[la, tapisserie]","['DET', 'NOUN']",2,2
 "[sainte, geneviève]","['ADJ', 'PROPN']",2,2
 "[jeanne, d', arc]","['PROPN', 'ADP', 'PROPN']",3,2

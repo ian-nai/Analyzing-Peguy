@@ -1,5 +1,4 @@
 text,pos,total,pos_unique
-[],[],0,0
 "[porche, mystère]","['NOUN', 'NOUN']",2,1
 "[deuxième, vertu]","['ADJ', 'NOUN']",2,2
 "[madame, gervaise, rentre]","['NOUN', 'ADJ', 'VERB']",3,3

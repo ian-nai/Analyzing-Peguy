@@ -1,5 +1,4 @@
 text,pos,total,pos_unique
-[],[],0,0
 "[mystère, charite]","['NOUN', 'NOUN']",2,1
 "[jeanne, arc]","['PROPN', 'PROPN']",2,1
 "[jeannette, continue, filer, puis, lève, tourne, vers, église, dit, signe, croix, sans, taire]","['PROPN', 'VERB', 'VERB', 'CCONJ', 'VERB', 'VERB', 'ADP', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP', 'VERB']",13,5
