@@ -1,5 +1,4 @@
 text,pos,total,pos_unique
-[],[],0,0
 [tapisserie],['NOUN'],1,1
 [dame],['NOUN'],1,1
 "[cahier, dimanche, pentecôte]","['NOUN', 'NOUN', 'PROPN']",3,2
