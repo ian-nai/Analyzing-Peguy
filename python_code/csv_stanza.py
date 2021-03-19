@@ -48,7 +48,7 @@ for f in files:
             pos_list = []
             for word in sent.words:
                 print(word.text, word.upos)
-                if word.text != '.' and word.text != ',':
+                if word.text != '.' and word.text != ',' and word.text != '...':
                     word_list.append(word.text)
                 if word.upos != 'PUNCT':
                     pos_list.append(word.upos)
