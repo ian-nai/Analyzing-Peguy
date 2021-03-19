@@ -17,19 +17,25 @@ list_nums_unique = []
 text_bits = []
 perm_pos = []
 
+final_sents = []
+
 index_num = 0
 
-nlp = stanza.Pipeline('fr') 
+nlp = stanza.Pipeline('fr') # initialize English neural pipeline
 
 for f in files:
     # Open our file
     with open(f) as file:
         text_data = file.read()
+
+    #testing_list = text_data.splitlines()
         testing_list = LineTokenizer(blanklines='discard').tokenize(text_data)
 
     final_pos = []
 
     sent_word = []
+    #num_list = []
+
 
 
     for x in testing_list:
@@ -42,16 +48,23 @@ for f in files:
             pos_list = []
             for word in sent.words:
                 print(word.text, word.upos)
-                word_list.append(word.text)
-                pos_list.append(word.upos)
+                if word.text != '.' and word.text != ',':
+                    word_list.append(word.text)
+                if word.upos != 'PUNCT':
+                    pos_list.append(word.upos)
 
 
 
 
-        pos_nums = Counter(pos_list).values() 
+        pos_nums = Counter(pos_list).values() # counts the elements' frequency
+
         total_num = str(len(pos_nums))
         list_nums.append(total_num)
 
+
+        new_sent = " ".join(word_list)
+
+        final_sents.append(new_sent)
 
         sent_word.append(str(word_list))
         final_pos.append(pos_list)
@@ -78,7 +91,7 @@ for f in files:
             writer.writeheader()
             x = 0
             for d in testing_list:
-                writer.writerow({'text': sent_word[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
+                writer.writerow({'text': final_sents[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
 
     index_num += 1
