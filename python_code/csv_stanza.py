@@ -11,11 +11,9 @@ files = ['lines_la_tapisserie_de_sainte_genevieve.txt',
 'lines_eve.txt']
 
 
-list_keys = []
+
 list_nums = []
 list_nums_unique = []
-text_bits = []
-perm_pos = []
 
 final_sents = []
 
@@ -94,9 +92,8 @@ for f in files:
                 writer.writerow({'text': final_sents[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
 
+
     index_num += 1
-    list_keys.clear()
     list_nums.clear()
     list_nums_unique.clear()
-    text_bits.clear()
-    perm_pos.clear()
+    final_sents.clear()
