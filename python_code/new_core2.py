@@ -38,8 +38,12 @@ for f in files:
 
         for d in doc:
             print(d.text, d.pos_)
-            pos_elements.append(d)
-            actual_pos.append(d.pos_)
+            # pos_elements.append(d)
+            # actual_pos.append(d.pos_)
+            if d.text != '.' and d.text != ',' and d.text != '...' and d.text != '-' and d.text != '--':
+                pos_elements.append(d.text)
+            if d.pos_ != 'PUNCT':
+                actual_pos.append(d.pos_)
 
         print('gack ' + str(pos_elements))
         pos_keys = Counter(actual_pos).keys()
