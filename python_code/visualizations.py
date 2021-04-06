@@ -103,11 +103,12 @@ default_stopwords = set(nltk.corpus.stopwords.words('french'))
 # rix: 7+ / num of sentences
 
 avg_line_length_list = []
+long_words_document = []
+words_lines_document = []
 
 for f in input_files_full:
 
-    long_words_document = []
-    words_lines_document = []
+
 
 
     fp = codecs.open(f, 'r', 'utf-8')
@@ -130,12 +131,14 @@ for f in input_files_full:
     compiled_pattern = re.compile(r"([a-zA-ZÀ-Ÿ]+['’])([a-zA-ZÀ-Ÿ]*)")
 
 
-    for line in lines_split:
+    for line in content_list:
         words = word_tokenize(line)
         num_words = len(words)
         #avg_line_length_list.append(num_words)
 
-        words_lines_document.append(num_words)
+        for x in words:
+            if x != 0:
+                words_lines_document.append(num_words)
 
         num_long_words = 0
         for x in words:
@@ -148,7 +151,15 @@ for f in input_files_full:
     tuple_doc = list(zip(long_words_document, words_lines_document))
     print(tuple_doc)
 
-    res = [i / j for i, j in tuple_doc]
+    res = []
+    try:
+        for i, j in tuple_doc:
+            res.append(i / j)
+    except ZeroDivisionError:
+        res.append(0)
+        res.next()
+        continue
+
     print(res)
 
     percentages = []
@@ -164,10 +175,12 @@ for f in input_files_full:
 
 
     liv = (total_percentage / len(percentages))
-    print(liv)
+    print('liv score: ' + str(liv))
 
-    rix = (long_words_document[0] / words_lines_document[0])
-    print(rix)
+    rix = (len(long_words_document) / len(words_lines_document))
+    rix *= 100
+    print('rix score: ' + str(rix))
+
 
 
     # with open(('sentences_' + input_files[index_num]), 'w') as f:
@@ -314,9 +327,7 @@ plt.show()  # display
 '''
 # LONGWORDS VS NON-LONG
 print(len(avg_line_length_list))
-print(len(total_words_graph))
-
-import pylab
+#import pylab
 
 # y = range(len(avg_line_length_list))
 # # define data values
@@ -324,9 +335,11 @@ import pylab
 #   # Plot the chart
 # plt.show()  # display
 
-y2 = range(len(total_words_graph))
+#long_words_document vs words_lines_document
+y2 = range(len(words_lines_document))
+
 # define data values
-plt.plot(total_words_graph)
+plt.plot(words_lines_document)
   # Plot the chart
 plt.show()  # display
 
