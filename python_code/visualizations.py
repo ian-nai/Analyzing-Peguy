@@ -1,17 +1,19 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import csv
+from nltk.tokenize import RegexpTokenizer
 
 column_names = ["text", "pos", "total", "pos_unique"]
 
-input_files_full = ['la_tapisserie_de_sainte_genevieve.txt']
+input_files_full = ['test1.txt']#['la_tapisserie_de_sainte_genevieve.txt']
 # 'la_tapisserie_notre_dame.txt',
 # 'le_mystere_de_la_charite_de_jeanne_darc.txt',
 # 'le_mystere_des_saints_innocents.txt',
 # 'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
 # 'eve.txt']
 
-input_files = ["stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
+input_files = ['vis test.csv']#"stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
 # 'stanza_lines_la_tapisserie_notre_dame.txt.csv',
 # 'stanza_lines_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
 # 'stanza_lines_le_mystere_des_saints_innocents.txt.csv',
@@ -19,7 +21,7 @@ input_files = ["stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
 # 'stanza_lines_eve.txt.csv']
 
 
-df = pd.read_csv("stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv", names=column_names)
+df = pd.read_csv("vis test.csv", names=column_names)
 
 print(df.text)
 
@@ -117,8 +119,8 @@ for f in input_files_full:
     t = fp.read()
 
     content_list = t.splitlines()
-    for f in content_list:
-        avg_line_length_list.append(len(f))
+    # for f in content_list:
+    #     avg_line_length_list.append(len(f))
 
     new_lines = []
 
@@ -131,9 +133,17 @@ for f in input_files_full:
     compiled_pattern = re.compile(r"([a-zA-ZÀ-Ÿ]+['’])([a-zA-ZÀ-Ÿ]*)")
 
 
+
+    pattern = r"[dnl]['´`]|\w+|\$[\d\.]+|\S+"
+    word_tokenizer = RegexpTokenizer(pattern)
+
+
+
+
     for line in content_list:
-        words = word_tokenize(line)
+        words = word_tokenizer.tokenize(line)
         num_words = len(words)
+        avg_line_length_list.append(num_words)
         #avg_line_length_list.append(num_words)
 
         for x in words:
@@ -194,7 +204,7 @@ for ele in range(0, len(avg_line_length_list)):
 
 avg_line_length = (line_length_sum / len(avg_line_length_list))
 
-
+unique_words = set(words_list)
 '''
 # WORD CLOUD
 
@@ -339,14 +349,15 @@ print(len(avg_line_length_list))
 y2 = range(len(words_lines_document))
 
 # define data values
-plt.plot(words_lines_document)
+plt.plot(long_words_document)
+#plt.plot(words_lines_document)
   # Plot the chart
 plt.show()  # display
 
 
 # stuff to graph: num unique words vs num total words - done, length of lines/sentences individually and across poems (total doc--
 #not just stopwords)--use line graph since many lines to graph at once - individual done;
-# num of longwords vs num non-long words; liv and rix readability scores across poems--do this in csvs
+# num of longwords vs num non-long words - done; liv and rix readability scores across poems--do this in csvs
 
 # values, counts = np.unique(words_list, return_counts=True)
 #
@@ -357,12 +368,10 @@ plt.show()  # display
 # liv: percentage of 7+ letter words + avg num of words per sentence
 # rix: 7+ / num of sentences
 
-'''
-with open(('stanza_' + files[0] + '.csv'), 'w') as csvfile:
+
+with open(('vis_test_' + input_files_full[0] + '.csv'), 'w') as csvfile:
         fieldnames = ['total words', 'total unique words', 'total pos', 'total unique pos', 'liv score', 'rix score', 'avg length of lines', 'num of long words']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
-            for d in testing_list:
-                writer.writerow({'total words': words_lines_document, 'total unique words': unique_words, 'total pos': total_pos_sum, 'total unique pos': total_unique_pos_sum, 'liv score': liv, 'rix score': rix, 'avg length of lines': avg_line_length, 'num of long words': long_words_document)
-'''
+        writer.writerow({'total words': len(words_lines_document), 'total unique words': len(unique_words), 'total pos': total_pos_sum, 'total unique pos': total_unique_pos_sum, 'liv score': str(liv), 'rix score': str(rix), 'avg length of lines': avg_line_length, 'num of long words': len(long_words_document)})
