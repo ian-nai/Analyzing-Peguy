@@ -1,27 +1,30 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt, mpld3
 import numpy as np
 import csv
 from nltk.tokenize import RegexpTokenizer
 
 column_names = ["text", "pos", "total", "pos_unique"]
 
-input_files_full = ['test1.txt']#['la_tapisserie_de_sainte_genevieve.txt']
-# 'la_tapisserie_notre_dame.txt',
+input_files_full = ['la_tapisserie_de_sainte_genevieve.txt']
+
+
+#['la_tapisserie_de_sainte_genevieve.txt']
+#['la_tapisserie_notre_dame.txt']
 # 'le_mystere_de_la_charite_de_jeanne_darc.txt',
 # 'le_mystere_des_saints_innocents.txt',
 # 'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
 # 'eve.txt']
 
-input_files = ['vis test.csv']#"stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
+#input_files = ['vis test.csv']#"stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
 # 'stanza_lines_la_tapisserie_notre_dame.txt.csv',
 # 'stanza_lines_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
 # 'stanza_lines_le_mystere_des_saints_innocents.txt.csv',
 # 'stanza_lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv',
 # 'stanza_lines_eve.txt.csv']
 
-
-df = pd.read_csv("vis test.csv", names=column_names)
+# redo this with stanza csv...
+df = pd.read_csv("stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv", names=column_names)
 
 print(df.text)
 
@@ -335,24 +338,49 @@ plt.plot(total_words_graph)
 plt.show()  # display
 
 '''
-# LONGWORDS VS NON-LONG
+'''
+# AVG LINE LENGTH
 print(len(avg_line_length_list))
 #import pylab
 
-# y = range(len(avg_line_length_list))
-# # define data values
-# plt.scatter(avg_line_length_list, y)
-#   # Plot the chart
-# plt.show()  # display
-
-#long_words_document vs words_lines_document
-y2 = range(len(words_lines_document))
-
+y = range(len(avg_line_length_list))
 # define data values
-plt.plot(long_words_document)
-#plt.plot(words_lines_document)
+plt.scatter(avg_line_length_list, y)
   # Plot the chart
 plt.show()  # display
+'''
+# LONG WORDS THROUGHOUT DOCUMENT
+#long_words_document vs words_lines_document
+
+# define data values
+y2 = range(len(words_lines_document))
+plt.scatter(y2, words_lines_document)
+
+  # Plot the chart
+plt.show()  # display
+
+
+#define data values
+#plt.plot(long_words_document)
+
+# Histogram with modified axes/grid
+'''
+# bar graph with length of lines total
+fig = plt.figure()
+
+ax = fig.add_subplot(111)
+ax.grid(color='white', linestyle='solid')
+
+
+ax.hist(long_words_document, 30, histtype='stepfilled', fc='blue', alpha=0.5);
+plt.show()
+#plt.plot(words_lines_document)
+  # Plot the chart
+#plt.show()
+
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
+'''
 
 
 # stuff to graph: num unique words vs num total words - done, length of lines/sentences individually and across poems (total doc--
