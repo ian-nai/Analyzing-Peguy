@@ -272,6 +272,7 @@ print(avg_words)
 print(avg_pos_unique)
 
 
+
 labels = ['poem1']
 # poem_avg = [20, 34, 30, 35, 27]
 # poem_unique_avg = [25, 32, 34, 20, 25]
@@ -279,6 +280,7 @@ labels = ['poem1']
 x = np.arange(len(labels))  # the label locations
 width = 0.35  # the width of the bars
 
+# ax.hist(long_words_document, 30, histtype='stepfilled', fc='blue', alpha=0.5);
 fig, ax = plt.subplots()
 rects1 = ax.bar(x - width/2, avg_words, width, label='Avg Words')
 rects2 = ax.bar(x + width/2, avg_pos_unique, width, label='Unique POS')
@@ -296,28 +298,59 @@ ax.bar_label(rects2, padding=3)
 fig.tight_layout()
 
 plt.show()
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
 '''
 '''
-
 # num of unique words in a poem vs num of total words
 
 from collections import Counter
 
 
 unique_words = set(words_list)
-print(len(unique_words))
+#print(len(unique_words))
 
-words_lines_document
+
+labels = ['poem1']
+# poem_avg = [20, 34, 30, 35, 27]
+# poem_unique_avg = [25, 32, 34, 20, 25]
+
+x = np.arange(len(labels))  # the label locations
+width = 0.35  # the width of the bars
+
+# ax.hist(long_words_document, 30, histtype='stepfilled', fc='blue', alpha=0.5);
+fig, ax = plt.subplots()
+rects1 = ax.bar(x - width/2, len(words_list), width, label='Total Words')
+rects2 = ax.bar(x + width/2, len(unique_words), width, label='Unique Words')
+
+# Add some text for labels, title and custom x-axis tick labels, etc.
+ax.set_ylabel('Num Words')
+ax.set_title('Total Words and Unique Words')
+ax.set_xticks(x)
+ax.set_xticklabels(labels)
+ax.legend()
+
+ax.bar_label(rects1, padding=3)
+ax.bar_label(rects2, padding=3)
+
+fig.tight_layout()
+
+print('this ran')
+
+plt.show()
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
+#words_lines_document
 
 # length of lines/sentences individually and across poems (total doc--
 # not just stopwords)--use line graph since many lines to graph at once
 
-words_lines_document across multiple csvs....
+
 
 # num of longwords vs num total words;
-long_words_document vs words_lines_document
+#long_words_document vs words_lines_document
 '''
-'''
+
 # LENGTH OF LINES ACROSS DOCUMENT - FULL VS STOPWORDS
 
 print(len(avg_line_length_list))
@@ -331,56 +364,135 @@ import pylab
 #   # Plot the chart
 # plt.show()  # display
 
-y2 = range(len(total_words_graph))
-# define data values
-plt.plot(total_words_graph)
-  # Plot the chart
-plt.show()  # display
+'''
+## EDIT THIS FOR LINES
+fig, ax = plt.subplots()
+ax.plot(total_words_graph)
 
-'''
-'''
-# AVG LINE LENGTH
-print(len(avg_line_length_list))
-#import pylab
+ax.set(xlabel='time (s)', ylabel='voltage (mV)',
+       title='About as simple as it gets, folks')
+ax.grid()
 
-y = range(len(avg_line_length_list))
+#fig.savefig("test.png")
+plt.show()
+
+#y2 = range(len(total_words_graph))
 # define data values
-plt.scatter(avg_line_length_list, y)
+#plt.plot(total_words_graph)
+
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
+
   # Plot the chart
-plt.show()  # display
 '''
-# LONG WORDS THROUGHOUT DOCUMENT
+'''
+# AVG LINE LENGTH - same as above
+
+
+fig, ax = plt.subplots()
+ax.plot(avg_line_length_list)
+
+ax.set(xlabel='time (s)', ylabel='voltage (mV)',
+       title='About as simple as it gets, folks')
+ax.grid()
+
+#fig.savefig("test.png")
+plt.show()
+
+#y2 = range(len(total_words_graph))
+# define data values
+#plt.plot(total_words_graph)
+
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
+'''
+'''
+# LONG WORDS THROUGHOUT DOCUMENT - pretty much the same, except a scatter
 #long_words_document vs words_lines_document
 
 # define data values
-y2 = range(len(words_lines_document))
-plt.scatter(y2, words_lines_document)
+#y2 = range(len(words_lines_document))
+#plt.scatter(y2, words_lines_document)
+
+fig, ax = plt.subplots()
+ax.plot(words_lines_document)
+
+ax.set(xlabel='time (s)', ylabel='voltage (mV)',
+       title='About as simple as it gets, folks')
+ax.grid()
+
+#fig.savefig("test.png")
+plt.show()
+
+#y2 = range(len(total_words_graph))
+# define data values
+#plt.plot(total_words_graph)
+
+mpld3.save_html(fig,"test.html")
+mpld3.fig_to_html(fig,template_type="simple")
 
   # Plot the chart
 plt.show()  # display
-
+'''
 
 #define data values
 #plt.plot(long_words_document)
 
 # Histogram with modified axes/grid
-'''
+
+
 # bar graph with length of lines total
-fig = plt.figure()
 
-ax = fig.add_subplot(111)
-ax.grid(color='white', linestyle='solid')
+all_files = ['vis_test_la_tapisserie_de_sainte_genevieve.txt.csv',
+'vis_test_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv',
+'vis_test_le_mystere_des_saints_innocents.txt.csv',
+'vis_test_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
+'vis_test_la_tapisserie_notre_dame.txt.csv',
+'vis_test_eve.txt.csv']
+
+li = []
+
+for filename in all_files:
+    df = pd.read_csv(filename, index_col=None, header=0)
+    li.append(df)
+
+frame = pd.concat(li, axis=0, ignore_index=True)
+
+print(frame)
+
+avg_length_graph = []
+
+for f in frame['avg length of lines']:
+    avg_length_graph.append(f)
 
 
-ax.hist(long_words_document, 30, histtype='stepfilled', fc='blue', alpha=0.5);
+print(avg_length_graph)
+
+
+
+data = {'C':avg_length_graph[0], 'C++':avg_length_graph[1], 'Java':avg_length_graph[2],
+        'Python':avg_length_graph[3], 'test': avg_length_graph[4], 'test2': avg_length_graph[5]}
+
+poems = list(data.keys())
+values = list(data.values())
+
+fig, ax = plt.subplots()
+# creating the bar plot
+ax.bar(poems, values, color ='blue',
+        width = 0.4)
+
+plt.xlabel("poems")
+plt.ylabel("avg line length")
+plt.title("avg line lengths across texts")
 plt.show()
+
 #plt.plot(words_lines_document)
   # Plot the chart
 #plt.show()
 
 mpld3.save_html(fig,"test.html")
 mpld3.fig_to_html(fig,template_type="simple")
-'''
+
 
 
 # stuff to graph: num unique words vs num total words - done, length of lines/sentences individually and across poems (total doc--
@@ -396,10 +508,11 @@ mpld3.fig_to_html(fig,template_type="simple")
 # liv: percentage of 7+ letter words + avg num of words per sentence
 # rix: 7+ / num of sentences
 
-
+'''
 with open(('vis_test_' + input_files_full[0] + '.csv'), 'w') as csvfile:
         fieldnames = ['total words', 'total unique words', 'total pos', 'total unique pos', 'liv score', 'rix score', 'avg length of lines', 'num of long words']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         writer.writerow({'total words': len(words_lines_document), 'total unique words': len(unique_words), 'total pos': total_pos_sum, 'total unique pos': total_unique_pos_sum, 'liv score': str(liv), 'rix score': str(rix), 'avg length of lines': avg_line_length, 'num of long words': len(long_words_document)})
+'''
