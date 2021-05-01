@@ -6,17 +6,27 @@ from nltk.tokenize import RegexpTokenizer
 
 column_names = ["text", "pos", "total", "pos_unique"]
 
-input_files_full = ['la_tapisserie_de_sainte_genevieve.txt']
+input_files_full = ['le_porche_du_mystere_de_la_deuxieme_vertu.txt']
 
+# chronological order...
 
+# 'le_porche_du_mystere_de_la_deuxieme_vertu.txt'
 #['la_tapisserie_de_sainte_genevieve.txt']
 #['la_tapisserie_notre_dame.txt']
+# 'eve.txt']
 # 'le_mystere_de_la_charite_de_jeanne_darc.txt',
 # 'le_mystere_des_saints_innocents.txt',
-# 'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
-# 'eve.txt']
 
-#input_files = ['vis test.csv']#"stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
+#input_files =
+# stanza_lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv 1912
+# stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv 1913
+# stanza_lines_la_tapisserie_notre_dame.txt.csv 1913
+# stanza_lines_eve.txt.csv 1913
+# 'stanza_lines_le_mystere_de_la_charite_de_jeanne_darc.txt.csv' 1910
+# 'stanza_lines_le_mystere_des_saints_innocents.txt.csv' 1912
+
+
+# ['vis test.csv']#"stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv"]
 # 'stanza_lines_la_tapisserie_notre_dame.txt.csv',
 # 'stanza_lines_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
 # 'stanza_lines_le_mystere_des_saints_innocents.txt.csv',
@@ -24,7 +34,7 @@ input_files_full = ['la_tapisserie_de_sainte_genevieve.txt']
 # 'stanza_lines_eve.txt.csv']
 
 # redo this with stanza csv...
-df = pd.read_csv("stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv", names=column_names)
+df = pd.read_csv("stanza_lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv", names=column_names)
 
 print(df.text)
 
@@ -62,13 +72,23 @@ total_unique_pos_sum = 0
 for ele in range(0, len(unique_pos_list)):
     total_unique_pos_sum = total_unique_pos_sum + int(unique_pos_list[ele])
 
-
+line_lengths_list = []
+num_long_words_per_line = []
 
 for f in lines_list:
     words = f.split()
     for l in words:
         if l != "c'" and l != "est" and l != "qu'" and l != "n'" and l != "l'":
             words_list.append(l)
+    line_lengths_list.append(len(words))
+
+    num_long_words_counter = 0
+    for x in words:
+        if len(x) >= 7:
+            num_long_words_counter += 1
+    num_long_words_per_line.append(num_long_words_counter)
+
+
 
 # total_words_graph = 0
 # for ele in range(0, len(words_list)):
@@ -208,7 +228,7 @@ for ele in range(0, len(avg_line_length_list)):
 avg_line_length = (line_length_sum / len(avg_line_length_list))
 
 unique_words = set(words_list)
-'''
+
 # WORD CLOUD
 
 
@@ -220,11 +240,11 @@ wordcloud = WordCloud(width = 1000, height = 500).generate(unique_string)
 plt.figure(figsize=(15,8))
 plt.imshow(wordcloud)
 plt.axis("off")
-plt.savefig("testing_images"+".png", bbox_inches='tight')
+plt.savefig("deuxieme_vertu_wordcloud.png", bbox_inches='tight')
 plt.show()
 plt.close()
 
-'''
+
 '''
 # most common words
 
@@ -235,11 +255,11 @@ Counter = Counter(words_list)
 
 # most_common() produces k frequently encountered
 # input values and their respective counts.
-most_occur = Counter.most_common(4)
+most_occur = Counter.most_common(20)
 
 print(most_occur)
 '''
-'''
+
 # graph pos unique vs total
 
 total_nums_list = []
@@ -273,7 +293,7 @@ print(avg_pos_unique)
 
 
 
-labels = ['poem1']
+labels = ['Le Porche du Mystère de la Deuxième Vertu (1912)']
 # poem_avg = [20, 34, 30, 35, 27]
 # poem_unique_avg = [25, 32, 34, 20, 25]
 
@@ -298,10 +318,10 @@ ax.bar_label(rects2, padding=3)
 fig.tight_layout()
 
 plt.show()
-mpld3.save_html(fig,"test.html")
+mpld3.save_html(fig,"deuxieme_vertu_pos_unique.html")
 mpld3.fig_to_html(fig,template_type="simple")
-'''
-'''
+
+
 # num of unique words in a poem vs num of total words
 
 from collections import Counter
@@ -311,7 +331,7 @@ unique_words = set(words_list)
 #print(len(unique_words))
 
 
-labels = ['poem1']
+labels = ['Le Porche du Mystère de la Deuxième Vertu (1912)']
 # poem_avg = [20, 34, 30, 35, 27]
 # poem_unique_avg = [25, 32, 34, 20, 25]
 
@@ -335,10 +355,8 @@ ax.bar_label(rects2, padding=3)
 
 fig.tight_layout()
 
-print('this ran')
-
 plt.show()
-mpld3.save_html(fig,"test.html")
+mpld3.save_html(fig,"deuxieme_vertu_words_unique.html")
 mpld3.fig_to_html(fig,template_type="simple")
 #words_lines_document
 
@@ -365,12 +383,13 @@ import pylab
 # plt.show()  # display
 
 '''
+
 ## EDIT THIS FOR LINES
 fig, ax = plt.subplots()
 ax.plot(total_words_graph)
 
-ax.set(xlabel='time (s)', ylabel='voltage (mV)',
-       title='About as simple as it gets, folks')
+ax.set(xlabel='Words', ylabel='Length of Words',
+       title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
 #fig.savefig("test.png")
@@ -380,20 +399,18 @@ plt.show()
 # define data values
 #plt.plot(total_words_graph)
 
-mpld3.save_html(fig,"test.html")
+mpld3.save_html(fig,"deuxieme_vertu_words_total_words.html")
 mpld3.fig_to_html(fig,template_type="simple")
 
   # Plot the chart
-'''
-'''
+
 # AVG LINE LENGTH - same as above
 
-
 fig, ax = plt.subplots()
-ax.plot(avg_line_length_list)
+ax.plot(line_lengths_list)
 
-ax.set(xlabel='time (s)', ylabel='voltage (mV)',
-       title='About as simple as it gets, folks')
+ax.set(xlabel='Line Number', ylabel='Line Length',
+       title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
 #fig.savefig("test.png")
@@ -403,10 +420,9 @@ plt.show()
 # define data values
 #plt.plot(total_words_graph)
 
-mpld3.save_html(fig,"test.html")
+mpld3.save_html(fig,"deuxieme_vertu_words_avg_words.html")
 mpld3.fig_to_html(fig,template_type="simple")
-'''
-'''
+
 # LONG WORDS THROUGHOUT DOCUMENT - pretty much the same, except a scatter
 #long_words_document vs words_lines_document
 
@@ -415,10 +431,10 @@ mpld3.fig_to_html(fig,template_type="simple")
 #plt.scatter(y2, words_lines_document)
 
 fig, ax = plt.subplots()
-ax.plot(words_lines_document)
+ax.plot(num_long_words_per_line)
 
-ax.set(xlabel='time (s)', ylabel='voltage (mV)',
-       title='About as simple as it gets, folks')
+ax.set(xlabel='Line Number', ylabel='Number of Long Words',
+       title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
 #fig.savefig("test.png")
@@ -428,7 +444,7 @@ plt.show()
 # define data values
 #plt.plot(total_words_graph)
 
-mpld3.save_html(fig,"test.html")
+mpld3.save_html(fig,"deuxieme_vertu_words_long_words.html")
 mpld3.fig_to_html(fig,template_type="simple")
 
   # Plot the chart
@@ -440,15 +456,17 @@ plt.show()  # display
 
 # Histogram with modified axes/grid
 
-
+'''
+'''
 # bar graph with length of lines total
 
-all_files = ['vis_test_la_tapisserie_de_sainte_genevieve.txt.csv',
-'vis_test_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv',
-'vis_test_le_mystere_des_saints_innocents.txt.csv',
-'vis_test_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
-'vis_test_la_tapisserie_notre_dame.txt.csv',
-'vis_test_eve.txt.csv']
+all_files = ['stanza_lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt.csv',
+'stanza_lines_la_tapisserie_de_sainte_genevieve.txt.csv',
+'stanza_lines_la_tapisserie_notre_dame.txt.csv',
+'stanza_lines_eve.txt.csv',
+'stanza_lines_le_mystere_de_la_charite_de_jeanne_darc.txt.csv',
+'stanza_lines_le_mystere_des_saints_innocents.txt.csv']
+
 
 li = []
 
@@ -484,6 +502,9 @@ ax.bar(poems, values, color ='blue',
 plt.xlabel("poems")
 plt.ylabel("avg line length")
 plt.title("avg line lengths across texts")
+
+import numpy as np
+
 plt.show()
 
 #plt.plot(words_lines_document)
@@ -492,7 +513,7 @@ plt.show()
 
 mpld3.save_html(fig,"test.html")
 mpld3.fig_to_html(fig,template_type="simple")
-
+'''
 
 
 # stuff to graph: num unique words vs num total words - done, length of lines/sentences individually and across poems (total doc--
