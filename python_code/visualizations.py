@@ -317,9 +317,11 @@ ax.bar_label(rects2, padding=3)
 
 fig.tight_layout()
 
+plt.savefig("deuxieme_vertu_pos_unique.png")
 plt.show()
 mpld3.save_html(fig,"deuxieme_vertu_pos_unique.html")
 mpld3.fig_to_html(fig,template_type="simple")
+
 
 
 # num of unique words in a poem vs num of total words
@@ -355,6 +357,7 @@ ax.bar_label(rects2, padding=3)
 
 fig.tight_layout()
 
+plt.savefig("deuxieme_vertu_words_unique.png")
 plt.show()
 mpld3.save_html(fig,"deuxieme_vertu_words_unique.html")
 mpld3.fig_to_html(fig,template_type="simple")
@@ -392,7 +395,7 @@ ax.set(xlabel='Words', ylabel='Length of Words',
        title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
-#fig.savefig("test.png")
+plt.savefig("deuxieme_vertu_words_total_words.png")
 plt.show()
 
 #y2 = range(len(total_words_graph))
@@ -413,7 +416,7 @@ ax.set(xlabel='Line Number', ylabel='Line Length',
        title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
-#fig.savefig("test.png")
+plt.savefig("deuxieme_vertu_words_avg_words.png")
 plt.show()
 
 #y2 = range(len(total_words_graph))
@@ -437,7 +440,7 @@ ax.set(xlabel='Line Number', ylabel='Number of Long Words',
        title='Le Porche du Mystère de la Deuxième Vertu (1912)')
 ax.grid()
 
-#fig.savefig("test.png")
+plt.savefig("deuxieme_vertu_words_long_words.png")
 plt.show()
 
 #y2 = range(len(total_words_graph))
@@ -447,8 +450,7 @@ plt.show()
 mpld3.save_html(fig,"deuxieme_vertu_words_long_words.html")
 mpld3.fig_to_html(fig,template_type="simple")
 
-  # Plot the chart
-plt.show()  # display
+
 '''
 
 #define data values
