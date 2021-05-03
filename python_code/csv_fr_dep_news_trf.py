@@ -28,9 +28,9 @@ for f in files:
     with open(f) as file:
         text_data = file.read()
 
-    testing_list = text_data.splitlines()
+    line_list = text_data.splitlines()
 
-    for x in testing_list:
+    for x in line_list:
         doc = nlp(x)
         pos_elements = []
         actual_pos = []
