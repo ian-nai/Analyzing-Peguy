@@ -496,13 +496,14 @@ for f in frame['avg length of lines']:
 
 print(avg_length_graph)
 
-
+from textwrap import wrap
 
 data = {' Le Porche du Mystère de la Deuxième Vertu (1912)':avg_length_graph[0], 'La Tapisserie de Sainte Geneviève et de Jeanne d\'Arc (1913)':avg_length_graph[1], 'La Tapisserie de Notre-Dame (1913)':avg_length_graph[2],
         'Ève (1913)':avg_length_graph[3], 'Le Mystère de la Charité de Jeanne d\'Arc (1910)': avg_length_graph[4], 'Le Mystère des Saints Innocents (1912)': avg_length_graph[5]}
 
 poems = list(data.keys())
 values = list(data.values())
+poems = [ '\n'.join(wrap(l, 20)) for l in poems ]
 
 fig, ax = plt.subplots()
 # creating the bar plot
@@ -512,6 +513,8 @@ ax.bar(poems, values, color ='blue',
 plt.xlabel("Texts")
 plt.ylabel("Avg Line Length")
 plt.title("Avg Line Lengths Across Texts")
+
+
 
 plt.savefig("all_poems_length_graph.png")
 plt.show()
