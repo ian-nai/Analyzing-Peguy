@@ -28,3 +28,8 @@ And two plays:
 
 #### Pickle Files
 These are pickled NLP models (using the fr_dep_news_trf spaCy model) of the original texts, broken up into smaller chunks to avoid file size limitations.
+
+#### Python Code
+#### Tokenized Lines and Sentences
+#### Visualizations
+
