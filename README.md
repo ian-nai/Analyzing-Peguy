@@ -30,6 +30,21 @@ And two plays:
 These are pickled NLP models (using the fr_dep_news_trf spaCy model) of the original texts, broken up into smaller chunks to avoid file size limitations.
 
 #### Python Code
+The Python files contained here perform the NLP used to generate the .cvs and visualizations. The files are as follows:
+* csv_fr_core_news_lg.py - Run the spaCy csv_fr_core_news_lg model on the text(s) included in the code and output the results to a .csv file.
+* csv_fr_dep_news_trf.py - Run the spaCy csv_fr_dep_news_trf model on the text(s) included in the code and output the results to a .csv file.
+* csv_stanza.py - Run Stanford's Stanza library on the text(s) included in the code and output the results to a .csv file.
+* line_tokenize_remove_stopwords.py - Tokenize the texts by lines and remove stopwords.
+* liv_rix_readability_test.py - Perform the Liv and Rix readability tests on the text(s) included in the code and output the results in the terminal.
+* make_pickles.py - Create the pickle files for uploading to GitHub.
+
+sentence_tokenize_remove_stopwords.py
+
+syllable_counting.py
+
+visualizations.py
+
+
 #### Tokenized Lines and Sentences
 #### Visualizations
 
