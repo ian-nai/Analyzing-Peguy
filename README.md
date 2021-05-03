@@ -10,4 +10,6 @@ pip3 install -r requirements.txt
 ## Scope
 This repository is a starting point for using NLP to analyze and visualize various aspects of the poetry and plays of Charles Péguy. Code may be updated and added as necessary while the project progresses.
 
-## 
+## What This Repository Contains
+#### CSVs
+A collection of .csv files containing data about the 
