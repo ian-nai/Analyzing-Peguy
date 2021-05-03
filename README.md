@@ -25,3 +25,6 @@ Four poems:
 And two plays:
 * (1910). Le Mystère de la Charité de Jeanne d'Arc.
 * (1912). Le Mystère des Saints Innocents.
+
+#### Pickle Files
+These are pickled NLP models (using the fr_dep_news_trf spaCy model) of the original texts, broken up into smaller chunks to avoid file size limitations.
