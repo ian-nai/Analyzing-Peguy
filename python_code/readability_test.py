@@ -10,15 +10,13 @@ index_num = 0
 # NLTK's default French stopwords
 default_stopwords = set(nltk.corpus.stopwords.words('french'))
 
-input_files = ['la_tapisserie_de_sainte_genevieve.txt']
-# 'la_tapisserie_notre_dame.txt',
-# 'le_mystere_de_la_charite_de_jeanne_darc.txt',
-# 'le_mystere_des_saints_innocents.txt',
-# 'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
-# 'eve.txt']
+input_files = ['la_tapisserie_de_sainte_genevieve.txt',
+'la_tapisserie_notre_dame.txt',
+'le_mystere_de_la_charite_de_jeanne_darc.txt',
+'le_mystere_des_saints_innocents.txt',
+'le_porche_du_mystere_de_la_deuxieme_vertu.txt',
+'eve.txt']
 
-#liv: percentage of 7+ letter words + avg num of words per sentence
-# rix: 7+ / num of sentences
 
 for f in input_files:
 
@@ -52,7 +50,7 @@ for f in input_files:
         for x in words:
             if len(x) >= 7:
                 num_long_words +=1
-        #print(num_long_words)
+        
 
         long_words_document.append(num_long_words)
 
@@ -79,9 +77,3 @@ for f in input_files:
 
     rix = (long_words_document[0] / words_lines_document[0])
     print(rix)
-
-
-    # with open(('sentences_' + input_files[index_num]), 'w') as f:
-    #             f.write('\n\n'.join(new_lines))
-    #
-    # index_num += 1
