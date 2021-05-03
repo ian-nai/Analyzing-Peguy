@@ -7,14 +7,12 @@ import csv
 
 index_num = 0
 
-# files = ['lines_la_tapisserie_de_sainte_genevieve.txt',
-# 'lines_la_tapisserie_notre_dame.txt',
-# 'lines_le_mystere_de_la_charite_de_jeanne_darc.txt',
-# 'lines_le_mystere_des_saints_innocents.txt',
-# 'lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt',
-# 'lines_eve.txt']
-
-files = ['test1.txt', 'test2.txt']
+files = ['lines_la_tapisserie_de_sainte_genevieve.txt',
+'lines_la_tapisserie_notre_dame.txt',
+'lines_le_mystere_de_la_charite_de_jeanne_darc.txt',
+'lines_le_mystere_des_saints_innocents.txt',
+'lines_le_porche_du_mystere_de_la_deuxieme_vertu.txt',
+'lines_eve.txt']
 
 nlp = spacy.load("fr_dep_news_trf")
 
