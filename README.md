@@ -1,7 +1,7 @@
 # Analyzing-Peguy
 NLP on works by Peguy. This repository is an outgrowth of the [Non-English NLP Tutorial](https://github.com/ian-nai/Non-English-NLP-Tutorial).
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Charles_P%C3%A9guy_by_Eug%C3%A8ne_Pirou.jpg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Charles_P%C3%A9guy_by_Eug%C3%A8ne_Pirou.jpg" height="853" width="544"/>
 </p>
 ## Getting Started
 Install required dependencies:
