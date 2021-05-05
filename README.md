@@ -18,6 +18,7 @@ A collection of .csv files containing data gleaned from analyzing the texts usin
 
 #### Original Texts
 The original texts of six works by Péguy:
+
 Four poems:
 * (1912). Le Porche du Mystère de la Deuxième Vertu.
 * (1913). La Tapisserie de Sainte Geneviève et de Jeanne d'Arc.
