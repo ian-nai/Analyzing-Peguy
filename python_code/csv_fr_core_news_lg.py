@@ -81,7 +81,7 @@ for f in files:
 
         writer.writeheader()
         x = 0
-        for d in testing_list:
+        for d in split_list:
                 writer.writerow({'text': text_bits[x], 'pos': perm_pos[x], 'total': list_nums[x], 'pos_unique': list_nums_unique[x]})
                 x += 1
         index_num += 1
