@@ -61,7 +61,6 @@ for f in input_files:
             print(line)
 
     with open(('lines_' + input_files[index_num]), 'w') as f:
-                #f.write('\n'.join(final_lines))
             for item in new_lines:
                     f.write("\n" + (str(item)))
 
