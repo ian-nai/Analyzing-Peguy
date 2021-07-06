@@ -83,7 +83,7 @@ for f in files:
 
             writer.writeheader()
             x = 0
-            for d in lines_list:
+            for d in line_list:
                 writer.writerow({'text': final_sents[x], 'pos': final_pos[x], 'total': list_nums_unique[x], 'pos_unique': list_nums[x]})
                 x += 1
 
