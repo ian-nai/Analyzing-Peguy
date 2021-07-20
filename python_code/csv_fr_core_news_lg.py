@@ -43,7 +43,7 @@ for f in files:
             if d.pos_ != 'PUNCT':
                 actual_pos.append(d.pos_)
 
-        print('gack ' + str(pos_elements))
+        print(pos_elements)
         pos_keys = Counter(actual_pos).keys()
         pos_nums = Counter(pos_elements).values()
 
