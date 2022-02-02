@@ -29,15 +29,13 @@ for f in input_files:
     for line in lines_split:
         words = nltk.word_tokenize(line)
 
-        words = [word.lower() for word in words]
-
         # Remove single character words/punctuation
         words = [word for word in words if len(word) > 1]
 
         # Remove numbers
         words = [word for word in words if not word.isnumeric()]
 
-        # Lowercase all words (default_stopwords are lowercase too)
+        # Lowercase all words (default_stopwords are lowercase, too)
         words = [word.lower() for word in words]
 
         # Remove stopwords
