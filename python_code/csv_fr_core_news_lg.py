@@ -36,8 +36,6 @@ for f in files:
 
         for d in doc:
             print(d.text, d.pos_)
-            # pos_elements.append(d)
-            # actual_pos.append(d.pos_)
             if d.text != '.' and d.text != ',' and d.text != '...' and d.text != '-' and d.text != '--':
                 pos_elements.append(d.text)
             if d.pos_ != 'PUNCT':
@@ -52,13 +50,13 @@ for f in files:
 
         total_num = str(len(pos_nums))
 
-        test_list_test = []
+        list_of_pos_elements = []
 
         for x in pos_elements:
-            test_list_test.append(str(x))
+            list_of_pos_elements.append(str(x))
 
-        new_list = ' '.join(test_list_test)
-        text_bits.append(new_list)
+        joined_pos_elements = ' '.join(list_of_pos_elements)
+        text_bits.append(joined_pos_elements)
 
         q = str(len(pos_keys))
 
