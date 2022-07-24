@@ -72,8 +72,8 @@ for f in input_files:
         total_percentage = total_percentage + percentages[ele]
 
 
-    liv = (total_percentage / len(percentages))
-    print(liv)
+    lix = (total_percentage / len(percentages))
+    print(lix)
 
     rix = (long_words_document[0] / words_lines_document[0])
     print(rix)
