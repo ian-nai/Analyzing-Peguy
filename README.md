@@ -38,7 +38,7 @@ The Python files contained here perform the NLP used to generate the CSVs and vi
 * csv_fr_dep_news_trf.py - Run the spaCy csv_fr_dep_news_trf model on the text(s) included in the code and output the results to a CSV file.
 * csv_stanza.py - Run Stanford's Stanza library on the text(s) included in the code and output the results to a .csv file.
 * line_tokenize_remove_stopwords.py - Tokenize the texts by lines and remove stopwords.
-* liv_rix_readability_test.py - Perform the Liv and Rix readability tests on the text(s) included in the code and output the results in the terminal.
+* lix_rix_readability_test.py - Perform the Lix and Rix readability tests on the text(s) included in the code and output the results in the terminal.
 * make_pickles.py - Create the pickle files for uploading to GitHub.
 * sentence_tokenize_remove_stopwords.py - Tokenize texts by sentences and remove stopwords.
 * syllable_counting.py - An (imeprfect) algorithm to count syllables in French text.
